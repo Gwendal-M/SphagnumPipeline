@@ -73,13 +73,10 @@ Placer le fichier `occurrence.txt` dans le dossier `data/`.
 ## Installation
 
 ```bash
-git clone https://github.com/<ton-username>/SphagnumPipeline.git
+git clone https://github.com/Gwendal-M/SphagnumPipeline.git
 cd SphagnumPipeline
-
 python -m venv .venv
-source .venv/Scripts/activate   # Windows
-# source .venv/bin/activate     # macOS / Linux
-
+source .venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
