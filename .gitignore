@@ -1,4 +1,22 @@
+# Environnement virtuel
 .venv/
+
+# Données brutes (trop lourdes pour Git)
+data/occurrence.txt
+data/verbatim.txt
+data/multimedia.txt
+data/occurrence_clean.csv
+data/rights.txt
+data/citations.txt
+
+# Outputs générés (recréables avec le pipeline)
+outputs/
+
+# Python
 __pycache__/
 *.pyc
-data/raw/
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
