@@ -42,7 +42,7 @@ SphagnumPipeline/
 │   ├── occurrence.txt          # Export brut GBIF — Sphagnaceae (non versionné)
 │   └── occurrence_clean.csv    # Données nettoyées (généré par le pipeline)
 ├── exploration/
-│   ├── explore.py              # Script d'exploration — modules 2 & 3
+│   ├── explore.py              # Script d'exploration
 │   ├── journal_terminal.sh     # Trace des commandes Git Bash
 │   └── notes.txt               # Notes de travail
 ├── scripts/
