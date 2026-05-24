@@ -11,14 +11,15 @@ des résultats sous forme de cartes interactives et de tableaux statistiques.
 
 ## Contexte scientifique
 
-Les sphaignes sont des mousses formant les tourbières — des écosystèmes jouant un rôle
+Les sphaignes sont des mousses formant les tourbières, qui sont des écosystèmes jouant un rôle
 clé dans le stockage du carbone et la régulation hydrologique. Leur distribution
 géographique est un indicateur de la santé des milieux humides.
 
 Les données françaises sont volontairement peu représentées dans cet export (~21
 occurrences sur 100 000) : le genre *Sphagnum* est difficile à identifier sans
 formation botanique spécialisée, ce qui explique la sous-déclaration en France
-comparée aux pays nordiques (Suède : ~80 000 occurrences).
+comparée aux pays nordiques (Suède : ~80 000 occurrences). Cela est probablement due à
+la rareté de ces habitats en France.
 
 ---
 
@@ -55,7 +56,18 @@ SphagnumPipeline/
 ├── requirements.txt
 └── README.md
 ```
+## Données
 
+Les données ne sont pas versionnées (fichier > 1 Go).
+
+Télécharger l'export GBIF utilisé dans ce projet :
+👉 [Sphagnaceae — GBIF Occurrence Download](https://www.gbif.org/fr/occurrence/download?continent=EUROPE&taxon_key=4673&occurrence_status=present)
+
+Filtres appliqués :
+- Famille : *Sphagnaceae*
+- Format : Darwin Core Archive (DwC-A)
+
+Placer le fichier `occurrence.txt` dans le dossier `data/`.
 ---
 
 ## Installation
@@ -78,8 +90,8 @@ Placer le fichier `occurrence.txt` exporté depuis GBIF dans le dossier `data/`.
 ## Utilisation
 
 ```bash
-# Test rapide — 200 000 lignes
-python scripts/pipeline.py --sample 200000
+# Test rapide — 100 000 lignes
+python scripts/pipeline.py --sample 100000
 
 # Fichier complet (~1,1 Go)
 python scripts/pipeline.py
@@ -94,6 +106,30 @@ python scripts/pipeline.py
 | `outputs/stats.html` | Tableaux interactifs : par espèce, par pays, par ordre |
 
 Les fichiers `.html` s'ouvrent directement dans le navigateur, sans serveur.
+
+---
+
+## Démarche
+
+Le projet a été construit de façon itérative en plusieurs phases :
+
+1. **Exploration** — chargement d'un échantillon de 5 puis 100 000 lignes
+   pour comprendre la structure du fichier DwC-A (230 colonnes, format TSV),
+   identifier les colonnes utiles et mesurer la qualité des données
+
+2. **Nettoyage** — validation des coordonnées GPS (suppression des NaN,
+   des valeurs hors plage et de l'artefact GBIF (0,0)),
+   95,7% de données exploitables conservées
+
+3. **Pipeline** — consolidation de toutes les étapes en un script unique
+   `pipeline.py` avec chargement par chunks pour gérer le fichier d'1,1 Go
+   sans saturer la RAM
+
+4. **Visualisation** — génération de deux heatmaps (Europe / France)
+   et d'une page de statistiques interactives triables par espèce, pays et ordre
+
+Le dossier `exploration/` conserve les scripts et notes de la phase de découverte,
+séparés du pipeline de production.
 
 ---
 
