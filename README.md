@@ -82,7 +82,7 @@ Placer le fichier `occurrence.txt` exporté depuis GBIF dans le dossier `data/`.
 
 ```bash
 # Test rapide — 100 000 lignes
-python scripts/pipeline.py --sample 100000
+python scripts/pipeline.py --sample 1000000
 
 # Fichier complet (~1,1 Go)
 python scripts/pipeline.py
