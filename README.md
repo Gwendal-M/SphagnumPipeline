@@ -114,3 +114,7 @@ Sur 100 000 occurrences chargées :
 - Famille : *Sphagnaceae*
 - Licence : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Export : [gbif.org/occurrence/download](https://www.gbif.org/occurrence/download)
+
+## Licence
+
+Code sous licence [MIT](https://opensource.org/licenses/MIT) — © 2026 Gwendal-M
