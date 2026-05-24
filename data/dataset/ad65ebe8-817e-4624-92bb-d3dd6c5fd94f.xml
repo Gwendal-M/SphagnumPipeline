@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ad65ebe8-817e-4624-92bb-d3dd6c5fd94f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/eomndr</alternateIdentifier>
+        <alternateIdentifier>ad65ebe8-817e-4624-92bb-d3dd6c5fd94f</alternateIdentifier>
+        <shortName>PROG AQ PNRLG ABC 2016 - 2017</shortName>
+        <title>Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020 - Inventaire de la flore du PNRLG 2016 (Gironde)</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2018-09-29
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Inventaires de la flore réalisés par le CBN Sud-Atlantique en 2016 sur les 10 communes suivantes du PNRLG : Hostens, Le Tuzan, Origine, Balizac, Louchats, Saint-Symphorien, Saint-Léger-de-Balson, Bourideys, Lucmau et Captieux.
+        </abstract>
+        <keywordSet>
+            <keyword>Inventaire type ABC</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/9f92c519-1b80-4ac3-8f5b-c97fedbcf5b6</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-0.97596</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-0.19405</eastBoundingCoordinate>
+                    <northBoundingCoordinate>44.96344</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.13771</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-03-08
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2017-07-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Alismatales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Aquifoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Celastrales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cornales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cucurbitales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cupressales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dicranales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dioscoreales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Equisetales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Geraniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Grimmiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hypnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Isoetales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Laurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lecanorales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lycopodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Metzgeriales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nymphaeales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ophioglossales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Osmundales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ostropales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oxalidales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Peltigerales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pertusariales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Porellales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Salviniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Santalales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Saxifragales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphaerocarpales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Vitales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>NR</surName>
+            </individualName>
+            <organizationName>CBN Sud-Atlantique</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>NR</surName>
+            </individualName>
+            <organizationName>CBN Sud-Atlantique</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>NR</surName>
+            </individualName>
+            <organizationName>CBN Sud-Atlantique</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020</title>
+                <personnel>
+                    <individualName>
+                    <surName>NR</surName>
+                    </individualName>
+                    <organizationName>Parc Naturel Régional des Landes de Gascogne</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>NR</surName>
+                    </individualName>
+                    <organizationName>DREAL Nouvelle-Aquitaine</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>NR</surName>
+                    </individualName>
+                    <organizationName>Parc Naturel Régional des Landes de Gascogne</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>NR</surName>
+                    </individualName>
+                    <organizationName>Europe-FEDER</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>NR</surName>
+                    </individualName>
+                    <organizationName>CBN Sud-Atlantique</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>NR</surName>
+                    </individualName>
+                    <organizationName>Conseil Départemental de Gironde</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Le programme d&apos;Atlas communaux de la biodiversité du PNRLG est un programme pluriannuel couvrant l&apos;intégralité des communes du PNR et qui a pour objectifs :
+- d’obtenir une connaissance fine de la biodiversité sur chaque commune
+- d’identifier les enjeux majeurs liés à la biodiversité
+- de faciliter l’intégration de la biodiversité dans les décisions locales : porter à connaissance dans le cadre des
+documents de planification du territoire, Informer et sensibiliser les bureaux d’études participant à l’élaboration de
+ces derniers
+- de responsabiliser et mobiliser les acteurs du territoire à la préservation et la valorisation de la biodiversité sur leur
+territoire
+- d’aider à la création des trames vertes et bleues qui seront traduites dans les documents d’urbanisme (PLU, PLUi,…)</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:56Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2018). Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020 - Inventaire de la flore du PNRLG 2016 (Gironde). UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/eomndr accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

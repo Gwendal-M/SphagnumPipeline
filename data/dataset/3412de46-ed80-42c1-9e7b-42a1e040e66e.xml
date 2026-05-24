@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3412de46-ed80-42c1-9e7b-42a1e040e66e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/yjdjs4</alternateIdentifier>
+        <alternateIdentifier>3412de46-ed80-42c1-9e7b-42a1e040e66e</alternateIdentifier>
+        <alternateIdentifier>http://ib.komisc.ru:8088/ipt/resource?r=syko_mosses_collection</alternateIdentifier>
+        <title>SYKO Herbarium Moss Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Galina</givenName>
+                <surName>Zheleznova</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>zheleznova@ib.komisc.ru</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">P-9081-2015</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tatyana</givenName>
+                <surName>Shubina</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>tshubina@ib.komisc.ru</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mikhail</givenName>
+                <surName>Rubtsov</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>engineer</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212216752</phone>
+            <electronicMailAddress>rubtsov.m@ib.komisc.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Galina</givenName>
+                <surName>Litvinenko</surName>
+            </individualName>
+            <positionName>technician</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212241168</phone>
+            <electronicMailAddress>lga@ib.komisc.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Chadin</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>Deputy Director</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212240525</phone>
+            <electronicMailAddress>chadin@ib.komisc.ru</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">P-4940-2015</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Chadin</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>Deputy Director</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212240525</phone>
+            <electronicMailAddress>chadin@ib.komisc.ru</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">P-4940-2015</userId>
+        </metadataProvider>
+        <pubDate>
+                2022-02-11
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The dataset with 49,726 moss occurrences located predominantly on the territory European North-East Russia was described in this data paper. The dataset was based on the digitized bryophytes labels from the Institute of Biology of Komi Scientific Сenter of the Ural Branch of the Russian Academy of Sciences herbarium (SYKO). The information from the labels was recognized, cleaned and brought into compliance with the Darwin Core. More than 99.9% of occurrences were georeferenced with a precision of at least 3 km. For each record of occurrence the digital image of original label was attached. The dataset contains occurrences of 539 moss and liverworts taxa (with species and lower ranks) belonging to 190 genera and 75 families.</para>
+<para>The herbarium labels for this dataset were mobilized with support from The Global Biodiversity Information Facility Secretariat (GBIFS). Project ID: project ID, Russia2019_04. Project web-page: https://www.gbif.org/project/5ZsAifyI6z0OguyoNTFIIu/mobilizing-moss-occurrences-from-the-komi-science-centre-herbarium.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Mosses</keyword>
+            <keyword>SYKO Herbarium</keyword>
+            <keyword>Collection</keyword>
+            <keyword>Liverworts</keyword>
+            <keyword>Preserved specimen</keyword>
+            <keyword>Bryophytes</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Russia</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ib.komisc.ru:8088/ipt/archive.do?r=syko_mosses_collection</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Most of the dataset occurrences were located on the territory of European North-East Russia. Only one occurrence was located far from this region on the Kamchatka Peninsula (55.72222ºN, 160.3714ºE). Polygon with the shortest perimeter that encloses most of the occurrences (the convex hull) was approximately 820,000 square kilometers (Figure XX). In total, the dataset contains 3,918 collection sites for bryophyte specimens with unique geographic coordinates. The point with the largest number of occurrence (1564) located on Vaygach Island (69.75°N, 59.82°E).
+Most of the published occurrences were located on the territory of the Komi Republic (86% of all occurrences) and the Nenets Autonomous district (12%). The remaining occurrences (2%) were collected mainly on the territory of seven the Komi Republic neighboring regions.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>46.55</westBoundingCoordinate>
+                    <eastBoundingCoordinate>68.63</eastBoundingCoordinate>
+                    <northBoundingCoordinate>70.72</northBoundingCoordinate>
+                    <southBoundingCoordinate>59.23</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1933
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The dataset contained 47,955 occurrences of 480 moss taxa with rank of species, subspecies, varieties and 325 occurrences of 59 liverworts taxa of the same ranks. The species names used were determined according to the ‘Check-list of mosses of East Europe and North Asia’ (Ignatov et al. 2006), and ‘An annotated checklist of bryophytes of Europe, Macaronesia and Cyprus’ (Hodgetts et al. 2020).
+
+The moss collection is maintained in accordance with the latest taxonomic revisions. The specimen and labels catalog are rearranged if valid names changed. Considering the latest sources (Ignatov &amp; Milyutina, 2007; Hodgetts et al, 2020) all samples identified earlier as Brachythecium curtum (Lindb.) Limpr., B. oedipodium (Mitt.) A. Jaeger, B. starkei var. curtum (Lindb.) Warnst., Sciuro-hypnum   oedipodium (Mitt.) Ignatov &amp; Huttunen were assigned to Sciuro-hypnum curtum (Lindb.) Ignatov. There were 520 samples of Sphagnum magellanicum Bridel 1798 in the herbarium and all of them need to be revised in accordance with Hassel et al., 2018.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                    <commonName>Mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                    <commonName>Liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Andreaeopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Marchantiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polytrichopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphagnopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Tetraphidopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Tatyana</givenName>
+                <surName>Shubina</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>tshubina@ib.komisc.ru</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The database and web application for database administration were created with MariaDB (https://mariadb.com) and Django framework (https://www.djangoproject.com).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Batch of labels images were captured per box (drawer) of labels catalog with strict respect of labels order in each box. Labels in boxes are kept in alphabetical order of taxon names. Labels of samples collected in the same dates by the same collectors often grouped withing every box. Label images captured in order they kept allowed significantly simplify of data recognition process for operators. Images were taken with photo camera with minimum frame size 4000×3000 pixels.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Batch of labels images up to several thousands JPEG files were processed simultaneously. Each image was cropped to remove most of the background so the image size became approximately 2000×1500 pixels. White balance of all images was automatically adjusted with Fred Weinhaus ‘autowhite’ script for ImageMagick software (http://www.fmwconcepts.com/imagemagick/autowhite).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cropped images were uploaded to server and their file path names were added in label database.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Operator decrypted label data with web application. Different web forms for different types of data were used: entering catalog number and collection date; entering the names of taxa; entering the names of the collectors and persons who carried out the identification of taxa; input of geographic coordinates. Dates were entered as three separate numbers: day, month and year. This format of dates storage allowed the processing of labels with omitted days or month in collection date. Qualified bryologists entered the names of taxa, the names of the collectors and the persons identified the species of mosses. Georeferencing of labels was performed by an engineer with cartographic skills. In some cases, for a more accurate determination of coordinates, it was possible to question the collector of the sample.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>All entered data (excluding geographic coordinates) were checked with special forms in web application. Label images were compared with entered data and errors were corrected simultaneously or marked for correction later.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Bryophytes subdivision of SYKO is divided into two collections: mosses and liverworts. The digitizing of liverworts label data was not a priority. However, some occurrences of liverworts were added in dataset as a result of its simultaneous keeping in one specimen packet with mosses. The labels of liverworts collection are planned to be digitized in the near future.
+
+According to SYKO bryophytes subdivision register (maintained manually since 1969) there were 58,184 specimens (45,198 mosses and 12,986 liverworts) at the beginning of August 2020. The label data of 42,698 unique moss samples (94 percent of moss collection) were digitized to the date. There was 1,697 moss storage units with duplicates which are also stored in the main collection and serve for exchange with other institutions. The duplicates weren&apos;t used for the described occurrence dataset preparation. The collection of mosses is characterized by the presence of from 1 to 9 species in one specimen (1.2 on average).
+ 
+Some portion of digitized labels were excluded from the described dataset. This 2,754 labels were used for updating of dataset “Moss occurrences in Yugyd Va National Park, Subpolar and Northern Urals, European North-East Russia” published earlier. The images for 3,452 published earlier occurrences were added in field “associatedMedia” for the Yugyd Va dataset.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Bryophyte herbarium samples were collected during two main types of field work: floristic explorations and vegetation studies. Field samples are separated into storage specimens during the species identification in a way that in each specimen was a minimum number of bryophyte species. Two label copies are generated for each sample. One copy of the label was fixed on a bag with a dried moss sample, the second was stored in a separate storage for labels (library card catalog cabinet is used). The labels and the moss specimens themselves were arranged in alphabetical order of species names. Each moss sample was assigned a catalog number. The catalog numbers were incrementing since the organization of the bryophyte subdivision in the SYKO herbarium. Information about the label catalog number, date of collection, name of the collection place, species name, field number, and habitat were entered in the register books.
+The labels from label storage were used for digitization. The label images were obtained with digital camera. Images were uploaded to server and their filenames to the label database. The database web interface written specifically for this project was used for manual label data recognition and interpretation. The following minimum set of data were deciphered (in DarwinCore terms): scientificName, recordedBy, identifiedBy, day, month, year, catalogNumber, decimalLatitude, decimalLongitude.
+The digitization of most moss collection labels showed that names of 139 collectors were on the labels and 38 botanists were engaged in species identification. The most productive collector and botanist most engaged in species identification was one person — G. V. Zheleznova.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Species identification. The species were identified by bryologists from the Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences. The correctness of species identification and confirmation for many taxa was carried out by well-known taxonomy specialists: Shljakov R.N. (378 identifications), Abramova A.L. (246 identifications), Savich L.I. (110 identifications),    Ignatov M.S. (58 identifications), Afonina O.M. (52 identifications), Ignatova E.A. (49 identifications), Chernjadeva I.V. (16 identifications), Smirnova Z.N. (15 identifications), Fedosov    V.Je. (11 identifications), Abramov I.I. (10 identifications) and Maksimov A.I. (2 identifications).
+
+Some moss samples were sent for critical review to other herbaria. For example, the specimens with genera Pohlia Hedw., Stereodon (Brid.) Mitt., Hypnum Hedw., Cratoneuron (Sull.) Spruce, Hygrohypnum Lindb., Tortella (Müll.Hal.) Limpr., Pseudoleskeella Ignatov &amp; Ignatova were sent to the Komarov Botanical Institute herbarium (LE), Grimmia Hedw., Schistidium Bruch &amp; Schimp., Philonotis Brid., Bryum Hedw., Bucklandiella Roiv., Polytrichum Hedw., Lescuraea Bruch &amp; Schimp., Sciuro-hypnum (Hampe) Hampe to The Tsytsin Main Moscow Botanical Garden of Academy of Sciences herbarium (MHA), genera Encalypta Hedw., Seligeria Bruch &amp; Schimp.  to the herbarium of Moscow University (MW).
+
+Label images quality. Each image of the label was checked for readability by operators who deciphered label data. Images that were out of focus or had extraneous objects in the frame were deleted from the database. It was possible to recapture bad label images only if the catalog number of the label was detectable on discarded images. In other cases (about 6% of the total number of labels in the moss collection), the second round of label image capturing will be performed later (after forming a list of missed labels with help of label register).
+Check of georeferencing. Occurrences locations were added to map with the OpenStreetMap layer and with Russian regions borders polygon layers in QGIS software. The names of regions were assigned to each occurrence with help of “Point Sampling Tool” QGIS plugin. The occurrences located out of land border of any Russia region and occurrences located far from the borders of Komi Republic were subject to verification.
+
+Text recognition quality. All label data recognized by operators were checked visually for each label image. Special boolean-like fields were added to database table with main label information: the check was carried out (yes / no), data clarification is required (yes / no). The label data need to checked were divided in two groups: 1) the collection date and catalog number, 2) names of taxa indicated on the label and the names of people who collected the sample and who identified the species. 
+
+Additional verification of collection dates and collectors names was carried out during labels georeferencing. It is known that one collector could not be in the points located more than several kilometers from each over during the same day. After main array of labels digitizing and recognition it became possible to compare series of labels to identify and correct obvious errors that were made not only during image data recognition but also errors that were made by laboratory technicians during manual filling out label blanks. In the latter case corrected information was added in database and label was marked for replacement in near future.
+Taxonomy validation. Verbatim taxon names indicated in labels in many cases were out date and not valid. In our case, only professional bryologists were the operators for taxon name recognition so verbatim names were corrected on the fly during data entering in database. The next step of taxon name checking was normalizing species names against the GBIF backbone (https://www.gbif.org/tools/species-lookup). The GBIF backbone normalized species names and higher taxonomy were updated manually by our bryologists to bring the taxon name usage in concordance with the latest moss checklists.
+
+Dataset validation. The publication ready Darwin Core compliant dataset was generated as csv-file by Python script which included SQL queries to the database. This file was checked for errors manually with data filtering function of spreadsheet software and automatically with the GBIF Data Validator service (https://www.gbif.org/tools/data-validator).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="N-Eurasia-Russia2020-W-Urals">
+                <title>West of Urals 2020</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Chadin</surName>
+                    </individualName>
+            <userId directory="http://www.researcherid.com/rid/">P-4940-2015</userId>
+                    <role>PROGRAMMER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Tatyana</givenName>
+                    <surName>Shubina</surName>
+                    </individualName>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+                    <role>EDITOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Galina</givenName>
+                    <surName>Zheleznova</surName>
+                    </individualName>
+            <userId directory="http://www.researcherid.com/rid/">P-9081-2015</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Galina</givenName>
+                    <surName>Litvinenko</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Mikhail</givenName>
+                    <surName>Rubtsov</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>The herbarium labels for this dataset were mobilized with support from The Global Biodiversity Information Facility Secretariat (GBIFS). Project ID: Russia2019_04. Project web-page: https://www.gbif.org/project/5ZsAifyI6z0OguyoNTFIIu/mobilizing-moss-occurrences-from-the-komi-science-centre-herbarium. Duration: 01.02.2019-30.09.2019.
+The aim of the project to digitize at least 8,000 labels from the SYKO herbarium moss collection. As a result of the project 14,000 labels were digitized and the final version (1.5) of  published in GBIF dataset contained 14,871 moss occurrences. The project team consisted of 5 people.</para>
+                </abstract>
+                <funding>
+                    <para>The Global Biodiversity Information Facility Secretariat (GBIFS)</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The aim of the project to digitize at least 8,000 labels from the SYKO
+herbarium moss collection. As a result of the project 14,000 labels were digitized and the final version
+(1.5) of published in GBIF dataset contained 14,871 moss occurrences. The project team consisted of
+5 people, all of them are the authors of this work.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:17Z</dateStamp>
+                <citation>Zheleznova G, Shubina T, Rubtsov M, Litvinenko G, Chadin I (2022). SYKO Herbarium Moss Collection. Version 1.9. Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences. Occurrence dataset https://doi.org/10.15468/yjdjs4 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.3897/BDJ.8.e57942">Zheleznova G, Shubina T, Rubtsov M, Litvinenko G, Chadin I (2020) Bryophytes Occurrences Dataset Based On SYKO Herbarium Moss Collection. Biodiversity Data Journal 8: e57942. https://doi.org/10.3897/BDJ.8.e57942</citation>
+                </bibliography>
+                <collection>
+                    <parentCollectionIdentifier>http://ckp-rf.ru/usu/507466/?sphrase_id=7852290</parentCollectionIdentifier>
+                    <collectionIdentifier>SYKO</collectionIdentifier>
+                    <collectionName>Научный гербарий Института биологии Коми НЦ УрО РАН (SYKO). Коллекция мохообразных</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>specimens</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="2,000">57,000</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

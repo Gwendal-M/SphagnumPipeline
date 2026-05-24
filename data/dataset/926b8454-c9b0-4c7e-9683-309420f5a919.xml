@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="926b8454-c9b0-4c7e-9683-309420f5a919"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/nbwp8k</alternateIdentifier>
+        <shortName>PEN_ESPECES_POINTS</shortName>
+        <title>Projet de construction et d’exploitation de deux nouvelles unités de production d’électricité de type EPR2 et de leurs ouvrages de raccordement électrique sur le site de Penly.-PEN_ESPECES_POINTS</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-12-06
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            DONNEES ESPECES PONCTUELLES
+        </abstract>
+        <keywordSet>
+            <keyword>Dépôt légal</keyword>
+            <keyword>Depobio</keyword>
+            <keyword>2.2 - « Espèce(s) patrimoniale(s) ».</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventaire pour étude impact</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/0827657B-C078-5148-E063-0514A8C0E52A</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>0.77457</westBoundingCoordinate>
+                    <eastBoundingCoordinate>1.61133</eastBoundingCoordinate>
+                    <northBoundingCoordinate>50.26993</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.72353</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1905-06-16
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-12-06
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>THEMA ENVIRONNEMENT</surName>
+            </individualName>
+            <organizationName>THEMA ENVIRONNEMENT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>THEMA ENVIRONNEMENT</surName>
+            </individualName>
+            <organizationName>THEMA ENVIRONNEMENT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Projet de construction et d’exploitation de deux nouvelles unités de production d’électricité de type EPR2 et de leurs ouvrages de raccordement électrique sur le site de Penly.</title>
+                <personnel>
+                    <individualName>
+                    <surName>ELECTRICITE DE FRANCE</surName>
+                    </individualName>
+                    <organizationName>ELECTRICITE DE FRANCE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>ELECTRICITE DE FRANCE</surName>
+                    </individualName>
+                    <organizationName>ELECTRICITE DE FRANCE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>L’étude d’impact du projet inclut l’ensemble des aménagements associés au projet. Elle couvre :
+•	sur le plan temporel : les phases successives de travaux préparatoires et de construction, d’essais puis d’exploitation, en parallèle avec l’exploitation des deux unités de production existantes ;
+•	sur le plan technique : les deux nouvelles unités de production ainsi que les aménagements à réaliser sur le site (mutualisations avec les installations existantes) et le raccordement au réseau électrique géré par RTE ;
+•	sur le plan géographique : des aires d’étude des incidences susceptibles de résulter du projet adaptées en fonction du sujet traité (par exemple l’aire d’étude pour les prélèvements d’eau n’est pas la même que pour l’analyse des rejets à l’atmosphère).</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:12Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2023). Projet de construction et d’exploitation de deux nouvelles unités de production d’électricité de type EPR2 et de leurs ouvrages de raccordement électrique sur le site de Penly.-PEN_ESPECES_POINTS. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/nbwp8k accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

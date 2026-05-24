@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="4445d915-9ee0-433b-a0f2-f7e1a29b5d73"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3asvbx</alternateIdentifier>
+        <alternateIdentifier>4445d915-9ee0-433b-a0f2-f7e1a29b5d73</alternateIdentifier>
+        <alternateIdentifier>https://gbif.buketov.edu.kz/resource?r=herbarqar</alternateIdentifier>
+        <title>Herbarium of Karaganda Buketov University (QAR)</title>
+        <creator>
+            <individualName>
+                <givenName>Margarita</givenName>
+                <surName>Ishmuratova</surName>
+            </individualName>
+            <organizationName>Buketov Karaganda University</organizationName>
+            <positionName>Professor-researcher</positionName>
+            <address>
+                <deliveryPoint>Gogol street 54</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100017</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>7-777-354-91-91</phone>
+            <electronicMailAddress>margarita.ishmur@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%98%D1%88%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-1735-8290</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dmitry</givenName>
+                <surName>Ageev</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Researcher at the Biotechnology and Ecomonitoring Research Park</positionName>
+            <address>
+                <deliveryPoint>21 microdistricts</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>M02K8T9</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>7-701-230-25-99</phone>
+            <electronicMailAddress>ageevdimon88@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%98%D1%88%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-1735-8290</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Elena</givenName>
+                <surName>Gavrilkova</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov university</organizationName>
+            <positionName>Senior lecturer of the Department of Botany</positionName>
+            <address>
+                <deliveryPoint>Stroiteley Avenue 1, 35</deliveryPoint>
+                <city>Karaganda</city>
+            </address>
+            <phone>877786209781</phone>
+            <electronicMailAddress>elena_2809@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Roza</givenName>
+                <surName>Mussina</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov university</organizationName>
+            <positionName>Senior Lecturer</positionName>
+            <address>
+                <deliveryPoint>Saryarka str. 19 apartment 318</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>7-701-629-87-05</phone>
+            <electronicMailAddress>Rosanna_1983@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%9C%D1%83%D1%81%D0%B8%D0%BD%D0%B0%20%D0%A0.%D0%A2.%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-3559-3216</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Aida</givenName>
+                <surName>Madiyeva</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Lecturer of department of Physiology</positionName>
+            <address>
+                <deliveryPoint>Shakhterov 52 st.</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>87776597995</phone>
+            <electronicMailAddress>madievaaida@mail.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alibek</givenName>
+                <surName>Ramazanov</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Senior Lecturer in the Department of Physiology</positionName>
+            <address>
+                <deliveryPoint>Shakhterov 74</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>87071486624</phone>
+            <electronicMailAddress>kairidenovich_rak@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_fizio/ramazanov_ru.pdf</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Saltanat</givenName>
+                <surName>Tleukenova</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>associated professor</positionName>
+            <address>
+                <deliveryPoint>Buketov street, 50/2</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>8-775-236-36-78</phone>
+            <electronicMailAddress>damir--6@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%A2%D0%BB%D0%B5%D1%83%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4714-0110</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maxim P.</givenName>
+                <surName>Shashkov</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Senior researcher</positionName>
+            <address>
+                <deliveryPoint>28, Universitetskaya</deliveryPoint>
+                <city>Karaganda</city>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <electronicMailAddress>max.carabus@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1328-8758</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Natalya V.</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</organizationName>
+            <positionName>Senior researcher</positionName>
+            <address>
+                <deliveryPoint>1, Prof. Vitkevich str.</deliveryPoint>
+                <city>Pushchino</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sayagul S.</givenName>
+                <surName>Tyrzhanova</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Senior Lecturer</positionName>
+            <address>
+                <deliveryPoint>28, Universitetskaya</deliveryPoint>
+                <city>Karaganda</city>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <electronicMailAddress>Tssaya@mail.ru</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-6544-1726</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tokzhan Maratkyzy</givenName>
+                <surName>Rymzhan</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Laboratory assistant in herbarium fund</positionName>
+            <address>
+                <city>Karaganda</city>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <electronicMailAddress>rtm_025@mail.ru</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0003-4101-2948</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Margarita</givenName>
+                <surName>Ishmuratova</surName>
+            </individualName>
+            <organizationName>Buketov Karaganda University</organizationName>
+            <positionName>Professor-researcher</positionName>
+            <address>
+                <deliveryPoint>Gogol street 54</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100017</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>7-777-354-91-91</phone>
+            <electronicMailAddress>margarita.ishmur@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%98%D1%88%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-1735-8290</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Dmitry</givenName>
+                <surName>Ageev</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Researcher at the Biotechnology and Ecomonitoring Research Park</positionName>
+            <address>
+                <deliveryPoint>21 microdistricts</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>M02K8T9</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>8-701-230-25-99</phone>
+            <electronicMailAddress>ageevdimon88@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%98%D1%88%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-1735-8290</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Elena</givenName>
+                <surName>Gavrilkova</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Senior lecturer of the Department of Botany</positionName>
+            <address>
+                <deliveryPoint>Stroiteley Avenue 1, 35</deliveryPoint>
+                <city>Karaganda</city>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>877786209781</phone>
+            <electronicMailAddress>elena_2809@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Roza</givenName>
+                <surName>Mussina</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Senior Lecturer of Department of Botany</positionName>
+            <address>
+                <deliveryPoint>Saryarka str. 19, apartment 318</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>8-701-629-87-05</phone>
+            <electronicMailAddress>Rosanna_1983@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%9C%D1%83%D1%81%D0%B8%D0%BD%D0%B0%20%D0%A0.%D0%A2.%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-3559-3216</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Aida</givenName>
+                <surName>Madiyeva</surName>
+            </individualName>
+            <organizationName>Buketov Karaganda University</organizationName>
+            <positionName>Lecturer of department of physiology</positionName>
+            <address>
+                <deliveryPoint>st. Shakhterov 52</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+            </address>
+            <phone>87776597995</phone>
+            <electronicMailAddress>madievaaida@mail.ru</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alibek</givenName>
+                <surName>Ramazanov</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>Senior Lecturer in the Department of Physiology</positionName>
+            <address>
+                <deliveryPoint>Shakhterov 74</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+            </address>
+            <phone>8-707-148-66-24</phone>
+            <electronicMailAddress>kairidenovich_rak@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_fizio/ramazanov_ru.pdf</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Saltanat</givenName>
+                <surName>Tleukenova</surName>
+            </individualName>
+            <organizationName>Karaganda Buketov University</organizationName>
+            <positionName>associated professor</positionName>
+            <address>
+                <deliveryPoint>Buketov street, 50/2</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+            </address>
+            <phone>8- 775-236-36-78</phone>
+            <electronicMailAddress>damir--6@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%A2%D0%BB%D0%B5%D1%83%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4714-0110</userId>
+        </metadataProvider>
+        <pubDate>
+                2024-06-13
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Herbarium of the Faculty of Biology and Geography of the Karaganda BuketovUniversity  contains about 10,000 sheets. The flora of Central Kazakhstan is mainly represented in the collection, including vascular plants.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://gbif.buketov.edu.kz/archive.do?r=herbarqar</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Plants were collected from Ulytau region, Karaganda region, Akmola region, North Kazakhstan region, East Kazakhstan region. Steppe areas, Kazakh upland, forest areas, shrub thickets are covered.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>52.778</westBoundingCoordinate>
+                    <eastBoundingCoordinate>83.057</eastBoundingCoordinate>
+                    <northBoundingCoordinate>53.278</northBoundingCoordinate>
+                    <southBoundingCoordinate>46.89</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Saltanat</givenName>
+                <surName>Tleukenova</surName>
+            </individualName>
+            <organizationName>Buketov Karaganda University</organizationName>
+            <positionName>associated professor</positionName>
+            <address>
+                <deliveryPoint>Buketov street, 50/2</deliveryPoint>
+                <city>Karaganda</city>
+                <postalCode>100024</postalCode>
+                <country>KAZAKHSTAN</country>
+            </address>
+            <phone>8-775-236-36-78</phone>
+            <electronicMailAddress>damir--6@mail.ru</electronicMailAddress>
+            <onlineUrl>https://up.buketov.edu.kz/buketov/profile_bot/%D0%A2%D0%BB%D0%B5%D1%83%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%80%D1%83%D1%81.pdf</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4714-0110</userId>
+        </contact>
+
+            <project id="BR18574125">
+                <title>Study of the modern species compositions of Kazakhstan vascular plants diversity with applied the modern methods of botany, molecular genetics and bioinformatics.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Margarita</givenName>
+                    <surName>Ishmuratova</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-1735-8290</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>In the last decade, more and more attention has been paid to the fact that biological diversity is the basis for maintaining the ecological conditions of existence and the economic development of human society, therefore, it is a world heritage that is of vital importance for present and future generations.There is an obvious need to study biodiversity at the local levels. These works will serve as a basis for the development of activities at the national level.
+Currently, in the Republic of Kazakhstan, the only academic publications on the flora of Kazakhstan are: &quot;Flora of Kazakhstan&quot; in 9 volumes (1956-1966), &quot;Illustrated guide to vascular plants of Kazakhstan&quot; in 2 volumes (1969-1972).Over the past period, active research has been and is being carried out on the flora of the Republic in separate geographical points, as a result of which new species have been discovered for the flora of Kazakhstan and the world flora, geographical novelties have been identified, the areas of plants have changed, which were not reflected in previously published articles.
+The main idea of the program is to develop monographic editions of individual regional flora of the Republic of Kazakhstan, taking into account the changes that have occurred, to clarify the list and status of rare and endangered plants, invasive species, to assess the possibilities of economic use, to create an electronic database on regional flora, and, as a result of research, to develop recommendations on the creation of new specially protected natural areas.
+The purpose of the Program: To study the current state of the species diversity of vascular plants and a monographic publication of the regional flora of the Mangistau, Atyrau, Akmola, Kostanay, Karaganda and East Kazakhstan administrative regions, taking into account the modern botanical nomenclature of plants, electronic maps, databases and illustrations of vascular plants.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Within the framework of the project, field and laboratory types of studies will be used, including semi-stationary and route reconnaissance studies. The main objects of research will be the floristic diversity of plants in 7 administrative regions of Kazakhstan (Mangistau, Atyrau, Akmola, Kostanay, Karaganda and East Kazakhstan).
+The planning of expeditions will be based on the modern administrative division of the territory of Kazakhstan: Mangistau (06), Atyrau (04), Akmola (02), Kostanay (10), Karaganda (09) and East Kazakhstan (05) (Fig. 1). At the same time, the floristic zoning of Kazakhstan according to the Flora of Kazakhstan will be taken into account, according to which the territory of the country is divided into 29 floristic regions and sub-districts: 1. Otrogy of commom syrt (Otr. comm. syrt); 2. Tobol-Ishimsky (Tob.-Ishim); 3. Irtysh (Irt.); 4. Semipalatynsky borovoy (Semip. bor.); 5. Kokchetausky (Kokchet.); 6. Precaspian (Precasp.); 6а. Bukeevsky (Bukeev.); 7. Altyubinsky (Aktyub.); 7а. Mugodjary (Mugodj.); 8. Embinsky (Emb.); 9. Turgaisky (Turg.); 10. Western melkosopochnik (Wes. melkosop.); 10а. Ulutau; 11. Eastern melkosopochnik (East. melkosop.); 11а. Karkaralinsky(Kark.); 12. Zaisansky (Zais.); 13. Northern Ust-Urt (Nor. Ust-Urt); 13а. Buzachi; 13б. Mangyshlak (Mangyshl.); 14. Priaralsky (Priaral.); 15. Kzyl-Ordinsky (Kz.-Ord.); 16. Betpakdalinsky (Betpakd.); 17. Muyun-Kumsky (Muyun-Kum.); 18. Balkhash-Alakolsky (Balkh.-Alak.); 19.Southern Ust-Urt; 20. Kzyl-Kumsky (Kz.-Kum.); 21. Turkestansky (Turkest.); 22. Altai; 23. Tarbagatay (Tarb.); 24. Soongarian Alatau (Soong. Alatau); 25. TransiliKungey Alatau (Trans. Kung. Alat.); 25а. Ketmen-TerskeyAlatau (Ketm. Tersk. Alat.); 26. Chu-IlyskieMountains (Chu-Il. Mountains); 27. Kirgyzky Alatau (Kirg. Alat.); 28. Karatau (Karat); 29. Western Tjan-Shan (West. TS)</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>The base for development of flora of the administrative regions of Kazakhstan will be literature data of floristic study, results of field study, also materials, which are stored in botanical institutions (LE, MW, TK, MHA, SVER, KUZ, ALTB, AA, NUR, KG, KSPI, NS, NSK, MOSP, ORIS, PPIU).
+To implement the tasks of the Program, researches will be carried out by performers in the 4th regions: Northern, Western, Central and Eastern Kazakhstan. Each co-executor will perform similar tasks in its administrative region. In all organizations, the performers are declared by florists and taxonomists, who conducted similar studies and participated in many programs and projects of the botanical direction.
+The sequence of research works during performing the Program tasks:
+1. Analysis of local herbarium funds, field research materials, scientific publications and preparation of a preliminary conspectus of vascular flora of (flowering, gymnosperm and higher spore plants) of the administrative regions of Kazakhstan (Mangistau, Atyrau, Akmola, Kostanay, Karaganda and Eastern-Kazakhstanregions);
+2. Development of routes for field investigation and scientific and methodological approaches to floristic research, nomenclature, classification and plant taxonomy;
+3. Analysis of herbarium funds of foreign organizationsa and field surveys;
+4. Formation of a conspectus of higher vascular and spore plants of administrative regions of Kazakhstan (Mangistau, Atyrau, Akmola, Kostanay, Karaganda and Eastern-Kazakhstan regions) including taxonomic, arealogical, environmental characteristics, life forms, phytoprotective status and economic properties;
+5. Creation of the electronic database of regional florae by the results of field researches and the analysis of herbarium materials of domestic and foreign funds;
+6. Complyingthe lists and point maps of areas of rare and endemic taxons, invasive speciesby the administrative areas of Kazakhstan, reports on economic properties of plants;
+7. The formation and publication of monographic editions of regional flora taking into account the ecological and biological characteristics of plants, life forms, distribution areas, on the basis of the species abundance of rare plants of local areas of territories, according to the IUCN recommendations;
+8. Development of proposals and recommendations for the creation of new specially protected natural areas;
+9. Conducting activities to popularize floristic research and disseminating botanical experience.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:56Z</dateStamp>
+                <citation>Ishmuratova M, Ageev D, Gavrilkova E, Mussina R, Madiyeva A, Ramazanov A, Tleukenova S, Shashkov M P, Ivanova N V, Tyrzhanova S S, Rymzhan T M (2024). Herbarium of Karaganda Buketov University (QAR). Version 1.167. Karaganda National Research University named after academician Ye.A. Buketov. Occurrence dataset https://doi.org/10.15468/3asvbx accessed via GBIF.org on 2026-05-22.</citation>
+                <formationPeriod>1954-2022 г.</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

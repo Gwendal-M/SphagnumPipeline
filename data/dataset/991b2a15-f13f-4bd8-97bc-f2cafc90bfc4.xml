@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="991b2a15-f13f-4bd8-97bc-f2cafc90bfc4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/w2ralf</alternateIdentifier>
+        <alternateIdentifier>991b2a15-f13f-4bd8-97bc-f2cafc90bfc4</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1256</alternateIdentifier>
+        <alternateIdentifier>493a0dfc-19a2-3167-97e0-e22b25b37c78</alternateIdentifier>
+        <title>UWS Flanders Moss Meiofauna Records 2015</title>
+        <creator>
+            <organizationName>Caledonian Conservation</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Caledonian Conservation</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-05-17
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Water samples were collected by Chris Cathrine from a bog pool at Flanders Moss Site of Special Scientific Interest (SSSI) on 5th March 2015 with permission from Scottish Natural Heritage (SNH).</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1256</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1256/dr1256.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Flanders Moss SSSI</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-4.174</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-4.174</eastBoundingCoordinate>
+                    <northBoundingCoordinate>56.129</northBoundingCoordinate>
+                    <southBoundingCoordinate>56.129</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-03-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-03-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Water samples were collected to be used in a taxonomy practical examining third year Animal Diversity students at the Paisley campus of UWS.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Chris</givenName>
+                <surName>Cathrine</surName>
+            </individualName>
+            <electronicMailAddress>chris.cathrine@caledonianconservation.co.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Water samples were collected by Chris Cathrine from a bog pool at Flanders Moss SSSI on 5th March 2015.  Meiofauna (freshwater zooplankton) were then identified by third year Animal Diversity students at the Paisley campus of University of the West of Scotland (UWS) during a taxonomy practical.  Records included in this dataset were verified by Chris Cathrine.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>We have a very high level of confidence in this dataset.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:08Z</dateStamp>
+                <citation>Caledonian Conservation (2022). UWS Flanders Moss Meiofauna Records 2015. Occurrence dataset https://doi.org/10.15468/w2ralf accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/CaledonianConservationLogoRGB.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

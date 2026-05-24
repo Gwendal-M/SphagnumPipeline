@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1ac5a87d-2256-49b5-af3e-88cf2f651c1d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/w4pz93</alternateIdentifier>
+        <alternateIdentifier>1ac5a87d-2256-49b5-af3e-88cf2f651c1d</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr3116</alternateIdentifier>
+        <alternateIdentifier>63d3ccb8-4b24-3753-8eca-1e8351fd5ae2</alternateIdentifier>
+        <title>Cambridgeshire and Peterborough Environmental Records Centre data</title>
+        <creator>
+            <organizationName>Cambridgeshire &amp; Peterborough Environmental Records Centre</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Cambridgeshire &amp; Peterborough Environmental Records Centre</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-10-29
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Species records held by the Cambridgeshire and Peterborough Environmental Records Centre derived from a variety of sources. These include records from professional surveyors, local naturalists, local recording groups and natural history societies, conservation charities, government bodies, museum collections and members of the public. This dataset consists of all species records held on the CPERC database (up to February 2024) that have been deemed verified, excluding records from data sources with datasets currently on the NBN Atlas to avoid duplication. There will however be some duplication of records with other datasets.
+The resolution of the records is restricted for public viewing to tetrad (2x2km square) level maximum which provides information on local species distributions. To request more detailed data for your area of interest please contact us direct.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr3116</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr3116/dr3116.zip</url>
+            </online>
+        </distribution>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <positionName>editor</positionName>
+            <electronicMailAddress>data@cperc.org.uk</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:21Z</dateStamp>
+                <citation>Cambridgeshire &amp; Peterborough Environmental Records Centre (2025). Cambridgeshire and Peterborough Environmental Records Centre data. Occurrence dataset https://doi.org/10.15468/w4pz93 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/CPERC.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

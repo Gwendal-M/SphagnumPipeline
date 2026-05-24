@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="96bfeedc-f762-11e1-a439-00145eb45e9a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/fcqlb1</alternateIdentifier>
+        <alternateIdentifier>https://colecciones.gbif.es/public/show/co162</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=mgc_briof</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=mgc_briof</alternateIdentifier>
+        <alternateIdentifier>96bfeedc-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=mgc_briof</alternateIdentifier>
+        <alternateIdentifier>http://datos.gbif.es/collectory/public/show/co162</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.org/dataset/96bfeedc-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
+        <alternateIdentifier>8425</alternateIdentifier>
+        <title>MGC Herbarium of University of Malaga (Spain): MGC-Bryof dataset</title>
+        <creator>
+            <individualName>
+                <salutation>Ph.D.</salutation>
+                <givenName>Jose</givenName>
+                <surName>Garcia Sánchez</surName>
+            </individualName>
+            <organizationName>University of Málaga</organizationName>
+            <positionName>Herbarium Curator</positionName>
+            <address>
+                <deliveryPoint>Servicios Centrales de Apoyo a la Investigación (SCAI). Bulevar Louis Pasteur, 33. Campus de Teatinos</deliveryPoint>
+                <city>Málaga</city>
+                <administrativeArea>Málaga</administrativeArea>
+                <postalCode>29071</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>+34 952137414</phone>
+            <electronicMailAddress>herbariomgc@uma.es</electronicMailAddress>
+            <onlineUrl>http://www.mgc.uma.es/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <salutation>Ph.D.</salutation>
+                <givenName>Jose</givenName>
+                <surName>Garcia Sánchez</surName>
+            </individualName>
+            <organizationName>University of Málaga</organizationName>
+            <positionName>Herbarium Curator</positionName>
+            <address>
+                <deliveryPoint>Servicios Centrales de Apoyo a la Investigación (SCAI). Bulevar Louis Pasteur, 33. Campus de Teatinos</deliveryPoint>
+                <city>Málaga</city>
+                <administrativeArea>Málaga</administrativeArea>
+                <postalCode>29071</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>+34 952137414</phone>
+            <electronicMailAddress>herbariomgc@uma.es</electronicMailAddress>
+            <onlineUrl>http://www.mgc.uma.es/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+        </metadataProvider>
+        <pubDate>
+                2025-10-07
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para><emphasis>El Herbario de la Universidad de Málaga (Herbario MGC)</emphasis> está constituido por cuatro colecciones biológicas activas de pliegos de herbario. La colección de briófitos (<emphasis>MGC-Bryof</emphasis>) integra los musgos, hepáticas y antoceros del herbario. Su base de datos tiene como objetivo la <emphasis>digitalización</emphasis> y <emphasis>publicación</emphasis> de los datos asociados a los más de <emphasis>6.750 ejemplares</emphasis> depositados actualmente en el herbario, de los cuales el <emphasis>98,4%</emphasis> están identificados a nivel de especie.</para><para>Desde 2011, la Unidad de Herbario depende de los <emphasis>Servicios Centrales de Apoyo a la Investigación (SCAI)</emphasis> de la Universidad de Málaga, que son responsables de su gestión y de sus bases de datos. La colección crece de forma continua, con una media anual de unas <emphasis>500 incorporaciones</emphasis>.</para><para>El <emphasis>99%</emphasis> de la colección está digitalizada mediante el programa <emphasis>Elysia v3.0</emphasis> (Pando et al., 2025), por lo que prácticamente todos los especímenes son accesibles a través de la red GBIF (<ulink url="https://www.gbif.org/dataset/96bfeedc-f762-11e1-a439-00145eb45e9a"><citetitle>https://www.gbif.org/dataset/96bfeedc-f762-11e1-a439-00145eb45e9a</citetitle></ulink>). En la actualidad, <emphasis>MGC-Bryof</emphasis> incluye <emphasis>92 familias</emphasis> y <emphasis>672 taxones</emphasis>, distribuidos en musgos (88,70%), hepáticas (10,74%) y antoceros (0,56%). Las familias y géneros más representados son <emphasis>Pottiaceae</emphasis>, <emphasis>Brachytheciaceae</emphasis>, <emphasis>Grimmiaceae</emphasis>, <emphasis>Orthotrichaceae</emphasis>, <emphasis>Bryaceae</emphasis>, <emphasis>Grimmia</emphasis>, <emphasis>Bryum</emphasis>, <emphasis>Syntrichia</emphasis>, <emphasis>Orthotrichum</emphasis> y <emphasis>Homalothecium</emphasis>.</para><para>La mayoría de los pliegos proceden de la <emphasis>Península Ibérica</emphasis> y <emphasis>Canarias</emphasis>, predominantemente del <emphasis>sur de España</emphasis> (Andalucía &amp;#61; 88,5% de los especímenes), siendo la <emphasis>provincia de Málaga</emphasis> la mejor representada con un <emphasis>84,2%</emphasis>. Destacar que, aproximadamente, el <emphasis>86%</emphasis> de las muestras cuentan con <emphasis>coordenadas geográficas</emphasis>.</para><para>Una de las principales incorporaciones de pliegos en la colección <emphasis>MGC-Bryof</emphasis> se dio entre <emphasis>1976 y 1986</emphasis>, años que reflejan la intensa actividad del <emphasis>Dr. Juan Guerra</emphasis>. Posteriormente se ha registrado el principal evento de incorporación de especímenes al herbario, entre los años <emphasis>2017 y 2024</emphasis>, en muestreos llevados a cabo por el <emphasis>Dr. Baltasar Cabezudo</emphasis> y el <emphasis>Dr. Juan Guerra</emphasis> en proyectos destinados a ampliar el conocimiento del <emphasis>Parque Nacional Sierra de las Nieves</emphasis>, el <emphasis>Parque Natural de Grazalema</emphasis>, el <emphasis>Parque Natural de los Alcornocales</emphasis>, el <emphasis>Parque Natural Montes de Málaga</emphasis> y la <emphasis>Comarca de La Axarquía</emphasis> malagueña.</para><para>La identificación ha sido realizada mayoritariamente por personal del <emphasis>Departamento de Biología Vegetal</emphasis> de la <emphasis>Universidad de Málaga</emphasis> y de la <emphasis>Universidad de Murcia</emphasis>, estando más de un <emphasis>92%</emphasis> de los ejemplares revisados por <emphasis>especialistas en taxonomía</emphasis>. La base de datos <emphasis>MGC-Bryof</emphasis> ha superado controles de calidad mediante <emphasis>DarwinTest v3.3</emphasis> (Pando et al., 2022) y verificaciones <emphasis>ad hoc</emphasis>, cumpliendo con los estándares <emphasis>Darwin Core</emphasis> exigidos por GBIF.</para><para>Los datos de las colecciones del <emphasis>Herbario MGC</emphasis> son relevantes para estudios de <emphasis>conservación, taxonomía, flora, cartografía, fenología y palinología</emphasis>, entre otros. El <emphasis>Herbario MGC</emphasis> es uno de los herbarios de referencia para <emphasis>Flora iberica</emphasis> (Castroviejo, 1986–2012), <emphasis>Flora Vascular de Andalucía Oriental</emphasis> (Blanca et al., 2009), <emphasis>Flora Briofítica Ibérica</emphasis> (Guerra 2006–) y <emphasis>Flora Phycologica Iberica</emphasis> (Gómez-Garreta 2000–). Además, la revista <ulink url="https://www.abm.uma.es"><citetitle>Acta Botanica Malacitana</citetitle></ulink> (Acta Botanica Malacitana, 1975–) publica regularmente artículos basados en datos de la colección.
+</para><para></para><para><emphasis>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</emphasis></para><para><emphasis>Herbarium of the University of Málaga (MGC Herbarium)</emphasis> consists of four active biological collections of herbarium sheets. The bryophyte collection (<emphasis>MGC-Bryof</emphasis>) integrates the <emphasis>mosses</emphasis>, <emphasis>liverworts</emphasis>, and <emphasis>hornworts</emphasis> of the herbarium. Its database aims to <emphasis>digitize</emphasis> and <emphasis>publish</emphasis> the data associated with the more than <emphasis>6,750 specimens</emphasis> currently deposited in the herbarium, of which <emphasis>98.4%</emphasis> are identified at the species level.  
+
+</para><para>Since 2011, the Herbarium Unit has been under the <emphasis>Central Research Support Services (SCAI)</emphasis> of the <emphasis>University of Málaga</emphasis>, which are responsible for its management and databases. The collection grows continuously, with an annual average of about <emphasis>500 new specimens</emphasis>.</para><para><emphasis>Ninety-nine percent</emphasis> of the collection is digitized through the program <emphasis>Elysia v3.0</emphasis> (Pando et al., 2025), so practically all specimens are accessible through the GBIF network (<ulink url="https://www.gbif.org/dataset/96bfeedc-f762-11e1-a439-00145eb45e9a"><citetitle>https://www.gbif.org/dataset/96bfeedc-f762-11e1-a439-00145eb45e9a</citetitle></ulink>). Currently, <emphasis>MGC-Bryof</emphasis> includes <emphasis>92 families</emphasis> and <emphasis>672 taxa</emphasis>, distributed into <emphasis>mosses</emphasis> (88.70%), <emphasis>liverworts</emphasis> (10.74%), and <emphasis>hornworts</emphasis> (0.56%). The most represented families and genera are <emphasis>Pottiaceae</emphasis>, <emphasis>Brachytheciaceae</emphasis>, <emphasis>Grimmiaceae</emphasis>, <emphasis>Orthotrichaceae</emphasis>, <emphasis>Bryaceae</emphasis>, <emphasis>Grimmia</emphasis>, <emphasis>Bryum</emphasis>, <emphasis>Syntrichia</emphasis>, <emphasis>Orthotrichum</emphasis>, and <emphasis>Homalothecium</emphasis>.</para><para>Most specimens come from the <emphasis>Iberian Peninsula</emphasis> and the <emphasis>Canary Islands</emphasis>, predominantly from <emphasis>southern Spain</emphasis> (Andalusia &amp;#61; 88.5% of the specimens), with <emphasis>Málaga province</emphasis> being the best represented, accounting for <emphasis>84.2%</emphasis>. Notably, approximately <emphasis>86%</emphasis> of the samples include <emphasis>geographic coordinates</emphasis>.</para><para>One of the main incorporations of specimens in the <emphasis>MGC-Bryof</emphasis> collection occurred between <emphasis>1976 and 1986</emphasis>, years that reflect the intense activity of <emphasis>Dr. Juan Guerra</emphasis>. Later, the most significant incorporation event took place between <emphasis>2017 and 2024</emphasis>, during surveys carried out by <emphasis>Dr. Baltasar Cabezudo</emphasis> and <emphasis>Dr. Juan Guerra</emphasis> in projects aimed at expanding the knowledge of <emphasis>Sierra de las Nieves National Park</emphasis>, <emphasis>Grazalema Natural Park</emphasis>, <emphasis>Los Alcornocales Natural Park</emphasis>, <emphasis>Montes de Málaga Natural Park</emphasis>, and the <emphasis>Axarquía region</emphasis> of Málaga.</para><para>Identification has been performed mainly by staff of the <emphasis>Department of Plant Biology</emphasis> at the <emphasis>University of Málaga</emphasis> and the <emphasis>University of Murcia</emphasis>, with more than <emphasis>92%</emphasis> of the specimens revised by <emphasis>taxonomy specialists</emphasis>. The <emphasis>MGC-Bryof</emphasis> database has undergone quality controls through <emphasis>DarwinTest v3.3</emphasis> (Pando et al., 2022) and <emphasis>ad hoc</emphasis> verifications, complying with the <emphasis>Darwin Core</emphasis> standards required by GBIF.</para><para>The data from the <emphasis>MGC Herbarium</emphasis> collections are relevant for studies on <emphasis>conservation, taxonomy, flora, cartography, phenology, and palynology</emphasis>, among others. The <emphasis>MGC Herbarium</emphasis> is one of the reference herbaria for <emphasis>Flora iberica</emphasis> (Castroviejo, 1986–2012), <emphasis>Flora Vascular de Andalucía Oriental</emphasis> (Blanca et al., 2009), <emphasis>Flora Briofítica Ibérica</emphasis> (Guerra 2006–), and <emphasis>Flora Phycologica Iberica</emphasis> (Gómez-Garreta 2000–). In addition, the journal <ulink url="https://www.abm.uma.es"><citetitle>Acta Botanica Malacitana</citetitle></ulink> (Acta Botanica Malacitana, 1975–) regularly publishes articles based on data from the collection.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Malaga; Andalusia; Spain; SCAI; University of Malaga; MGC Herbarium; MGC; Plantae; Bryophyta; Pottiaceae; Brachytheciaceae; Grimmiaceae; Orthotrichaceae; Bryaceae; Grimmia; Bryum; Syntrichia; Orthotrichum; Homalothecium</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.mgc.uma.es</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.es/archive.do?r=mgc_briof</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Most of the data refer to the Iberian Peninsula and the Canary Islands, predominantly from southern Spain (Andalusia = 88.5% of the specimens), with Málaga province being the best represented, accounting for 84.2%.
+The MGC-Bryof collection includes a large number of specimens from the main Protected Areas of Málaga province, including the Sierra de las Nieves National Park, the Sierras de Tejeda, Almijara y Alhama and Montes de Málaga Natural Parks, and the Los Reales de Sierra Bermeja and Torcal de Antequera Natural Areas. It also contains material from other Protected Areas in southern Spain, some of which are Natural Parks shared with Málaga (e.g., Los Alcornocales, Sierra de Grazalema).
+Eighty-six percent of the specimens are georeferenced. Almost all were originally recorded using the MGRS coordinate system and later converted into geographic coordinates before being uploaded to the GBIF portal through the Elysia v3.0 software (Pando et al., 2025). The accuracy of the MGRS grid coordinates ranges from 1 m² to 10 km², while the accuracy of the geographic coordinates ranges from 1 to 7,071 m².</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-17.215</westBoundingCoordinate>
+                    <eastBoundingCoordinate>3.224</eastBoundingCoordinate>
+                    <northBoundingCoordinate>43.641</northBoundingCoordinate>
+                    <southBoundingCoordinate>28.138</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1987-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-03-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The MGC-Bryof collection comprises 6,749 sheets grouped into 92 families, 235 genera, 599 species, and 672 taxa (including infraspecific categories). Most specimens are mosses (88.70%), followed by liverworts (10.74%) and hornworts (0.56%).
+The most represented families, in order of abundance, are Pottiaceae (24.4%), Brachytheciaceae (12.0 %), Grimmiaceae (7.9 %), Orthotrichaceae (7.8%) and Bryaceae (5.9%).
+The leading genera, in order of abundance, are Grimmia (6.7 %), Bryum (5.8 %), Syntrichia (3.8 %), Orthotrichum (3.4%), and Homalothecium (3.3%).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                    <commonName>plants</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                    <commonName>mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pottiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Brachytheciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Grimmiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Orthotrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bryaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Grimmia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bryum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Syntrichia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Orthotrichum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Homalothecium</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <salutation>Ph.D.</salutation>
+                <givenName>Jose</givenName>
+                <surName>Garcia Sánchez</surName>
+            </individualName>
+            <organizationName>University of Málaga</organizationName>
+            <positionName>Herbarium Curator</positionName>
+            <address>
+                <deliveryPoint>Servicios Centrales de Apoyo a la Investigación (SCAI). Bulevar Louis Pasteur, 33. Campus de Teatinos</deliveryPoint>
+                <city>Málaga</city>
+                <administrativeArea>Málaga</administrativeArea>
+                <postalCode>29071</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>+34 952137414</phone>
+            <electronicMailAddress>herbariomgc@uma.es</electronicMailAddress>
+            <onlineUrl>http://www.mgc.uma.es/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Drying. Samples are dried before being incorporated into the herbarium.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Digitisation. Specimen information recorded in the field notebook is entered into the local collection database using ELYSIA.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Envelope preparation. In this collection, a double-envelope system is used for mounting the sheets. Specimen data from the database are printed directly onto the envelopes. Each sample is assigned an inner envelope (16.2 × 11.4 cm) and a larger outer envelope (18.7 × 13.2 cm). The inner envelope protects the specimen itself, while the outer envelope allows the sheet to be handled and stored without exposing the specimen.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mounting. The field-collected specimen is placed inside the prepared inner envelope, which is then inserted into the outer envelope. The outer envelope is attached to the herbarium sheet, completing the mounting process. The inner envelope can be sent separately if required on a loan.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Disinfestation. To eliminate any insects, vouchers are frozen at −20 °C for 72 hours. In addition, the herbarium room is periodically fumigated.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Storage. Specimens are stored in compact shelving cabinets and organised alphabetically by genus and species.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Most specimens come from the Iberian Peninsula, mainly southern Spain (Andalusia), with Málaga province being the most widely represented area. The collection aims to cover the broadest possible range of plant biodiversity in this territory.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The specimens in this collection were mainly gathered by researchers from the Botany Area of the Department of Plant Biology at the University of Málaga, as well as by members of the herbarium. A smaller portion of the collection comes from exchanges or donations from other research centers or individual researchers.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Identifications were carried out mainly by staff from the Department of Plant Biology at the University of Málaga and the University of Murcia, with more than 92% of the specimens revised by taxonomic specialists. Any taxonomic updates are incorporated into the database and made available through this dataset on GBIF.
+Before being published on the GBIF portal, the dataset is checked for digitisation errors. Validation is performed using the DarwinTest v3.3 tool (Pando et al., 2022), together with ad hoc verifications conducted through MS Access queries. These checks are designed to detect errors in taxonomy, dates, geospatial information, collectors, identifiers, and other fields.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Digitalización y Gestión de las Bases de Datos del Herbario MGC de la Universidad de Málaga</title>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Baltasar</givenName>
+                    <surName>Cabezudo Artero</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>METADATA_AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>EDITOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>PUBLISHER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>PROGRAMMER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <salutation>Ph.D.</salutation>
+                    <givenName>Jose</givenName>
+                    <surName>Garcia Sánchez</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                    <role>REVIEWER</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Scientific research project: &quot;Informatización del Herbario de la Universidad de Málaga (MGC)&quot;. Reference: CLEG2004-21156-E Fund: Ministerio de Educación y Ciencia (Spain). Length: 2006 January - 2009 September.</para>
+                </funding>
+                <relatedProject >
+                    <title>Scientific research project: &quot;Realización de una prestación de servicios para el mantenimiento e inclusión de pliegos del proyecto Flora de Andalucía Oriental en el Herbario público de la Universidad de Málaga&quot;. Reference: 8.06/03.3353 Fund: Junta de Andalucía Length: 2010 February - 2011 February.</title>
+                    <personnel>
+                        <individualName>
+                            <salutation>Ph.D.</salutation>
+                            <givenName>Baltasar</givenName>
+                            <surName>Cabezudo Artero.</surName>
+                        </individualName>
+                        <role>PRINCIPAL_INVESTIGATOR</role>
+                    </personnel>
+                </relatedProject>
+                <relatedProject >
+                    <title>Scientific research project: &quot;Digitalización y Gestión de las Bases de Datos del Herbario MGC de la Universidad de Málaga&quot;. Reference: 8.06/03.3353 Fund: Ministerio de Ciencia e Innovación (Spain). Subprograma Personal Técnico de Apoyo Length: 2012 January - 2014 December.</title>
+                    <personnel>
+                        <individualName>
+                            <salutation>Ph.D.</salutation>
+                            <givenName>Jose</givenName>
+                            <surName>Garcia Sánchez</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                        <role>CURATOR</role>
+                    </personnel>
+                </relatedProject>
+                <relatedProject >
+                    <title>Scientific research project: LifeWatch ERIC EnBiC2-Lab – Flora Team. Reference: LIFEWATCH‑2019‑UMA‑01. Fund: Ministerio de Ciencia e Innovación (Spain) / Universidad de Málaga / FEDER. Program: LifeWatch ERIC, ERDF2020. Length: 2019 January – 2024 February.</title>
+                    <personnel>
+                        <individualName>
+                            <salutation>Ph.D.</salutation>
+                            <givenName>Jose</givenName>
+                            <surName>Garcia Sánchez</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                        <role>AUTHOR</role>
+                    </personnel>
+                </relatedProject>
+                <relatedProject >
+                    <title>Temporary staff for assistance in fieldworks, contracted through Junta de Andalucía (Spain) research group: Biodiversidad, Conservación y Recursos Vegetales; Group code: RNM-115.</title>
+                    <personnel>
+                        <individualName>
+                            <salutation>Mr.</salutation>
+                            <givenName>David</givenName>
+                            <surName>Navas Fernández</surName>
+                        </individualName>
+                        <role>CURATOR</role>
+                    </personnel>
+                    <personnel>
+                        <individualName>
+                            <salutation>Ph.D.</salutation>
+                            <givenName>Jose</givenName>
+                            <surName>Garcia Sánchez</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0431-5478</userId>
+                        <role>CURATOR</role>
+                    </personnel>
+                </relatedProject>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:52Z</dateStamp>
+                <citation>Garcia Sánchez J (2025). MGC Herbarium of University of Malaga (Spain): MGC-Bryof dataset. University of Malaga. Occurrence dataset https://doi.org/10.15468/fcqlb1 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>&gt;&gt;&gt;&gt;&gt;PUBLICATIONS FROM THIS DATASET&lt;&lt;&lt;&lt;&lt;</citation>
+                <citation identifier="https://doi.org/10.3897/phytokeys.26.5396">García-Sánchez, J., &amp; Cabezudo, B. (2013). Herbarium of the University of Malaga (Spain): Vascular Plants Collection. PhytoKeys, 26, 7–19.</citation>
+                <citation>García-Sánchez, J., &amp; Cabezudo, B. (2014). El herbario MGC de la Universidad de Málaga. Boletín de la Asociación de Herbarios Ibero-Macaronésicos (AHIM), 16, 20–26.</citation>
+                <citation>&gt;&gt;&gt;&gt;&gt;REFERENCES CITED WITHIN THE METADATA&lt;&lt;&lt;&lt;&lt;</citation>
+                <citation>Blanca, G., Cabezudo, B., Cueto, M., Fernández López, C., &amp; Morales Torres, C. (Eds.). (2009). Flora vascular de Andalucía Oriental (4 vols.). Consejería de Medio Ambiente. Junta de Andalucía. Sevilla, Spain.</citation>
+                <citation>Acta Botanica Malacitana. (1975–). Vol. 1–50. Universidad de Málaga. ISSN 0210-9506. ISSN-e 2340-5074. https://www.abm.uma.es</citation>
+                <citation>Castroviejo, S. (Coord. gen.). (1986–2021). Flora iberica: Plantas vasculares de la Península Ibérica e Islas Baleares (Vols. 1–21). Real Jardín Botánico, CSIC.</citation>
+                <citation>Gómez-Garreta, A. (Coord.) (2000-). Flora phycologica iberica. Servicio de Publicaciones, Universidad de Murcia.</citation>
+                <citation>Guerra, J., Cros, R. M. (Coord.) (2006-) Flora Briofítica Ibérica. Sociedad Española de Briología. Murcia, España</citation>
+                <citation>Pando, F., Lujano, M., &amp; Cezón, K. (2025). Elysia (3.0): una aplicación para la gestión completa de colecciones biológicas. GBIF.ES - CSIC. Ministerio de Ciencia e Innovación. Consultado en septiembre de 2025.</citation>
+                <citation>Pando, F., Lujano, M., &amp; Cezón, K. (2022). Darwin Test (3.3): una aplicación para la validación y chequeo de los datos en formato Darwin Core. GBIF.ES. Real Jardín Botánico (CSIC). Ministerio de Ciencia e Innovación. Consultado en marzo de 2022.</citation>
+                <citation>&gt;&gt;&gt;&gt;&gt;REFERENCES USED TO IDENTIFY DATASET SPECIMENS&lt;&lt;&lt;&lt;&lt;</citation>
+                <citation>Guerra, J., Cros, R. M. (Coord.) (2006-) Flora Briofítica Ibérica. Sociedad Española de Briología. Murcia, España</citation>
+                <citation>&gt;&gt;&gt;&gt;&gt;SOME PUBLICATIONS BASED ON THIS DATASET&lt;&lt;&lt;&lt;&lt;</citation>
+                <citation identifier="https://doi.org/10.24310/Actabotanicaabmabm.vi.10143">Guerra, J. (1980). Nota briológica I. Acta Botanica Malacitana. Trabajos y Monografías, 1, 29–36.</citation>
+                <citation>Guerra, J., Cano, M. J., Gallego, M. T., Orgaz, J. D., &amp; Jiménez, J. A. (2010). Novedades corológicas para la flora briofítica ibérica IV. Anales de Biología, 32, 95–99.</citation>
+                <citation>Guerra, J., Cano, M. J., Jiménez, J. A., &amp; Gallego, M. T. (2007). Novedades corológicas para la flora briofítica ibérica II. Anales de Biología, 29, 109–110.</citation>
+                <citation>Guerra, J., Cano, M. J., Orgaz, J. D., &amp; Ríos, D. (2013). Novedades corológicas para la flora briofítica ibérica V. Anales de Biología, 35, 9–11.</citation>
+                <citation identifier="https://doi.org/10.24310/abm.v45i.10516">Guerra, J., Casimiro-Soriguer Solanas, F., &amp; Cabezudo Artero, B. (2020). Adiciones a la flora briofítica del Espacio Natural Sierra de las Nieves (Málaga, España). Acta Botanica Malacitana, 45, 217–219.</citation>
+                <citation identifier="http://dx.doi.org/10.6018/analesbio.45.10">Guerra, J., Fernández, J. A. J., Gallego, M. T., Rodríguez, O., Cano, M. J., &amp; Cabezudo, B. (2023). Flora briofítica del Valle del Genal (Málaga, España). Anales de Biología, 45, 77–96.</citation>
+                <citation>Guerra, J., Gallego, M. T., Jiménez, J. A., Cano, M. J., Casimiro-Soriguer Solanas, F., Pérez Latorre, A. V., &amp; Cabezudo, B. (2018). Flora briofítica del espacio natural Sierra de las Nieves y su entorno (Málaga, España). Universidad de Murcia.</citation>
+                <citation identifier="http://dx.doi.org/10.6018/analesbio.44.08">Guerra, J., Jiménez, J. A., Cano, M. J., Rodríguez, O., &amp; Cabezudo, B. (2022). Flora briofítica del Parque Natural Montes de Málaga y su entorno (Sur de España). Anales de Biología, 44, 81–95.</citation>
+                <citation identifier="https://doi.org/10.24310/abm.49.2024.19849">Guerra, J., Jiménez, J. A., Gallego, M. T., Rodríguez, O., Cano, M. J., &amp; Cabezudo, B. (2024). Contribución al conocimiento de la flora briofítica de la Serranía de Ronda occidental (Málaga, sur de España). Acta Botanica Malacitana, 49, 71–94.</citation>
+                <citation identifier="https://doi.org/10.24310/abm.v48i.16177">Guerra, J., Montes, J., Jiménez, J. A., Cano, M. J., Gallego, M. T., Rodríguez, O., &amp; Cabezudo, B. (2023). Contribución al conocimiento de la flora briofítica de la comarca de la Axarquía y la ZEC Sierra de Camarolos (Málaga, España). Acta Botanica Malacitana, 48, 1–13.</citation>
+                <citation identifier="https://doi.org/10.24310/Actabotanicaabmabm.v11i.9461">Guerra, J., Ruiz de Clavijo, E., &amp; Sergio, C. (1986). Sobre la distribución de Riella helicophylla (Bory et Mont.) Mont. en la Península Ibérica. Acta Botanica Malacitana, 11, 75–76.</citation>
+                <citation>Lasala, E. F. (1983). El género Crossidium Jur. en la Península Ibérica; Islas Baleares, Canarias y Madeira. Anales del Jardín Botánico de Madrid, 40(1), 29–35.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://mgc-gbif.uma.es/BBDD_MGC/images/LOGOS/logo_UMA-SCAI-MGC_3x2.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                    <collectionIdentifier>96bfeedc-f762-11e1-a439-00145eb45e9a</collectionIdentifier>
+                    <collectionName>MGC-Briof</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Sheets</jgtiUnitType>
+                    <jgtiUnits>6,751</jgtiUnits>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Taxa</jgtiUnitType>
+                    <jgtiUnits>645</jgtiUnits>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Species</jgtiUnitType>
+                    <jgtiUnits>599</jgtiUnits>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Genus</jgtiUnitType>
+                    <jgtiUnits>233</jgtiUnits>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Families</jgtiUnitType>
+                    <jgtiUnits>92</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

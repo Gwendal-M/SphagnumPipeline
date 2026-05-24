@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0de20c27-792a-461b-ae59-3ab8221a1113"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/vcjzts</alternateIdentifier>
+        <alternateIdentifier>0de20c27-792a-461b-ae59-3ab8221a1113</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr703</alternateIdentifier>
+        <alternateIdentifier>1b5cf6b6-0e95-3703-a2a4-f7d5102e7d35</alternateIdentifier>
+        <alternateIdentifier>11862</alternateIdentifier>
+        <title>Dorset SSSI Species Records 1952 - 2004 (Natural England)</title>
+        <creator>
+            <organizationName>Dorset Environmental Records Centre</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Dorset Environmental Records Centre</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-09-17
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Species records for Sites of Special Scientific Interest extracted from (then) English Nature Dorset Team Slepe Farm office files.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr703</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr703/dr703.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>All SSSI files for Dorset were checked for species data.  Not all SSSIs or SMUs had species records in the files.  The majority of the records taken from the Phase 1 maps and target notes had a 100m grid reference estimated from the 1:10 000 maps although many of these were reduced photocopies leading to some minor inaccuracies.  Other records were assigned to a 100m site centroid for the SSSI or SMU.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-2.923</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-1.788</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.024</northBoundingCoordinate>
+                    <southBoundingCoordinate>50.484</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1952-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2004-09-13
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Previous to the data entry taking place, DERC identified gaps in the distribution of Dorset Notable plants species. Adding records from SSSIs, was recognised as a way of filling these gaps that would also apply across all taxonomic groups.</para></purpose>
+        <contact>
+            <individualName>
+                <surName>Alison Stewart</surName>
+            </individualName>
+            <electronicMailAddress>derc@dorsetcc.gov.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Species records in paper form held in the SSSI files from a variety of sources were entered directly into a copy of Recorder (v3) during 1996 and 1997.  The source of the majority of the records were Phase 1 maps and target notes prepared by (then) Nature Conservancy Council staff, but also records from later monitoring visits and historical records from local naturalists were entered.  In subsequent years additional data added to the files was also entered onto Recorder.  Maps for Site Management Units (SMUs) were beginning to be prepared in English Nature at the same time as the original data entry work and the decision was taken to use these as a basis for compartmentalising the records.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Following data entry, the plant records (which form the majority) were checked by an expert.&lt;br /&gt;&lt;br /&gt;
+ All the records in this dataset have been checked against the current SMU boundaries to ensure grids fall within/close to boundaries.  Where SMU boundaries have changed since data entry (renumbering or splitting/merging of units), the records have been reassigned appropriately.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:26Z</dateStamp>
+                <citation>Dorset Environmental Records Centre (2022). Dorset SSSI Species Records 1952 - 2004 (Natural England). Occurrence dataset https://doi.org/10.15468/vcjzts accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Dorset-Environmental-Records-Centre-logo-March-2014-Green-730x266.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a6749cf4-0770-4482-a469-e80833e0f96a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/k9bzm9</alternateIdentifier>
+        <shortName>Projet éolien de la Forêt de Bauzon études flore et chiroptères 2016/2017</shortName>
+        <title>07-Boralexforetdebauzon - Projet éolien de la Forêt de Bauzon études flore et chiroptères 2016/2017</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-23
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Suivi des chiroptères
+
+Suivi de la flore
+        </abstract>
+        <keywordSet>
+            <keyword>chiroptère</keyword>
+            <keyword>éolien</keyword>
+            <keyword>flore</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventaire pour étude impact</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/E543F993-831E-643B-E053-0514A8C0C99C</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>3.9618</westBoundingCoordinate>
+                    <eastBoundingCoordinate>4.08049</eastBoundingCoordinate>
+                    <northBoundingCoordinate>44.71746</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.65076</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-07-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-06-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>EXEN</surName>
+            </individualName>
+            <organizationName>EXEN</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>SARL PEPIN-HUGONNOT</surName>
+            </individualName>
+            <organizationName>SARL PEPIN-HUGONNOT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>EXEN</surName>
+            </individualName>
+            <organizationName>EXEN</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>07-Boralexforetdebauzon</title>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>BORALEX FORET DE BAUZON</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>BORALEX FORET DE BAUZON</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>SARL PEPIN-HUGONNOT</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>EXEN</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Le projet éolien de la Forêt de Bauzon est composé de 7 éoliennes sur la commune d&apos;Astet pouvant générer suivant le modèle retenu jusqu’à 80 GWh d’électricité par an. Cette production est équivalente à la consommation résidentielle totale d’électricité de 17 100 foyers.
+
+Le principe d’évitement a été mis en oeuvre dès le choix du site. Les dimensions importantes du site d&apos;étude ont ensuite permis à Boralex de mettre en oeuvre une réelle démarche ERC. Le parti pris du projet a été de réduire la taille du parc éolien en termes de nombre d’éoliennes, en installant des modèles de machines d’un gabarit plus important, que ce soit en termes de puissance et de taille. Le parc éolien de la forêt de Bauzon de 7 éoliennes produira autant d’électricité que les 14 éoliennes du parc éolien de Cham Longe dans sa version renouvelée. 7 variantes ont été dessinées, 4 présélectionnées puis soumis à une analyse de risque d’impact par les experts environnementaux et paysagers. Des 2 variantes de moindre impact retenues, a été choisie la variante optimale d’un point de vue de la production énergétique, des retombées économiques locales et du coût de production de l’électricité. La variante retenue a enfin connu quelques ajustements de façon à obtenir un projet de moindre impact environnemental. Des mesures de compensation, ainsi que de suivi et d’accompagnement ont été proposées lorsque cela s’avérait utile. Les inventaires écologiques réalisés dans le cadre de cette étude ont pris en compte le cycle écologique de la faune (oiseaux, chiroptères, faune terrestre et aquatique) et de la flore. Ils ont montré que les enjeux et les impacts bruts peuvent être modérés sur certaines espèces. Cependant, après la prise en compte des mesures ERC, les impacts résiduels estimés sont non significatifs à faibles. La création d’un îlot de sénescence d’environ 10 ha pendant la durée d’exploitation du parc éolien (30 ans) permet le développement de fonctionnalités écologiques et sera favorable à toutes les espèces de la Forêt de Bauzon. Cette mesure permet de respecter l’objectif d’absence de perte nette et même d’un gain de biodiversité, conformément à la loi pour la reconquête de la biodiversité, de la nature et des paysages du 8 août 2016.
+
+L’étude acoustique a montré que le projet respectera, après intégration des mesures de réduction, la réglementation française actuelle.
+
+L’étude paysagère a permis de mettre en évidence qu’à l’échelle du paysage immédiat, le projet éolien ne se voit que rarement dans son ensemble, seulement depuis certains lieux de vie situés principalement vers l’Est et le Sud. La fragmentation des vues est un facteur d’identité du secteur avec les alternances de clairières et de bois, le projet éolien est donc à l’image de cette caractéristique.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:56Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2022). 07-Boralexforetdebauzon - Projet éolien de la Forêt de Bauzon études flore et chiroptères 2016/2017. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/k9bzm9 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

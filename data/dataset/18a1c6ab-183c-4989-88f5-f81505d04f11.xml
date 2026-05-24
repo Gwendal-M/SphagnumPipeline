@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="18a1c6ab-183c-4989-88f5-f81505d04f11"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/v5rjxq</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=117</alternateIdentifier>
+        <title>Columbia-Greene Community College Natural History Museum Bryophyte Herbarium</title>
+        <creator>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>William Cook</surName>
+            </individualName>
+            <electronicMailAddress>cook@sunycgcc.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Columbia-Greene Community College is home to a natural history museum with 2000 bird skin specimens, 1400 egg sets with over 5000 eggs, 3000 vascular plant herbarium specimens, and 2000 bryophyte specimens.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://bryophyteportal.org/portal/content/dwca/CGCC_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>Columbia-Greene Community College Natural History Museum Bryophyte Herbarium</organizationName>
+            <electronicMailAddress>cook@sunycgcc.edu</electronicMailAddress>
+            <onlineUrl>https://www.columbiagreene.edu/academics/natural-history-museum-2/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:10Z</dateStamp>
+                <citation>Columbia-Greene Community College Natural History Museum (2026). Columbia-Greene Community College Natural History Museum Bryophyte Herbarium. Occurrence dataset https://doi.org/10.15468/v5rjxq accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

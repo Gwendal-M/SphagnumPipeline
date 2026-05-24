@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a8adde1c-1d66-4ad0-846f-cdf59fc4cb0f"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/pidttc</alternateIdentifier>
+        <alternateIdentifier>http://www.ipt-cenma.ad/resource?r=dades-flora</alternateIdentifier>
+        <title>Flora d&apos;Andorra</title>
+        <creator>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Martínez de la Riva</surName>
+            </individualName>
+            <organizationName>SMR</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Madrid</city>
+                <administrativeArea>Madrid</administrativeArea>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>santiagomtzdelariva@yahoo.es</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Martínez de la Riva</surName>
+            </individualName>
+            <organizationName>SMR</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Madrid</city>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>santiagomtzdelariva@yahoo.es</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2016-03-12
+        </pubDate>
+        <language>CATALAN</language>
+        <abstract>
+            Los datos “Flora d’Andorra” son una recopilación de los datos de flora que se han observado en territorio andorrano. Tal recopilación ha sido realizada por el Centre d’Estudis de la Neu i de la Muntanya d’Andorra de l’Institut d’Estudis Andorrans (CENMA-IEA). La gran mayoría de los datos provienen de citas bibliográficas pero también se incluyen los datos generados y contrastados por las propias instituciones públicas o empresas andorranas. 
+Este conjunto de datos fue revisado y actualizado en marzo de 2016 y contiene un total de 60202 registros. La precisión espacial de los datos es de 1 km2.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>monograph</keyword>
+            <keyword>publication</keyword>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.iea.ad/cenma</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://orphans.gbif.org/AD/a8adde1c-1d66-4ad0-846f-cdf59fc4cb0f.182.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Andorra es un país situado al sur de Europa en medio de la cordillera de los Pirineos.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>1</westBoundingCoordinate>
+                    <eastBoundingCoordinate>1</eastBoundingCoordinate>
+                    <northBoundingCoordinate>42</northBoundingCoordinate>
+                    <southBoundingCoordinate>42</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <purpose><para>El propósito principal de este juego de datos es dar a conocer de forma libre la biodiversidad de Andorra y contribuir así al conocimiento general del planeta.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Los datos han sido recopilados por el CENMA en un formato común XML a partir del programa libre Fagus (Universidad de Barcelona). Posteriormente se ha transformado Excel y Access para que estos puedan ser revisados a partir de la Herramienta DarwinTest.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Ámbito nacional de Andorra</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Recopilación de los datos bibliográficos y observaciones de campo de las instituciones andorranas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Todos los datos han sido comprobados por la herramienta DarwinTest (herramienta realizada por GBIF-España).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:48Z</dateStamp>
+                <citation>Caritg R, Martínez de la Riva S (2016). Flora d&apos;Andorra. Centre d&apos;estudis de la neu i de la muntanya d&apos;Andorra (CENMA), Institut d&apos;Estudis Andorrans. Occurrence dataset https://doi.org/10.15468/pidttc accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Hernández Cardona, A.M. (1978). Estudio monográfico de los géneros Poa y Bellardiochloa en la Península Ibérica e Islas Baleares. Dissertaciones Botanicae 46. J. Cramer.</citation>
+                <citation>Aymerich i Boixader, P. (1998); Aportació al coneixement florístic del nord de Catalunya.; Butll. Inst. Cat. Hist. Nat., 66: 41-57.</citation>
+                <citation>Benedí, C., Molero, J. &amp; Romo, A.M. (1986); Aportacions a la flora dels Prepirineus centrals catalans.; Collect. Bot. (Barcelona), 16(2):</citation>
+                <citation>Bolòs, O. de (1952); Notas Florísticas III.; Collect. Bot. (Barcelona), III(II).</citation>
+                <citation>Bolòs, O. de (1976); L&apos;Aphyllanthion dans les Pays catalans.; Collect. Bot. (Barcelona), 10:</citation>
+                <citation>Bolòs, O. de &amp; Vigo, J. (1979); Observacions sobre la flora dels Països Catalans.; Collect. Bot. (Barcelona), 11:</citation>
+                <citation>Bolòs, O.; Font, X. &amp; Pons, X.; editors (1994); Atlas Corològic, 4; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; Pons, X.; Romo, À. &amp; Vigo, J.; editors (1993); Atlas Corològic, 3; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; Pons, X.; &amp; Vigo, J.; editors (1995); Atlas Corològic, 5; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; Pons, X.; &amp; Vigo, J.; editors (1997); Atlas Corològic, 6; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; Pons, X.; &amp; Vigo, J.; editors (1997); Atlas Corològic, 7; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; Pons, X.; &amp; Vigo, J.; editors (1998); Atlas Corològic, 8; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; &amp; Vigo, J.; editors (1999); Atlas Corològic, 9; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; &amp; Vigo, J.; editors (2000); Atlas Corològic, 10; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; &amp; Vigo, J.; editors (2001); Atlas Corològic, 11; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O.; Font, X.; &amp; Vigo, J.; editors (2003); Atlas Corològic, 12; ORCA. I.E.C. (Secció de Ciències Biològiques)</citation>
+                <citation>Bolòs, O.; Font, X.; &amp; Vigo, J.; editors (2004); Atlas Corològic, 13; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Bolòs, O. &amp; Romo, À.; editors (1991); Atlas Corològic, 2; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Braun-Blanquet, J. (1948); La végétation alpine des Pyrénées orientales.; Mon. Estac. Est. Pir. &amp; Inst. Esp. Edaf. Ecol. Fisiol. Veg., 9.</citation>
+                <citation>Carreras, J., A. Carrillo, X. Font, J. M. Ninot &amp; J. Vigo (1983); Els prats de l&apos;alianca Xerobromion als pirineus catalans.; Collect. Bot. (Barcelona),</citation>
+                <citation>Carreras, J. Carrillo, E.; Ninot, J.M. &amp; Vigo J. (1997); &apos;Contribution to the phytocenological knowledge of Pyrenean forest&apos;; Fragm. Flor. Geobot. 42(1):</citation>
+                <citation>Carrillo, A.; Ninot, J. M. i Vigo, J. (1984); Notes sobre la vegetació de vorada de bosc (Origanetalia vulgaris).; Butll. Inst. Cat. Hist. Nat., 51 (Sec. Bot., 5): 161-171.</citation>
+                <citation>Carrillo, E.; Carreras, J.; Ferré, A.; Mercadé, A.; March, S.; Salvat, A. (2007); Catàleg de flora vascular (Pteridophyta i Spermatophyta) de la part est del Parc Natural Comunal de les valls del Comapedrosa (i del Parc sencer); Comú de la Massana. Informe inèdit</citation>
+                <citation>Carrillo, E. i Ninot, J. M. (1986); Sobre algunes comunitats rupícoles dels Pirineus catalans.; Fol. Bot. Misc., 5: 97-103.</citation>
+                <citation>Carrillo, E. i Ninot, J. M. (1990); El Saxifrago-Minuartietum sedoidis, una nova associació del Festucion airoidis.; Fol. Bot. Misc., 6: 103-107.</citation>
+                <citation identifier="ISBN: 978-99920-0-481-4">Carrillo, E.; Mercadé, A.; Ninot, J.M.; Carreres, J.; Ferré, A.; Font, X.&quot; (2008); Check-list i Llista vermella de la flora d&apos;Andorra; CENMA de l&apos;IEA, i Ministeri d&apos;Ordenament Territorial, Urbanisme i Medi Ambient, Govern d&apos;Andorra.</citation>
+                <citation>Carrillo, E., Ninot, J. M. i Vigo, J. (1983); La vegetación de la clase Epilobietea angustifolii.; Lazaroa, 5: 97-109.</citation>
+                <citation>Casanovas i Poch, L. (1991); Estudi sobre l&apos;estructura i l&apos;ecologia de les molleres pirinenques.; Tesi Doctoral.</citation>
+                <citation>Casasayas, T. (1989); La flora al·lòctona de Catalunya.; Tesi Doctoral.</citation>
+                <citation>Diversos autors (1987); Atlas Corològic, 1; ORCA. I.E.C. (Secció de Ciències Biològiques).</citation>
+                <citation>Farreny, J. E. (1978); Contribució al coneixement de la flora de la Vallferrera.; Acta Bot. Barc.,</citation>
+                <citation>Fernández Casas, Francisco Javier &amp; Fernández Sánchez, Abel Juan, Eds. (2002); Asientos para un atlas corológico de la flora occidental, 25.; Cavanillesia Altera, 2. 808 pp.</citation>
+                <citation>Fernández Casas, Javier, Ed. (1988); Asientos para un atlas corológico de la flora occidental, 9.; Fontqueria 18:</citation>
+                <citation>Fernández Casas, Javier, Ed. (1988); Asientos para un atlas corológico de la flora occidental, 8.; Fontqueria 16:</citation>
+                <citation>Fernández Casas, Javier; Gamarra Gamarra, Roberto &amp; Morales Abad, M. José (1994); Asientos para un atlas corológico de la flora occidental, 22.; Fontqueria, 40:</citation>
+                <citation>Fernández Casas, Javier; Gamarra Gamarra, Roberto &amp; Morales Abad, M. José, eds. (1995); Asientos para un atlas corológico de la flora occidental, 23.; Fontqueria, 42:</citation>
+                <citation>Fernández Casas, Javier &amp; Gamarra, Roberto, eds. (1990); Asientos para un atlas corológico de la flora occidental, 17.; Fontqueria, 30:</citation>
+                <citation>Font, X. (1993); Estudis geobotànics sobre els prats xeròfils de l&apos;estatge montà dels Pirineus.; I.E.C. Arxius de la Secció de Ciències, 105. 828 pp.</citation>
+                <citation>Font, X. &amp; Ninot, J. M. (1990); L&apos;aliança Sedo-Scleranthion als Pirineus catalans.; Fol. Bot. Misc., 7: 141-155.</citation>
+                <citation>Gacia, E., Ballesteros, E., Camarero, L., Delgado, O., Palau, A., Riera, J.L. &amp; Catalan, J. (1994); Macrophytes from lakes in the eastern Pyrenees: community composition and ordination in relation to environmental factors.; Freshwater Biology,</citation>
+                <citation>Galán de Mera, Antonio; Lucas García, José Antonio &amp; Probanza Lobo, Agustín (1995); Fragmenta chorologica occidentalia, 5526.; Anales Jard. Bot. Madrid, 53(1): 115.</citation>
+                <citation>Gruber, M. (1975); &apos;Les associations du Nardion en Pyrénées ariégeoises et catalanes&apos;.; Bull. Soc. Bot. Fr., 122: 401-416.</citation>
+                <citation>Gruber, M. (1978); Les éboulis de l&apos;Androsacion alpinae en Pyrénées ariégeoises et catalanes occidentales.; Bull. Soc. Hist. Nat. Toulouse, 114:</citation>
+                <citation>Gruber, M. (1978); La végétation des Pyrénées ariégeoises et catalanes occidentales.; Thèse, Fac. Sc. T. St. Jeròme. Université Aix-Marseille, III.</citation>
+                <citation>Gruber, M. (1979); Les pelouses calcicoles orophiles et nordiques des étages subalpin de type médio-européen et alpin en Ariege et en Pyrénées catalanes occidentales.; Ecol. Medit.,</citation>
+                <citation>Hernández Cardona, A. M. (1978); Estudio monográfico de los géneros Poa y Bellardiochloa en la Península Ibérica e Islas Baleares.; Dissertationes Botanicae, 46.</citation>
+                <citation>Javier Fernández Casas &amp; Roberto Gamarra, eds. (1992); Asientos para un atlas corológico de la flora occidental, 19.; Fontqueria</citation>
+                <citation>Joan Bouchard (1981); Primer Herbari de la Flora d&apos;Andorra.; Institut d&apos;Estudis Andorrans. Centre de Perpinyà.</citation>
+                <citation>Lazare, J.J et al.; Estudi inventari de les molleres d&apos;Andorra 2002-2006; Departament de Medi Ambient, Govern d&apos;Andorra.</citation>
+                <citation>Lluent, Artur; Carrillo, Empar (2007); Estudi de l&apos;estructura i funcionament de les comunitats quionòfiles als Pirineus en relació a la variació dels factors ambientals; Tesi doctoral, Universitat de Barcelona Departament de Biologia Vegetal.</citation>
+                <citation>Losa &amp; Montserrat (1950); Aportacion al conocimiento de la flora de Andorra.; CSIC.</citation>
+                <citation>Losa, M. y Montserrat, P. (1951); Aportación al conocimiento de la flora de Andorra.; Instituto de Estudios Pirenaicos. 184 pp.</citation>
+                <citation>Mateo, G. (1997); Sobre los táxones del género Hieracium L. (Compositae) descritos como nuevos en España, IV. Letras H-M.; Flora Montiberica, 6:5-21.</citation>
+                <citation>Mateo Sanz, Gonzalo (2004); Aportaciones al conocimiento del género Hieracium, VIII. Novedades para Andorra.; Flora Montiberica, 28: 68-72.</citation>
+                <citation>Montserrat &amp; Benito (2000); Novedades para la flora de Andorra; Acta Botanica Barcinonensia, 46.</citation>
+                <citation>Montserrat Recoder, P. &amp; Benito, J. L. (2000); Novedades para la flora de Andorra.; Acta Bot. Barc.,</citation>
+                <citation>Nègre, R., A. Baudiere &amp; L. Serve (1982); Approche analitique sur les groupements à Festuca paniculata est-pyrénéens.; Doc. Phytosoc., 6(N.S.):443-475.</citation>
+                <citation>Nuet, J. (1981); Estudi sobre l&apos;àrea de dispersió de l&apos;avet (Abies alba Miller.) a les terres catalanes.; Butll. Inst. Cat. Hist. Nat., 46 (Sec. Bot., 4): 117-127.</citation>
+                <citation>Prado de Santayana, Manuel (1992); Stachys subgénero Betonica (L.) Battach. en la península Ibérica.; Portug. Acta Biol., 19: 319-339.</citation>
+                <citation>Rivas-Martínez, S. (1968); Estudio fitosociologico de los bosques y matorrales pirenaicos del piso subalpino.; Publ. Inst. Biol. Aplic., 44:5-44.</citation>
+                <citation>Rivas-Martínez, S. (1969); Las comunidades de los ventisqueros (Salicetea herbaceae) del Pirineo Central.; Vegetatio, 17: 232-250. Den.</citation>
+                <citation>Rivas-Martínez, S.; Báscones, J. C.; Díaz, T. E.; Fernandez-Gonzalez, F. (1991); Vegetación del Pirineo-Occidental y Navarra.; Itinera Geobot.,</citation>
+                <citation>Romo, A.M. (1985); Plantes dels Pirineus Catalans.; Collect. Bot. (Barcelona).</citation>
+                <citation>Ruzafa, A. (2011); Flora al·lòctona d&apos;Andorra. Avaluació de risc d&apos;invasió i d&apos;idoneïtat d&apos;establiment per a tres espècies significatives; Treball de final de carrera. Enginyeria Tècnica Forestal (UdL)</citation>
+                <citation>Sáez, Llorenç (2000); El complex d&apos;Asplenium trichomanes L. (Aspleniaceae, Pteridophyta) al nord-est de la península Ibèrica.; Orsis, 15: 27-43.</citation>
+                <citation>Sáez, Llorenç. (1997); Atlas pteridològic de Catalunya i Andorra.; Acta Bot. Barc., 44.</citation>
+                <citation>Salvat, Andreu; Blasi, Bernat; Campos, Miquel &amp; Moles, Anna (2003); Els boscos de ribera d&apos;Andorra: tipificació, cartografia i estat de conservació.; Acta Bot. Barc., 49: 375-392.</citation>
+                <citation>Silvestre, S. (1973); Estudio taxonómico de los géneros Conopodium Koch. y Bunium L. en la península Ibérica. II. Parte sistemática.; Lagascalia, 3(1):</citation>
+                <citation>Soriano, I. (1985); Dades florístiques per a l&apos;Alt Berguedà.; Collect. Bot. (Barcelona),</citation>
+                <citation>Uribe-Echebarría, Pedro María &amp; Urrutia, Pello (1988); Sobre la presencia en la Península Ibérica de Teucrium montanum L. y su híbrido con T. pyrenaicum L.; Homenaje a Pedro Montserrat. Monogr. Inst. Piren. Ecol. Jaca, 4: 359-363.</citation>
+                <citation>Vargas, Pablo (1997); Otra especie del género Saxifraga L. (Saxifragaceae) endémica del macizo del Montseny (Cataluña). In:&apos;Notulae in opus Flora Iberica intendentes&apos;.; Anales Jard. Bot. Madrid, 55(1): 191-195.</citation>
+                <citation>Vicens, J. (1996); Cistus x ledon Lam., Aster lynosiris (L.) Bernh. i Senecio inaequidens L., tres plantes interessants de la flora catalana. In: &apos;Notes breus (flora).&apos;; Butll. Inst. Cat. Hist. Nat., 64: 78.</citation>
+                <citation>Vigo, J. (1974); Notes sobre la flora dels Pirineus Catalans.; Butll. Inst. Cat. Hist. Nat., 38 (Sec. Bot., 1): 43-60.</citation>
+                </bibliography>
+                <resourceLogoUrl>http://www.ipt-cenma.ad/logo.do?r=dades-flora</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

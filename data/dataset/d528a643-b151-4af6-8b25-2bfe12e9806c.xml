@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d528a643-b151-4af6-8b25-2bfe12e9806c"  system="http://gbif.org" scope="system"
+xml:lang="sk">
+    <dataset>
+        <alternateIdentifier>10.15468/vezgb6</alternateIdentifier>
+        <alternateIdentifier>https://slovakia.ipt.gbif.no/resource?r=flora_lomnica_2024</alternateIdentifier>
+        <title>Prieskum rastlín, Tatranská Lomnica, lyžiarske stredisko</title>
+        <creator>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Juříček</surName>
+            </individualName>
+            <organizationName>SZCO</organizationName>
+            <positionName>botanist</positionName>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Králik</surName>
+            </individualName>
+            <electronicMailAddress>m.kralik@hbhprojekt.sk</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-10-21
+        </pubDate>
+        <language>SLOVAK</language>
+        <abstract>
+            <para>Počas vegetačnej sezóny 2024 bolo záujmové územie dvakrát navštívené a pri každej návšteve bol spísaný zoznam všetkých prítomných druhov s dôrazom na druhy ohrozené. Prvá návšteva prebehla na začiatku júna a druhá na začiatku augusta.
+V tomto roku boli monitorované iba polohy v nižšej nadmorskej výške od dolnej stanice lanovky po medzistanicu Štart a na zjazdovkách čiastočne ešte o niečo vyššie. Zvyšok územia bude podrobne sledovaný v nasledujúcom roku. Sledovaný bol výskyt prírodných i neprírodných biotopov v území (často mapovaný v mozaike). Floristický prieskum bol vykonávaný zberom prezenčne absenčných dát, avšak s doplňujúcimi informáciami o početnosti a veľkosti populácií vzácnych druhov. Zoznamy druhov sú uvedené v súvisiacich prílohách tejto správy. Nomenklatúra je použitá podľa Kľúča ku květeně SR (Kaplan et al. 2019), ďalej bola použitá monografia Flóry Slovenska (II.-VI.1 (1966 - 2008) a Katalóg Biotopov Slovenska (Šuvada 2023). Významné druhy boli hodnotené podľa Červeného zoznamu výtrusných a kvitnúcich rastlín Slovenska (Eliáš et al. 2015).
+</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://slovakia.ipt.gbif.no/archive.do?r=flora_lomnica_2024</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>N/A</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>20.243</westBoundingCoordinate>
+                    <eastBoundingCoordinate>49.171</eastBoundingCoordinate>
+                    <northBoundingCoordinate>49.183</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.167</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Králik</surName>
+            </individualName>
+            <organizationName>HBH Projekt spol. s r.o.,Kabátnikova 5,  602 00 Brno,ČR – organizačná zložka Slovensko Miesto podnikania: Ružová Dolina 10</organizationName>
+            <positionName>ecologist</positionName>
+            <userId directory="https://orcid.org/">0000-0001-8566-7637</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:03Z</dateStamp>
+                <citation>Juříček M (2024). Prieskum rastlín, Tatranská Lomnica, lyžiarske stredisko. HBH Projekt spol. s r.o.,Kabátnikova 5,  602 00 Brno,ČR – organizačná zložka Slovensko. Occurrence dataset https://doi.org/10.15468/vezgb6 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="598e2f1d-0f35-4bf4-9fa9-3a63fd6912d9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/vqpwyn</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=zifsuplants2021</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/eca/resource?r=zifsuplants2021</alternateIdentifier>
+        <alternateIdentifier>598e2f1d-0f35-4bf4-9fa9-3a63fd6912d9</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=zifsuplants2021</alternateIdentifier>
+        <title>Phytocenoteca of the laboratory of ecosystem theory (Plants)</title>
+        <creator>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Khomiak</surName>
+            </individualName>
+            <organizationName>Zhytomyr Ivan Franko State University</organizationName>
+            <positionName>docent of Department of Ecology and Geography</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>ecosystem_lab@ukr.net</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mariia</givenName>
+                <surName>Kozyn</surName>
+            </individualName>
+            <organizationName>Zhytomyr Ivan Franko State University</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>marija.kozin1@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ivanna</givenName>
+                <surName>Mykulina</surName>
+            </individualName>
+            <organizationName>Zhytomyr Ivan Franko State University</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>mikulinaivanna@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Khomiak</surName>
+            </individualName>
+            <organizationName>Zhytomyr Ivan Franko State University</organizationName>
+            <positionName>docent of Department of Ecology and Geography</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>ecosystem_lab@ukr.net</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Marushchak</surName>
+            </individualName>
+            <organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName>
+            <positionName>junior researcher</positionName>
+            <address>
+                <deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint>
+                <city>Kyiv</city>
+                <postalCode>01030</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380964882670</phone>
+            <electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-29
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Location of plant species on the territory of Ukrainian Polissya is highlighted in the dataset. These are data of standard geobotanical descriptions, expeditionary and stationary observations.
+        </abstract>
+        <keywordSet>
+            <keyword>Fungi</keyword>
+            <keyword>plants</keyword>
+            <keyword>Ukraine</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Polissya</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=zifsuplants2021</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The data was collected from the territory of Ukrainian Polissya.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>23.522</westBoundingCoordinate>
+                    <eastBoundingCoordinate>35.673</eastBoundingCoordinate>
+                    <northBoundingCoordinate>52.369</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.16</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2004
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Representatives of Plantae, Fungi and Bacteria kingdoms are mentioned in the dataset.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Khomiak</surName>
+            </individualName>
+            <organizationName>Zhytomyr Ivan Franko State University</organizationName>
+            <positionName>docent of Department of Ecology and Geography</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>ecosystem_lab@ukr.net</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Field research.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identification of species.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Creating a standard geobotanical description.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Classification of plant communities.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The data were obtained during field research. Expeditionary and stationary methods of observations were used. The methods were used to make a standard geobotanical description.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Species were determined according to Dobrochayeva D. N., et al. The determinant of higher plants of Ukraine, ed. Yu N. N. Prokudin. - K .: Science. opinion, 1987. - 548 p. The names of the species are specified according to Mosyakin S.L., Fedoronchuk M.M. Vascular plants of Ukraine. A nomenclatural checklist. - Kiev, 1999. - 345 pp. Habitats were determined by the method of Brown Blanke.
+The coordinates were set using a GPS navigator.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Authors of the dataset are fully responsible for the correctness of species identifications, information on organisms&apos; quantity and georeferencing. Minor issues and mistakes were corrected by Oleksii Marushchak.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="nlbif2018.2019.004">
+                <title>Mobilization of biodiversity data from Ukraine to GBIF</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Svetlana</givenName>
+                    <surName>Miteva</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Mikhail</givenName>
+                    <surName>Rusin</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Dataset has been organized with the support of Project nlbif2018.2019.004 funded by NLBIF to The Habitat Foundation &quot;Mobilization of biodiversity data from Ukraine to GBIF&quot; https://www.nlbif.nl/mobilization-of-biodiversity-data-from-ukraine-to-gbif/</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:23Z</dateStamp>
+                <citation>Khomiak I, Kozyn M, Mykulina I (2022). Phytocenoteca of the laboratory of ecosystem theory (Plants). Version 1.5. Zhytomyr Ivan Franko State University. Occurrence dataset https://doi.org/10.15468/vqpwyn accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

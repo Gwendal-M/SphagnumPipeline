@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5e6167cd-d92d-48f4-87a9-4a1fafc6853f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/4yrsc6</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=26</alternateIdentifier>
+        <title>University of North Carolina at Chapel Hill Herbarium: Bryophytes</title>
+        <creator>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Carol Ann</givenName>
+                <surName>McCormick</surName>
+            </individualName>
+            <positionName>Herbarium Curatrix</positionName>
+            <electronicMailAddress>mccormick@unc.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Alan</givenName>
+                <surName>Weakley</surName>
+            </individualName>
+            <positionName>Herbarium Director</positionName>
+            <electronicMailAddress>weakley@unc.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-04-15
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The University of North Carolina Chapel Hill Herbarium (NCU) is a Department within the North Carolina Botanical Garden of the University of North Carolina at Chapel Hill. NCU curates vascular plants, macroalgae, lichens, bryophytes, plant fossils, and fungi. NCU, located in the center of the UNC-CH campus, welcomes visitors &amp;amp; researchers; contact Curator for information on hours &amp;amp; parking. STATEMENT ON OFFENSIVE CONTENT ON SPECIMEN LABELS: Collection records at NCU may contain language that reflects historical place or taxon names in an original form that is no longer acceptable or appropriate in an inclusive environment. Because NCU preserves data in their original form to retain authenticity and facilitate research, we have chosen to facilitate conversations and are committed to address the problem of racial, derogatory and demeaning language that may be found in our database. Insensitive or offensive language is not condoned by NCU. We recognize the land and sovereignty of Native &amp;amp; Indigenous nations in Chapel Hill, in North Carolina, in North America, and across the world. The North Carolina Botanical Garden and the North Carolina Botanical Garden Foundation acknowledge that the story told about the history of the land we steward has been incomplete. Before the Morgans and Masons, these lands were home to multiple tribes and the ancestors of the Occaneechi Band of the Saponi Nation, who persist locally to this day. We recognize that at least one of the adjacent lands we steward, Mason Farm Biological Reserve, was first cleared, cultivated, and worked by Native Americans and later by African enslaved people. We invite you to reflect on our individual and community roles in knowing important and untold stories about the land we each steward.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://bryophyteportal.org/portal/content/dwca/NCU-Bryophytes_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>University of North Carolina at Chapel Hill Herbarium: Bryophytes</organizationName>
+            <phone>+1-919-962-6931</phone>
+            <electronicMailAddress>mccormick@unc.edu</electronicMailAddress>
+            <onlineUrl>https://ncbg.unc.edu/research/unc-herbarium/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:28Z</dateStamp>
+                <citation>University of North Carolina at Chapel Hill Herbarium (NCU) (2026). University of North Carolina at Chapel Hill Herbarium: Bryophytes. Occurrence dataset https://doi.org/10.15468/4yrsc6 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

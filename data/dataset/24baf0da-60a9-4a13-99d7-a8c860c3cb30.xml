@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="24baf0da-60a9-4a13-99d7-a8c860c3cb30"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/j0iceo</alternateIdentifier>
+        <alternateIdentifier>24baf0da-60a9-4a13-99d7-a8c860c3cb30</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=azoresbioportal</alternateIdentifier>
+        <title>Azorean Biodiversity Portal</title>
+        <creator>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351 295 402 200</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/paulo-a-v-borges</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-8448-7623</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Rosalina</givenName>
+                <surName>Gabriel</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rosalina.ma.gabriel@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/rosalina-maria-de-almeida-gabriel</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-3550-8010</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ana Maria</givenName>
+                <surName>Arroz</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>ana.mm.arroz@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/ana-margarida-moura-de-oliveira-arroz</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ana</givenName>
+                <surName>Costa</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores, CIBIO Azores</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Mãe de Deus 13A</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Ilha de São Miguel</administrativeArea>
+                <postalCode>9501-801</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>ana.cm.costa@uac.pt</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-0258-3460</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Regina</givenName>
+                <surName>Cunha</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores, CIBIO Azores</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Mãe de Deus 13A</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Ilha de São Miguel</administrativeArea>
+                <postalCode>9501-801</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>regina.mp.cunha@uac.pt</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">M-3489-2013</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luís</givenName>
+                <surName>Silva</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores, CIBIO Azores</organizationName>
+            <positionName>Reseracher</positionName>
+            <address>
+                <deliveryPoint>Rua Mãe de Deus 13A</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Ilha de São Miguel</administrativeArea>
+                <postalCode>9501-801</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>luis.fd.silva@uac.pt</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">L-7819-2013</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Enesima</givenName>
+                <surName>Pereira</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0002-2541-7932</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>António Frias</givenName>
+                <surName>Martins</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores, CIBIO Azores</organizationName>
+            <positionName>Reseracher</positionName>
+            <address>
+                <deliveryPoint>Rua Mãe de Deus 13A</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Ilha de São Miguel</administrativeArea>
+                <postalCode>9501-801</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>Antonio.mf.martins@uac.pt</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-5358-8424</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Francisco</givenName>
+                <surName>Reis</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>vieirareis@uac.pt</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Pedro</givenName>
+                <surName>Cardoso</surName>
+            </individualName>
+            <organizationName>University of Helsinki</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>P.O. Box 33 (Yliopistonkatu 4) 00014</deliveryPoint>
+                <city>Helsinki</city>
+                <postalCode>00014</postalCode>
+                <country>FINLAND</country>
+            </address>
+            <electronicMailAddress>pedro.cardoso@helsinki.fi</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8119-9960</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351 295 402 200</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/paulo-a-v-borges</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-8448-7623</userId>
+        </metadataProvider>
+        <pubDate>
+                2023-03-22
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The University of Azores hosts the Azores Bioportal (http://azoresbioportal.uac.pt/) a regional E-Infrastructure. The Azorean Biodiversity Portal (ABP) is an e-infrastructure now associated with Portuguese PORBIOTA and LIFEWATCH. The ABP is a key e-infrastructure for the integrated management of biodiversity data of the Azores, providing a large number of specialized services supporting research, policy and education. The 3000 visits per day, the numerous international scientific collaborations, resulting in publications and academic thesis, and the connection with other prestigious databases demonstrate the Portal’s scientific quality as well as its general appeal. Several Natural History Collections are also managed by University of Azores, namely of Algae, Bryophytes, Vascular Plants, Molluscs and Arthropods.The Azorean Biodiversity Portal shares all the information available on the biodiversity of the Azores, one of the five Macaronesian archipelagos (the other being Madeira, Salvage Islands, the Canary Islands and Cape Verde). Macaronesia is recognized as an important part of the Mediterranean hotspot of biodiversity; however, a comprehensive systematic revision of its biodiversity was still lacking at the end of the 20th century.
+Based in two European INTERREG IIIB projects, an unprecedented collaboration of more than 200 taxonomists and other scientists resulted in accurate and comprehensive lists of terrestrial species in the Canary Islands (Izquierdo et al., 2001, 2004; Moro et al., 2003), Cape Verde (Arechavaleta et al., 2005), the Azores (Borges et al., 2005b, 2010) and Madeira–Selvagens (Borges et al., 2008). This unique collaboration was fundamental for creating the baseline taxonomic information for the ABP, updating the taxonomic information, listing synonyms.
+        </abstract>
+        <keywordSet>
+            <keyword>database</keyword>
+            <keyword>biodiversity</keyword>
+            <keyword>species distribution</keyword>
+            <keyword>webpage</keyword>
+            <keyword>Azores</keyword>
+            <keyword>science communication</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://azoresbioportal.uac.pt/pt/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.pt/ipt/archive.do?r=azoresbioportal</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Azorean Biodiversity Portal shares all the information available on the biodiversity of the Azores, one of the five Macaronesian archipelagos (Madeira, Salvage Islands, the Canary Islands and Cape Verde).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-34</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-20</eastBoundingCoordinate>
+                    <northBoundingCoordinate>42</northBoundingCoordinate>
+                    <southBoundingCoordinate>34</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1443
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Lichens, bryophytes, vascular plants, molluscs, arthropods, vertebrates and
+coastal invertebrates of the Azores archipelago (Portugal, North Atlantic):</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Annelida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cnidaria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Echinodermata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Mollusca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Nematoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Porifera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Funghi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ascomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Basidiomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Deuteromycotas</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Lycopodiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Magnoliophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Pinophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Pteridophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Ilha Terceira</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351 295 402 200</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/paulo-a-v-borges</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-8448-7623</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The data in this occurrence dataset has been published as a Darwin Core Archive (DwC-A), which is a standardized format for sharing biodiversity data as a set of one or more data tables. The dataset table contains 2408695 records.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>This study covers the Archipelago of Azores, including the marine area.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data input is complex and requires interpretation and validation by experts at two levels: (i) taxonomic validation, where synonyms are traced and accepted species names are updated (see Borges et al., 2005b, 2010), and (ii) occurrence data evaluation, where each record is classified as secure or doubtful according to the reliability of the source and where the precision of the distribution is qualified (1=very precise locations, usually point UTM data; 2=localities not exceeding 25 km2; 3=imprecise localities; and 4=island occurrence [generally old publications]). All records are linked to the year of observation or collection of the species.
+Each record has a bibliographic reference attached to it, i.e papers, other publications, expert remarks, etc.
+All data digitization was performed during 5 years (2004–2008) by five specially trained technicians (i.e. 300
+hours per person/month) supported by research grants from the EU INTERREG IIIB and the Azorean Government (Director of the Environment).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The dataset  included regional experts on each taxonomic group, all data were strictly checked for taxonomic correct-ness (e.g. misidentifications, synonymies) and geographical inaccuracies and errors were corrected (e.g. spelling errors, wrong labels).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Azorean Biodiversity Portal (ABP)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Paulo Alexandre Vieira</givenName>
+                    <surName>Borges</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-8448-7623</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>The Azorean Biodiversity Portal (ABP) is an e-infrastructure now associated with Portuguese PORBIOTA and LIFEWATCH.</para>
+                </abstract>
+                <funding>
+                    <para>Data were derived from EU projects INTERREGIII B ATLÂNTICO (2004-2006),
+
+BIONATURA (2006-2008), ATLANTISMAR - Mapping coastal and marine biodiversity of the Azores (Ref: M2.1.2/I/027/2011) (2012-2015).
+
+The website is currently being funded by Azorean Biodiversity Group (cE3c) (University of Azores) and AZORES2020 -PORBIOTA. PAVB is currently being funded by the project MACDIV (FCT-PTDC/BIABIC/0054/2014) and all the Azorean Biodiversity Group by the project FCT -UID/BIA/00329/2013.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>This study covers the Archipelago of Azores, including the marine area.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>There was a data-gathering stage, which comprised both an exhaustive literature review of taxonomic and distributional data, but also data from museum collections (e.g. the University of Azores’ entomological and bryological collections). In fact, data from museum collections are one of the most valuable resources for biodiversity conservation (Soberon ́ et al., 2000) and research in general (Suarez &amp; Tsutsui, 2004). The documents acquired included not only published material but also unpublished BAs, MSc and PhD theses, expert field reports and data from herbaria and animal collections in museums or universities. Data were from the 19th century through to the present day.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:36Z</dateStamp>
+                <citation>Borges P A V, Gabriel R, Arroz A M, Costa A, Cunha R, Silva L, Pereira E, Martins A F, Reis F, Cardoso P (2023). Azorean Biodiversity Portal. Version 1.2. Universidade dos Açores. Occurrence dataset https://doi.org/10.15468/j0iceo accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="DOI: 10.1080/14772000.2010.514306">Borges, P.A.V., Gabriel, R., Arroz, A.M., Costa, A., Cunha, R., Silva, L., Mendonça, E., Martins, A.F., Reis, F. and Cardoso, P., 2010. The Azorean Biodiversity Portal: an internet database for regional biodiversity outreach. Systematics and Biodiversity, 8(4), pp.423-434.</citation>
+                </bibliography>
+                <resourceLogoUrl>http://azoresbioportal.uac.pt/wp-content/uploads/2015/10/azoresbioportal3.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d3b0b8a7-e5fc-4151-9d1f-8979686d59cf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/bkdu77</alternateIdentifier>
+        <alternateIdentifier>d3b0b8a7-e5fc-4151-9d1f-8979686d59cf</alternateIdentifier>
+        <alternateIdentifier>https://ipt.ibbr.cnr.it/ipt/resource?r=fi-mim_bryophyta_bonfanti_pandeli</alternateIdentifier>
+        <shortName>FI-MIM-Bryophyta</shortName>
+        <title>Collezione di Bryophyta dell’Erbario di Pier Antonio Micheli miscellaneo | Bryophyta collection of the Miscellaneous Pier Antonio Micheli&apos;s herbarium</title>
+        <creator>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Bonfanti</surName>
+            </individualName>
+            <organizationName>Università degli Studi di Firenze, Dipartimento di Biologia</organizationName>
+            <positionName>Research fellowship</positionName>
+            <address>
+                <city>Sesto Fiorentino</city>
+                <postalCode>IT-50019</postalCode>
+                <country>ITALY</country>
+            </address>
+            <electronicMailAddress>laura.bonfanti@unifi.it</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0005-1888-1488</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Giulio</givenName>
+                <surName>Pandeli</surName>
+            </individualName>
+            <organizationName>Università degli Studi di Firenze, Dipartimento di Biologia</organizationName>
+            <positionName>Research fellowship</positionName>
+            <address>
+                <city>Sesto Fiorentino</city>
+                <postalCode>IT-50019</postalCode>
+                <country>ITALY</country>
+            </address>
+            <electronicMailAddress>giulio.pandeli@unifi.it</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0009-2134-2302</userId>
+        </creator>
+        <metadataProvider>
+            <organizationName>Università degli Studi di Firenze, Sistema museale di Ateneo, Museo di Storia naturale, Collezioni di Botanica Filippo Parlatore</organizationName>
+            <address>
+                <city>Firenze</city>
+                <postalCode>IT-50121</postalCode>
+                <country>ITALY</country>
+            </address>
+            <electronicMailAddress>musbot@unifi.it</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2025-09-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            
+            Included here is everything that was not part of the arrangement work carried out by the Targioni-Tozzetti family, nor however arranged to represent something distinct from Micheli&amp;#39;s collection in the strict sense (thus excluding material that belonged to Micheli but was presumably already treated as separate collections at the time, either by the same author or by others). Here we have the 2 volumes collection of Bryophyta, composed by 978 samples of various species.
+        
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.ibbr.cnr.it/ipt/archive.do?r=fi-mim_bryophyta_bonfanti_pandeli</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Europe, especially from Italy.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-0.1275</westBoundingCoordinate>
+                    <eastBoundingCoordinate>14.248611</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.507222</northBoundingCoordinate>
+                    <southBoundingCoordinate>40.031667</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1701-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1783-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scorpidiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rhabdoweisiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anthocerotaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leskeaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Orthotrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Thuidiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Grimmiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Encalyptaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hypopterygiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amblystegiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ditrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cryphaeaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Callicladiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tetraphidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphagnumceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Funariaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aulacomniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Calliergonaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Splachnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lembophyllaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hookeriaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Calypogeiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Brachytheciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Plagiotheciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fabroniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dicranellaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scapaniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Antitrichiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hypnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polytrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerocarposceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Frullaniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bryaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pylaisiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anomodontaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bartramiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Porellaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pottiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ricciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fontinalaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylocomiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leucodontaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fissidentaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Brachytheciacea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Meesiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Jungermanniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Racopilaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lunulariaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Climaciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Neckeraceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements>We thank the National Recovery and Resilience Plan of Italian Ministry of University and Research funded by EU – Next Generation EU Mission 4 “Education and Research” – Component 2: “From research to business” – Investment 1.4 (NBFC, National Biodiversity Future Center) and Investment 3.1 (Project IR0000032 – ITINERIS, Italian Integrated Environmental Research Infrastructures System).</acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Lorenzo</givenName>
+                <surName>Cecchi</surName>
+            </individualName>
+            <organizationName>Università degli Studi di Firenze, Sistema museale di Ateneo, Museo di Storia naturale, Collezioni di Botanica Filippo Parlatore</organizationName>
+            <address>
+                <city>Firenze</city>
+                <postalCode>IT-50121</postalCode>
+                <country>ITALY</country>
+            </address>
+            <electronicMailAddress>l.cecchi@unifi.it</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9706-0947</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Collecting, drying, labelling, storing, then digitizing.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Europe, especially from Italy.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Usual herbarium specimen preparation.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="C.F. 07058500823">
+                <title>NBFC - National Biodiversity Future Center</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Alessio</givenName>
+                    <surName>Papini</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0001-7904-0336</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Stefano</givenName>
+                    <surName>Cannicci</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-6544-0213</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Laura</givenName>
+                    <surName>Bonfanti</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0009-0005-1888-1488</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Giulio</givenName>
+                    <surName>Pandeli</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0009-0009-2134-2302</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>The National Biodiversity Future Center (NBFC) is the first National Research and Innovation Center dedicated to biodiversity, funded by the MUR through European Union funds - NextGenerationEU. It is a coordinating structure that unites and enhances research efforts, while simultaneously making knowledge and technologies accessible to diverse actors working on theterritory. There are more than 2,000 researchers from research centers, universities and companies working within the center implementing basic, applied and innovation research actions dedicated to Mediterranean biodiversity to generate value for the country. The objective of this project is to identify suitable strategies for monitoring, conserving, restoring and valorising the biodiversity of species and habitats in different Italian regions. The Center provides scientific knowledge and technological innovation that make it possible to face biodiversity loss, support ecosystem resilience, monitor endangered species, and restore disturbed biological communities, contributing to the goal of protecting 30% of Italy&apos;s territory by 2030, as required by the European Union. The NBFC also has the important function of training young researchers and qualified workers l and transferring to the territory the knowledge and skills needed to protect the natural heritage, as enshrined in Article 9 of the Constitution, and generate socio-economic value. Through participatory research actions, shared planning and citizen science activities, the NBFC contributes to generate the culture of nature, bringing the knowledge of biodiversity to different contexts starting from school of different levels, raising public awareness and supporting policy makers in land planning and management.</para>
+                </abstract>
+                <funding>
+                    <para>Progetto finanziato dall’Unione Europea - NextGenerationEU – Piano Nazionale Resistenza e Resilienza (PNRR) - Missione 4 Componente 2 Investimento 1.4 – Avviso N. 3138 del 16 dicembre 2021 rettificato con D.D. n.3175 del 18 dicembre 2021 del Ministero dell’Università e della Ricerca.</para>
+                </funding>
+                <relatedProject id="CUP B53C22002150006">
+                    <title>ITINERIS - Italian Integrated Environmental Research Infrastructures System</title>
+                    <personnel>
+                        <individualName>
+                            <givenName>Lorenzo</givenName>
+                            <surName>Cecchi</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0001-9706-0947</userId>
+                        <role>POINT_OF_CONTACT</role>
+                    </personnel>
+                    <personnel>
+                        <individualName>
+                            <givenName>Chiara</givenName>
+                            <surName>Nepi</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0002-7345-3831</userId>
+                        <role>REVIEWER</role>
+                    </personnel>
+                    <personnel>
+                        <individualName>
+                            <givenName>Stefano</givenName>
+                            <surName>Di Natale</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0001-7962-6425</userId>
+                        <role>REVIEWER</role>
+                    </personnel>
+                    <personnel>
+                        <individualName>
+                            <givenName>Gianna</givenName>
+                            <surName>Innocenti</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0000-0002-4504-0765</userId>
+                        <role>POINT_OF_CONTACT</role>
+                    </personnel>
+                    <personnel>
+                        <individualName>
+                            <givenName>Elisabetta</givenName>
+                            <surName>Lori</surName>
+                        </individualName>
+            <userId directory="https://orcid.org/">0009-0004-8451-6879</userId>
+                        <role>REVIEWER</role>
+                    </personnel>
+                    <personnel>
+                        <individualName>
+                            <givenName>Enrico</givenName>
+                            <surName>Fracassi</surName>
+                        </individualName>
+                        <role>REVIEWER</role>
+                    </personnel>
+                </relatedProject>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:19Z</dateStamp>
+                <citation>Bonfanti L, Pandeli G (2025). Collezione di Bryophyta dell’Erbario di Pier Antonio Micheli miscellaneo | Bryophyta collection of the Miscellaneous Pier Antonio Micheli&apos;s herbarium. Version 1.1. Università degli Studi di Firenze, Sistema Museale di Ateneo. Occurrence dataset https://doi.org/10.15468/bkdu77 accessed via GBIF.org on 2026-05-22.</citation>
+                <collection>
+                    <parentCollectionIdentifier>https://registry.gbif.org/institution/42038f96-5978-474c-9b0b-4e92450cd1d8/collection?limit=25&amp;offset=50</parentCollectionIdentifier>
+                    <collectionIdentifier>https://registry.gbif.org/collection/aefef690-613b-40eb-9cb6-c4f6c1b49af7</collectionIdentifier>
+                    <collectionName>Erbario di Pier Antonio Micheli miscellaneo | Miscellaneous Pier Antonio Micheli&apos;s herbarium</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="27209824-d4ee-4a92-bd19-9215f980f34e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/qmxw4a</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=digitaloldliteratureua1</alternateIdentifier>
+        <alternateIdentifier>27209824-d4ee-4a92-bd19-9215f980f34e</alternateIdentifier>
+        <shortName>Biodiversiy of Ukraine from digitalized resources</shortName>
+        <title>Biodiversity records from Ukraine and neighbouring countries extracted from digitalized rare Ukrainian publications</title>
+        <creator>
+            <individualName>
+                <givenName>Olexiy</givenName>
+                <surName>Vasyliuk</surName>
+            </individualName>
+            <organizationName>NGO &quot;Ukrainian Nature Conservation Group&quot;</organizationName>
+            <positionName>Head</positionName>
+            <address>
+                <city>Vasylkiv</city>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380971000473</phone>
+            <electronicMailAddress>vasyliuk@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1067-6827</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maksym</givenName>
+                <surName>Marushchak</surName>
+            </individualName>
+            <organizationName>Faculty of Economics of Taras Shevchenko National University of Kyiv</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <city>Kyiv</city>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380985082151</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Marushchak</surName>
+            </individualName>
+            <organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <city>Kyiv</city>
+                <postalCode>01030</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380964882670</phone>
+            <electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.researchgate.net/profile/Oleksii-Marushchak</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-9380-5593</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Marko</givenName>
+                <surName>Miasoiedov</surName>
+            </individualName>
+            <organizationName>Lyceum №43 &quot;Grail&quot; with in-depth study of subjects of the social and humanitarian cycle</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <city>Kyiv</city>
+                <country>UKRAINE</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Viktor</givenName>
+                <surName>Parkhomenko</surName>
+            </individualName>
+            <organizationName>NGO &quot;Ukrainian Nature Conservation Group&quot;</organizationName>
+            <positionName>environmentalist</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Vladyslav</givenName>
+                <surName>Kovalchuk</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Artem</givenName>
+                <surName>Kostryts</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Olexiy</givenName>
+                <surName>Vasyliuk</surName>
+            </individualName>
+            <organizationName>NGO &quot;Ukrainian Nature Conservation Group&quot;</organizationName>
+            <positionName>Head</positionName>
+            <address>
+                <city>Vasylkiv</city>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380971000473</phone>
+            <electronicMailAddress>vasyliuk@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1067-6827</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Marushchak</surName>
+            </individualName>
+            <organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <city>Kyiv</city>
+                <postalCode>01030</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380964882670</phone>
+            <electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.researchgate.net/profile/Oleksii-Marushchak</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-9380-5593</userId>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2026-04-08
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The dataset comprises records on the distribution of living organism species across the territory of Ukraine and several neighboring countries. These data were originally published in the early XX century in some of the rarest local scientific journals issued by Ukrainian universities, research institutes, nature reserves, and scientific societies of that time.
+</para><para>
+The early XX century marked a period of remarkable growth in scientific and conservation activity in Ukraine, during which numerous scientific periodicals were published simultaneously in different cities, extensive field studies were conducted, and large zoological, botanical, and herbarium collections were established. Unfortunately, most of these publications have now become bibliographic rarities. Some survive only in one or two copies, often held outside of central scientific libraries.
+</para><para>
+
+One of the main reasons for their extreme rarity lies in the period of Soviet repressions of the 1930s, when, under directives of the party leadership, the majority of scientists, conservationists, and members of the Ukrainian intelligentsia were persecuted or executed. Publications of scientific societies, as well as any materials printed in the Ukrainian language, were systematically confiscated and destroyed. Consequently, the full extent of scientific output from that period remains largely unknown.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Ukraine</keyword>
+            <keyword>algae</keyword>
+            <keyword>living organisms</keyword>
+            <keyword>old publications</keyword>
+            <keyword>material citation</keyword>
+            <keyword>digitalized literature</keyword>
+            <keyword>preservation</keyword>
+            <keyword>conservation</keyword>
+            <keyword>herbarium</keyword>
+            <keyword>microorganisms</keyword>
+            <keyword>fungi</keyword>
+            <keyword>plants</keyword>
+            <keyword>animals</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=digitaloldliteratureua1</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The dataset covers mainly the entire territory of Ukraine with particular records from Moldova, Uzbekistan, Turkmenistan, Poland, Romania, russian federation, Belarus and Kazakhstan.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>18.48955</westBoundingCoordinate>
+                    <eastBoundingCoordinate>133.125255</eastBoundingCoordinate>
+                    <northBoundingCoordinate>58.449257</northBoundingCoordinate>
+                    <southBoundingCoordinate>39.020829</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The dataset includes a very wide variety of living organisms.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Amoebozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Annelida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ascomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Basidiomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Charophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chlorophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ciliophora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cyanobacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Euglenozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Glaucophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Mollusca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Myzozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ochrophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Oomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Platyhelminthes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Porifera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Rhodophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Rotifera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>To compile this dataset, both analytical and investigative work were undertaken. Archival searches allowed the identification of repositories holding the last surviving copies of these rare publications, from which digital versions were created for the first time. Some of these sources were previously unknown even to the scientific community and now exist in a severely deteriorated physical condition.</para></purpose>
+        <introduction>This dataset therefore serves as a preservation effort for invaluable historical information on biodiversity collected by Ukrainian scientists and conservationists during the first half of the XX century, providing access to data that would otherwise have been irretrievably lost.</introduction>
+        <gettingStarted>One of the main reasons for their extreme rarity lies in the period of Soviet repressions of the 1930s, when, under directives of the party leadership, the majority of scientists, conservationists, and members of the Ukrainian intelligentsia were persecuted or executed. Publications of scientific societies, as well as any materials printed in the Ukrainian language, were systematically confiscated and destroyed. Consequently, the full extent of scientific output from that period remains largely unknown.</gettingStarted>
+        <acknowledgements>The authors express their gratitude to Nataliia Shchebetiuk (National Agricultural Library), Liudmyla Lastykova (Library of the I. I. Schmalhausen Institute of Zoology), and Viktoriia Kunets (Library of the Sokolovskyi Institute of Soil Science) for their assistance in accessing rare publications.
+Special thanks are also extended to Denys Davydov, whose Botanical Blog (https://davydovbotany.blogspot.com/) was of significant help in identifying lists of publications sought by the contributors during the creation of this dataset.</acknowledgements>
+        <maintenance>
+            <description>
+                <para>The dataset is open for further contributions and will be continuously expanded, with unknown regularity, as additional rare scientific publications are processed.</para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Olexiy</givenName>
+                <surName>Vasyliuk</surName>
+            </individualName>
+            <organizationName>NGO &quot;Ukrainian Nature Conservation Group&quot;</organizationName>
+            <positionName>Head</positionName>
+            <address>
+                <city>Vasylkiv</city>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380971000473</phone>
+            <electronicMailAddress>vasyliuk@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1067-6827</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Search for literary sources.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Scanning literary sources and extracting text blocks from scanned versions.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Searching digitized publications for information about encounters of species of living organisms, indicating specific locations and dates.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Organizing data according to Darwin Core standards.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset encompasses all records of identified species occurrences at specific sites and dates, derived from rare Ukrainian scientific publications issued in the early XX century.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The information was obtained from published historical literature sources based on the species occurrence descriptions they contain. All data were extracted directly from the original texts, including species names, dates, and locality information. Geographic coordinates were determined by interpreting the locality descriptions provided by the original authors in those publications.
+
+Depending on the level of detail and accuracy of each locality description, an estimate of positional uncertainty was assigned to every record, allowing for a more informed interpretation of these historical data. In some cases, the localities mentioned in the examined publications no longer exist today—for instance, they were ploughed over or destroyed as a result of the flooding of the Dnipro River valley by a cascade of reservoirs. Additionally, some settlements have since changed their names, disappeared, or were incorporated into larger towns or villages. All these historical circumstances were carefully taken into account when determining the geographic coordinates of each occurrence record.
+The current version of the dataset includes the complete set of records on species occurrences published by Ukrainian researchers in the following rare early 20th-century scientific journals and proceedings. All available information from each listed issue of these periodicals has been incorporated into the dataset.
+
+1. Materials on Nature Conservation – published in Kharkiv in 1928; only Issue No. 1 was released.
+2. Protection of Natural Monuments in Ukraine – published in Kharkiv in 1927–1928; Issues Nos. 1–2 were released.
+3. Bulletin of Natural Science (Visnyk Pryrodoznavstva) – published in Kharkiv in 1927–1931; Issues Nos. 1–10 were released.
+4. Proceedings of the Donetsk Hydrobiological Station named after Prof. V. M. Arnoldi – published in Kharkiv in 1940; only Issue No. 1 was released.
+5. Proceedings of Agricultural Botany – published in Kharkiv in 1926–1929; Issues Nos. 1–2 were released.
+6. Proceedings of the Donetsk Expedition – published in Kharkiv in 1930; only Issue No. 1 was released.
+7. Collected Papers of the Kaniv Biogeographical Reserve – published in Kyiv from 1947 onward; Issues Nos. 1–7 are known, though not all have been preserved.
+8. Nature of the “Horyste” Reserve – published in Kyiv in 1941; only Issue No. 1 is known.
+9. Courses for Training Leaders to Conduct Nature Excursions with Children – published in Kyiv in 1915; only Issue No. 1 is known.
+10. Proceedings of the Natural Science Section of the Ukrainian Scientific Society (UNS) – published in Kyiv in 1918–1919; Issues Nos. 1–3 were released.
+11. Collected Papers of the State Fish Reserve “Koncha-Zaspa” – published in Kyiv in 1928; only Issue No. 1 is known.
+12. Materials on the Fauna of Southern Russia – published in Kyiv in 1915–1917; Issues Nos. 1–2 were released.
+13. Notes of the Poltava Agricultural Institute – published in Poltava in 1930; only Issue 4(1) was processed.
+14. Scientific Notes on Biology – published in Kharkiv in 1927; only Issue No. 1 is known.
+15. Ukrainian Zoological Journal – published in Kyiv in 1923; only Issue No. 1 is known.
+16. Zoological Journal of Ukraine – published in Kyiv in 1921; only Issue No. 1 is known.
+17. Collected Papers Dedicated to the 30th Anniversary of the Museum – published in Poltava in 1928; only Issue No. 1 was released.
+18. Collection of works of the Sector of Ecology of Terrestrial Animals. Published in Kyiv (Institute of Zoology) in 1933-1938. Parts 1-5 were published.
+19. Yearbook of the Poltava National Museum of Natural History. Published by the Poltava Museum of Local Lore in Poltava in 1912-1918. Issues 1, 2, 34 and 5-6-7 were published.
+20. Materials of the Department of Ecology of Terrestrial Animals – published in Kyiv in 1935–1938; Issues Nos. 1–5 were released.
+Nature of Ukraine – published in Kyiv in 1911; only Issue No. 1 was released.
+21. Scientific Notes of the Ukrainian Technical and Economic Institute (UTEI, Munich) – published in Munich in 1948–1982; Issues starting from No. 1(4) were released.
+22. Local Lore (Kraieznavstvo) – published in Kharkiv in 1927–1930; Issues Nos. 1–10 were released.
+23. Problems of Biocenology – published in Kharkiv in 1933; only Issue No. 1 was released.
+24. Bulletin of Agricultural Science – published in Kharkiv in 1922–1928; Issues Nos. 1–12 (1922), 1–2, 8–12 (1923), 1–12 (1924), 1–4 (1927), and 2–6 (1928) were released.
+25. Bulletin of the Poltava Provincial Department of Public Education – published in Poltava in 1922; only Issue No. 2 was released.
+26. Collected Papers of the Azov-Syvash Reserve – published in 1936; issues without numbering were released.
+27. Proceedings of the IV All-Union Congress of Zoologists, Anatomists and Histologists (Kyiv, 6–12 May 1930) – published in 1931; only Issue No. 1 was released.
+28. Proceedings of the Odesa Branch of the Research Zoological-Biological Institute – published in 1932; only Issue No. 1 was released.
+29. Proceedings of the Myronivka Experimental Station, Entomology Section – published in Myronivka in 1928; Issues Nos. 1–2 were released.
+30. Productive Forces of Ukraine – published in 1929; Issues Nos. 1–4 were released.
+31. Notes of the Kyiv Veterinary and Zootechnical Institute – published in Kyiv in 1924; Volume 2 was released.
+32. Collected Papers Dedicated to the 30th Anniversary of the Museum – published in Poltava in 1928; only Issue No. 1 was released.
+33. Scientific Notes of the Kryvyi Rih Pedagogical Institute – published in Kryvyi Rih in 1941–1958; Issues Nos. 1–3 were released.
+34. Notes of the Kyiv Agricultural Institute – published in Kyiv in 1927–1929; Issues Nos. 3–4 were released.
+35. Bulletin of the Vinnytsia District Inspectorate of Public Education – published in Vinnytsia in 1928; Issues Nos. 1–8 were released.
+36. Nature – published in Mykolaiv in 1910–1916; 18 individual issues are known.
+37. Bulletin of the Pryluky District Museum – published in Pryluky in 1929; only Issue No. 2 was released.
+38. Bulletin of Applied Botany – published in 1930; Issues Nos. 1–6 were released.
+39. Proceedings of the Kyiv Zoo – published in Kyiv in 1954; only Issue No. 1 was released.
+40. Scientific Notes of the Research Department of Biology at the Dnipropetrovsk Institute of Public Education – published in Dnipropetrovsk in 1929; only Issue No. 1 was released.
+41. Plant Protection – published in Kharkiv in 1925–1928; Issues Nos. 1–4 were released.
+42. Proceedings of the Bog Experimental Field of the Volyn Zemstvo – published in Minsk in 1914–1915; Issues Nos. 1–2 were released.
+43. Rudnia-Radovel Bog Experimental Reclamation Station – published in Kyiv in 1928; only Issue No. 5 was released.
+44. Studies of the Bogs of Volyn Province – published in Petrograd in 1915; issues without numbering were released.
+45. Proceedings of the Kyiv Regional Agricultural Experimental Station – published in Kyiv in 1928–1931; Issue No. 63 is recorded, with at least 65 issues known.
+46. Bulletin of the Odesa Commission of Local Lore – published in Odesa in 1924–1930; Issues Nos. 1–5 were released.
+47. Proceedings in Forest Research – published in Kharkiv in 1928–1930; Issues Nos. 1–14 were released.
+48. Proceedings of the Dnipro Biological Station – published in Kyiv in 1914–1915; only Issue No. 1 was released.
+49. Notes of the Kamianets-Podilskyi Research Department – published in Kamianets-Podilskyi in 1929; only Issue No. 1 was released.
+50. Notes of the Agricultural Institute in Kamianets-Podilskyi – published in Kamianets-Podilskyi in 1924–1928; Issues Nos. 1–5 were released.
+51. Notes of the Kamianets-Podilskyi Scientific Society of the Ukrainian Academy of Sciences – published in Kamianets-Podilskyi in 1928; only Issue No. 1 was released.
+52. Notes of the Kamianets-Podilskyi Institute of Public Education – published in Kamianets-Podilskyi in 1926; only Issue No. 1 was released.
+53. Notes of the Society of Podolian Naturalists and Nature Lovers – published in Kamianets-Podilskyi in 1912–1915; Issues Nos. 1–3 were released.
+54. Proceedings of the Society of Volyn Researchers – published in Zhytomyr in 1902–1920; Issues Nos. 1–13 were released.
+55. Scientific Notes of the Kremenets State Pedagogical Institute – published in Ternopil in 1960 and 1962; Issues Nos. 5 and 7 were released.
+56. Proceedings of the Kyiv Research Station of Animal Husbandry – published in Kyiv in 1936–1939; Issue No. 1 is recorded, with at least 11 issues known.
+57. Proceedings of the Kozarovychi Experimental Reclamation Meadow Station – published in Kyiv in 1927; only Issue No. 1 was released.
+58. Materials of the Scientific Session, Section of Biological Sciences, Chernivtsi State University – published in Chernivtsi in 1963–1966; Issues Nos. XIX–XXII were released.
+59. Scientific Notes: Organ of the Kyiv Research Departments – published in Kyiv in 1923; only Issue No. 1 was released.
+60. Proceedings of the Shevchenko Scientific Society – published in Lviv in 1895–2019; Issues Nos. 1–271 were released.
+61. Reports of the Academy of Sciences of the Ukrainian SSR – published in Kyiv in 1939–1955; issues were released (exact numbering not specified).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The authors are fully responsible for the quality of data provided within the dataset in terms of correct extraction and inerpretation of the data presented in the original publications.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="LIFE23-PRE-CZ-ConNaturLIFE Ukraine">
+                <title>Conservation of Natural Heritage for LIFE in Ukraine</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Olexiy</givenName>
+                    <surName>Vasyliuk</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-1067-6827</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>The dataset was developed within the framework of the project “Conservation of Natural Heritage for LIFE in Ukraine” (LIFE23-PRE-CZ-ConNaturLIFE Ukraine), co-funded by the European Union and the Ministry of the Environment of the Czech Republic.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:22Z</dateStamp>
+                <citation>Vasyliuk O, Marushchak M, Marushchak O, Miasoiedov M, Parkhomenko V, Kovalchuk V, Kostryts A (2026). Biodiversity records from Ukraine and neighbouring countries extracted from digitalized rare Ukrainian publications. Version 1.9. Ukrainian Nature Conservation Group (NGO). Occurrence dataset https://doi.org/10.15468/qmxw4a accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Охорона пам’яток природи на Україні. 1927-1928. №1-2.</citation>
+                <citation>Матеріали до охорони природи. 1928. №1.</citation>
+                <citation>Вісник Природознавства. 1927–1931. №1–10.</citation>
+                <citation>Труди Донецької гідробіологічної станції ім. проф. В. М. Арнольді. 1940. №1.</citation>
+                <citation>Труди сільськогосподарської ботаніки. 1926–1929. №1–2.</citation>
+                <citation>Труди Донецької експедиції. 1930. №1.</citation>
+                <citation>Збірник праць Канівського біогеографічного заповідника. 1947-1952. №1–7.</citation>
+                <citation>Природа заповідника «Гористе».1941. №1.</citation>
+                <citation>Курсы по подготовке руководителей для ведения экскурсий с детьми в природу. 1915. №1.</citation>
+                <citation>Вісти Природничої Секції УНТ. 1918–1919. №1–3.</citation>
+                <citation>Збірник праць Державного рибного заповідника «Конча-Заспа». 1928. №1.</citation>
+                <citation>Материалы к познанию фауны Южной России. 1915–1917. №1–2.</citation>
+                <citation>Записки Полтавського сільськогосподарського інституту. 1930. № 4(1).</citation>
+                <citation>Наукові записки по біології.1927. №1.</citation>
+                <citation>Український зоологічний журнал. 1923. №1.</citation>
+                <citation>Зоологічний журнал України. 1921. №1.</citation>
+                <citation>Збірник, присвячений 30-річчю Музею. 1928. Т.№1.</citation>
+                <citation>Збірник праць Сектору екології наземних тварин. 1933-1938.Частини 1-5.</citation>
+                <citation>Щорічник полтавського народного природничого музею. 1912-1918. № 1-7.</citation>
+                <citation>Труди відділу екології наземних тварин. 1935-1938. №1-5</citation>
+                <citation>Природа Украины. 1911. №1</citation>
+                <citation>Наукові записки УТГІ (Український технічно-господарський інститут у Мюнхені). 1948-1982. №1(4)- напиши всі номери</citation>
+                <citation>Краєзнавство. 1927-1930. №1-10</citation>
+                <citation>Проблемы биоценологии. 1933. №1</citation>
+                <citation>Вісник сільськогосподарської науки. 1922-1928. 1-12 1922, 1-2, 8-12 1923, 1-12 1924, 1-4 1927, 2-6 1928</citation>
+                <citation>Бюлетень Полтавського губерніального відділу народної освіти на Полтавщині. 1922. №2</citation>
+                <citation>Збірник наукових праць. Азово-Сіваський заповідник. 1936. б/н</citation>
+                <citation>Труды IV Всевоюзного съезда зоологов, анатомов и гистологов в Киневе, 6-12 мая 1930 года. 1931. №1</citation>
+                <citation>Праці Одеської філії науково-дослідчого зоолого-біологічного інституту. 1932. №1</citation>
+                <citation>Труды Мироновской опытной станции, Секция энтомологии; вып. 2. 1928.. 1928. №1-2</citation>
+                <citation>Продукційні сили України. 1929. №1-4</citation>
+                <citation>Записки Київського Ветеринарно-Зоотехничного Інституту. 1924. Т.2.</citation>
+                <citation>Збірка, присвячена 30-річчю Музею. 1928. №1</citation>
+                <citation>Наукові записки Криворізького педагогічного інституту. 1941-1958. №1-3</citation>
+                <citation>Записки Київського сільсько-господарського інституту. 1927-1929. №3-4</citation>
+                <citation>Бюлетень Вінницької округової інспектури народньої освіти. 1928. №1-8</citation>
+                <citation>Природа (м.Миколаїв). 1910-1916. окремі 18 номерів</citation>
+                <citation>Бюлетень Прилуцького окружного музею. 1929. №2</citation>
+                <citation>Вісник Прикладної ботаніки. 1930. №1-6</citation>
+                <citation>Труди киевского зоопарка. 1954. №1</citation>
+                <citation>Наукові записки науково-дослідної кафедри біології при Дніпропетровському Інституті народної освіти. 1929. №1</citation>
+                <citation>Захист рослин. 1925-1928. №1-4</citation>
+                <citation>Труды Болотного опытного поля Волынского земства. 1914-1915. №1-2</citation>
+                <citation>Рудня-Радовельська болодна досвідно-меліоративна станція. 1928. №5</citation>
+                <citation>Исследования болот Волынской губ.. 1915. б/н</citation>
+                <citation>Київська крайова с.-г. дослідна станція. Труди. 1928-1931. Вип.63 (65 випусків)</citation>
+                <citation>Вісник Одеської комісії краєзнавства. 1924-1930. № 1-5</citation>
+                <citation>Труди з лісової дослідної справи. 1928-1930. №1-14</citation>
+                <citation>Труды Днѣпровской біологической станціи. 1914-1915. №1</citation>
+                <citation>Записки Кам’янець-Подільської науково-дослідчої катедри. 1929. №1</citation>
+                <citation>Записки Сільсько-господарського Інституту в Камянці на Поділлю, т.1, 1924. 1924-1928. №1-5</citation>
+                <citation>Записки. Кам’янець-Подільське наукове при УАН Товариство. т.1. 1928. 1928. №1</citation>
+                <citation>Записки. Кам’янець-Подільського інституту народної освіти. т.1. 1926. 1926. №1</citation>
+                <citation>Записки Общества подольских естествоиспытателей и любителей природы. 1912-1915. №1-3</citation>
+                <citation>Труды Общества исследователей Волыни. 1902-1920. №1-13</citation>
+                <citation>Наукові записки. Кременецький державний педагогічний інститут. 1960, 1962. №5,7</citation>
+                <citation>Київська НД станція тваринництва. Труди. 1936-1939. №1 (мінімум 11 всього)</citation>
+                <citation>Труды. Козаровичская опытно-мелиоративная луговая станция. 1927. №1</citation>
+                <citation>Материалы научной сессии. Секция биологических наук. Черновицкий государственный университет. 1963-1966. ХІХ-ХХІІ</citation>
+                <citation>Наукові записки: орган київських науково дослідчих катедр. 1923. №1</citation>
+                <citation>Записки товариства імені Шевченка. 1895-2019. №1-271</citation>
+                <citation>Доповіді АН Української РСР. 1939-1955.</citation>
+                </bibliography>
+                <formationPeriod>1814/1998</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

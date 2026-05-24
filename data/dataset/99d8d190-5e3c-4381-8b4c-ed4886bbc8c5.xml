@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="99d8d190-5e3c-4381-8b4c-ed4886bbc8c5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/6c3nw6</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=bryophyta_krasnokutsk</alternateIdentifier>
+        <title>Bryophyta of the Krasnokutsk territorial commune (hromada), Kharkiv region, Ukraine</title>
+        <creator>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Barsukov</surName>
+            </individualName>
+            <organizationName>Institute of Botany named after M. G. Kholodny</organizationName>
+            <positionName>Junior Research Fellow</positionName>
+            <address>
+                <deliveryPoint>St. Tereshchenkivska, 2, MSP-1</deliveryPoint>
+                <city>Kyiv</city>
+                <administrativeArea>Kyiv region</administrativeArea>
+                <postalCode>01601</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-8564-0212</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Kateryna</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Slobozhanskyi National Nature Park</organizationName>
+            <positionName>Junior Research Fellow</positionName>
+            <address>
+                <deliveryPoint>St. Zarichna, 15a</deliveryPoint>
+                <city>Krasnokutsk</city>
+                <administrativeArea>Kharkiv region</administrativeArea>
+                <postalCode>62002</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>nyanya985@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0003-5397-7317</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Barsukov</surName>
+            </individualName>
+            <organizationName>Institute of Botany named after M. G. Kholodny</organizationName>
+            <positionName>Junior Research Fellow</positionName>
+            <address>
+                <deliveryPoint>St. Tereshchenkivska, 2, MSP-1</deliveryPoint>
+                <city>Kyiv</city>
+                <administrativeArea>Kyiv region</administrativeArea>
+                <postalCode>01601</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-8564-0212</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kateryna</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Slobozhanskyi National Nature Park</organizationName>
+            <positionName>Junior Research Fellow</positionName>
+            <address>
+                <deliveryPoint>St. Zarichna, 15a</deliveryPoint>
+                <city>Krasnokutsk</city>
+                <administrativeArea>Kharkiv region</administrativeArea>
+                <postalCode>62002</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>nyanya985@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0003-5397-7317</userId>
+        </metadataProvider>
+        <pubDate>
+                2023-11-05
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The research focused on bryophytes, which are representatives of the divisions Anthocerotophyta, Marchantiophyta, and Bryophyta within the Slobozhanskyi National Nature Park&amp;#39;s territory. These data were collected during research in 2013. Literature data: at the time of the study, information regarding the bryoflora of the Krasnokutsk district (within the boundaries up to 2020) was limited to the materials of S.V. Gapon (1992, 2011). She documented 28 species collected in the vicinity of the villages of Kozyivka, Parhomivka, Kachalivka, and the city of Krasnokutsk, without precise topographic references. Out of these, 18 species were identified by us again. Specifically, there was a complete absence of data on sphagnum mosses.</para>
+<para>One of the most notable ecosystems in this region consists of acidophilous fens located in depressions within pine forests. Historically, these depressions were once occupied by lakes on the river terraces. However, today, the majority of them have transformed into fens, reeds, marshes, or shallow lakes situated on the southern banks. These areas are typically characterized by the presence of Betula pubescens, Populus tremula, Alnus glutinosa, and sometimes feature Sphagnum mosses.</para>
+<para>A few depressions near Krasnokutsk still retain the characteristics of true peat bogs. They exhibit well-developed Sphagnum floating mats, open water surfaces, and a suppressed growth of pine and birch woods. These unique habitats, particularly unusual for a semi-arid region, have garnered the attention of biologists.</para>
+<para>The primary results of this research have been compiled in the &amp;#34;Chronicles of Nature of the Slobozhanskyi National Nature Park,&amp;#34; which is an annually updated report on inventory and monitoring programs.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=bryophyta_krasnokutsk</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The territory of Krasnokutsk territorial commune (hromada), Kharkiv region, Ukraine. Most observations took place at the Slobozhanskyi National Nature Park.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>34.843</westBoundingCoordinate>
+                    <eastBoundingCoordinate>35.629</eastBoundingCoordinate>
+                    <northBoundingCoordinate>50.205</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.916</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The research focused on bryophytes, which are representatives of the divisions Anthocerotophyta, Marchantiophyta, and Bryophyta.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Barsukov</surName>
+            </individualName>
+            <organizationName>Institute of Botany named after M. G. Kholodny</organizationName>
+            <positionName>Junior Research Fellow</positionName>
+            <address>
+                <deliveryPoint>St. Tereshchenkivska, 2, MSP-1</deliveryPoint>
+                <city>Kyiv</city>
+                <administrativeArea>Kyiv region</administrativeArea>
+                <postalCode>01601</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-8564-0212</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Kateryna</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Slobozhanskyi National Nature Park</organizationName>
+            <positionName>Junior Research Fellow</positionName>
+            <address>
+                <deliveryPoint>St. Zarichna, 15a</deliveryPoint>
+                <city>Krasnokutsk</city>
+                <administrativeArea>Kharkiv region</administrativeArea>
+                <postalCode>62002</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>nyanya985@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0003-5397-7317</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Field research, which includes taking samples of mosses.
+The material was collected following the standard bryology methodology, with the distinct feature of georeferencing the collected specimens using GPS data. Since our main objective was to identify the species diversity primarily in habitats most typical for the park and sparsely represented in other areas of the Kharkiv region, such as sphagnum bogs, less attention was given to other habitats. Therefore, the resulting species list cannot be considered exhaustive for the park.
+Sampling points were chosen during on-site surveys using a route-based method. After identifying the habitat with the most developed moss vegetation, we marked the location on the GPS device. Subsequently, within a radius of 10-15 meters, we carefully examined the moss cover with the naked eye and collected fragments containing different species of bryophytes. For sphagnum bogs, samples were taken from different sections of the hummocks as well as from the soil on the shores. Often, widely distributed and well-known species from other locations were not collected. When moss growth was found on other substrates at the sampling point, such as tree bases, bark, dead wood, etc., fragments from these substrates were also collected. Each sample was labeled with the point number, date, and substrate.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Laboratory research of samples with identification of species.
+Species identification was conducted in laboratory conditions. Each sample was analyzed using a stereoscopic microscope to identify the moss species present. The identified species were separated and further determined.
+Therefore, the obtained data are purely qualitative, indicating the presence of a species at a specific point. We did not attempt any quantitative assessment based on abundance or biomass.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Dataset creation.
+All data obtained was entered into an electronic field journal in the form of an Excel table and, over time, translated to the DarwinCore terms. We aligned taxonomy with GBIF Backbone Taxonomy.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Normalizing taxonomy whenever possible, using GBIF species lookup tool and reference database.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The territory of Krasnokutsk territorial commune (hromada), Kharkiv region, Ukraine. Most observations took place at the Slobozhanskyi National Nature Park.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>This dataset aggregates data from direct observations during research, which includes  taking samples of mosses, laboratory research of samples with identification of species and dataset creation. Most records had direct references to the occurrences, exact dates and places, checklists for territories. The sequence of actions we followed during our work is described in Step description.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Cepa-LT-2017/10049">
+                <title>BioDATA Ukraine data mobilization grant program 2022</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nataliia</givenName>
+                    <surName>Brusentsova</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-1428-4855</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Kateryna</givenName>
+                    <surName>Ivanova</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0009-0003-5397-7317</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>BioDATA grant for data mobilization including digitization, data quality assurance, data preparation, and publication of collection specimen and other species data from Ukraine to GBIF. Dataset preparation was supported within the project &quot;Biodiversity of Krasnokutsk amalgamated territorial community (Kharkiv region)&quot;. More details on the grant program here (https://www.nhm.uio.no/english/research/projects/biodata/activities/data-mobilization-call-ukraine.html).</para>
+                </abstract>
+                <funding>
+                    <para>BioDATA partners, NLBIF, GBIF Norway, and the UiO Natural History Museum.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The territory of Krasnokutsk territorial commune (hromada), Kharkiv region, Ukraine</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:48Z</dateStamp>
+                <citation>Barsukov O, Ivanova K (2023). Bryophyta of the Krasnokutsk territorial commune (hromada), Kharkiv region, Ukraine. Slobozhanskyi National Nature Park. Occurrence dataset https://doi.org/10.15468/6c3nw6 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Gapon S.V. Bryophytes of the Left Bank Forest-Steppe of Ukraine: dissertation. Ph.D. biol sciences, 03.00.05 – botany. - Lvov, 1992. - 290 p.</citation>
+                <citation>Gapon S.V. Moss of the Forest-Steppe of Ukraine (vegetation and flora): diss. dr. biological Sciences, 03.00.05 - botany. — K., 2011. — 854 p.</citation>
+                <citation>Chronicles of Nature of the Slobozhanskyi National Nature Park (2013-2022). Krasnokutsk.</citation>
+                <citation>Zerov D. K. Flora of Hepatic and Sphagnum Mosses in Ukraine / D. K. Zerov. - K.: Naukova Dumka, 1964. - 357 p.</citation>
+                <citation>Bachurina G. F. Flora of Mosses in the Ukrainian SSR / G. F. Bachurina, V. M. Melnychuk. - K.: Naukova Dumka, 1987. - Issue 1. - 180 p.</citation>
+                <citation>Bachurina G. F. Flora of Mosses in the Ukrainian SSR / G. F. Bachurina, V. M. Melnychuk. - K.: Naukova Dumka, 1988. - Issue 2. - 180 p.</citation>
+                <citation>Bachurina G. F. Flora of Mosses in the Ukrainian SSR / G. F. Bachurina, V. M. Melnychuk. - K.: Naukova Dumka, 1989. - Issue 3. - 176 p.</citation>
+                <citation>Bachurina G. F. Flora of Mosses in the Ukrainian SSR / G. F. Bachurina, V. M. Melnychuk. - K.: Akademperiodika, 2003. - Issue 4. - 256 p.</citation>
+                <citation>Bayrak O. M. Non-Vascular Plants of the Left-Bank Forest-Steppe of Ukraine (Soil Algae, Lichens, Bryophytes) / O. M. Bayrak, S. V. Gapon, A. A. Levanez. - Poltava: Verstka, 1998. - 160 p.</citation>
+                <citation>Boyko M. F. Checklist of Bryophytes in Ukraine / M. F. Boyko. - Kherson: Aylant, 2008. - 232 p.</citation>
+                <citation>Ignatov M.S., Ignatova E.A. Flora of Mosses of the Central Part of European Russia. Vol. 1: Sphagnaceae — Hedwigiaceae. — Moscow: KMK, 2003. — P. 1-608.</citation>
+                <citation>Ignatov M.S., Ignatova E.A. Flora of Mosses of the Central Part of European Russia. Vol. 2: Fontinalaceae — Amblystegiaceae. — Moscow: KMK, 2004. — P. 609-944.</citation>
+                <citation>Melnychuk V.M. Field Guide to Leafy Mosses of the Central and Southern European Part of the USSR. — Kyiv: Naukova Dumka, 1970. — 442 p.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

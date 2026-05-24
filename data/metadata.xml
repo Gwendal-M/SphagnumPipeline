@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="fba2876d-eb97-4712-a051-a1ee418718a0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <title>GBIF Occurrence Download 0008347-260519110011954</title>
+        <creator>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2026-05-22
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            A dataset containing all occurrences available in GBIF matching the query:
+{
+  "and" : [
+    "Continent is Europe",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Sphagnopsida"
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1217 records from University of Michigan Herbarium
+8345 records from Norwegian Species Observation Service
+1865 records from Meise Botanic Garden Herbarium (BR)
+125831 records from Artportalen
+429 records from Suffolk Biodiversity Information Service (SBIS) Dataset
+201 records from Dr Mary Gillham Archive Project
+608 records from Masaryk University - Herbarium BRNU
+2561 records from Naturalis Biodiversity Center (NL) - Botany
+1687 records from NMNH Extant Specimen Records (USNM, US)
+4 records from Vannmiljø - artsforekomster
+22 records from Natagriwal ; Observations made from operations within Natura 2000 habitats and other semi-natural areas
+2255 records from University of British Columbia Herbarium (UBC) - Bryophytes Collection
+15352 records from Observation.org, Nature data from around the World
+189 records from General Biodiversity Records from Ireland
+807 records from Biodiversitätsdatenbank Salzburg
+130507 records from Bryophyte data for Great Britain and Ireland from the British Bryological Society held by BRC
+3 records from Vascular plants: Online Atlas of Vascular Plants 2012 Onwards
+1 records from Mühlenbach bei Buxtehude
+406 records from Marie-Victorin Herbarium (MT) - Bryophytes
+257 records from Bryophyte collection of Jyväskylä University Museum
+19 records from Projet de construction et d’exploitation de deux nouvelles unités de production d’électricité de type EPR2 et de leurs ouvrages de raccordement électrique sur le site de Penly.-PEN_ESPECES_POINTS
+376 records from SER Site-based Surveys
+3530 records from Herbarium of Umeå University (UME)
+223 records from The New York Botanical Garden Herbarium (NY)
+2769 records from Anciennes données CBNBP-Anciennes données Flora CBNBP
+12383 records from INPN - Données flore des CBN agrégées par la FCBN
+2563 records from VegetWeb - Repositorium von Vegetationsaufnahmen
+381 records from Isle of Man wildlife records from 01/01/2000 to 13/02/2017
+1 records from Notes on biodiversity of Ukraine, Slovak Republic, Uzbekistan and Turkiye
+490 records from Isle of Man historical wildlife records 1990 to 1994
+1 records from Langenberger Forst am Ochsenweg/ Niebüll-Leck
+3 records from Programme d'observation naturaliste participative avec l'application mobile INPN Espèces - Application INPN Espèces: Observations naturalistes, participatives et opportunistes, fondées sur des photographies
+1 records from Heidesee / Halle
+1 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données du Parc Naturel Régional du Vexin provenant de la base de donnée du SINP Île-de-France CETTIA
+1012 records from Natural History Museum (London) Collection Specimens
+23 records from ACQUISITION_CBNMC - Mosaïque Environnement
+13 records from Plants, Bryophytes and Lichens recorded on Quinag in 2006-2007
+3715 records from Phase 2 Lowland Grassland Survey of Wales
+5 records from Welsh Invertebrate Database (WID)
+2251 records from Herbarium Senckenbergianum (GLM) - Bryophyta
+30331 records from Polish Vegetation Database
+7 records from LajiGIS: Species surveys and monitoring at sea
+79 records from Observations naturalistes non protocolées-Observations Naturalistes du CBNBP
+3 records from Stratégie de Conservation de la flore/habitats menacées en Île-de-France-Plans régionaux de conservation IdF (rédaction et mise en oeuvre)
+1134 records from NABU|naturgucker
+489 records from Tallinn Botanic Garden
+6 records from ACQUISITION_CBNMC - UNTEREINER_juin2012
+103 records from International Barcode of Life project (iBOL)
+1 records from Réserves Naturelles de France (RNF) - RNF - Données de l'association de la RN du lac de Remoray
+92 records from 16 - Inventaire général de la flore et de la fonge - AVENIR - Conservatoire d'Espaces Naturels Isère - inventaire général de la flore et de la fonge réalisé sur le terrain
+64 records from Herbarium specimens of Jardins botaniques and Conservatoire Botanique of Nancy (NCY)
+119 records from Dorset Sites of Nature Conservation Interest (SNCI) species records pre 2000
+72 records from Dorset Sites of Nature Conservation Interest (SNCI) species records 2000-2008
+47892 records from Dutch Vegetation Database
+148 records from Data from Defra Family Organisations supplied to Staffordshire Ecological Record
+19 records from Isle of Wight Notable Species
+23 records from Appui technique et scientifique pour la mise en œuvre du réseau Natura 2000 en Midi-Pyrénées puis Occitanie-Inventaires réalisés par les opérateurs Natura 2000 dans le cadre des DOCOB en Midi-Pyrénées
+11 records from National Plant Monitoring Scheme - England, Scotland, Wales
+5986 records from Notebook, general observations
+412 records from Collections and observation data National Museum of Natural History Luxembourg
+261 records from Mosses and Liverworts: Records for Kent.
+1 records from Projet éolien de Bersac-sur-Rivalier - BSR - données flore
+17 records from Inventaire de la flore de Dordogne 2015-2019 - Inventaire de la flore de Dordogne 2017
+544 records from Données ONF faune-flore-fonge
+52 records from Inventaire de la flore de Gironde 2014-2019 - Inventaire de la flore de Gironde 2016
+150 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations Flore, Fonge et Bryophytes du CEN Midi-Pyrénées
+62 records from Bell Museum bryophytes
+2 records from Diagnostic écologique des aires protégés-Réactualisation des données d'espèces protégées dans les APPB d'Île-de-France
+22 records from The Freeman Herbarium at Auburn University, Bryophyte Collection
+11 records from Assistance technique auprès du département du Cher-Diagnostic écologique des ENS du Cher
+9 records from E. C. Smith Herbarium (ACAD)
+6754 records from SYKO Herbarium Moss Collection
+1 records from Données espèces - Expertise écologique  Golf de Pinsolle 2022
+2 records from Erbario anonimo III vivum | Anonymous herbarium III vivum
+2 records from ACQUISITION_CBNMC - ONF 03
+133 records from ACQUISITION_CBNMC - THEBAUD
+28 records from Stratégie de Conservation de la flore/habitats menacées en Bourgogne-Bilans stationnels des espèces menacées en Bourgogne
+2 records from Nature type mapping for the Norwegian Environment Agency 2018
+9905 records from Swedish National Forest Inventory: Presence-absence vegetation data (1995-2017, discontinued sample)
+1 records from ACQUISITION_CBNMC - PHILIPPE_marc_mars2013
+20 records from Stratégie de Conservation de la flore/habitats menacées en Île-de-France-Bilans stationnels des espèces menacées en IdF
+36 records from Données du Parc national des Pyrénées - Observations occasionnelles Parc national des Pyrénées
+19 records from Estonian Nature Observations Database
+15046 records from Botany (UPS)
+2108 records from Long Term Monitoring Network Vegetation Quadrats
+84631 records from Danish government nature monitoring portal "Danmarks Miljøportals Naturdatabase"
+83 records from CEDaR Online Recording
+7032 records from iNaturalist Research-grade Observations
+15 records from Inventaire et cartographie des enjeux floristiques des bords de routes et de pistes du Parc Naturel Régional des Landes de Gascogne 2012 - Cartographie des enjeux floristiques des bords de routes du PNRLG 2012
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de MISTARZ Margaux
+1 records from Michigan State University
+1 records from Parc d'activité mixte - Flore - Le Haillan
+9 records from University of Arkansas Herbarium - Bryophytes
+247 records from INSDC Sequences
+11 records from Forest vegetation surveys ANF, Recorder-Lux database
+95 records from Grassland Survey of Central Region, 1989-90
+6 records from BioFresh Pond Data
+1 records from Expertise écologique du Golf d'Ilbarritz en 2021 - Donnees espèces - Expertise écologique Golf d'Ilbarritz 2021
+1 records from USMB Herbarium
+1 records from Nottinghamshire Wildlife Trust - Records
+347 records from Kastikka Floristic Archives (H)
+801 records from Biofokus
+2 records from Institut Botanic de Barcelona (IBB), CSIC-CMCNB – FX. Bolòs
+5 records from R. Manning's Records
+6 records from CAS Botany (BOT)
+13 records from USDA United States National Fungus Collections
+2 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données de la structure Naturessonne provenant de la base de donnée du SINP Île-de-France CETTIA
+466 records from EU Habitat directive species monitoring MECDD, Recorder-Lux database
+20 records from Inventario Español de Especies Terrestres (MAGRAMA)
+767 records from Dutch Foundation for Applied Water Research (STOWA) - Limnodata Neerlandica
+41 records from Australian Antarctic Division Herbarium
+1 records from Records of hydrobionts and aquatic plants, published in the journal "Bulletin of the Dnipropetrovsk Hydrobiological Station"
+14312 records from Swedish National Forest Inventory: Presence-absence vegetation data (1995-current)
+5 records from EUKARYOME: the rRNA gene reference database for identification of eukaryotes
+3751 records from Bryophyte herbarium, UiB
+44 records from Metsähallitus Lappi, observations
+6 records from Cambridgeshire and Peterborough Environmental Records Centre data
+36 records from National System of Protected Areas in Poland - Plants
+1 records from RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+17 records from Tropicos Specimens Non-MO
+132 records from Herbarium BSG Bryophyta
+1423 records from Herbarium of the Department of Natural Forests (Forest Research Institute) - Plants
+238 records from Ecofact
+1046 records from Record species dataset covering Cheshire, Halton, Warrington &amp; Wirral
+169 records from Natural History Museum, Vienna - Herbarium W
+775 records from Biodiversitätsdatenbank Nationalpark Kalkalpen
+190 records from Données d'occurrences issues des Formulaires standards de données des sites Natura 2000 - Données d'occurrence Espèces issues de la base Natura 2000 : espèces d'intérêt communautaire et autres espèces remarquables renseignées dans les FSD
+163 records from Programme de connaissance de l'Agence de l'Eau Seine-Normandie-Macrophytes AESN : inventaire flore générale
+2 records from ACQUISITION_CBNMC - MICHALET Richard
+355 records from Dépouillements bibliographiques du CBNPMP-Dépouillements bibliographiques réalisées par le CBNPMP
+1 records from ACQUISITION_CBNMC - LE COQUEN_bryoflore_juin2012
+3373 records from ZOBODAT (Zoological Botanical Database)
+156 records from Observations du Conservatoire botanique national du Bassin parisien.
+1 records from Küste Wismar-Wendorf bis Hoben
+115 records from Phytocenoteca of the laboratory of ecosystem theory (Plants)
+1 records from Herbarium Senckenbergianum (FR) - Fungi
+1351 records from Herbarium UGDA - Bryophyta Collection UGDA-B
+1025 records from Standing Waters Database - Scotland
+40 records from Démantèlement complet (enceinte réacteur et bâtiments annexes) de la centrale nucléaire de Brennilis – site des Monts d’Arrée (installation nucléaire de base (INB) n° 162) située sur les communes de Brennilis et Loqueffret - Données d'inventaires faune /flore
+3 records from Naturhistorisches Museum Mainz, Botanical Collection
+47 records from Knoydart Bryophytes, 1990
+379 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations opportunistes Flore, Fonge et Bryophytes des salariés et bénévoles du CBNPMP
+2 records from Localización de táxones botánicos de interés para la identificación de hábitats de la REDIAM (Secretaría General de Medio Ambiente, Agua y Cambio Climático)
+36 records from All taxa records for Leicestershire and Rutland
+48 records from MBM - Herbário do Museu Botânico Municipal
+10 records from GEO-Hauptveranstaltung im Nationalpark Bayerischer Wald
+1361 records from ArtenFinder
+107 records from Naturhistorisches Museum Mainz, Herbarium von Ruprecht Düll
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Xavier JAPIOT
+35 records from KUO Vascular plant collections
+1 records from University of Idaho, Stillinger Herbarium Vascular Plants
+3 records from UFMT - Herbário UFMT
+1486 records from Oskarshamn herbarium (OHN)
+919 records from The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+223 records from INBOVeg - Vegetation observations as part of the Habistat surveys in Flanders, Belgium
+5032 records from Moscow University Herbarium (MW)
+11 records from John T. Waterhouse Herbarium (UNSW) AVH data
+34 records from TestWat - Macroinvertebrates and macrophytes of freshwater bodies in Flanders, Belgium
+128 records from Jordal
+1 records from Site Condition Monitoring of river habitats, 2017: LEAFPACS aquatic plant survey
+32 records from BRI AVH Data and Images
+4823 records from Données acquises par le Conservatoire botanique national du Bassin parisien et son réseau (bénévoles, associations, autres structures professionnelles) - Flore du Bassin parisien (CBNBP)
+447 records from Trail-based plant community monitoring in Azorean native forests (Terceira &amp; São Miguel, 2017–2019)
+110 records from Tullie House Museum Natural History Collections
+582 records from NRW Regional Data: North Wales
+98 records from 65 - Données flore validées CBNC
+38 records from Inventaire de la flore de Dordogne 2015-2019 - Inventaire de la flore de Dordogne 2016
+22 records from Activité générale du bureau d'étude BIOTOPE (1994 - 2013) - Données acquises dans le cadre de l'activité du bureau d'étude BIOTOPE (1994 - 2013)
+4 records from CardObs : Observations naturalistes issues de l'outil de saisie et gestion CardObs mis en place par le Service du Patrimoine Naturel (MNHN) / UMS PatriNat (OFB - CNRS - MNHN) - Données naturalistes d'Olivier ESCUDER
+844 records from 16 - Inventaire général de la flore et de la fonge - CBNA - inventaire général de la flore et de la fonge réalisé sur le terrain
+40 records from Herbarium Berolinense, Berlin (B)
+1 records from ACQUISITION_CBNMC - FRAPNA_Loire_2015
+116 records from Colección Briológica del Herbario LIL (FML–Tucumán)
+110 records from Natural History Museum Rotterdam - Specimens
+1 records from NSG Forst Zinna-Jüterbog-Keilberg
+3 records from ACQUISITION_CBNMC - 2019_02_01_FR8302035_2018
+2 records from Life Avaloirs - Inventaires
+152 records from HBRG Fungus, Lichen &amp; Lower Plants Dataset
+998 records from Dorset SSSI Species Records 1952 - 2004 (Natural England)
+145 records from Tasmanian Herbarium (HO) AVH data
+1 records from Ramboll Finland Oy species observations
+28 records from Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020 - Inventaire de la flore du PNRLG 2018 (Landes)
+37 records from Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data
+2403 records from National Trust for Scotland Species Records
+1202 records from Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Verified data
+13 records from ACQUISITION_CBNMC - CG 42
+6 records from ACQUISITION_CBNMC - CENAuvergne_octobre2015
+90 records from ACQUISITION_CBNMC - ONF Rhône-Alpes
+5 records from Evaluation des enjeux de biodiversité (flore, fonge, végétations) sur six territoires pilotes de Midi-Pyrénées et restitution aux acteurs du territoire-Relevés phytosiociologiques sur les sites pilotes
+9036 records from ACQUISITION_CBNMC
+1 records from Canadian Museum of Nature Herbarium
+74 records from Protocole d'inventaire de la flore vasculaire par maille 5 km X 5 km-Inventaire de la flore vasculaire par maille 5 km X 5 km
+1 records from Stratégie de Conservation de la flore/habitats menacées en Centre-Val de Loire-Suivi Arnica montana
+3 records from Données du Parc national des Pyrénées - Données 'Flore remarquable' du Parc national des Pyrénées
+49 records from Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+2558 records from Données d'occurrences Espèces issues de l'inventaire des ZNIEFF
+293 records from Environmental Monitoring Database (EMD) Species data 1987 to 2015
+8 records from Inventaire de la flore des Pyrénées-Atlantiques (hors massif pyrénéen) - Inventaire de la flore des Pyrénées-Atlantiques 2016
+60 records from Inventaire permanent de la flore du massif armoricain
+483 records from LajiGIS: Miscellaneous occurrences
+48 records from Herbarium of the University of Coimbra (COI)
+15 records from ACQUISITION_CBNMC - Atlas d'Auvergne
+13 records from ACQUISITION_CBNMC - MICHAUDaniel_novembre2012
+3515 records from Threatened species occurrences, Denmark 1991-2015
+1770 records from 17 - inventaire général de la flore et de la fonge issu de la bibliographie - CBNA - inventaires de la flore et de la fonge issus du dépouillement de la bibliographie
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes d'Anaïs MAS
+6 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Jeux de données floristiques produits par les Réserves Naturelles Catalanes
+1649 records from Rapportage 2013-2018 au titre de la directive Habitats-Faune-Flore - Données de synthèse Espèces issues du rapportage au titre de la directive Habitats - période 2013-2018
+1 records from 2019 CNPN concernant l'extension du Centre Landais de Transit des Déchets Industriels (CLTDI) de Bégaar - Inventaire flore réalisé par Simethis sur la zone d'extension du CLTDI (2019)
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de BAK ARNAUD
+1095 records from Données de l'inventaire forestier national de l'IGN-Relevés floristiques du protocole de l'Inventaire National Forestier de l'IGN
+2 records from ACQUISITION_CBNMC - 2020_06_Denis
+10 records from ACQUISITION_CBNMC - CPIEHauteAuvergne_Favre_nov201
+72 records from The MOVECLIM – AZORES project: Bryophytes from Terceira Island (2012)
+7061 records from Lund University Biological Museum - Botanical collection (LD)
+5 records from The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+1 records from KU Grensestasjon nord Sør-Varanger 2013 - Vegetasjon
+51 records from Herbier du muséum Henri-Lecoq de Clermont-Ferrand - Bryophytes
+24 records from Stratégie de Conservation de la flore/habitats menacées en Grand-Est-Bilans stationnels des espèces menacées en Grand-Est
+239 records from Delaware State University, Claude E. Phillips Herbarium
+4 records from MISE EN PLACE D’UNE CANALISATION D’ALIMENTATION EN EAU POTABLE DE L’USINE D’ARTHEZ-D’ASSON A LA STATION DE POMPAGE DE BAUDREIX: TRAVAUX DE SECURISATION
+1 records from MINKA_Danube Delta Open Living Lab
+11330 records from Swiss National Bryophyte Databank
+1 records from Species monitoring and inventories SICONA, Recorder-Lux database
+4 records from Inventaire de la flore de Charente-Maritime 2012-2020 - Inventaire de la flore de Charente-Maritime 2014
+1009 records from R44_CBAL_BD_Lorraine_2014-2022
+161 records from Herbario de la Universidad de Extremadura (UNEX)
+55 records from Données flore produites lors de programmes sur les habitats dans l'ex région LR-Divers jeux de données flore produits par le CBNMed sur l'ex région LR dans le cadre d'inventaires habitats naturels financés par la DREAL Occitanie
+3 records from Atlas de la Biodiversité (ABC/ABI) de Lamballe Terre et Mer (22)-Observations de Gwenhael Perrin dans le cadre de l'ABI de Lamballe Terre &amp; Mer
+5315 records from DIGITALE - Observations flore et habitat centralisées par le CBN de Bailleul-Données d'occurrence taxon (Plantes vasculaires, Bryophytes et Algues) de la région des Hauts-de-France mises au format standard OccTax v3.1 par le CBN de Bailleul en mai 2023 (Données issues de Digitale2 : digitale.cbnbl.org)
+28 records from Towson University Biodiversity Center
+94 records from Herbarium RIPART Eugène and Des Méloizes Albert (BOUM)
+97 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Divers jeux de données floristiques produits par le CEN du Languedoc-Roussillon dans les départements du 06, 11, 13, 30, 34, 48, 66, 83, 84
+157 records from NBIS Records to December 2016
+1810 records from Anciennes données CBNBP-Anciennes données Habitat CBNBP
+72 records from ACQUISITION_CBNMC - ONF 07
+609 records from Données d'observation de la faune, de la Flore et de la fonge du Parc national des Cévennes-Inventaire floristique vasculaire et lichens
+60 records from Luronium natans habitats in Flanders, Belgium
+1 records from Bryophyte specimens of National Museum of Nature and Science (TNS)
+498 records from DIGITALE - Observations flore et habitat centralisées par le CBN de Bailleul-Données d'occurrence taxon (Plantes vasculaires, Bryophytes et Algues) du territoire de Normandie orientale, ex-région de Haute-Normandie, mises au format standard OccTax v3.1 par le CBN de Bailleul en mai 2023 (Données issues de Digitale2 : digitale.cbnbl.org)
+1 records from Inventaire de la flore de Lot-et-Garonne 2013-2018 - Inventaire de la flore de Lot-et-Garonne 2017
+12600 records from Bryophyte records via iRecord
+320 records from Estonian Naturalists’ Society
+2516 records from Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium
+2 records from ACQUISITION_CBNMC - VIGIER Bernard
+11 records from Leicestershire and Rutland Environmental Records Centre records 2000-2009
+2 records from Botany Division, Yale Peabody Museum
+1 records from Base BOMBINA du Parc Naturel régional Lorraine - Données diverses du Parc naturel régional de Lorraine
+6 records from Global soil organisms
+1 records from schulgarten
+2 records from Trinity College Dublin Herbarium
+47 records from Data on the biodiversity of macrophyte communities and associated aquatic organisms in lakes of the Vologda Region (North-Western Russia): macrophytes
+3647 records from Natural Resources Wales Regional Data : Mid-Wales
+1520 records from North East Scotland Mosses and Liverworts (1950-2014)
+6 records from Mosses and Lichens (Vermorel coll.)
+9 records from Herbarium GZU
+1 records from Appui du CBNPMP à la création et à la gestion de réserves naturelles régionales et à l’émergence de parcs naturels régionaux en Midi-Pyrénées-Inventaires réalisés par le CBNPMP dans la RNR d'Aulon
+590 records from Isle of Man historical wildlife records 1995 to 1999
+9 records from Löydös Open Finnish Observation Database
+192 records from Steiermärkisches Landesmuseum Joanneum - Herbarium GJO
+2 records from Paleobiology Database
+1 records from 16 - Inventaire général de la flore et de la fonge - ONF - Inventaire général de la flore et de la fonge
+1194 records from SZU
+15 records from Plants, Bryophytes and Lichens recorded on the Nevis Estate during summer 2003.
+39 records from Programmes d'Atlas de la biodiversité communale (ABC)-Atlas de la Biodiversité Communale sur le territoire du Parc National des Pyrénées - Données du CEN MP
+5 records from Herbarium specimens (BERN-Herbarium) of Herbarium of the Botanical Garden of the University of Bern
+8 records from Naturschutzgebiet Sistig-Krekeler-Heide
+24 records from 16 - Inventaire général de la flore et de la fonge - GENTIANA - Inventaire de la flore de l'Isère
+1 records from ACQUISITION_CBNMC - DUCERF Gérard
+1 records from Institut Botanic de Barcelona (IBB), CSIC-CMCNB – BC-Cadevall
+30 records from Réserves Naturelles de France (RNF) - RNF - Données de l'association Vivarmor Nature
+13 records from The MOVECLIM – AZORES project: Ad hoc bryophyte and lichen collections from São Jorge Island (2014)
+235 records from Manx Biological Recording Partnership VERIFIED records loaded between 05/09/2019 and 24/01/2024
+4 records from Lothian Wildlife Information Centre surveys (Non-invertebrate - general)
+12 records from Glen Finglas Species  Records
+33 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de CERCOPE
+2 records from Inventaires Aéro Biodiversité - LFBS - Biscarosse Parentis-Inventaires Aéro Biodiversité - LFBS - Relevé végétation
+35 records from Survey of wet mosses from alpine fens and bogs in northwestern Italy
+14 records from Vom Gipfel ins Moor, Transekt im NSG Allgäuer Hochalpen
+2 records from Visiolittoral : Base de données de la communauté de travail du Conservatoire du littoral-Agrégat de données naturalistes des sites CELRL dans le Puy-de-Dôme
+10 records from Fauna and flora inventories (terrestrial and limnetic) from the South of Belgium
+20 records from CESJ - Herbário Leopoldo Krieger
+1 records from IPA - Herbário - IPA Dárdano de Andrade Lima
+360 records from ACQUISITION_CBNMC - SOPHY
+5674 records from LERN Records
+295 records from Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+6 records from ACQUISITION_CBNMC - BRUNERYE Luc
+3774 records from Azorean Biodiversity Portal
+1939 records from Herbarium (ICEL)
+1324 records from NRW Regional Data: South East Wales Non-sensitive species
+715 records from Rapportage 2007-2012 au titre de la directive Habitats-Faune-Flore - Données de synthèse Espèces issues du rapportage au titre de la directive Habitats - période 2007-2012
+1 records from Naturpark Kottenforst-Ville Sammelaktion 15.-19.6.
+1 records from Aktion - Friedensburg Oberschule
+1 records from Biotope entdecken im Kockmecker Siepen (Sauerland)
+5 records from Schatzinsel Norderney
+1060 records from Bryophyte Survey of the Poole Basin Mires - NBN South West Pilot Project Case Studies
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de ANTONETTI Philippe
+51 records from National Herbarium of Victoria (MEL) AVH data
+1 records from Réserves Naturelles de France (RNF) - RNF - Données du Conservatoire d'espaces naturel Centre
+641 records from Centre for Australian National Biodiversity Research (CANB) AVH data
+3 records from Bernice P. Bishop Museum
+5 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Thomas GAILLARD
+3 records from ACQUISITION_CBNMC - CHARISSOU_bryophytes
+11 records from Inventaire de la flore de Dordogne 2015-2019 - Inventaire de la flore de Dordogne 2018
+3 records from Monitoring botaniky D1 Lietavská Lúčka - Višňové - Dubná Skala 2024
+460 records from Herbario de la Facultad de Ciencias Biológicas de la Universidad Complutense de Madrid (MACB, Profesora Maruja Carrasco)
+32 records from Biodiversity data from Miljolare.no
+2583 records from Tropicos MO Specimen Data
+3 records from NSW AVH feed
+36 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations opportunistes Flore, Fonge et Bryophytes des salariés et bénévoles de l'ANA
+1 records from Programme CarHab
+5054 records from BIOGEOnet : Bryophytes occurrences in Wallonia
+9 records from Herbario Nacional Colombiano (COL)
+24 records from Regional Museum of Lapland
+2080 records from Bryophyte Herbarium (H): Herbarium Fennoscandiae orientalis
+191 records from Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Cryptogamic National Collection (BAc)
+93 records from Universitat de València, Colecciones de Criptógamas: VAL_Briof
+1518 records from Northern Ireland Environment Agency (NIEA) Collated Species Records
+128 records from Bryophyte Herbarium (H): Herbarium Generale
+67 records from MnhnL various project records, Recorder-Lux database
+82 records from Bryophyte collection of Porto Herbarium (PO)
+60 records from Kastikka Floristic Archives (OULU)
+8 records from WildesMoor bei Schwabstedt
+51 records from The MOVECLIM – AZORES project: Bryophytes from Flores Island (2013)
+1 records from LK 11 im Mönchspark
+1 records from Tornoer Teich
+1 records from Natural History Collections of the Faculty of Biology AMU
+39 records from Inventaire général de la flore vasculaire sur le territoire d'agrément du CBNPMP-Inventaire général de la flore vasculaire de Midi-Pyrénées par le CBNPMP
+554 records from ONF - Observations et inventaires MOA ONF-ONF - Observations opportunistes et inventaires
+1056 records from Edinburgh (E) Herbarium Specimens
+4669 records from LajiGIS: Species mapping and surveys
+8 records from RSA - California Botanic Garden - Bryophytes
+11 records from Plants, Bryophytes and Lichens recorded on the Li &amp; Coire Dhorrcail Estate during June 2001.
+1 records from ACQUISITION_CBNMC - GARNIER_flore_2016
+1 records from Gestion habitats, introduction, réintroduction, renforcement, translocation-Introduction Sisymbrium supinum Bassée EPTB
+22 records from DN-Håndbok 13 - artsforekomster
+1 records from ACQUISITION_CBNMC - MUHLHOFF_Bilan2017
+3 records from British records of herpetofauna published in the British Herpetological Society's journals
+13 records from ACQUISITION_CBNMC - ONF 43
+19 records from 16 - Inventaire général de la flore et de la fonge - PN Vanoise - inventaire général de la flore et de la fonge réalisé sur le terrain
+301 records from Données naturalistes du CEN Auvergne concernant la Faune, la Flore et la Fonge - Données naturalistes flore et fonge du Conservatoire des espaces naturels Auvergne saisies avant le 18 février 2019.
+3 records from ACQUISITION_CBNMC - 2019_09_20_CENRA_floreremarqua
+110 records from The Fungal, Lichen and Plant Collections at the Herbarium Marburgense
+477 records from Biodiversity Now / Nature Check (Biodiversitet Nu / NaturTjek)
+119 records from ACQUISITION_CBNMC - ONF 15
+9 records from Données faune, flore et fonge du Conservatoire des espaces naturels du Nord Pas-de-Calais
+2 records from The Fungal Collection of Helga Große-Brauckmann at the Botanische Staatssammlung München
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Wilfried RATEL
+184 records from Ireland's BioBlitz
+303 records from Données d'observation de la faune, de la Flore et de la fonge du Parc national des Cévennes-Contact aléatoire tous règnes confondus _ obs_occ
+12 records from Inventaire de la flore de Gironde 2014-2019 - Inventaire de la flore de Gironde 2018
+2 records from Rådgivende Biologer
+330 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations opportunistes Flore, Fonge et Bryophytes du CRPF en Midi-Pyrénées
+62 records from Herbarium Horti Botanici Pisani (PI), Sistema Museale di Ateneo, Università di Pisa
+24 records from University of Vermont, Pringle Herbarium, North American bryophytes
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Monsieur DAMOISEAU Sébastien
+1 records from ACQUISITION_CBNMC - CPIE de Haute-Auvergne_nov2012
+38 records from 18 - inventaire général de la flore et de la fonge issu des herbiers - Observation issues des herbiers transmises par les botanistes du réseau des botanistes du CBNA
+1734 records from Miscellaneous records held on the Cofnod database
+410 records from Centralisation des observations floristiques - Observations floristiques issues de la base de données du Conservatoire botanique national alpin
+87 records from Vegetation data from phytosociological studies of the forests on the Fosen peninsula
+230 records from Programme CarNET B (Cartographie Nationale des Enjeux Territorialisés de Biodiversité Remarquable) - Carnet B Lorraine
+1 records from Porvoo Museum / Fungal Collections
+98 records from KUO Bryophytes of Iisalmi Nature Museum
+324 records from Hatikka.fi observations
+17 records from ACQUISITION_CBNMC - MICHAU_Flore2016
+4 records from Harvard University Herbaria: All Records
+7 records from Stabbetorp - Floristiske registreringer 2016
+1 records from ACQUISITION_CBNMC - ObservatoireBiodivPilat_2016
+6 records from Lowland lakeshore vegetation in Nord-Trøndelag, Norway
+280 records from Réserves Naturelles de France (RNF) - RNF - Données de la Fédération des Réserves Catalanes
+63 records from Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020 - Inventaire de la flore du PNRLG 2014 (Landes et Gironde)
+2 records from Atlas de la Biodiversité de l'Est Cantal - ABT EC - Inventaires de l'Atlas de la Biodiversité de l'Est Cantal - saison 1
+3 records from Leicestershire and Rutland Environmental Records Centre records 2015-2019
+3 records from Visiolittoral : Base de données de la communauté de travail du Conservatoire du littoral-Agrégat de données naturalistes d'une réserve naturelle
+2 records from Projet d'interconnexion électrique France-Irlande "Celtic Interconnector" - Inventaire floristique 2019 sur l’AEI « Celtic Interconnector »
+7 records from Expédition De Candolle-Inventaire sur le parcours pyrénéen de De Candolle
+8 records from ibbi observations
+9 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Divers jeux de données floristiques produits par la Fédération Aude Claire
+12 records from Relevés of Main Vegetation Types of the Prioksko-Terrasnyi Biosphere Reserve (2023)
+8 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de RAYNARD Philippe
+8 records from Biodiversitätsdatenbank Nationalpark Gesäuse
+13 records from ACQUISITION_CBNMC - Groupe d'échanges bryologiques
+4 records from KRA Bryophyte Collection
+67 records from INC PAS Grasslands in the Polish Carpathians
+7 records from Assistance technique auprès du département du Cher-Diagnostic écologique des bords de route du Cher
+12 records from Connaissance des taxons rares ou méconnus (bryophytes)-Recherches de bryophytes rares et menacées
+1 records from The scientific articles of the Falz-Fein readings
+14 records from Inventaire de la flore des Landes 2012-2019 - Inventaire de la flore des Landes 2018
+81 records from Programme DELTA Biodiversité végétale du Bassin d'Arcachon et du Val de l'Eyre 2010-2013 - Inventaire de la flore du Pays Bassin d'Arcachon - Val de l'Eyre 2010-2013
+19 records from Relevés of Main Vegetation Types of the Prioksko-Terrasnyi Biosphere Reserve (2019-2020)
+2 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Données anciennes produites par le Parc national des Cévennes et saisies par le CBNMed
+14 records from University of Nebraska State Museum, C.E. Bessey Herbarium - Bryophytes
+2 records from Projet GREEN-Inventaires du CBNPMP dans le cadre du programme GREEN
+1 records from Naturpark Kottenforst-Ville 18.6.09
+1 records from Töpinger Mischwald
+5 records from Base BOMBINA du Parc Naturel régional Lorraine - Inventaires "Mares" Parc naturel régional de Lorraine
+7 records from ACQUISITION_CBNMC - BIOME_FR8301060_Compl2015
+1 records from Assistance technique auprès du département du Loiret-Diagnostic écologique des Itinéraires de randonnées dans le Loiret
+358 records from Rapportage 2001-2006 au titre de la directive Habitats-Faune-Flore - Données de synthèse Espèces issues du rapportage au titre de la directive Habitats - période 2001-2006
+1 records from Amélioration de la connaissance de la flore, la fonge et les habitats naturels sur le territoire de la « plaine » de Midi-Pyrénées-Recherche de taxons rares ou menacées de plantes vasculaires sur le secteur de plaine de Midi-Pyrénées
+1342 records from Herbarium Senckenbergianum (FR)
+1 records from Stratégie de Conservation de la flore/habitats menacées en Centre-Val de Loire-Bilans stationnels des espèces menacées en CVL
+27 records from Données bibliographiques-Saisie des données bryologiques bibliographiques
+20 records from INBOVeg - Vegetation surveys carried out in 2018 and 2019 as part of the SBO "Future Floodplains" project in Flanders, Belgium
+326 records from Data on biodiversity of a boreal mire and its hydrographic network (Shichengskoe mire, North-Western Russia)
+5 records from Herbarium Lagger (MHNF-HLAGGER) of Musée d'histoire naturelle Fribourg
+37 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations opportunistes Flore, Fonge et Bryophytes des salariés et bénévoles de l'association Nature Comminges en Midi-Pyrénées
+1 records from Données issues du programme Florilèges Prairies
+853 records from Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+7 records from West Wales Online Records
+25 records from Bryophyta of the Krasnokutsk territorial commune (hromada), Kharkiv region, Ukraine
+19 records from Leicestershire and Rutland Environmental Records Centre records 2010-2014
+77 records from Staffordshire Wildlife Trust Nature Reserves Inventory
+1 records from Données 2016 de l'Observatoire de la Biodiversité des Forêts
+1 records from Royal Botanic Garden Edinburgh Living Plant Collections (E)
+36 records from Porvoo Museum / Vascular Plant Collections
+2 records from Am Moosangerweg
+8 records from FloVegSI - Floristical and fitocenological database of ZRC SAZU
+901 records from Flora d'Andorra
+17 records from Gloucestershire Historic Wildlife Sightings prior to 1st Jan 2000
+1 records from City of Edinburgh Natural Heritage Service - Natural Heritage Service Data
+7 records from Patrick Roper’s Notebooks
+1 records from Temporal variation in pesticide biodegradation
+3 records from Plant specimens in the Museum of Nature and Human Activities, Hyogo Prefecture, Japan
+1 records from Ludwigshofen
+3 records from Clémence Lortet herbarium
+1 records from Naturschutzgebiet "Gellener Torfmöörte" (Landkreis Wesermarsch)
+1 records from Ohemoor (Hamburg/Norderstedt)
+1 records from Tiere und Pflanzen am Pfannenbach
+178 records from Données acquises par le Conservatoire botanique national du Bassin parisien et son réseau (bénévoles, associations, autres structures professionnelles)-Données acquises via le réseau du Conservatoire botanique national du Bassin parisien
+47 records from SER Species-based Surveys
+57 records from Briòfits d'Andorra
+181 records from Herbarium (AMNH)
+27 records from Digitization of plant specimens from Rhoen and Vogelsberg (FULD)
+1 records from Projet de parc éolien de Fromentaux - Données Fromentaux
+1 records from Réserve Naturelle Régionale du Val Suzon-Suivi standardisé des espèces patrimoniales de la RNR du Val Suzon
+8 records from Casual records for Scottish Wildlife Trust reserves - Verified data
+17 records from Local BioBlitz Challenge 2013
+46 records from ACQUISITION_CBNMC - FRAPNA Ardèche
+16 records from University of Vienna, Institute for Botany - Herbarium WU
+82 records from Réserves Naturelles de France (RNF) - Données RNF - PNR des ballons des Vosges
+1 records from Projet de parc éolien de la Forge - Données biodiversité Parc éolien de la Forge
+4 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données de la structure ANVL (Association des Naturalistes de la Vallée du Loing et du Massif de Fontainebleau) provenant de la base de donnée du SINP Île-de-France CETTIA
+18 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Appel à Projet Connaissances en Occitanie sur les départements 11,30,34,48 et 66
+2 records from INATURA Digitalisierungsprojekt
+817 records from L. IS dataset. Cyanoprocaryota, Lichens, Bryophyte
+20 records from GEO-Hauptveranstaltung (NLP Harz / Hochharz)
+10 records from UTEP Plants (Arctos)
+16 records from RB - Coleção do Herbário do Jardim Botânico do Rio de Janeiro
+1 records from University of Idaho, Stillinger Herbarium Nonvascular Plants
+19 records from Knoydart Black Hills Project Habitats Assessment 2022 Species Records
+2 records from Inventaire botanique et lichénologique de David HAPPE - inventaire botanique et lichénologique de  D. HAPPE
+2450 records from Herbier Louis-Marie (QFA) - Collection de bryophytes
+6 records from Non-vascular Plants and Chromists Outer Hebrides
+66 records from Iowa State University, Ada Hayden Herbarium - Bryophytes
+20 records from MGC Herbarium of University of Malaga (Spain): MGC-Bryof dataset
+13 records from Bryophytes of Glen Nevis Woods 1987-1988
+1 records from 18S: A comprehensive dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea
+11 records from Plants and Bryophytes recorded on Schiehallion 25-30 June 2000
+26 records from Vascular Plants and Bryophytes of Glen Sligachan
+1042 records from National Trust Species Records
+1 records from Stoke-on-Trent Environmental Survey results (1982-1984)
+64 records from Porvoo Museum / Bryophyte Collections
+49 records from Données bibliographiques-Saisie des données phytosociologiques bibliographiques
+2 records from National Plant Monitoring Scheme - Northern Ireland
+54 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Pascal AMBLARD
+16 records from UB - Herbário da Universidade de Brasília
+2 records from ICN - Herbário do Instituto de Ciências Naturais
+385 records from Spring bryophyte flora of Salpausselkä (Ulvinen 1955 &amp; Juutinen 2006)
+29 records from R-Bryophyta - Herbário do Museu Nacional - Bryophyta
+1 records from Mont-de-Transet E3 - Données naturalistes - Etude d'impact
+4 records from Himmelmoor
+367 records from Miscellaneous records held by BIS
+19 records from Sbp-BioBlitz2017_60years-BiodiversityData
+66 records from MEXU/Colección de Briofitas
+3720 records from INBO collaborator Occurrences of mosses, lichens and protists recorded in waarnemingen.be in Flanders, Belgium
+1 records from Promberg1
+43 records from Vegetation surveys of coastal shingle in Great Britain
+1 records from Waldhusener Moor (Lübeck-Kücknitz)
+183 records from Michigan State University bryophytes
+227 records from Sheffield and Rotherham Wildlife Trust - Records
+15 records from Fungus Collections at Staatliches Museum für Naturkunde Karlsruhe (Herbarium KR)
+126 records from UAM Herbarium (ALA), Cryptogam Collection (Arctos)
+12 records from Stackpole National Nature Reserve Species Inventory and Ad-hoc Sightings from Across Pembrokeshire
+7571 records from Bryophyte collection of the United Herbaria of the University and ETH Zurich (Z+ZT)
+1 records from ACQUISITION_CBNMC - BIOME
+70 records from South Lanarkshire peatland records 2013
+1 records from Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Unassessed data
+103 records from World Plant Specimen from the Herbaria in China
+10 records from HUCS - Herbário da Universidade de Caxias do Sul
+1 records from Hamberger Brücke / Würmtal (Pforzheim)
+1 records from GEO-Hauptveranstaltung (Insel Vilm)
+6 records from Cuxhavener Küstenheiden
+107 records from Inventaire de la flore de Gironde 2014-2019 - Inventaire de la flore de Gironde 2017
+734 records from Biodiversitätsdatenbank Nationalpark Hohe Tauern
+5 records from University of Washington Herbarium (WTU) - Bryophyte Collection
+1 records from ACQUISITION_CBNMC - Atlas du Rhône
+18 records from 16 - Inventaire général de la flore et de la fonge - Syndicat intercommunal d'Aménagement du Bassin Versant de l'Albarine - inventaire général de la flore et de la fonge réalisé sur le terrain
+6 records from University of New Mexico
+2 records from INBOVeg - A dataset of vegetation observations between 2012 and 2017 on sandy heathlands in Flanders, Belgium
+6 records from Botanical Collections of the Åbo Akademi
+1 records from Stratégie de Conservation de la flore/habitats menacées en Grand-Est-Plan régional de conservation de l'Orchis des Sphaignes (inventaire et suivi des stations)
+1 records from Gorges de Haute Dordogne
+1 records from ACQUISITION_CBNMC - CREN RA
+138 records from Vascular plant collections of the Botanical Museum, University of Oulu (OULU)
+152 records from Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020 - Inventaire de la flore du PNRLG 2016 (Gironde)
+1 records from Herbarium of Karaganda Buketov University (QAR)
+9 records from 07-Boralexforetdebauzon - Projet éolien de la Forêt de Bauzon études flore et chiroptères 2016/2017
+16 records from Programme Natura 2000 : Sologne-Cartographie des végétations du site Natura 2000 de Sologne
+127 records from InboVeg - NICHE-Vlaanderen groundwater related vegetation relevés for Flanders, Belgium
+1 records from Herbarium Des Méloizes Albert (BOUM)
+1 records from Données d'observation de la Faune, de la Flore et de la Fonge-[MILIEU] - Zone humide d'altitude - Inventaire
+3 records from Atlas de la nature de Bordeaux Métropole "Espèces de Métropole" - Inventaire de la flore de Bordeaux Métropole 2013
+1 records from Atlas de la Biodiversité Communale-[ABC] - PNP - Inventaire Faune/Flore/Fonge
+23 records from Plants and lichens of Mikkov Island, Kandalaksha Bay, White Sea, Russia
+1 records from Royal Ontario Museum - Botany
+5 records from Naturalis Biodiversity Center (NL) - Paleontology
+220 records from Centralisation des observations floristiques dans le cadre du SINP - Observations floristiques - plateforme SINP régionale SILENE   PACA
+1 records from Plan d'action sur les plantes exotiques envahissantes en Midi-Pyrénées-Observations de plantes exotiques envahissantes réalisées par le CBNPMP
+7 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de FONTENELLE Augustin
+8 records from Ben Eighe NNR invertebrate records compiled from SNH files
+3 records from Isle of Man Historical Wildlife Records pre-1990
+1465 records from Species recordings from the Danish National Portal Arter.dk
+43 records from ACQUISITION_CBNMC - TORT
+6 records from Bryophyte diversity in forests
+5 records from ACQUISITION_CBNMC - Herbiers du Musée Crozatier
+1 records from PARC PHOTOVOLTAIQUE à AGNOS - Données faune-flore Agnos (64)
+30 records from Inventaire de la flore de Lot-et-Garonne 2013-2018 - Inventaire de la flore de Lot-et-Garonne 2016
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données ajoutées SiCEN - Kélian GAUTIER
+20 records from ACQUISITION_CBNMC - MICHAU Daniel
+8547 records from Mosses (S)
+10 records from Norwegian specimens stored in Herb. Klepsland (pre 2022)
+45 records from Biological Collection of the National Taiwan Museum, Taipei, Taiwan
+5 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations Flore, Fonge et Bryophytes de l'ONF en Midi-Pyrénées
+340 records from 16 - Inventaire général de la flore et de la fonge - Inventaires de la flore et de la fonge réalisées par les botanistes du réseau des botanistes du CBNA
+4711 records from LajiGIS: Species monitoring sites
+65 records from Kastikka Literature Sources
+1503 records from Shropshire Ecological Data Network database
+5 records from ACQUISITION_CBNMC - Ecotope Faune-Flore
+1 records from Colección de briófitos del herbario LEB "Jaime Andrés Rodríguez" LEB-MUSCI
+16 records from Prieskum chránených druhov rastlín. Lyžiarske stredisko Tatranská Lomnica
+12 records from Vascular plant field notes, NTNU University Museum
+11 records from Système d’évaluation de l’état des Eaux (SEEE) - Données hydrobiologiques sur l'état des eaux de surface - Système d’évaluation de l’état des Eaux (SEEE) - Macrophytes
+5 records from Plan national d'action en faveur de Luronium natans-Déclinaison IdF du PNA Luronium natans
+28 records from ACQUISITION_CBNMC - CG 07
+153 records from Atlas communaux de la biodiversité du Parc Naturel Régional des Landes de Gascogne 2014-2020 - Inventaire de la flore du PNRLG 2017 (Landes)
+1 records from Veille technique et scientifique sur les espèces exotiques envahissantes en Centre-Val de Loire-Inventaire des espèces végétales exotiques envahissantes en CVL
+22 records from 16 - Inventaire général de la flore et de la fonge - ASTERS - Conservatoire d'Espaces Naturels Haute-Savoie - inventaire général de la flore et de la fonge réalisé sur le terrain
+69014 records from National Wetland Inventory (NV)
+3 records from Washington State University Marion Ownbey Herbarium - Bryophytes
+4 records from ABI Communauté de commune de Puisaye-Forterre : compléments flore
+3 records from Réserves Naturelles de France (RNF) - RNF - Données du Parc Naturel Régional du Vercors
+510 records from Universidad de Oviedo. Departamento de Biología de Organismos y Sistemas: FCO-Briof
+24 records from Inventaire de la flore de Lot-et-Garonne 2013-2018 - Inventaire de la flore de Lot-et-Garonne 2018
+23147 records from Bryophyte herbarium TRH, NTNU University Museum
+39 records from The Fungal Collection at the Senckenberg Museum für Naturkunde Görlitz
+1911 records from UMCS Botanical Collection
+141 records from Observations naturalistes non protocolées-Observations Naturalistes des correspondants du CBNBP
+1 records from Jardín Botánico de Córdoba: Herbarium COA
+17 records from Dépouillements d'herbiers du CBNPMP-Dépouillements d'herbiers réalisées par le CBNPMP
+17 records from Inventaire de la flore des Espaces Naturels Sensibles des Pyrénées-Atlantiques - Inventaire de la flore des ENS des Pyrénées-Atlantiques 2011-2012
+9 records from Merseyside BioBank (unverified)
+103 records from Montgomeryshire Wildlife Trust records held by BIS
+84 records from ACQUISITION_CBNMC - CENAuvergne_SICEN_2015
+11 records from Inventaire de la flore de Lot-et-Garonne 2013-2018 - Inventaire de la flore de Lot-et-Garonne 2015
+95 records from iRecord Surveys
+4 records from Modernisation des ZNIEFF en Midi-Pyrénées-Inventaires réalisés par le CBNPMP dans le cadre de la modernisation des Znieff en Midi-Pyrénées
+1 records from Projets photovoltaïques de Sablirot Sud et Nord - Inventaires écologiques
+5 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Inventaire éclair de Natureparif - Année 2015
+2201 records from BrioCAT: Banco de datos de los briòfitos de Cataluña
+16 records from Ájtte Collection
+1 records from Centralisation des observations floristiques - Observations floristiques du Parc National du Mercantour
+1 records from Banco de Datos de la Biodiversidad de la Comunitat Valenciana
+1 records from Inventaire de la flore des Deux-Sèvres 2013-2015
+2 records from Inventaires Aéro Biodiversité - LFCD - Andernos-les-Bains-Inventaires Aéro Biodiversité - LFCD - Relevé végétation
+3 records from City of Edinburgh Natural Heritage Service - Fungi Surveys
+106 records from TWIC Biodiversity Field Trip Data (1995-present)
+2 records from Prieskum chránených druhov rastlín, Chopok juh, lyžiarske stredisko
+19 records from Faun
+5 records from Prieskum rastlín, Tatranská Lomnica, lyžiarske stredisko
+2 records from ACQUISITION_CBNMC - HAPPEDavid_juin2014
+710 records from Natuurmuseum Brabant, Tilburg - Botany
+2 records from Species inventories NP Öewersauer, Recorder-Lux Database
+285 records from InboVeg - Amphibious vegetation of shallow lakes at Turnhout
+299 records from Protocole d'inventaire de la flore vasculaire à l'échelle communale-Inventaire de la flore vasculaire par commune
+3 records from Projet éolien de Châlons- Le Mareix - Données Biodiversité Aix
+1 records from ACQUISITION_CBNMC - CESAME_Mezenc_N2000
+11 records from Inventaire de la flore des Landes 2012-2019 - Inventaire de la flore des Landes 2012 (Chalosse et Tursan)
+17 records from Ohio State University Herbarium - Bryophytes
+5 records from Données Vigie-Flore
+2 records from Priest Pot species list, Cumbria, Britain
+1 records from ACQUISITION_CBNMC - Association DIGITALIS
+147 records from BioDivAbove - Vascular plants, lichens and bryophytes 2024
+1 records from Programme CROMIS: carnet de plongée en ligne de la FFESSM-Observations d'espèces subaquatiques collectées par les utilisateurs de CROMIS
+147 records from data.mnhn.lu observation data
+2 records from ACQUISITION_CBNMC - DAUGE
+22 records from ACQUISITION_CBNMC - SM des Monts Madeleine_L19
+22 records from 16 - Inventaire général de la flore et de la fonge - ONF - observations floristiques issues de la base de données nationale
+79 records from ACQUISITION_CBNMC - LEMEE Georges
+2 records from Inventaire de la flore des Pyrénées-Atlantiques (hors massif pyrénéen) - Inventaire de la flore des Pyrénées-Atlantiques 2018
+9 records from Plants from the vegetation relevés of the projected Desniansko-Starohutskyi National Nature Park
+21 records from Assistance technique auprès de l'ONF-Diagnostic écologique des sites de l'ONF
+183 records from Inventaire de la flore de Gironde 2014-2019 - Inventaire de la flore de Gironde 2015
+1 records from ACQUISITION_CBNMC - GARNIER_Yves_juillet2015
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de LE GLOANEC Vincent
+3 records from The Smut Fungi Collection at the Botanische Staatssammlung München
+1427 records from University of Colorado, Museum of Natural History Herbarium Bryophyte Collection
+1 records from RNR FR9300125 Réserve Naturelle Régionale des Bas-Marais Tourbeux De La Basse-Goulandière-Etudes et inventaires sur la RNR de la Basse Goulandière
+1 records from Visiolittoral : Base de données de la communauté de travail du Conservatoire du littoral-Visiolittoral : surveillance naturaliste des sites du Conservatoire du littoral
+1 records from Données espèces - Expertise IQE - Coet Lorch - 2019
+98 records from Inventaire de la flore de Dordogne 2015-2019
+37 records from ACQUISITION_CBNMC - GALTIER
+11 records from ATBI Parc national du Mercantour / Parco naturale Alpi Marittime-Jeux de données provenant de l'ATBI dans le Parco Naturale Alpi Marittime (Italie)
+102 records from ACQUISITION_CBNMC - COM PERSO
+3197 records from Duke University Herbarium Bryophyte Collection
+1 records from ACQUISITION_CBNMC - ONF_Mickaël Le Coquen
+1 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données du naturaliste Tillier Pierre provenant de la base de donnée du SINP Île-de-France CETTIA
+27 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes d'Olivier BARDET
+15 records from Photographs of higher plants, mosses, fungi, lichens, and algae
+47 records from R44_CBAL_BD_Alsace_2012-2022
+119 records from ATBI Parc national du Mercantour / Parco naturale Alpi Marittime-Jeux de données provenant de l'ATBI Mercantour
+2 records from Manx Biological Recording Partnership VERIFIED Isle of Man records between 14/02/2017 and 05/09/2019
+24 records from Inventaire de la flore des Landes 2012-2019 - Inventaire de la flore des Landes 2014
+4 records from ACQUISITION_CBNMC - Cabinet Max Consultant
+19 records from 16 - Inventaire général de la flore et de la fonge - Divers relevés de terrain saisis par le CBNA
+1 records from Réserves Naturelles de France (RNF) - RNF - Données de l'ONF Isère
+9 records from Appui du CBNPMP à la création et à la gestion de réserves naturelles régionales et à l’émergence de parcs naturels régionaux en Midi-Pyrénées-Inventaires réalisés par le CBNPMP dans la RNR du Pibeste-Aoulhet
+1 records from Nature-type mapping in Norway (Viken and Vestfold og Telemark) 2021
+106 records from Protocole d'inventaire des bryophytes par maille 5 km X 5 km-Inventaire des bryophytes par maille 5 km X 5 km
+12 records from Herbario de la Universidad de Granada: Colección GDAC-Bryophyta
+83 records from Der Hammrich - die Vegatationseinheiten eines Flachmoores an der Unterems
+25 records from Relevés of Main Vegetation Types of the Prioksko-Terrasnyi Biosphere Reserve (2021-2022)
+80 records from KiEco Freshwater Ecology: River Macrophytes
+32 records from Programme ZNIEFF en Centre-Val de Loire-ZNIEFF Centre-Val de Loire : Inventaire Flore et autres groupes
+2 records from Herbarium SZUB - Vascular Plant
+1 records from UWS Flanders Moss Meiofauna Records 2015
+516 records from River Macrophytes Database
+1620 records from Phase Two Lowland Heathland Survey
+537 records from Argyll Biological Records Dataset
+1691 records from PlutoF platform reference-based occurrences
+2 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données du partenariat Imerys - UMS PatriNat - 2018-2024
+1 records from INATURA
+10 records from 16 - Inventaire général de la flore et de la fonge - Conservatoire d'Espaces Naturels Rhône-Alpes - inventaire général de la flore et de la fonge réalisé sur le terrain
+2 records from Universidad de Barcelona (Facultad de Biología): Plantas vasculares del valle de Son del Pi y áreas colindantes
+9 records from Appui technique et scientifique à la mise en œuvre de la MAET Herb07 zones humides-Inventaires réalisées par le CBNPMP dans le cadre de l'appui à la MAET HERB07 en Midi-Pyrénées
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes d'Océane ROQUINARC'H
+1 records from 16 - Inventaire général de la flore et de la fonge - Conservatoire d'Espaces Naturels 73 - inventaire général de la flore et de la fonge réalisé sur le terrain
+389 records from University of Tennessee Bryophyte Herbarium
+19 records from Inventaires sur le PNR ariégeois-Inventaires réalisés pour le projet de PNR d'Ariège
+2 records from ACQUISITION_CBNMC - Atlas de l'Ardèche
+1 records from Programme CarNET B (Cartographie Nationale des Enjeux Territorialisés de Biodiversité Remarquable) - Carnet B Centre - lot 2012
+93 records from Inventaire de la flore des Landes 2012-2019 - Inventaire de la flore des Landes 2015
+37 records from Habitats Directive Portuguese Report: Species 2013-2018
+4 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Damien AVRIL
+29 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Divers jeux de données floristiques produits par le réseau des botanistes amateurs dans les départements du 06, 11, 13, 30, 34, 48, 66, 83, 84
+21 records from Plan national d'action en faveur de Luronium natans-Déclinaison Centre Val-de-Loire du PNA Luronium natans
+135 records from ACQUISITION_CBNMC - 2019_01_28_PIFH_CBNMC
+6 records from ACQUISITION_CBNMC - 2019_01_16_ENSPavin
+3 records from Columbia-Greene Community College Natural History Museum Bryophyte Herbarium
+66 records from NNI Riverbase - Mosses &amp; Liverworts
+1 records from Bryophyte collection -Tanzania Forestry Research Institute Herbarium
+3 records from ACQUISITION_CBNMC - CENRhône-Alpes_RNRColleigne
+34 records from NINA botanical collection
+82 records from Observations opportunistes de flore vasculaire, bryophytes, champignons et lichens-Observations Flore, Fonge et Bryophytes du Parc National des Pyrénées
+1 records from ACQUISITION_CBNMC - GARNIERYves_novembre2012
+1 records from PE des Quatre Chemins - Donnees MNHN Quatre Chemins Flore
+62 records from ACQUISITION_CBNMC - SCHUMACKER
+5 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Suivi de l'impact du pâturage ovin sur la végétation du massif de Fontainebleau
+774 records from University of Jena, Herbarium Haussknecht - Herbarium JE
+62 records from Inventaire de la flore d'Alsace - Données Herbiers de l'Université de Strasbourg
+72 records from ACQUISITION_CBNMC - CORNIER
+192 records from 7 - Données flore du CBNMed issues de la bibliographie-Divers jeux de données issues de la bibliographie dépouillées par le CBNMED
+1 records from ACQUISITION_CBNMC - MUHLHOFFMOSNA_flore
+1 records from Relevés of Main Vegetation Types of the Prioksko-Terrasnyi Biosphere Reserve (2024)
+90 records from FLHM Bryophyte Collection
+4 records from TWIC Site Surveys (2010 - present)
+732 records from Centralisation des observations floristiques - Observations floristiques floutées issues de la base de données flore du Conservatoire botanique national alpin
+11 records from Manchester Museum, University of Manchester, Botany Collection
+15456 records from Czech Vegetation Database
+68 records from ACQUISITION_CBNMC - CPIE Haute-Auvergne
+2 records from Valdosta State University - Bryophytes
+5212 records from Bryophyte herbarium, The Arctic University Museum of Norway (TROM)
+3 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de ROMET Martin
+37 records from Records of vascular plants, bryophytes and lichens from Ukrainian Grassland Database
+1 records from Inventaire de la flore de Charente 2013-2015 - Inventaire de la flore de Charente 2014
+21 records from ACQUISITION_CBNMC - SYMISOA_pifh
+2 records from Assistance technique auprès du département du Loir-et-Cher-Diagnoctic écologique des bords de route du Loir-et-Cher
+6 records from Grassland Survey of West Lothian, 1995
+139 records from Biowide Species data
+4 records from Assistance technique auprès du département du Loiret-Diagnoctic écologique des bords de route du Loiret
+3 records from Programme de connaissance de la flore -[Données ancienne flore] - inventaire PNP
+10 records from Palaeobotanical Collections (PB), Swedish Museum of Natural History (NRM)
+11 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Divers jeux de données floristiques produits par le CBNMED sur son territoire d'agrément
+17262 records from Bryophyte Herbarium, Oslo (O) UiO
+19 records from Intermountain Herbarium (Bryophytes), Utah State University
+472 records from The University and Jepson Herbaria -- Bryophytes
+1 records from Phytosociological relevés of Juncetum subnodulosii wet meadows in northern Poland (1973–1983)
+34 records from Habitats Directive Portuguese Report: Species 2007-2012
+13 records from Inventaires écologiques des Grands Projets du Sud-Ouest (GPSO) 2010-2013 - Projets de LGV Bordeaux-Toulouse et Bordeaux-Hendaye - Inventaires floristiques des Grands Projets du Sud-Ouest (GPSO) 2010-2013
+1 records from ACQUISITION_CBNMC - 2020_06_Barrat_Digitalis
+2 records from Staatliches Museum für Naturkunde Stuttgart, Herbarium
+50 records from "Flora des Gouvernements Wladimir" (Fleroff, 1902): georeferenced records
+1 records from Plan national d'action en faveur du Maculinea
+6 records from Programme ZNIEFF en Centre-Val de Loire-ZNIEFF Centre-Val de Loire : Cartograhie des végétations
+4305 records from Données issues du portail Sigogne - Bourgogne-Franche-Comté - TAXA - Flore et habitats naturels de Franche-Comté
+1 records from Réserve naturelle nationale des Pâtis d'Oger - Mesnil-sur-Oger-Inventaire de la flore vasculaire et des Bryophytes de la RNN des POMO
+1 records from Données d'inventaires état initial du Projet photovoltaïque TALLER
+2 records from The MOVECLIM – AZORES project: Bryophytes from Pico Island (2012)
+1268 records from KUO Bryophyte collections
+7 records from Natalie Harmsworth's Records (2010-2019)
+108 records from University of Cincinnati, Margaret H. Fulford Herbarium - Bryophytes
+1 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données du naturaliste Parisot Christophe provenant de la base de donnée du SINP Île-de-France CETTIA
+467 records from Col·lecció de Briòfits de l'herbari de la Universitat de Barcelona
+93 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Cyril EPICOCO
+236 records from Flora of Słowiński National Park, Poland
+21 records from ACQUISITION_CBNMC - SYMISOA_sphagnum
+3 records from Occurrence data from various smaller projects in Norway
+2 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données du/de la naturaliste Branger Fabien provenant de la base de donnée du SINP Île-de-France CETTIA
+12 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Production de données flore dans le cadre de l'animation par le CBNMed du réseau des botanistes amateurs de l'ex région LR
+87 records from Inventaire de la flore de Gironde 2014-2019
+57 records from Grassland Survey of Lochaber 1990-94
+722 records from Estonian Museum of Natural History Department of Botany
+2 records from Inventaire de la flore des Pyrénées-Atlantiques (hors massif pyrénéen) - Inventaire de la flore des Pyrénées-Atlantiques 2015
+4 records from Inventaires du CBNPMP dans le cadre de CARHAB
+9 records from R.H.Wardell - Cardiff Nature Conservation Strategy - 1991 - 1998
+2 records from Assistance technique auprès du département de l'Essonne-Diagnostic écologique des ENS de l'Essonne
+5 records from Flora Batava (1800-1934): From Historical Citizen Science to Plant Humanities Dataset
+4 records from The AAU Herbarium Database
+4 records from Manx Wildlife Trust - Records
+138 records from Inventaire de la flore des Landes 2012-2019 - Inventaire de la flore des Landes 2016
+146 records from Miami University Turrell Herbarium - Bryophytes
+2 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de DEHONDT François
+260 records from Water Framework Directive Lake Macrophyte Status Survey Data 2007 to 2019
+2843 records from Bryophyte collection of the Botanical Museum, University of Oulu (OULU)
+173 records from Herbarium GB, University of Gothenburg
+47 records from Herbario de Briófitos de la Universidad de Salamanca: SALA-Bryo
+107 records from General Herbarium – Cryptogamy &amp; Phanerogamy (CJBG-G) of Jardin botanique de Genève
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Pierre HUGUENY
+15 records from Portland State University Herbarium Bryophytes
+39 records from Danish 19th Century Regional Floras
+4 records from Spatiotemporal Baltic Sea area 18S metabarcoding from three projects performed in 2015-2017 (+storage test 2019)
+130 records from ACQUISITION_CBNMC - PNR Volcans d'Auvergne
+11 records from The occurrences of the Biosphere Reserve "Askania Nova" Reports
+5888 records from National Inventories of Landscapes in Sweden: NILS Inventory 2003–2020
+353 records from Wisconsin State Herbarium, Bryophytes
+48 records from Appui technique et scientifique pour la mise en œuvre du réseau Natura 2000 en Midi-Pyrénées puis Occitanie-Inventaires réalisés par le CBNPMP pour sa mission d'appui à Natura 2000 en Midi-Pyrénées
+13 records from Olga Lakela Herbarium, University of Minnesota Duluth
+76 records from Die Pflanzengesellschaften des westsächsischen Berg- und Hügellandes (Flußgebiet der Freiberger und Zwickauer Mulde) 2. Teil Die Pflanzengesellschaften der erzgebirgischen Moore
+19 records from Manx Biological Recording Partnership VERIFIED records loaded between 24/01/2024 and 23/01/2025.
+3199 records from Vegetation surveys on Peatland Action sites across Scotland in 2014, 2015 and 2021
+51 records from Survey records for Plantlife Nature Reserves from 1980-2016 in Great Britain
+162 records from SP-Bryophyta - Maria Eneyda P. Kauffman Fidalgo
+16 records from Species plots from the Norwegian Vegetation Mapping Programme
+69 records from Field Museum of Natural History (Botany) Bryophyte Collection
+136 records from Préfiguration d'un Observatoire de la biodiversité végétale du Parc Naturel Régional des Landes de Gascogne 2007-2008 - Inventaire de la flore par le CBN Sud-Atlantique sur le PNRLG 2007-2008
+5 records from ICN - Universidad Nacional de Colombia
+1 records from Collezione di Bryophyta dell’Erbario di Pier Antonio Micheli miscellaneo | Bryophyta collection of the Miscellaneous Pier Antonio Micheli's herbarium
+2 records from Fungal collection of the Botanical Museum, University of Oulu (OULU)
+1 records from Royal BC Museum - Herbarium (V)
+1 records from Parc Eolien Bourbriac Nord - Flore
+24 records from ACQUISITION_CBNMC - 2019_10_FR8201756_MAJCarto
+1 records from ACQUISITION_CBNMC - DeptLoire_Caldesie_Epipactis
+476 records from TUR Bryophyte collections of the Turku University
+9 records from 2017 Onwards Muirkirk &amp; North Lowther Uplands SPA species records
+1 records from Observational database of Icelandic plants
+1 records from Danielsberg (Mölltal, Kärnten)
+1 records from &amp;Uuml;berall ist Wunderland
+1 records from Landschaftsschutzgebiet Schmutterwald
+2 records from Forest vegetation of the northeastern part of the Kostroma region (European Russia)
+17 records from Findings of plants and fungi from "Desna-Starohutskyi" National Nature Park (Desna river basin)
+1 records from Tag der Artenvielfalt im Taubental
+1 records from VMM - Inland water macrophyte occurrences in Flanders, Belgium
+1 records from TWIC Midlothian Council – LBS Site Surveys
+1 records from Fourth Finnish Bird Atlas 2022–2025, observations from FinBIF Notebook
+2 records from Manx Biological Recording Partnership UNVERIFIED records loaded between 24/01/2024 and 23/01/2025
+3 records from Inventaire de la flore des Pyrénées-Atlantiques (hors massif pyrénéen) - Inventaire de la flore des Pyrénées-Atlantiques 2017
+1 records from Base BOMBINA du Parc Naturel régional Lorraine - Données bibliographique de la base BOMBINA
+51 records from Inventaire de la flore des Landes 2012-2019 - Inventaire de la flore des Landes 2017
+15 records from Biotope cadastre of the open landscapes, Recorder-Lux database
+3 records from BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+22 records from Bryophyte observations of Turku university Herbarium
+32 records from Louisiana State University, Shirley C. Tucker Herbarium - Bryophytes
+164 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Divers jeux de données floristiques produits par l'association Loisirs botaniques dans les départements du 06,11,13,30,34,48,66,83,84
+1 records from Demande d’autorisation d’exploiter une carrière à ciel ouvert sur la commune de TERNUAY-MELAY-ET-SAINT-HILAIRE (70) - Inventaire Faune-Flore Ternuay
+2 records from Inventaire de la flore de Lot-et-Garonne 2013-2018 - Inventaire de la flore de Lot-et-Garonne 2014
+2 records from Gila Center for Natural History (WNMU) Herbarium - Bryophytes
+4 records from ACQUISITION_CBNMC - ONF_DARNIS_Gorges de la Rhue
+2 records from Flora records in the Azores: LIFE IP Azores Natura
+69 records from Biodiversity records from Ukraine and neighbouring countries extracted from digitalized rare Ukrainian publications
+1 records from Réserves Naturelles de France (RNF) - RNF - Conservatoire d'espaces naturel Nord-Pas-de-Calais
+54 records from Radnorshire Wildlife Trust records held by BIS
+22 records from Brecknock Wildlife Trust (Now WTSWW Brecknockhire) records held by BIS
+4 records from TKM Herbarium: Tula Oblast collections of vascular plants
+5 records from Inventaire de la flore de Charente-Maritime 2012-2020 - Inventaire de la flore de Charente-Maritime 2016
+1 records from Erbario anonimo X di viaggio | Anonymous travel herbarium X
+40 records from Natuurmuseum Brabant, Tilburg - Observations
+6 records from Grassland cartography MECDD, Recorder-Lux database
+1 records from NHMD Bryophyte herbarium - static
+1 records from Centrale hydroélectrique l'Embruneraie-Données floristiques
+3 records from Botany registration database by Danish botanists
+293 records from The Bryophyte Collection at the Staatliches Museum für Naturkunde Karlsruhe
+26 records from Auckland Museum Botany Collection
+40 records from Recherche et suivi de la flore rare et menacée sur le TAG du CBNPMP-Recherche et suivi de la flore rare et menacée par le CBNPMP en Occitanie
+1 records from OUPR - Herbário "Professor José Badini"
+20 records from Données issues des cartes validées dans le cadre de l'Atlas de la Biodiversité Départementale et des Secteurs Marins
+89 records from Réserves Naturelles de France (RNF) - RNF - Données du Conservatoire d'espaces naturel Limousin
+9 records from Stratégie de Conservation de la flore/habitats menacées en Île-de-France-Stratégie de sécurisation des ressources génétiques en IdF
+1 records from Système d'Information sur la Nature et les Paysages d'Ile de France - Données du/de la naturaliste Grignon Céline provenant de la base de donnée du SINP Île-de-France CETTIA
+1 records from Bryophytes from a study of primary producer traits across an altitudinal gradient in alpine Finse
+2 records from Monitoring data from the federal state Saxony (Germany)
+4 records from Zukünftiges NSG Höftland/Bockholmwik
+4 records from Erzental (Oberotterbach)
+141 records from Leicestershire and Rutland Environmental Records Centre records pre 2000
+9 records from Collated IRTU Freshwater Surveys
+4 records from ATBI Parc national du Mercantour / Parco naturale Alpi Marittime - Observations floristiques PNM issues de la base de données flore du Conservatoire botanique national alpin
+121 records from Herbarium Dresdense
+1 records from Species of plants, fungi and animals from separate territories of Podesinnia
+1 records from Projet de parc photovoltaïque au sol ENGIE PV PUY DE LA BESSADE-Liste des espèces floristiques observées à l'échelle du site d'étude
+4 records from Records of plant species in Ukraine according to authorized Internet resources
+10105 records from Florabank2: a grid-based database on distribution of bryophytes in the northern part of Belgium (Flanders and the Brussels Capital region)
+2 records from Images and observations of mostly edible plants in Stephen Barstow’s Edible Garden in Norway, taken between 2005 and 2014
+1 records from 16 - Inventaire général de la flore et de la fonge - Inventaires de la flore et de la fonge réalisés ou transmis par Denis JORDAN
+66 records from TUR Vascular plant collections of the Turku University, Herbarium generale
+1117 records from CSIC-Real Jardín Botánico-Colección de Musgos (MA-Musci)
+136 records from Vegetation of the Rybachy Peninsula and the Sredny Peninsula, Murmansk Oblast, Russia
+1 records from ACQUISITION_CBNMC - CDSL
+11 records from ACQUISITION_CBNMC - CEPA
+1 records from Biodiversity monitoring MECDD, Recorder-Lux database
+1 records from ACQUISITION_CBNMC - 2019_05_Guillerme
+3 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données sur les Espaces Naturels Sensible de Loir-et-Cher (ENS)
+893 records from Fife Nature Records Centre Combined Dataset
+1 records from ACQUISITION_CBNMC - 2020_06_guillerme
+7 records from East Ayrshire Species Database
+7 records from PondNet data 2012-2014
+49 records from Ty Canol National Nature Reserve (NNR) Species Inventory
+107 records from Phase 2 Woodland Survey of Wales
+2003 records from Phase 2 Lowland Peatland Survey of Wales 2004 onwards
+11 records from Standing water cartography, Recorder-Lux database
+2 records from Amélioration de la connaissance de la flore, la fonge et les habitats naturels et évaluation des grands corridors alluviaux de la sous-trame milieux humides et les grandes aires urbaines de Midi-Pyrénées.-Recherche de taxons rares ou menacées de plantes vasculaires de la sous-trame milieux humides de Midi-Pyrénées
+101 records from WTSWW Data: All Taxa (West Wales)
+736 records from NRW Regional Data: all taxa (excluding sensitive species), West Wales
+556 records from Moss occurrences in Yugyd Va National Park, Subpolar and Northern Urals, European North-East Russia
+29 records from Cartographie nationale des milieux humides - version 1 - données habitat et flore - Cartographie nationale des milieux humides - version 1 - données flore
+18 records from ACQUISITION_CBNMC - ZNIEFF Auvergne (brouillons)
+2 records from Abildsø - våtmark og torvmark
+1 records from Ferme éolienne de l'Algoux - Flore
+789 records from URK Plant Distribution Database
+3 records from Projet d'extension du parc éolien de Saint-Nicolas-des-Biefs - Flore - Inventaire non protocolé
+13 records from ACQUISITION_CBNMC - CEN Auvergne_2011
+7 records from Réserve Naturelle Régionale des Tourbières du Morvan-Suivi standardisé des espèces patrimoniales de la RNR des tourbières du Morvan
+121 records from Herbarium Universitatis Daugavpiliensis
+12 records from Die Vegetation und Oberflächengestaltung der Oberharzer Hochmoore
+1 records from Inventaires Aéro Biodiversité - LFCD - Andernos-les-Bains-Inventaires Aéro Biodiversité - LFCD - Observation opportuniste tous règnes confondus
+66 records from ACQUISITION_CBNMC - CENAuvergne_SICEN_2016
+1 records from 15 - Programme régional des Atlas de Biodiversité Communale (ABC) en PACA-Données flore produites dans le cadre de l'ABC Uvernet-Fours
+3 records from University of North Carolina at Chapel Hill Herbarium: Bryophytes
+3 records from ACQUISITION_CBNMC - 2019_01_21_Montmoulard
+2 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de David HAPPE
+47 records from CRIS data set
+10 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de AMBEC Nils
+1 records from Erbario di Gaetano Savi | Gaetano Savi's herbarium
+3 records from ACQUISITION_CBNMC - CENRA_rhomeo
+6 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Monsieur JOURDE Rémi
+78 records from Réserve Naturelle Régionale des Tourbières du Morvan-Inventaires des bryophytes de la RNR des tourbières du Morvan
+340 records from Academy of Natural Sciences of Drexel University - Bryophytes
+3 records from ACQUISITION_CBNMC - GUINOCHET M.
+4 records from Plan national d'action en faveur de Luronium natans-Animation nationale du PNA Luronium natans
+169 records from University of Florida Herbarium - Bryophytes
+149 records from Données d'observation de la faune, de la Flore et de la fonge du Parc national des Cévennes-Contact aléatoire tous règnes confondus
+2938 records from University of Tartu Natural History Museum and Botanical Garden Botanical Collections
+3 records from Abundance, diversity and distribution of Legionellales in wet environments in Sweden
+1 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de OLLAGNIER Pascal
+11 records from 6 - Inventaire général de la flore vasculaire et de la fonge sur le TAG du CBNMed-Diverses données floristiques issues de structures publiques dans les départements du 06, 11, 13, 30, 34, 48, 66, 83, 84
+18 records from ACQUISITION_CBNMC - 2019_03_SMAT_FR8301075
+51 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de PARADIS Anne-Hélène
+4 records from Dame Ella Campbell Herbarium (MPN) AVH data
+2 records from Programme ZNIEFF en Grand-Est-ZNIEFF Grand-Est : inventaire flore
+119 records from Kostrzyca Forest Gene Bank Database
+4 records from 生物多樣性研究所植物標本館(TAIE)苔蘚資料 Bryophyte specimens at Herbarium of Taiwan Biodiversity Research Institute, TAIWAN (TAIE)
+4 records from Assistance technique auprès du département du Loiret-Diagnostic écologique ENS du Loiret
+37 records from Caracterización de los trampales del macizo del Oiz - Sistema de Información de la Naturaleza de Euskadi
+8 records from OPUN - Europe
+5 records from Herbarium of The Ark Nature Centre
+12 records from Herbarium specimens of lichens and mosses deposited at the Slovak National Museum - Natural History Museum in Bratislava, Slovakia (BRA) from the period 1856 - 2008 from the Slovak territory
+33 records from Nature monitoring data, Amphi Consult and Biomedia, Denmark
+2 records from LWS herbarium. Non-vascular plants
+12 records from Données d'observation de la Faune, de la Flore et de la Fonge-[HORS_PROTOCOLE] - Contributions à la connaissance sur la biodiversité du Parc National des Pyrénées
+1 records from ACQUISITION_CBNMC - PHILIPPE_marc_privas2014
+11 records from Rutgers University, Chrysler Herbarium
+39 records from iSpot British Isles observations
+2 records from Inventaire de la flore de Charente-Maritime 2012-2020 - Inventaire de la flore de Charente-Maritime 2015
+5 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Pierre DUFRENE
+2 records from Programmes de connaissance sur les forêts d'Occitanie-Inventaires du CBNPMP sur les vieilles forêts pyrénéennes
+
+        </abstract>
+        <contact>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:32Z</dateStamp>
+                <citation identifier="0008347-260519110011954">GBIF Occurrence Download 0008347-260519110011954</citation>
+                <physical>
+                    <objectName>Darwin Core Archive</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Darwin Core Archive</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://api.gbif.org/v1/occurrence/download/request/0008347-260519110011954.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

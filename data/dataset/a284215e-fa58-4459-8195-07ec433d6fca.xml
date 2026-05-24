@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a284215e-fa58-4459-8195-07ec433d6fca"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/8jqkbb</alternateIdentifier>
+        <alternateIdentifier>http://www.ipt-cenma.ad/resource?r=dades-bryophytes</alternateIdentifier>
+        <alternateIdentifier>a284215e-fa58-4459-8195-07ec433d6fca</alternateIdentifier>
+        <alternateIdentifier>12763</alternateIdentifier>
+        <title>Briòfits d&apos;Andorra</title>
+        <creator>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2016-03-08
+        </pubDate>
+        <language>CATALAN</language>
+        <abstract>
+            Los datos “Briòfits d’Andorra” son una recopilación de los datos de briófitos que se han observado en territorio andorrano. Tal recopilación ha sido realizada por el Centre d’Estudis de la Neu i de la Muntanya d’Andorra de l’Institut d’Estudis Andorrans (CENMA-IEA). La gran mayoría de los datos provienen de citas bibliográficas pero también se incluyen los datos generados y contrastados por las propias instituciones públicas o empresas andorranas. 
+Este conjunto de datos fue revisado y actualizado en febrero de 2016 y contiene un total de 763 registros. La precisión espacial de los datos es de 1 km2
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>monograph</keyword>
+            <keyword>publication</keyword>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.iea.ad/cenma</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://orphans.gbif.org/AD/a284215e-fa58-4459-8195-07ec433d6fca.208.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Andorra es un país situado al sur de Europa en medio de la cordillera de los Pirineos.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>1</westBoundingCoordinate>
+                    <eastBoundingCoordinate>1</eastBoundingCoordinate>
+                    <northBoundingCoordinate>42</northBoundingCoordinate>
+                    <southBoundingCoordinate>42</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <purpose><para>El propósito principal de este juego de datos es dar a conocer de forma libre la biodiversidad de Andorra y contribuir así al conocimiento general del planeta.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Martínez de la Riva</surName>
+            </individualName>
+            <organizationName>SMR</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Madrid</city>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>santiagomtzdelariva@yahoo.es</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Roger</givenName>
+                <surName>Caritg</surName>
+            </individualName>
+            <organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint>
+                <city>Sant Julià de Lòria</city>
+                <administrativeArea>Andorra</administrativeArea>
+                <postalCode>AD600</postalCode>
+                <country>ANDORRA</country>
+            </address>
+            <phone>(+376) 742630</phone>
+            <electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress>
+            <onlineUrl>http://www.cenma.ad</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Los datos han sido recopilados por el CENMA en un formato común XML a partir del programa libre Fagus (Universidad de Barcelona). Posteriormente se ha transformado a Excel y Access para que estos puedan ser revisados a partir de la Herramienta DarwinTest.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Ámbito nacional de Andorra.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Recopilación de los datos bibliográficos y observaciones de campo de las instituciones andorranas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Todos los datos han sido comprobados por la herramienta DarwinTest (herramienta realizada por GBIF-España).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:49Z</dateStamp>
+                <citation>Caritg R (2016). Briòfits d&apos;Andorra. Centre d&apos;estudis de la neu i de la muntanya d&apos;Andorra (CENMA), Institut d&apos;Estudis Andorrans. Occurrence dataset https://doi.org/10.15468/8jqkbb accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Brugués, M. (2007); Sphagnum contortum y Pohlia longicolla en Andorra; Boletín de la Sociedad Española de Briología 30-31:</citation>
+                <citation>Casas, C. (1999); Neckera besseri, Homalia lusitanica i Homalia trichomanoides (molses) als Països Catalans; Orsis 14:31-37</citation>
+                <citation>Casas, C. (2001); Les espècies del gènere Schistidium Bruch &amp; Schimp. dels Països Catalans; Orsis 16: 9-28</citation>
+                <citation>Casas Sicart, C.; Catálogo de los briófitos de la vertiente española del Pirineo Central y de Andorra; Collectanea Botanica 16(2): 255-321.</citation>
+                <citation>Casas Sicart, C. (1986); Catálogo de los briófitos de la vertiente española del Pirineo Central y de Andorra; Collectanea Botanica 16(2): 255-321.</citation>
+                <citation>Cros, R.M., Brugués, M., Ruiz, E. &amp; Barrón, A. (2005); Contribució a la brioflora d&apos;Andorra; Orsis 20, 33-40.</citation>
+                <citation>Lluent, Artur; Carrillo, Empar (2007); Estudi de l&apos;estructura i funcionament de les comunitats quionòfiles als Pirineus en relació a la variació dels factors ambientals; Tesi doctoral, Universitat de Barcelona Departament de Biologia Vegetal.</citation>
+                <citation>Losa, M. &amp; Montserrat, P. (1951); Aportación al conocimiento de la flora de Andorra; Primer congreso Internacional del Pirineo del Instituto de Estudios Pirenaicos, Zaragoza, CSIC.</citation>
+                <citation>Manobens Rigol, R. M. (1984); Aportaciones al conocimiento de la brioflora de los Pirineos; Anales de Biología 2(2):327-333.</citation>
+                <citation>Meste, Catherine (1981); Le genre Philonotis dans les Pyrénées: le cas particulier de Philonotis rigida Brid.; 106è Congrès national des Sociétés savantes. Perpignan. Sciences fasc. II: 203-216.</citation>
+                </bibliography>
+                <resourceLogoUrl>http://www.ipt-cenma.ad/logo.do?r=dades-bryophytes</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="358b6d13-785e-4b39-a049-291bb1757a03"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/8dkxsz</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=13</alternateIdentifier>
+        <title>Valdosta State University - Bryophytes</title>
+        <creator>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>J. Richard Carter, Jr. Curator</surName>
+            </individualName>
+            <electronicMailAddress>rcarter@valdosta.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The Valdosta State University Herbarium (VSC) provides a repository for the preservation of voucher specimens that document the flora of the Coastal Plain region of Georgia and specimens from a broader geographical area that might be useful in the study of the flora of this region and that enable specialized research on particular groups of plants carried out by faculty and students in residence at Valdosta State University and by taxonomic specialists at other institutions. VSC also provides specimens for use in teaching, and its staff responds to requests from the general public, natural resource managers, agricultural scientists, and others by providing information about plants and service determinations of unknown plants and, where appropriate, preserving vouchers relating to such.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://bryophyteportal.org/portal/content/dwca/VSC_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>Valdosta State University - Bryophytes</organizationName>
+            <electronicMailAddress>rcarter@valdosta.edu</electronicMailAddress>
+            <onlineUrl>http://www.valdosta.edu/~rcarter/herbintro.htm</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:12Z</dateStamp>
+                <citation>Valdosta State University Herbarium (2026). Valdosta State University - Bryophytes. Occurrence dataset https://doi.org/10.15468/8dkxsz accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

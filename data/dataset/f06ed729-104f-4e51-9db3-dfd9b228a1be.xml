@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f06ed729-104f-4e51-9db3-dfd9b228a1be"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/kkb2x0</alternateIdentifier>
+        <alternateIdentifier>8064</alternateIdentifier>
+        <alternateIdentifier>https://gbif.vm.ntnu.no/resource?r=vascularplantfieldnotes</alternateIdentifier>
+        <alternateIdentifier>https://gbif.vm.ntnu.no/ipt/resource?r=vascularplantfieldnotes</alternateIdentifier>
+        <alternateIdentifier>http://gbif.vm.ntnu.no/ipt/resource?r=vascularplantfieldnotes</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=trh_vxl</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=trh_vxl</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=trh_vxl</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource?r=trh_vxl</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource.do?r=trh_vxl</alternateIdentifier>
+        <alternateIdentifier>f06ed729-104f-4e51-9db3-dfd9b228a1be</alternateIdentifier>
+        <alternateIdentifier>8064</alternateIdentifier>
+        <title>Vascular plant field notes, NTNU University Museum</title>
+        <creator>
+            <organizationName>NTNU University Museum</organizationName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <onlineUrl>http://www.ntnu.no/vitenskapsmuseet</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>NTNU University Museum</organizationName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <onlineUrl>http://www.ntnu.no/vitenskapsmuseet</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-11-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Vascular plant field notes, Norway. Observation of vascular plants from several thousand localities using standardized cross-lists.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>A new revised dataset was published in December 2019, including new uuids and revised geographical position and geographical extent of each locality. In 2022 data from an additional 1100 cross-list forms were added.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://gbif.vm.ntnu.no/archive.do?r=vascularplantfieldnotes</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Norway and a few localities in the middle part of Sweden</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>0</westBoundingCoordinate>
+                    <eastBoundingCoordinate>31.289</eastBoundingCoordinate>
+                    <northBoundingCoordinate>72</northBoundingCoordinate>
+                    <southBoundingCoordinate>57.798</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Dag-Inge</givenName>
+                <surName>Øien</surName>
+            </individualName>
+            <organizationName>NTNU University Museum</organizationName>
+            <positionName>Administrator</positionName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>dag.oien@ntnu.no</electronicMailAddress>
+            <onlineUrl>http://www.ntnu.no/vitenskapsmuseet</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>No particular procedures</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset is a collection of observations made during various research project, including surveys and shorter field trips, at the NTNU University Museum from the first part of the 1900s and onwards. Included are also a few observation made by skilled amateurs. The dataset contains observation from several thousand localities throughout Norway, and also a few localities in the middle part of Sweden (Dalarna and Värmland).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Observations of all vascular plant species within a certain area, were recorded in the field using standardized cross-list paper forms covering most vascular plants to be found in Norway. From the late 1990ies onwards, the paper forms have been digitized and the observations recorded in a database. At present the dataset contains observation made until 2006. The area of which each list cover, varies from a few ha to several square km, and the coordinate of each species observation is thus the center point of that area.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The digitized data have been subjected to thorough proofreading by skilled personnel prior to publication.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:59Z</dateStamp>
+                <citation>Norwegian University of Science and Technology (2025). Vascular plant field notes, NTNU University Museum. Version 1.12. Sampling event dataset https://doi.org/10.15468/kkb2x0 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://gbif.vm.ntnu.no/ipt/logo.do?r=herpetile_collection_ntnu_university_museum</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

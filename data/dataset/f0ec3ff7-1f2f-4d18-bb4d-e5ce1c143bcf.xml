@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f0ec3ff7-1f2f-4d18-bb4d-e5ce1c143bcf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/vxfzaf</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.pl/resource?r=releve_juncetumsubnodulosi_n_poland</alternateIdentifier>
+        <title>Phytosociological relevés of Juncetum subnodulosii wet meadows in northern Poland (1973–1983)</title>
+        <creator>
+            <individualName>
+                <givenName>Ryszard</givenName>
+                <surName>Markowski</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Department of Plant Taxonomy and Nature Conservation</organizationName>
+            <positionName>Researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jadwiga</givenName>
+                <surName>Stasiak</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Department of Plant Taxonomy and Nature Conservation</organizationName>
+            <positionName>Researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ryszard</givenName>
+                <surName>Markowski</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Department of Plant Taxonomy and Nature Conservation</organizationName>
+            <positionName>Researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jadwiga</givenName>
+                <surName>Stasiak</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Department of Plant Taxonomy and Nature Conservation</organizationName>
+            <positionName>Researcher</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Joanna</givenName>
+                <surName>Korybut-Orlowska</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Biological Resource Centre Gdańsk</organizationName>
+            <positionName>Data and Collections Manager</positionName>
+            <address>
+                <deliveryPoint>Wita Stwosza 59</deliveryPoint>
+                <city>Gdansk</city>
+                <administrativeArea>Pomerania</administrativeArea>
+                <postalCode>80-308</postalCode>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>opendata.bio@ug.edu.pl</electronicMailAddress>
+            <onlineUrl>https://herbarium.ug.edu.pl/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3715-3866</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Joanna</givenName>
+                <surName>Korybut-Orlowska</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Biological Resource Centre Gdańsk</organizationName>
+            <positionName>Data and Collections Manager</positionName>
+            <address>
+                <deliveryPoint>Wita Stwosza 59</deliveryPoint>
+                <city>Gdansk</city>
+                <administrativeArea>Pomerania</administrativeArea>
+                <postalCode>80-308</postalCode>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>opendata.bio@ug.edu.pl</electronicMailAddress>
+            <onlineUrl>https://herbarium.ug.edu.pl/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3715-3866</userId>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Biological Resource Centre Gdańsk</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology</organizationName>
+            <address>
+                <deliveryPoint>Wita Stwosza 59</deliveryPoint>
+                <city>Gdansk</city>
+                <administrativeArea>Pomerania</administrativeArea>
+                <postalCode>80-308</postalCode>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>zasobyprzyrodnicze@ug.edu.pl</electronicMailAddress>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-19
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset contains phytosociological relevés of wet meadow communities belonging to the Juncetum subnodulosii association, collected in northern Poland. The data originate from field surveys conducted between 1973 and 1983 and represent historical vegetation records from fen and wet meadow habitats.
+
+</para><para>The dataset consists of seven phytosociological relevés, each documenting the complete species composition of vascular plants recorded within homogeneous vegetation plots. Species abundance was estimated using the Braun–Blanquet cover-abundance scale.</para><para>The dataset is published in a standardized format compatible with GBIF and includes both relevé-level data (sampling-event information) and species occurrence records derived from phytosociological tables.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.pl/archive.do?r=releve_juncetumsubnodulosi_n_poland</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The dataset covers selected localities in northern Poland, including coastal and lowland regions of the southern Baltic area. Relevés were recorded in the following regions and localities:
+- Wolin Island (former Szczecin Voivodeship), including Wicko (Zalesie Forest District) and Kłoczewo;
+- Wejherowo area (Nanice);
+- Puck County, southwest of Sulicice, along the Czarna Woda river canal;
+- Vicinity of Lake Orle (former Gdańsk Voivodeship);
+- Mierzyno and surrounding areas;
+- Kashubian Coast (Pobrzeże Kaszubskie), between Perlinek and Mierzyno, along the left bank of the Bychowska Struga stream;
+All records originate from wet meadow and fen habitats.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>14.439</westBoundingCoordinate>
+                    <eastBoundingCoordinate>18.248</eastBoundingCoordinate>
+                    <northBoundingCoordinate>54.76</northBoundingCoordinate>
+                    <southBoundingCoordinate>53.902</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                0025-10-27
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                0025-02-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Joanna</givenName>
+                <surName>Korybut-Orlowska</surName>
+            </individualName>
+            <organizationName>University of Gdansk, Faculty of Biology, Biological Resource Centre Gdańsk</organizationName>
+            <positionName>Data and Collections Manager</positionName>
+            <address>
+                <deliveryPoint>Wita Stwosza 59</deliveryPoint>
+                <city>Gdansk</city>
+                <administrativeArea>Pomerania</administrativeArea>
+                <postalCode>80-308</postalCode>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>opendata.bio@ug.edu.pl</electronicMailAddress>
+            <onlineUrl>https://herbarium.ug.edu.pl/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3715-3866</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Original phytosociological relevés were available only in paper form. All data were manually transcribed, standardized, and structured into a digital database. The dataset was organized into a relevé (event) table and a species occurrence table. Braun–Blanquet cover-abundance values were preserved as categorical data. The dataset was formatted as a sampling-event dataset and prepared for publication using the GBIF Integrated Publishing Toolkit (IPT).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study covers selected wet meadow and fen habitats of northern Poland, representing the Juncetum subnodulosii association. The data originate from historical phytosociological surveys conducted between 1973 and 1983.
+A total of seven phytosociological relevés were recorded at multiple localities in coastal and lowland regions of northern Poland. Each relevé represents a homogeneous vegetation patch of wet meadow vegetation.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Vegetation data were collected using the classical phytosociological relevé method following the Braun–Blanquet approach. Relevés were recorded in open wet meadow vegetation of the Juncetum subnodulosii association.
+The vegetation structure was characterized by the absence of a tree layer and a very weakly developed shrub layer (shrub cover up to 5%). The herb layer was dominant, with cover values ranging from 80% to 100%. A well-developed moss layer was present, with cover ranging from 15% to 100%. Lichens were not recorded.
+
+For each relevé, a complete list of vascular plants and bryophytes was compiled, and species abundance was estimated using the Braun–Blanquet cover-abundance scale. Each relevé represents a single sampling event.&quot;</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The dataset was digitized from original phytosociological tables. Taxon names were reviewed and standardized to ensure internal consistency and compatibility with contemporary taxonomic references.
+Locality information was preserved in its original verbatim form due to the historical character of the data and the lack of precise geographic coordinates.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:14Z</dateStamp>
+                <citation>Markowski R, Stasiak J, Korybut-Orlowska J (2026). Phytosociological relevés of Juncetum subnodulosii wet meadows in northern Poland (1973–1983). University of Gdańsk. Occurrence dataset https://doi.org/10.15468/vxfzaf accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://ipt.gbif.pl/logo.do?r=releve_juncetumsubnodulosi_n_poland</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="bd14614c-4d72-4763-8710-1cea514311cc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ehkbkt</alternateIdentifier>
+        <title>EUKARYOME: the rRNA gene reference database for identification of eukaryotes</title>
+        <creator>
+            <individualName>
+                <givenName>Leho</givenName>
+                <surName>Tedersoo</surName>
+            </individualName>
+            <electronicMailAddress>leho.tedersoo@ut.ee</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1635-1249</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kessy</givenName>
+                <surName>Abarenkov</surName>
+            </individualName>
+            <electronicMailAddress>kessy.abarenkov@ut.ee</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5526-4845</userId>
+        </metadataProvider>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>EUKARYOME is a community-curated research database for nuclear ribosomal 18S rRNA (SSU), internal transcribed spacer (ITS), and 28S rRNA (LSU) markers for all eukaryotes. It compiles well-annotated, non-redundant, high-quality reads for the SSU, ITS, and LSU subsets – separately and combined – for high-accuracy taxonomic reference and chimera recognition. It also offers a number of reference long read sequences that are derived from (meta)genomic, long-read (meta)barcoding and concatenated short Sanger reads – a unique feature that can be used for taxonomic identification and chimera control of third-generation, long-read, high-throughput sequencing data. EUKARYOME relies only on the Linnaean ranks including species, genus, family, order, class, phylum, and kingdom. The EUKARYOME reference database covers all terrestrial and aquatic eukaryotic groups based on nuclear rRNA SSU, ITS, and LSU markers taken separately and combined). A total of nearly 1.8 million entries are contained in the current version of the database.
+
+If you find EUKARYOME a useful resource for your research or applications please cite:
+
+Leho Tedersoo, Mahdieh S Hosseyni Moghaddam, Vladimir Mikryukov, Ali Hakimzadeh, Mohammad Bahram, R Henrik Nilsson, Iryna Yatsiuk, Stefan Geisen, Arne Schwelm, Kasia Piwosz, Marko Prous, Sirje Sildever, Dominika Chmolowska, Sonja Rueckert, Pavel Skaloud, Peeter Laas, Marco Tines, Jae-Ho Jung, Ji Hye Choi, Saad Alkahtani, Sten Anslan , EUKARYOME: the rRNA gene reference database for identification of all eukaryotes, Database, Volume 2024, 2024, baae043, https://doi.org/10.1093/database/baae043</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://eukaryome.org/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://s3.hpc.ut.ee/plutof-public/original/4fb2119a-4a18-44f1-95e9-ddf3832129bc.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Global</geographicDescription>
+            </geographicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <givenName>Leho</givenName>
+                <surName>Tedersoo</surName>
+            </individualName>
+            <electronicMailAddress>leho.tedersoo@ut.ee</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1635-1249</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Ali</givenName>
+                <surName>Hakimzadeh</surName>
+            </individualName>
+            <electronicMailAddress>alihakimzadeh@ut.ee</electronicMailAddress>
+        </contact>
+
+            <project >
+                <title>EUKARYOME: the rRNA gene reference database for identification of all eukaryotes</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>This work has been funded by Distinguished Scientist Fellowship Program, King Saud University, Riyadh, Saudi Arabia and by grants MOBERC106 and MOBERC116 from Mobilitas 3.0 program, Estonian Research Council.</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:21Z</dateStamp>
+                <citation>Tedersoo L, Abarenkov K. EUKARYOME: the rRNA gene reference database for identification of eukaryotes. PlutoF. Occurrence dataset https://doi.org/10.15468/ehkbkt accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.1093/database/baae043">Leho Tedersoo, Mahdieh S Hosseyni Moghaddam, Vladimir Mikryukov, Ali Hakimzadeh, Mohammad Bahram, R Henrik Nilsson, Iryna Yatsiuk, Stefan Geisen, Arne Schwelm, Kasia Piwosz, Marko Prous, Sirje Sildever, Dominika Chmolowska, Sonja Rueckert, Pavel Skaloud, Peeter Laas, Marco Tines, Jae-Ho Jung, Ji Hye Choi, Saad Alkahtani, Sten Anslan , EUKARYOME: the rRNA gene reference database for identification of all eukaryotes, Database, Volume 2024, 2024, baae043</citation>
+                </bibliography>
+                <resourceLogoUrl>https://s3.hpc.ut.ee/plutof-public/original/fc8a52c4-d67c-4944-aa16-96539ae35af4.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

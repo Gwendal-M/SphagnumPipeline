@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="687c05e9-96d6-40e3-b1c9-2e026d0b3fc0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/8ksd56</alternateIdentifier>
+        <alternateIdentifier>http://tun.fi/HR.4251</alternateIdentifier>
+        <title>LajiGIS: Species mapping and surveys</title>
+        <pubDate>
+                2026-05-20
+        </pubDate>
+        <language>en</language>
+        <abstract>
+            <para>Species observations and surveying information from other than aquatic environments:
+Species mapping or monitoring on land, butterfly monitoring, Impact monitoring of nature management or restoration, Impact monitoring of peatland restoration, Impact monitoring of adding decayed wood in forests, Impact monitoring of grove management, Impact monitoring of open habitat management, as well as Inventory and management monitoring of traditional biotopes. The information on the type is visible in the additional information section under the heading &amp;#34;Kartoituksen tarkoitus&amp;#34; (&amp;#34;Purpose of Mapping&amp;#34;).
+
+Data is updated to FinBIF weekly every Monday.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://gbif.laji.fi/archives/HR.4251.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Finland</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>20.5489</westBoundingCoordinate>
+                    <eastBoundingCoordinate>31.5599</eastBoundingCoordinate>
+                    <northBoundingCoordinate>70.071</northBoundingCoordinate>
+                    <southBoundingCoordinate>59.7599</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1985-07-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2026-03-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <givenName>Kaisa</givenName>
+                <surName>Junninen</surName>
+            </individualName>
+            <electronicMailAddress>kaisa.junninen@metsa.fi</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>FinBIF</surName>
+            </individualName>
+            <electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:40Z</dateStamp>
+                <citation>Metsähallitus (2026). LajiGIS: Species mapping and surveys. Occurrence dataset https://doi.org/10.15468/8ksd56 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

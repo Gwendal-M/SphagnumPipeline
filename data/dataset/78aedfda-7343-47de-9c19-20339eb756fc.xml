@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="78aedfda-7343-47de-9c19-20339eb756fc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/xenbgn</alternateIdentifier>
+        <alternateIdentifier>78aedfda-7343-47de-9c19-20339eb756fc</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1967</alternateIdentifier>
+        <alternateIdentifier>4fd92966-6524-3740-8b8e-6a61ef44cd24</alternateIdentifier>
+        <title>West Wales Online Records</title>
+        <creator>
+            <organizationName>West Wales Biodiversity Information Centre</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>West Wales Biodiversity Information Centre</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-04-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>All species records submitted to West Wales Biodiversity Information Centre on their online recording system for Carmarthenshire, Ceredigion and Pembrokeshire, excluding records that have already been uploaded by WWBIC to the NBN Atlas in other datasets.
+
+Please contact the dataset administrator if more information is required</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1967</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1967/dr1967.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2002-01-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-11-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>Russell</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>colin@westwalesbiodiversity.org.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Casual sightings, monitoring and species surveys</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records were submitted by vice county recorders, consultants, ecologists and  members of the public. Data was internally validated by a WWBIC member of staff before import into Recorder 6, although WWBIC cannot guarantee the accuracy of every record.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:48Z</dateStamp>
+                <citation>West Wales Biodiversity Information Centre (2025). West Wales Online Records. Occurrence dataset https://doi.org/10.15468/xenbgn accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

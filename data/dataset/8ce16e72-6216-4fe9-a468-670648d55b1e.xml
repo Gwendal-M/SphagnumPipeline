@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8ce16e72-6216-4fe9-a468-670648d55b1e"  system="http://gbif.org" scope="system"
+xml:lang="nb">
+    <dataset>
+        <alternateIdentifier>10.15468/9r7mc5</alternateIdentifier>
+        <alternateIdentifier>8ce16e72-6216-4fe9-a468-670648d55b1e</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=hb13</alternateIdentifier>
+        <shortName>HB13</shortName>
+        <title>DN-Håndbok 13 - artsforekomster</title>
+        <creator>
+            <organizationName>Miljødirektoratet</organizationName>
+            <electronicMailAddress>wms@miljodirektoratet.no</electronicMailAddress>
+        </creator>
+        <pubDate>
+                2026-04-15
+        </pubDate>
+        <language>NORWEGIAN_BOKMAL</language>
+        <abstract>
+            <para>Dette datasettet inkluderer arter som er knyttet til registrering av DN Håndbok 13 for naturtyper. Vi baserer oss på egenskapen &amp;#39;artsmangfold&amp;#39; i datesettet DN-Håndbok 13. Vi bruker så Nortaxa for å sjekke artsfunn, dette gjøres i flere steg. Men for alle steg så sjekker vi bare artsnivået, og arter som ansett til å eksistere i Norge. Alle artsnavn blir prefikset og suffikset med et mellomrom, slik at vi unngår feiltreff slik som &amp;#39;raudmus&amp;#39; og &amp;#39;raudmuslingmose&amp;#39;. &amp;#39;artsmangfold&amp;#39;-egenskapen får også erstattet alle komma, punktum og paranteser med et mellomrom for å bedre sannsynligheten for treff ved oppramsing av artsnavn, slik som &amp;#34;steinskvett, fjellpryd og stjernesildre&amp;#34;. Treffet må være slik at ordet starter med artsnavnet; slik at &amp;#39;rødstjert&amp;#39; ikke blir forvekslet med &amp;#39;svartrødstjert&amp;#39;.</para><para>Artsnavnene ble sjekket trinnvis:</para><para>1) Sjekk opp mot arter med populærnavn bokmål.a) Vi utelukket så kombinasjoner av arter og HB13-forekomster med funn.b) Sjekket gjenværende for treff av nynorsk populærnavn og latinsk artsnavn (slekt &amp;#43; artsepitet)</para><para>2) For alle arter uten populærnavn så sjekket vi treff for latinsk artsnavn (slekt &amp;#43; artsepitet). Dette inkluderte også synonyme artsnavn. </para><para>Avslutningsvis sjekket vi for alternative norske navn, slik som natt og dag for stemorsblomst.</para><para>En del artsfunn fra disse kartleggingene er lagt inn separat i Artskart av kartleggerne. For å unngå dobbeltregistrering foretar vi derfor en kvalitetskontroll opp mot GBIF. Vi spør da først om et gitt forekomst &amp;#43;/- 14 dager av registreringsdato har noen artsfunn, hvis den har artsfunn så sjekker vi hvilke arter dette er. 5393 HB13-forekomster hadde ingen treff i GBIF for den gitte datoen, 3601 hadde treff for rundt registreringsdatoen. Konkrete observatører og underlagsrapporter kunne ikke automatisk anerkjennes slik at vi viser til referansene og dertil faktaark for mer informasjon om dette.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://kartkatalog.geonorge.no/metadata/naturtyper-paa-land-og-i-ferskvann-hb13/d776ff93-104d-4aa5-a8d9-276df01eb51c</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=hb13</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Norge</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>4.588196</westBoundingCoordinate>
+                    <eastBoundingCoordinate>30.176428</eastBoundingCoordinate>
+                    <northBoundingCoordinate>71.010291</northBoundingCoordinate>
+                    <southBoundingCoordinate>58.001265</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1984-05-31
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2025-03-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <organizationName>Miljødirektoratet</organizationName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>wms@miljodirektoratet.no</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:41Z</dateStamp>
+                <citation>Norwegian Environment Agency (2026). DN-Håndbok 13 - artsforekomster. Version 1.2. Sampling event dataset https://doi.org/10.15468/9r7mc5 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

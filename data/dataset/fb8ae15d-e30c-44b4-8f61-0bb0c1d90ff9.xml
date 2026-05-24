@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/axtkuz</alternateIdentifier>
+        <title>Herbarium GZU</title>
+        <creator>
+            <organizationName>University of Graz, Institute of Plant Sciences - Herbarium GZU</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Astrid Scharfetter</organizationName>
+            <address>
+                <deliveryPoint>Holteigasse 6, A-8010 Graz, Austria</deliveryPoint>
+            </address>
+            <phone>+43 (316) 380-8841</phone>
+            <electronicMailAddress>as.scharfetter@uni-graz.at</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2026-01-01
+        </pubDate>
+        <language>en</language>
+        <abstract>
+            <para>The herbarium of the University of Graz (official abbreviation: GZU) is one of the most important botanical collections in Europe, with approximately 1,200,000 specimens from all over the world. The herbarium material includes vascular plants, bryophytes, fungi, lichenized fungi, myxomycetes, algae, and cyanobacteria. Approximately 10,000 type specimens are currently stored in GZU. The lichen collection, founded by Prof. Dr. Josef Poelt, with at least 220,000 specimens, is of particular international importance.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://access.jacq.org/biocase/downloads/gbif_gzu/Herbarium%20GZU.DwCA.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <individualName>
+                <surName>Astrid Scharfetter</surName>
+            </individualName>
+            <address>
+                <deliveryPoint>Holteigasse 6, A-8010 Graz, Austria</deliveryPoint>
+            </address>
+            <phone>+43 (316) 380-8841</phone>
+            <electronicMailAddress>as.scharfetter@uni-graz.at</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:33Z</dateStamp>
+                <citation>University of Graz (2026). Herbarium GZU. Occurrence dataset https://doi.org/10.15468/axtkuz accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

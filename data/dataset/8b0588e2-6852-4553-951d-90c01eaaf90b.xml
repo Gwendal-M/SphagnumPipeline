@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8b0588e2-6852-4553-951d-90c01eaaf90b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/67fswq</alternateIdentifier>
+        <alternateIdentifier>8b0588e2-6852-4553-951d-90c01eaaf90b</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1290</alternateIdentifier>
+        <alternateIdentifier>fc355dcf-de84-3b32-81d9-fd0919a25091</alternateIdentifier>
+        <title>National Plant Monitoring Scheme - Northern Ireland</title>
+        <creator>
+            <organizationName>National Plant Monitoring Scheme</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>National Plant Monitoring Scheme</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2026-02-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The National Plant Monitoring Scheme (NPMS) is a habitat-based plant monitoring scheme designed by BSBI, CEH, Plantlife and JNCC. The aim is to collect data to provide an annual indication of changes in plant abundance and diversity. This dataset includes NPMS species occurrence data for Northern Ireland; a companion, but separate dataset is supplied for England, Wales, Scotland.
+See http://www.npms.org.uk for more information. Note that although all records within the NPMS are collected at the sub-10 m scale, the Northern Irish dataset presented here is degraded to 1 km.</para>
+        </abstract>
+        <additionalInfo>
+            <para>Plant occurrence data within this dataset have been degraded to the 1 km squares of the Irish grid.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1290</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1290/dr1290.zip</url>
+            </online>
+        </distribution>
+        <purpose><para>The aim of the NPMS is to collect data to provide an annual indication of changes in plant abundance and diversity.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Oliver</givenName>
+                <surName>Pescott</surName>
+            </individualName>
+            <electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>For a full description of the methods used in the NPMS, see the NPMS website (http://www.npms.org.uk) and the technical documents and papers linked therein.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records are available for verification by regional experts through the iRecord system (records may or may not have supporting photographs). The current verification status of each record is propagated to the Atlas, and updated accordingly.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:52Z</dateStamp>
+                <citation>Biological Records Centre (2026). National Plant Monitoring Scheme - Northern Ireland. Occurrence dataset https://doi.org/10.15468/67fswq accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NPMS.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0c56af33-2b10-48af-a87b-f67b6881f036"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3r76br</alternateIdentifier>
+        <alternateIdentifier>0c56af33-2b10-48af-a87b-f67b6881f036</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr14787</alternateIdentifier>
+        <alternateIdentifier>774b632d-82e6-3697-8862-10a0c7073dc4</alternateIdentifier>
+        <title>John T. Waterhouse Herbarium (UNSW) AVH data</title>
+        <creator>
+            <organizationName>Australia&apos;s Virtual Herbarium</organizationName>
+        </creator>
+        <creator>
+            <organizationName>John T. Waterhouse Herbarium</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Australia&apos;s Virtual Herbarium</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>Atlas of Living Australia</organizationName>
+            <address>
+                <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+                <city>Canberra</city>
+                <administrativeArea>ACT</administrativeArea>
+                <postalCode>2601</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>info@ala.org.au</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-05-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            John T. Waterhouse Herbarium (UNSW) AVH data set
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://ipt.rbg.vic.gov.au/ipt/resource?r=unsw_avh</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://dwca-exports.ala.org.au/dr14787.zip</url>
+            </online>
+        </distribution>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <organizationName>Atlas of Living Australia</organizationName>
+            <address>
+                <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+                <city>Canberra</city>
+                <administrativeArea>ACT</administrativeArea>
+                <postalCode>2601</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>info@ala.org.au</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:24Z</dateStamp>
+                <citation>Australia&apos;s Virtual Herbarium (2025). John T. Waterhouse Herbarium (UNSW) AVH data. Occurrence dataset https://doi.org/10.15468/3r76br accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://collections.ala.org.au/data/dataResource/UNSW.jpeg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

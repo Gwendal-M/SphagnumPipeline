@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1e738a03-dce9-4bbb-879f-d58c79a24c3c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ccjgny</alternateIdentifier>
+        <alternateIdentifier>1e738a03-dce9-4bbb-879f-d58c79a24c3c</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=l_dataset</alternateIdentifier>
+        <title>L. IS dataset. Cyanoprocaryota, Lichens, Bryophyte</title>
+        <creator>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Melechin</surName>
+            </individualName>
+            <organizationName>PABGI KSC RAS</organizationName>
+            <positionName>researcher</positionName>
+            <electronicMailAddress>melihen@yandex.ru</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nadejda</givenName>
+                <surName>Konstantinova</surName>
+            </individualName>
+            <organizationName>PABGI KSC RAS</organizationName>
+            <positionName>researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Denis</givenName>
+                <surName>Davydov</surName>
+            </individualName>
+            <organizationName>PABGI KSC RAS</organizationName>
+            <positionName>researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Eugene</givenName>
+                <surName>Borovitchev</surName>
+            </individualName>
+            <organizationName>INEP KSC RAS</organizationName>
+            <positionName>researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sergey</givenName>
+                <surName>Shalygin</surName>
+            </individualName>
+            <organizationName>PABGI KSC RAS</organizationName>
+            <positionName>researcher</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Melechin</surName>
+            </individualName>
+            <organizationName>L.</organizationName>
+            <positionName>head</positionName>
+            <electronicMailAddress>melihen@yandex.ru</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Maxim</givenName>
+                <surName>Shshkov</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology</organizationName>
+            <positionName>researcher</positionName>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Roman</givenName>
+                <surName>Fedorov</surName>
+            </individualName>
+            <organizationName>IDST SB RAS</organizationName>
+            <positionName>researcher</positionName>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2021-09-29
+        </pubDate>
+        <language>RUSSIAN</language>
+        <abstract>
+            L. IS dataset (Cyanoprocaryota, Lichens, Bryophyte) included data of preserved specimens, literary data, observations.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://isling.org/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://gbif.ru:8080/ipt/archive.do?r=l_dataset</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>global coverage</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alexey</givenName>
+                <surName>Melechin</surName>
+            </individualName>
+            <organizationName>L.</organizationName>
+            <positionName>head</positionName>
+            <electronicMailAddress>melihen@yandex.ru</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:51Z</dateStamp>
+                <citation>Melechin A, Konstantinova N, Davydov D, Borovitchev E, Shalygin S (2021). L. IS dataset. Cyanoprocaryota, Lichens, Bryophyte. Version 1.7. L.. Occurrence dataset https://doi.org/10.15468/ccjgny accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

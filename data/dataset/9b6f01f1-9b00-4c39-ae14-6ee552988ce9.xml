@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9b6f01f1-9b00-4c39-ae14-6ee552988ce9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/cuocad</alternateIdentifier>
+        <alternateIdentifier>https://zenodo.org/record/4564455#.YECVF11Kjzc</alternateIdentifier>
+        <alternateIdentifier>https://zenodo.org/record/4564455#.YDjwU11Kjzc</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=occurence_small_projects</alternateIdentifier>
+        <alternateIdentifier>9b6f01f1-9b00-4c39-ae14-6ee552988ce9</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=occurence_small_projects</alternateIdentifier>
+        <title>Occurrence data from various smaller projects in Norway</title>
+        <creator>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>Naturrestaurering</organizationName>
+            <positionName>consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-1024-0406</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Leif</givenName>
+                <surName>Ryvarden</surName>
+            </individualName>
+            <organizationName>University of Oslo</organizationName>
+            <positionName>Professor emeritus</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Erlend Tandberg</givenName>
+                <surName>Grindrud</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Vegetation ecologist</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>Naturrestaurering</organizationName>
+            <positionName>consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-1024-0406</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>Naturrestaurering</organizationName>
+            <positionName>consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-1024-0406</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>Naturrestaurering</organizationName>
+            <positionName>consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-1024-0406</userId>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Rukaya</givenName>
+                <surName>Johaadien</surName>
+            </individualName>
+            <organizationName>GBIF Norway</organizationName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>helpdesk@gbif.no</electronicMailAddress>
+            <onlineUrl>https://www.gbif.no</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-2857-2276</userId>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Dag</givenName>
+                <surName>Endresen</surName>
+            </individualName>
+            <organizationName>GBIF Norway</organizationName>
+            <positionName>GBIF Node Manager</positionName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>node-manager@gbif.no</electronicMailAddress>
+            <onlineUrl>https://www.gbif.no</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-2352-5497</userId>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Leif</givenName>
+                <surName>Ryvarden</surName>
+            </individualName>
+            <organizationName>University of Oslo</organizationName>
+            <positionName>Professor emeritus</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <onlineUrl>https://www.mn.uio.no/ibv/personer/vit/leifry/index.html</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-4670-7306</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Erlend Tandberg</givenName>
+                <surName>Grindrud</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Ecologist</positionName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-02-13
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Species occurence data from Naturrestaurering AS smaller projects.
+
+There is no common protocol for these data. Most of these data are species occurences or species lists recorded as a smaller part of inspections of areas to form a basis for sustainability anlysis, impact assessments or general evaulation of the biodiversity or natural values of an area.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>species</keyword>
+            <keyword>plants</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>NRAS_OD</keyword>
+            <keywordThesaurus>Project ID</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=occurence_small_projects</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Occurrence data collected from projects where Naturrestaurering have been involved within Norway.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>0.703</westBoundingCoordinate>
+                    <eastBoundingCoordinate>35.508</eastBoundingCoordinate>
+                    <northBoundingCoordinate>72.502</northBoundingCoordinate>
+                    <southBoundingCoordinate>54.572</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Animals, plants, mosses, lichens and fungi.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>chromista</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>Naturrestaurering</organizationName>
+            <positionName>consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-1024-0406</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>- Data is recorded in the field, either as occurence of a specific species or as a species list.
+- If neccessary the data is converted into darwinCore format.
+- The validity of all species occurences is cross checked against the &quot;Species Nomenclature Database&quot; (http://www2.artsdatabanken.no/artsnavn/Contentpages/Hjem.aspx) and the &quot;GBIF backbone taxonomy&quot; (https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c/constituents) using R.
+- The data is uploaded to the IPT of GBIF-Norway (https://ipt.gbif.no/) and published after a quality control by GBIF-Norway.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Various species data collected by NaturRestaurering AS from a range of sites spanning the country of Norway in the period 2011 to the present.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>There is no common protocol for these data. Most of these data are species occurences or species lists recorded as a smaller part of inspections of areas to form a basis for sustainability anlysis, impact assessments or general evaulation of the biodiversity or natural values of an area.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All species data are cross-checked against the &quot;Species Nomenclature Database&quot; from Artsdatabanken Norway to check the vernacularName and the scientificName, as well as check if these correlates. Then the scientificName is checked against the GBIF backbone taxonomy. All species occurences where the scientificName and the vernacluarName does not match in the &quot;Species Nomenclature Database&quot;, or there is other reasons to doubt the validity of the observation is removed from the dataset.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="CESP2019-004">
+                <title>Occurence data</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Jørn Olav</givenName>
+                    <surName>Løkken</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-1024-0406</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>Occurence data collected by Naturrestaurering. Ranging from species lists to describe an area, to more spesific registrations like red listed or invasive species.</para>
+                </abstract>
+                <funding>
+                    <para>In part funded by the GBIF Norway 2020 data mobilization call, https://www.gbif.no/projects/co-funding-call/2020/nras.html</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:16Z</dateStamp>
+                <citation>Løkken J O, Ryvarden L, Grindrud E T (2025). Occurrence data from various smaller projects in Norway. Version 1.18. NaturRestaurering AS. Occurrence dataset https://doi.org/10.15468/cuocad accessed via GBIF.org on 2026-05-22.</citation>
+                <physical>
+                    <objectName>Zenodo source dataset</objectName>
+                    <characterEncoding>UTF8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>comma-separated values</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://zenodo.org/record/4564455#.YECVF11Kjzc</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://i0.wp.com/naturrestaurering.no/wp-content/uploads/2019/09/cropped-logo19_1_0_1-2.png</resourceLogoUrl>
+                <formationPeriod>2011-current</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

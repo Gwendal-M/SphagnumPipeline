@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7c190e4a-6987-4042-97aa-534590b45ce5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ysbzk7</alternateIdentifier>
+        <alternateIdentifier>7c190e4a-6987-4042-97aa-534590b45ce5</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.pt/ipt/resource?r=plants_trails_azores</alternateIdentifier>
+        <shortName>Plants_Trails</shortName>
+        <title>Trail-based plant community monitoring in Azorean native forests (Terceira &amp; São Miguel, 2017–2019)</title>
+        <creator>
+            <individualName>
+                <givenName>Rui</givenName>
+                <surName>Carvalho</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores; ce3c - Centre for Ecology, Evolution and Environmental</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d’Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rui.m.carvalho@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-3070-3009</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrea</givenName>
+                <surName>Petrone</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores; ce3c - Centre for Ecology, Evolution and Environmental</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d’Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Rui B.</givenName>
+                <surName>Elias</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associated Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rui.mp.elias@uac.pt</electronicMailAddress>
+            <onlineUrl>https://orcid.org/0000-0003-2397-2438</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-2397-243</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroismo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/paulo-a-v-borges</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Rui</givenName>
+                <surName>Carvalho</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores; ce3c - Centre for Ecology, Evolution and Environmental</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d’Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rui.m.carvalho@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-3070-3009</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroismo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/paulo-a-v-borges</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroismo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>http://gba.uac.pt/member/paulo-a-v-borges</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-04-27
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            
+            The Azores Archipelago hosts some of the last remnants of native forest ecosystems in the North Atlantic, largely restricted to mountainous areas due to long-term human disturbance at lower elevations. These forests are of high conservation value, supporting a large proportion of endemic biodiversity and providing key ecosystem services, including water regulation, erosion control, and recreation (Fernández-Palacios et al. 2017). The sharp increase in tourist visitation of the Azores Archipelago from 2015 onwards raised concerns about the impacts of recreational tourism on native habitats. In particular, official hiking trails crossing native forest patches have been identified as potential sources of ecological disturbance, through both direct trampling and indirect effects associated with trail infrastructure (Barros and Pickering 2014; SREA 2018). This dataset documents vegetation structure and composition recorded along pedestrian trails in native forests on Terceira and São Miguel Islands (Azores, Portugal). A total of 2,733 plant occurrence records were documented, representing taxa belonging to 4 phyla, 7 classes, 20 orders, and 28 families. Data were collected using a standardized trail-based monitoring protocol designed to assess changes in plant communities along gradients of recreational pressure, including distance from the trailhead and proximity to trail infrastructure. The data support to long-term monitoring efforts aimed at informing sustainable trail management and conservation strategies in the Azorean native forests.
+        
+        </abstract>
+        <keywordSet>
+            <keyword>Datasets</keyword>
+            <keyword>Trekking</keyword>
+            <keyword>Sao Miguel</keyword>
+            <keyword>Terceira</keyword>
+            <keyword>Standardised sampling</keyword>
+            <keyword>Monitoring protocols</keyword>
+            <keyword>Biodiversity</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Hiking trails</keyword>
+            <keyword>Samplingevent; Azores Archipelago</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.pt/ipt/archive.do?r=plants_trails_azores</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The study was conducted in native forest ecosystems of the Azores Archipelago (Portugal), focusing on Terceira and São Miguel Islands</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-27.33388</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-25.18476</eastBoundingCoordinate>
+                    <northBoundingCoordinate>38.74974</northBoundingCoordinate>
+                    <southBoundingCoordinate>37.81575</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2017-05-07
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-06-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hypericaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lamiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Araliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polytrichales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Pinopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scrophulariaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aquifoliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Blechnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Aquifoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Myrsinaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rosaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dennstaedtiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cyperaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cupressaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polytrichopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Laurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsyda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ericaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Poaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rubiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polytrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dryopteridaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Juncaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fabaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Orchidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Clethraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lauraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lycopodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Osmundales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Adoxaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Osmundaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lycopodiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Primulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphagnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cyatheales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Asteraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Culcitaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphagnales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements><para>Field work was supported by the Rui Carvalho Ph.D. DRCT scholarship from the Azores Government (M3.1.a/F/135/2015). The Darwin Core database and this Data Set was funded by BioMUST4All - Innovative and inclusive ways of experiencing Azorean biodiversity, co-financed by 85% from the FEDER (ACORES2030-FEDER-01913200) and 15% from the Autonomous Region of the Azores (DRCID, PRO-SCIENTIA, M1.1. C/CONFUND AÇORES 2030/014/2025). Beneficiary: Fundação Gaspar Frutuoso, Partners: AIR Centre, CRESAÇOR and Via Oceânica. Funding to put data open access in AZORES BIOPORTAL was obtained from the project “Upgrading the Azorean Biodiversity Portal Infrastructure (AZORES BIOPORTAL- PORBIOTA) to Boost Biodiversity Research, Management, and Education -PORBIOTA” (DRCID, ACORES2030-FEDER-03420600).</para></acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unknown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Rui</givenName>
+                <surName>Carvalho</surName>
+            </individualName>
+            <organizationName>Universidade dos Açores; ce3c - Centre for Ecology, Evolution and Environmental</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d’Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rui.m.carvalho@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-3070-3009</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The list of species follows the standard Taxonomy as in AZORES BIOPORTAL</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The protocol was applied in four trails: three in Terceira (Serreta, Mistérios Negros and Guilherme Moniz) and one in S. Miguel (Malhadas).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Each trail, whenever possible, had the following sampling areas: at 0 (at 0meters from the trail head), 50 (at 50 meters from the trail head), 250 (at 250m from the trail head), max (the most pristine adjacent area to the trail), Control_50 (the most pristine area at 50m from the trail). In each of these sampling areas we established three plots of 2x10 meters, forming a “T” shape: one is adjacent to the edge of the trail, and the other two plots are placed perpendicularly to the first plot, into the surrounding forest. Each plot is divided into lines that run across the longest length of the rectangle. Each line is named after the distance, in centimeters, to the edge of the rectangle: 25, 50, 100 or 150. Since plot 1 is adjacent to the trail and more trampling is expected, this one has a line at 25cm, which the others don’t. Each line has ten equidistant points, numbered from 1 to ten. The nomenclature in the database for eventId and id follow the logic: year.trail_name.sampling_area.plot.line (ex: 2017.malhadas.0.1.100, or 2019.mist.negros.250.1.150).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The protocol integrates invasive species monitoring and trampling assessment to evaluate whether recreational trails facilitate plant invasions and to quantify vegetation responses to trampling, supported by a manipulative experiment in comparable undisturbed forest sites</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="PLANTS_TRAILS">
+                <title>An integrative approach to evaluate the impact of nature touristic trails on biodiversity using vascular plants</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Rui</givenName>
+                    <surName>Carvalho</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0003-3070-3009</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrea</givenName>
+                    <surName>Petrone</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Rui</givenName>
+                    <surName>Elias</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0003-2397-2438</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Paulo A. V.</givenName>
+                    <surName>Borges</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>The Azores Archipelago hosts some of the last remnants of native forest ecosystems in the North Atlantic, largely restricted to mountainous areas due to long-term human disturbance at lower elevations. These forests are of high conservation value, supporting a large proportion of endemic biodiversity and providing key ecosystem services, including water regulation, erosion control, and recreation (Fernández-Palacios et al. 2017). The sharp increase in tourist visitation of the Azores Archipelago from 2015 onwards raised concerns about the impacts of recreational tourism on native habitats. In particular, official hiking trails crossing native forest patches have been identified as potential sources of ecological disturbance, through both direct trampling and indirect effects associated with trail infrastructure (Barros and Pickering 2014; SREA 2018). This dataset documents vegetation structure and composition recorded along official pedestrian trails in native forests on Terceira and São Miguel Islands (Azores, Portugal). A total of 2,733 plant occurrence records were documented, representing taxa belonging to 4 phyla, 7 classes, 20 orders, and 28 families. Data were collected using a standardized trail-based monitoring protocol designed to assess changes in plant communities along gradients of recreational pressure, including distance from the trailhead and proximity to trail infrastructure. The data support to long-term monitoring efforts aimed at informing sustainable trail management and conservation strategies in the Azorean native forests</para>
+                </abstract>
+                <funding>
+                    <para>Field work was supported by the Rui Carvalho Ph.D. DRCT scholarship from the Azores Government (M3.1.a/F/135/2015). The Darwin Core database and this Data Set  was  funded by BioMUST4All - Innovative and inclusive ways of experiencing Azorean biodiversity, co-financed by 85% from the FEDER (ACORES2030-FEDER-01913200) and 15% from the Autonomous Region of the Azores (DRCID, PRO-SCIENTIA, M1.1. C/CONFUND AÇORES 2030/014/2025). Beneficiary: Fundação Gaspar Frutuoso, Partners: AIR Centre, CRESAÇOR and Via Oceânica.
+Funding to put data open access in AZORES BIOPORTAL was obtained from the project “Upgrading the Azorean Biodiversity Portal Infrastructure (AZORES BIOPORTAL- PORBIOTA) to Boost Biodiversity Research, Management, and Education -PORBIOTA” (DRCID, ACORES2030-FEDER-03420600).</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The study was conducted in native forest ecosystems of the Azores Archipelago (Portugal), focusing on Terceira and São Miguel Islands. These islands were selected because they host official pedestrian trails that cross native forest patches and are subject to a relevant level of recreational visitation, making them suitable systems to evaluate the ecological impacts of hiking activities. Terceira Island (400.6 km²; maximum elevation 1021.14 m) and São Miguel Island (744.6 km²; maximum elevation 1103 m) are two of the nine islands of the Azores Archipelago. The regional climate is temperate oceanic, characterised by regular and abundant rainfall, high relative humidity, and persistent winds, particularly during autumn and winter. Terceira Island is notable for the presence of extensive and relatively pristine native forest areas at higher elevations (Gaspar et al. 2011). Trail selection focused on areas where trail segments crossed native forest patches. In these areas, vegetation structure and species composition correspond to the Azorean montane native forests, with the presence of endemic tree species such as Juniperus brevifolia, Ilex perado subsp. azorica and Laurus azorica, sometimes associated with Erica azorica, particularly on Terceira Island (Elias et al. 2016). In contrast, forest patches adjacent to trails on São Miguel Island showed a higher degree of degradation, frequently dominated by the invasive tree Clethra arborea, while still retaining native forest elements. Three trails were selected on Terceira Island (Mistérios Negros, Serreta and Caldeira Guilherme Moniz), mainly due to logistical feasibility and the presence of well-defined trail segments crossing native forest. One trail was selected on São Miguel Island (Malhadas). This spatial framework allowed the assessment of vegetation patterns along gradients of recreational pressure, while providing reference conditions for comparison with undisturbed native forest areas</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>The study design combines standardized trail-based vegetation monitoring with a manipulative trampling experiment to assess the effects of recreational use on plant communities. Vegetation was surveyed along official hiking trails using established protocols to record species composition, abundance, and indicators of disturbance, including the presence of invasive species. To isolate trampling effects from other trail-related factors, a complementary experiment was conducted in native Azorean Forest areas closed to public access, where controlled trampling treatments were applied using the same measurement framework. This integrative design allows comparison between impacted and control conditions and supports the assessment of vegetation responses to recreational trampling</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:25Z</dateStamp>
+                <citation>Carvalho R, Petrone A, Elias R B, Borges P A V (2026). Trail-based plant community monitoring in Azorean native forests (Terceira &amp; São Miguel, 2017–2019). Version 1.4. Universidade dos Açores. Sampling event dataset https://doi.org/10.15468/ysbzk7 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.1659/MRD-JOURNAL-D-13-00054.1">Barros A, Pickering CM (2014) Non-native plant invasion in relation to tourism use of Aconcagua Park, Argentina, the highest protected area in the Southern Hemisphere. Mountain Research and Development 34: 13–26.</citation>
+                <citation>Elias RB, Gil A, Silva L, Fernández-Palacios JM, Azevedo EB, Reis F (2016) Natural zonal vegetation of the Azores Islands: characterization and potential distribution. Phytocoenologia 46(2): 107–123.</citation>
+                <citation>Fernandez-Palacios JM, Arévalo JR, Balgueras E, Barone R, Nascimento L, Elias RB, Delgado JD, Fernández-Lugo S, Méndez J, Naranjo Cigala A, Sequeira M, Otto R (2017) La Laurisilva Canarias, Madeira y Azores. Macaronesia Editorial, La Laguna</citation>
+                <citation identifier="https://doi.org/10.1007/s10841-010-9365-4">Gaspar C, Gaston KJ, Borges PAV, Cardoso P (2011) Selection of priority areas for arthropod conservation in the Azores archipelago. Journal of Insect Conservation 15: 671–68</citation>
+                <citation>Schaefer H (2021) Flora of the Azores, a field guide (3rd ed.). Margraf Publishers GmbH. ISBN 978-3-8236-1792-1</citation>
+                <citation>SREA (2018) Inquérito aos Residentes sobre o Turismo nos Açores (IRT) – 2018. Turismo</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

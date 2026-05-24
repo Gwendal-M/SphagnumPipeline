@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="59db903e-3cdf-4bef-8e25-172e745eb5d4"  system="http://gbif.org" scope="system"
+xml:lang="sk">
+    <dataset>
+        <alternateIdentifier>10.15468/rk68z5</alternateIdentifier>
+        <alternateIdentifier>https://slovakia.ipt.gbif.no/resource?r=botanika_d1_visnove_dubna_skala</alternateIdentifier>
+        <title>Monitoring botaniky D1 Lietavská Lúčka - Višňové - Dubná Skala 2024</title>
+        <creator>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Juříček</surName>
+            </individualName>
+            <organizationName>Michal Juříček</organizationName>
+            <positionName>Botanist</positionName>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Králik</surName>
+            </individualName>
+            <electronicMailAddress>m.kralik@hbhprojekt.sk</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2025-02-06
+        </pubDate>
+        <language>SLOVAK</language>
+        <abstract>
+            <para>Lokalita 2a
+Lokalita založená na trvalej monitorovacej ploche (TMP) kruhového pôdorysu (plocha 25 m2 s fixovaným stredom, kde monitoring prebieha formou opakovania fytocenologického snímkovania. Druhy na tejto monitorovacej ploche boli zaznamenávané vrátane ich abundancie pomocou 7 miestnej Braun-Blanquetovej stupnice  (Braun-Blanquet 1964). Na lokalite  boli počítaní jedinci zákonom chránených druhov čeľade Orchideaceae. 
+Lokalita 2b
+Lokalita založená na trvalej monitorovacej ploche (TMP) kruhového pôdorysu s fixovaným stredom, kde monitoring prebieha formou opakovania fytocenologického snímkovania. Druhy na tejto monitorovacej ploche boli zaznamenávané vrátane ich abundancie pomocou 7 miestnej Braun-Blanquetovej stupnice  (Braun-Blanquet 1964). 
+Lokalita 3a
+Lokalita založená na trvalej monitorovacej ploche (TMP) kruhového pôdorysu s fixovaným stredom, kde monitoring prebieha formou opakovania fytocenologického snímkovania. Druhy na tejto monitorovacej ploche boli zaznamenávané vrátane ich abundancie pomocou 7 miestnej Braun-Blanquetovej stupnice  (Braun-Blanquet 1964). Na lokalite  boli počítaní aj jedinci zákonom chránených druhov poniklec slovenský (Pulsatilla slavica) a prvosienka holá (Primula aricula).
+Lokalita 3b
+Predmetom monitoringu je jelšový porast tvorený jelšou sivou (Alnus incana), kde bola na jar založená TMP, kruhového pôdorysu s fixovaným stredom a polomerom 11,28 m, čo predstavuje plochu 400 m2. Počas vegetačného obdobia bol počas každej návštevy vyhotovený súpis druhov na TMP s určením pokryvnosti podľa 7 miestnej Braun-Blanquetovej stupnice  (Braun-Blanquet 1964).
+Lokalita 4 
+Lokalita predstavuje pramenisko Chrapkového potoka, takže prítomnosť spoločenstva je podmienená vodným režimom. Trvale monitorovaná plocha založená (TMP), kruhového pôdorysu s fixovaným stredom a polomerom 2,82 m čo je plocha 25m2.
+Lokalita 5
+Lokalita 5aS
+Trvale monitorovaná plocha kruhového pôdorysu s fixovaným stredom a polomerom 11,28 m, čo predstavuje plochu 400 m2. TMP 5aS sa nachádza severne od prítoku Dzuranovského potoka. Stred TMP bol fixovaný v teréne dreveným kolíkom a zameraný GPS. Pomocou pásma, prichyteného o fixovaný stred bol vyhotovený zápis druhov v stanovenom polomere s určením ich pokryvnosti podľa 7 miestnej Braun-Blanquetovej stupnice (Braun-Blanquet 1964). 
+Lokalita 5aJ
+Trvale monitorovaná plocha kruhového pôdorysu s fixovaným stredom a polomerom 11,28 m, čo predstavuje plochu 400 m2. TMP 5aJ sa nachádza južne od prítoku Dzuranovského potoka. Stred TMP bol fixovaný v teréne dreveným kolíkom a zameraný GPS. Pomocou pásma, prichyteného o fixovaný stred bol vyhotovený zápis druhov v stanovenom polomere s určením ich pokryvnosti podľa 7 miestnej Braun-Blanquetovej stupnice (Braun-Blanquet 1964). 
+Lokalita 5b
+Predmetom monitoringu je genofondová lokalita GL 16 Biotopy lesných spoločenstiev genofondovej lokality Tisovo – starý lom. GL 16 je v RÚSES-e okresu Martin definovaná ako „Zvyšky teplomilnej vegetácie v okolí vyťaženého lomu, výskyt teplomilnej arachnofauny“.. Plocha bola sledovaná  formou floristického skríningu, zahŕňa stručnú charakteristiku vegetácie a flóry, záznam ohrozených druhov a vytipovanie porastov, v ktorých by bolo možné v nasledujúcich rokoch  založiť trvalú monitorovaciu plochu, tak ako na ostatných lokalitách.
+Lokalita 5c
+V okolí Chrapovho potoka bola založená trvalá monitorovacia plocha TMP obdĺžnikového pôdorysu (10 x 20 m) o ploche 200 m2. Na lokalite neboli zistené významné druhy, bola iba odhadnutá ich frekvencia podľa 7 miestnej Braun-Blanquetovej stupnice (Braun-Blanquet 1964). 
+Lokalita 6
+Lokalita 6a
+Trvale monitorovaná plocha (TMP) 6a kruhového pôdorysu s polomerom 2,82 m, čo predstavuje 25 m2. Stredy TMP bol fixovaný v teréne dreveným kolíkom a zameraný GPS. Pomocou pásma, prichyteného o fixovaný stred bol vyhotovený zápis druhov v stanovenom polomere s určením ich pokryvnosti podľa 7 miestnej Braun-Blanquetovej stupnice (Braun-Blanquet 1964). 
+Lokalita 6b
+Trvale monitorovaná plocha (TMP) 6b kruhového pôdorysu s polomerom 2,82 m, čo predstavuje 25 m2. Stredy TMP bol fixovaný v teréne dreveným kolíkom a zameraný GPS. Pomocou pásma, prichyteného o fixovaný stred bol vyhotovený zápis druhov v stanovenom polomere s určením ich pokryvnosti podľa 7 miestnej Braun-Blanquetovej stupnice (Braun-Blanquet 1964). 
+Invázne druhy rastlín
+Monitoring týchto rastlín prebiehal v septembri v rámci trvalého a dočasného záberu stavby a jej bezprostredného okolia. Miesta s výskytom týchto druhov boli líniového, plošného ako aj bodového charakteru. Poloha miesta sa zaznačila priamo v teréne pomocou aplikácie LocusGIS s podkladovou ortofoto-mapou a hranicami trvalého a dočasného záberu. Zaznačila sa veľkosť plochy s výskytom ako aj % zastúpenie na ploche. Údaje o výskyte sú zakreslené do mapy podľa jednotlivých druhov.
+</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://slovakia.ipt.gbif.no/archive.do?r=botanika_d1_visnove_dubna_skala</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Územie stavby „Diaľnica D1 Lietavská Lúčka – Višňové – Dubná Skala“ je súčasťou troch geomorfologických celkov – Žilinská kotlina, Malá Fatra, Turčianska kotlina a troch geomorfologických podcelkov – Žilinská pahorkatina, Lúčanská Fatra, Valčianska pahorkatina.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>18.79</westBoundingCoordinate>
+                    <eastBoundingCoordinate>18.894</eastBoundingCoordinate>
+                    <northBoundingCoordinate>49.154</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.077</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Králik</surName>
+            </individualName>
+            <organizationName>HBH Projekt</organizationName>
+            <positionName>ecologist</positionName>
+            <address>
+                <country>SLOVAKIA</country>
+            </address>
+            <electronicMailAddress>m.kralik@hbhbprojekt.sk</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-8566-7637</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:38Z</dateStamp>
+                <citation>Juříček M (2025). Monitoring botaniky D1 Lietavská Lúčka - Višňové - Dubná Skala 2024. HBH Projekt spol. s r.o.,Kabátnikova 5,  602 00 Brno,ČR – organizačná zložka Slovensko. Occurrence dataset https://doi.org/10.15468/rk68z5 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9f0e1ca6-fb08-4c72-9a4a-1e3b7a528c10"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/fdpeaw</alternateIdentifier>
+        <title>Global soil organisms</title>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mohammad</givenName>
+                <surName>Bahram</surName>
+            </individualName>
+            <electronicMailAddress>bahram@ut.ee</electronicMailAddress>
+        </metadataProvider>
+        <language>ENGLISH</language>
+        <abstract>
+            Global distribution of soil organisms. Data deposited in this project represent unique (non-clustered) sequences. These sequences are members of the curated OTU list (tag-jump filtered and chimera-free, clustered at 98% similarity threshold) from the GSMc dataset (Tedersoo et al., Fungal Diversity, 2021, https://doi.org/10.1007/s13225-021-00493-7). For each OTU in each sample, within-OTU sequences were dereplicated ignoring terminal gaps; in the presence of sequence variants differing only in the length of homopolymeric regions, only the most abundant variant was preserved. Taxonomic annotation was transferred from the representative sequence of each OTU to all unique sequences clustered in it. The current dataset includes additional soil samples not covered by the published article (Tedersoo et al., Fungal Diversity, 2021). Additional samples were collected following a slightly different sampling protocol. Taxon occurrences originating from these samples can be filtered out by Dataset name (&amp;#39;Global soil samples subproject (sequences from additional samples)&amp;#39;) and Dataset ID (108273). The number of distinct sampling sites: 3 736, sampling events: 4 514. The number of unique taxa based on UNITE species hypotheses on 1.5% distance threshold: 292 413.
+        </abstract>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://orphans.gbif.org/EE/9f0e1ca6-fb08-4c72-9a4a-1e3b7a528c10.95.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Global</geographicDescription>
+            </geographicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <givenName>Kessy</givenName>
+                <surName>Abarenkov</surName>
+            </individualName>
+            <positionName>Researcher</positionName>
+            <electronicMailAddress>kessy.abarenkov@ut.ee</electronicMailAddress>
+        </contact>
+
+            <project >
+                <title>Global soil diversity</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Estonian Research Council</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:33Z</dateStamp>
+                <citation>PlutoF. Global soil organisms. Occurrence dataset https://doi.org/10.15468/fdpeaw accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

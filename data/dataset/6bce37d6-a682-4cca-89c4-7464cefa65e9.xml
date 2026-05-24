@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="6bce37d6-a682-4cca-89c4-7464cefa65e9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/cwjstg</alternateIdentifier>
+        <alternateIdentifier>6bce37d6-a682-4cca-89c4-7464cefa65e9</alternateIdentifier>
+        <alternateIdentifier>https://www.gbif.se/ipt/resource?r=prjeb55296-18s</alternateIdentifier>
+        <title>18S: A comprehensive dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea</title>
+        <creator>
+            <individualName>
+                <givenName>Meike</givenName>
+                <surName>Latz</surName>
+            </individualName>
+            <organizationName>KTH Royal Institute of Technology</organizationName>
+            <positionName>Postdoc</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Agneta</givenName>
+                <surName>Andersson</surName>
+            </individualName>
+            <organizationName>Umeå universitet</organizationName>
+            <positionName>Professor</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sonie</givenName>
+                <surName>Brugel</surName>
+            </individualName>
+            <organizationName>Umeå universitet</organizationName>
+            <positionName>Senior research engineer</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mikael</givenName>
+                <surName>Hedblom</surName>
+            </individualName>
+            <organizationName>Swedish Meteorological and Hydrological Institute</organizationName>
+            <positionName>Researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Krzysztof</givenName>
+                <surName>Jurdzinski</surName>
+            </individualName>
+            <organizationName>KTH Royal Institute of Technology</organizationName>
+            <positionName>PhD student</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Bengt</givenName>
+                <surName>Karlson</surName>
+            </individualName>
+            <organizationName>Swedish Meteorological and Hydrological Institute</organizationName>
+            <positionName>Senior researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Markus</givenName>
+                <surName>Lindh</surName>
+            </individualName>
+            <organizationName>Swedish Meteorological and Hydrological Institute</organizationName>
+            <positionName>Senior researcher</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jenny</givenName>
+                <surName>Lycken</surName>
+            </individualName>
+            <organizationName>Swedish Meteorological and Hydrological Institute</organizationName>
+            <positionName>Research assistant</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Anders</givenName>
+                <surName>Andersson</surName>
+            </individualName>
+            <organizationName>KTH Royal Institute of Technology</organizationName>
+            <positionName>Professor</positionName>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <givenName>Anders</givenName>
+                <surName>Andersson</surName>
+            </individualName>
+            <organizationName>KTH Royal Institute of Technology</organizationName>
+            <positionName>Professor</positionName>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Agneta</givenName>
+                <surName>Andersson</surName>
+            </individualName>
+            <organizationName>Umeå University</organizationName>
+            <positionName>Professor</positionName>
+            <electronicMailAddress>agneta.andersson@umu.se</electronicMailAddress>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Bengt</givenName>
+                <surName>Karlson</surName>
+            </individualName>
+            <organizationName>Swedish Meteorological and Hydrological Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <electronicMailAddress>Bengt.Karlson@smhi.se</electronicMailAddress>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2026-05-04
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>A dataset covering spatiotemporal variation in eukaryotic microbial communities and physicochemical parameters of the Baltic Sea. Between January 2019 and February 2020, 281 transect-time course samples and 65 samples for protocol testing were collected from 19 stations in the Baltic Sea, Kattegat and Skagerrak. We analysed the samples with 18S ribosomal RNA (rRNA) gene and 16S rRNA gene metabarcoding, to capture the eukaryotic and prokaryotic diversity, respectively. 
+
+Note that this resource was previously published as &amp;#39;Metadata-only&amp;#39;.
+
+This dataset was published via the SBDI ASV portal (https://asv-portal.biodiversitydata.se/).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>prokaryotic plankton</keyword>
+            <keyword>16S rRNA metabarcoding</keyword>
+            <keyword>18S rRNA metabarcoding</keyword>
+            <keyword>salinity</keyword>
+            <keyword>brackish water</keyword>
+            <keyword>marine monitoring</keyword>
+            <keyword>temporal variation</keyword>
+            <keyword>Observation</keyword>
+            <keyword>microbial plankton</keyword>
+            <keyword>eukaryotic plankton</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Baltic Sea</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.gbif.se/ipt/archive.do?r=prjeb55296-18s</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The samples were collected at 19 stations distributed along the Baltic Sea, Kattegat and Skagerrak</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>10.5</westBoundingCoordinate>
+                    <eastBoundingCoordinate>22.45</eastBoundingCoordinate>
+                    <northBoundingCoordinate>65.8</northBoundingCoordinate>
+                    <southBoundingCoordinate>54.97</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-01-10
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-02-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Eukaryotic plankton</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Domain</taxonRankName>
+                    <taxonRankValue>Eukaryota</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Contains all metadata on sequencing experiments and microscopy data.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Anders</givenName>
+                <surName>Andersson</surName>
+            </individualName>
+            <organizationName>KTH Royal Institute of Technology</organizationName>
+            <positionName>Professor</positionName>
+            <address>
+                <deliveryPoint>Tomtebodavägen 23</deliveryPoint>
+                <city>Solna</city>
+                <postalCode>171 65</postalCode>
+                <country>SWEDEN</country>
+            </address>
+            <electronicMailAddress>anders.andersson@scilifelab.se</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Sampling
+In total, 281 transect-time course samples and 65 samples for protocol testing were collected from January 2019 to February 2020 at 19 stations in the Baltic Sea, Kattegat, and Skagerrak (Fig 2a), during monthly/bi-weekly sampling cruises. The 281 transect-time course samples were collected during cruises that were part of the Swedish National Marine Monitoring Program implemented by the Swedish Meteorological and Hydrological Institute (SMHI), Umeå University (UU) and Stockholm University (SU) on different research vessels specified for each sample by the vessel&apos;s ICES (International Council Exploration Sea) platform code. Samples were collected and physicochemical parameters measured using a Conductivity Temperature Depth (CTD) profiling instrument (model SBE 911plus/SBE19+, Sea Bird Electronics Inc., Bellevue, Washington, USA) deployed on a rosette (model SBE32). Water for the microbial analyses was sampled with a depth-integrating hose covering the depth of 0-10 m. At stations B1 and BY31 the depth covered was 0-20 m and station RÅNEÅ-1 0-5 m. Physicochemical parameters were measured at 0, 5, and 10 m depth. Samples for these measurements were collected using Niskin bottles. On three sampling occasions (2019-05-06, 2019-08-06, 2019-10-07), additional 59 and 6 sample replicates were collected at station SLÄGGÖ, to test the effect of sample filtering volume (10, 100, 200 and 500 mL) and filter storage temperature (-20 °C and -80 °C), respectively.
+DNA extraction and sequencing
+For DNA analyses, 500 mL of seawater were filtered onto a 47 mm membrane filter of 0.22 µm pore size (GSWP04700, MilliporeSigma, Burlington, MA, USA) using a filter funnel with a &lt; 270 mbar/200 mm Hg vacuum. The filtration was initiated within one hour after sampling​​, and the filtration time was kept below one hour or otherwise noted. Subsequently, the filters were rolled into a 5 mL cryotube, flash-frozen in liquid nitrogen and stored at -20 °C until further processed. In short, DNA was extracted using a previously established protocol 18, libraries prepared for metabarcoding of 16S rRNA 11 and 18S rRNA 19,20, and sequenced on Illumina MiSeq flow cells with an average output of 0.13 million paired-end read pairs per sample (0.171 for 16S and 0.095 for 18S).
+DNA extraction from filters was performed using the ZymoBIOMICS™ DNA Miniprep Kit (Zymo Research Corp, Irvine, CA, USA) following the manufacturer’s instructions with a few modifications 18: After adding the lysis buffer to the filter (and before bead-beating), 10 µL of spike-in DNA were added to each sample (described in the next section). The bead beating conditions were optimised to 10 min and for elution of DNA from the column, 50 µL were used instead of 100 µL. The concentration and quality of the DNA was assessed using the Qubit™ dsDNA HS Assay Kit on a Qubit Fluorometer (ThermoFischer, Waltham, MA, USA) and an Agilent DNA High Sensitivity Kit on a 2100 Bioanalyzer instrument (Agilent Technologies, Santa Clara, CA, USA). Sequencing libraries for 18S rRNA metabarcoding targeting the hypervariable V4 region of the eukaryotic 18S rRNA gene were prepared by using the primers V4F CCAGCASCYGCGGTAATTCC and V4RB ACTTTCGTTCTTGATYRR 19 with the simplified PCR protocol described in 20. Libraries for 16S rRNA metabarcoding targeting the hypervariable V3-V4 regions of the bacterial 16S rRNA gene were prepared at NGI following the protocol 21,22 with the primers 341F CCTACGGGNGGCWGCAG and 805R GACTACHVGGGTATCTAATCC 11. The primers were supplemented with 5’-end Illumina sequence adapters (forward: ACACTCTTTCCCTACACGACGCTCTTCCGATCT-3’, reverse: 5’-GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT) and ordered from IDT DNA (IA, US) at 100 μM in TE buffer. To increase the complexity of the libraries, phased primers 22,23 were used for the 18S forward primer, with equal proportions of primers having ATG, TG, G, or no base inserted between the adapter sequence and the target-binding region. For 16S, phasing was used on both primers, with CTAGAGT, TAGAGT, etc for the forward and ACTACTG, CTACTG, etc for the reverse. The PCR reactions were carried out with the KAPA HiFi HotStart ReadyMix PCR Kit (Kapa Biosystems, MA, USA), according to the manufacturer’s instructions, with the final 25 µL reaction mix containing 1x Kapa HiFi HotStart ReadyMix, 0.3 μM of each primer, and 5 ng template DNA for 18S library preparation and 1 ng for 16S. For 18S rRNA amplification the PCR conditions were 95°C for 3 min, 30 cycles of 98°C for 20 s, 52°C for 15 s and 72°C for 15 s, followed by a final elongation step of 72°C for 2 min. For 16S rRNA amplification the following PCR conditions were used: 98°C for 2 min, 28 cycles of 98°C for 20 s, 54°C for 20 s and 72°C for 15 s, followed by a final elongation step of 72°C for 2 min. The PCR product was cleaned with magnetic beads using the MagSi-NGS PREP Plus Kit (MDKT00010075, magtivio BV., Nuth, the Netherlands), indexed through a second PCR with Kapa HiFi HotStart ReadyMix, equimolar pooling and sequencing on three MiSeq lanes (Illumina Inc, San Diego, CA, US) for 18S and 16S rRNA metabarcoding, respectively, were performed at SciLifeLab/NGI (Solna, Sweden). The PCR conditions for indexing were 95°C for 2 min, 8 cycles of 98°C for 20 s, 55°C for 30 s and 72°C for 30 s, followed by a final elongation step of 72°C for 2 min. The Adapterama indexing scheme was used 24,25, using unique forward and reverse indices for every sample sequenced together.
+
+Processing of sequencing data
+Initially, sequences of phased primers were removed from the reads using a snakemake pipeline 30 that utilises cutadapt 31. The pipeline conducts the following steps: removes read-pairs containing Illumina adapters, removes read-pairs that do not contain the expected primer sequences in the 5’ ends of the reads and removes the primer sequences from the remaining reads, removes read-pairs that contain primer sequences anywhere else on the reads, trims reads to fixed lengths. Further analyses of sequencing data and plotting of the data was performed in R version 4.0.3 using the packages ‘DADA2’ 32 version 1.18.0, ‘vegan’ 33 version 2.5-7,  and ‘ggplot2’ 34 version 3.4.0. The median sequencing depth was 0.13 M read pairs per sample with &gt;80% of reads of a quality score &gt; 30 for both 18S and 16S rRNA amplicons. The package ‘DADA2’ was used to infer biological sequence variants from amplicon reads; the individual sequencing runs were processed separately and merged after obtaining the sequence tables. Low-quality reads were filtered out. The remaining reads were denoised and forward and reverse reads merged. That resulted in 10,293 amplicon sequence variants (ASVs) for 18S rRNA and 40,369 ASVs for 16S rRNA across 346 samples. Taxonomy of the ASVs was inferred with ‘assignTaxonomy’ using PR2 25 version 4.14.0 as a training set for 18S rRNA amplicons and a curated version of the 16S sequences of GTDB (version R06-RS202-1)35 for 16S rRNA amplicons. For the analyses of the data presented in this publication, one 18S sample with unusually high read number was removed and from the replicated samples one was randomly chosen. The ASVs from the spike-in DNA sequences were identified and removed from the ASV table, sequences assigned to Metazoa were also removed. Finally, read abundance per sample was rarefied to the same counts with the function ‘rrarefy’ from the ‘vegan’ package version 2.5-7 to ~44,000 for 16S and ~8,000 for 18S.
+Data Records
+ 
+The raw sequencing data generated in this study are available at the European Nucleotide Archive (ENA) under the study accession number PRJEB55296. Processed sequencing data (ASV sequences with taxonomic annotations and counts in samples) are available at our repository 26 (DOI: 10.17044/scilifelab.20751373), along with the contextual, physicochemical, and microscopy data. All physicochemical data can also be downloaded through SHARKweb as described above; detailed instructions on accessing specific parts of the data are available in the repository 26. Processed sequencing data (ASVs of 18S and 16S rRNA metabarcoding) can also be accessed and viewed interactively through the Swedish Biodiversity Infrastructure (https://biodiversitydata.se).
+
+Technical Validation
+Many of the procedures for sampling and measurement of environmental parameters are optimised and routinely performed within the Swedish National Marine Monitoring Program, commissioned by the Swedish Agency for Marine and Water Management, and the countries surrounding the Baltic Sea (HELCOM) 39. In this study, we performed technical validations of the protocols for sampling, sample storage and processing, sequencing library preparation, and quality of the data. We compared different sample filtration volumes (10, 100, 200, 500 ml) taken in five replicates on three sampling occasions at the Släggö station (Fig. 3) to validate that 500 ml was sufficient to cover the microbial diversity. Both α-diversity measured by Shannon index and richness appeared to reach a plateau at around 200 ml sample volume (Fig. 3a,c), and the variation between the replicates decreased with sample volume up to this point (coloured dots within the violin plots). We further compared the influence of sample storage at -20 °C vs. -80 °C on three replicates for a three-months storage period (data not shown) with no significant differences in Shannon α-diversity (Wilcoxon rank sum exact test, p-value 1 and 0.1 for 16S and 18S, respectively) but ANOSIM analysis indicated an effect on community composition, although not significant (ANOSIM analysis on Bray-Curtis distances, R-value: 0.67 and 1 and p-value 0.1 and 0.1, for 16S and 18S, respectively). Blanks (filters without sample) were sequenced to detect contamination sources during the DNA extraction procedure; no sequencing data were recovered from those samples.  
+We tested the influence of two DNA extraction kits (Qiagen DNeasy PowerWater Kit and ZymoBIOMICS™ DNA Miniprep Kit, the latter used for the other samples of this study) on the Shannon diversity obtained from 16S and 18S rRNA metabarcoding on six water samples from two stations (N14 Falkenberg and Hanöbukten) and did not find a significant difference in obtained α-diversity between the kits (Shannon α-diversity, Wilcoxon rank sum exact test, p-value = 0.96 and 0.10, for 16S and 18S, respectively) while community composition was affected (ANOSIM analysis on Bray-Curtis distances, R-value: 0.58 and 0.20, p-value0.003 and 0.024, for 16S and 18S, respectively) (data not shown, available upon request). This calls for some caution when comparing datasets generated using these two kits.
+We evaluated primers most suitable for metabarcoding of eukaryotic plankton in a previously published study 20. In order to improve the sequencing quality, we used phased primers to increase the complexity of amplicon sequencing libraries 22,41; for the 18S primer pair phasing was only used in the forward primer.
+The sequencing reads were processed following the DADA2 pipeline 32 to trim and filter low quality reads, infer true sequence variants taking the error rates of the sequencing run into consideration, and removing chimeras from the dataset. The sequencing data validity is also confirmed by the fact that the salinity gradient and seasonality is reflected (Fig.2b,c) as shown in previous studies 11,13,29.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Between January 2019 and February 2020, 281 transect-time course samples were collected from 19 stations in the Baltic Sea, Kattegat, and Skagerrak. The stations covered the salinity gradient of the Baltic Sea towards the opening to the Atlantic - through the Kattegat and Skagerrak, with average (over time) salinity ranging from 2 PSU in the Bothnian Bay to 31 PSU in the Skagerrak</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>In total, 281 transect-time course samples and 65 samples for protocol testing were collected from January 2019 to February 2020 at 19 stations in the Baltic Sea, Kattegat, and Skagerrak , during monthly/bi-weekly sampling cruises. The 281 transect-time course samples were collected during cruises that were part of the Swedish National Marine Monitoring Program implemented by the Swedish Meteorological and Hydrological Institute (SMHI), Umeå University (UU) and Stockholm University (SU) on different research vessels specified for each sample by the vessel&apos;s ICES (International Council Exploration Sea) platform code. Samples were collected and physicochemical parameters measured using a Conductivity Temperature Depth (CTD) profiling instrument (model SBE 911plus/SBE19+, Sea Bird Electronics Inc., Bellevue, Washington, USA) deployed on a rosette (model SBE32). Water for the microbial analyses was sampled with a depth-integrating hose covering the depth of 0-10 m. At stations B1 and BY31 the depth covered was 0-20 m and station RÅNEÅ-1 0-5 m. Physicochemical parameters were measured at 0, 5, and 10 m depth. Samples for these measurements were collected using Niskin bottles.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>On three sampling occasions (2019-05-06, 2019-08-06, 2019-10-07), additional 59 and 6 sample replicates were collected at station SLÄGGÖ, to test the effect of sample filtering volume (10, 100, 200 and 500 mL) and filter storage temperature (-20 °C and -80 °C), respectively.
+For controlling for potential contamination during the DNA extraction, DNA was extracted from blank filters.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>A comprehensive dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Anders</givenName>
+                    <surName>Andersson</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Bengt</givenName>
+                    <surName>Karlson</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Metadata also available here: https://doi.org/10.1038/s41597-023-02825-5</para>
+                </abstract>
+                <funding>
+                    <para>This work was supported by the Swedish Agency for Marine and Water Management and the Swedish Environmental Protection Agency under the grant number NV-03728-17 and the MACL was additionally supported by a research grant (34442) from VILLUM FONDEN</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:52Z</dateStamp>
+                <citation>Latz M, Andersson A, Brugel S, Hedblom M, Jurdzinski K, Karlson B, Lindh M, Lycken J (2026). 18S: A comprehensive dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea. Version 1.14. KTH Royal Institute of Technology. Occurrence dataset. https://www.gbif.se/ipt/resource?r=prjeb55296-18s&amp;v=1.14 https://doi.org/10.15468/cwjstg accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.1038/s41597-023-02825-5">Latz, M.A.C., Andersson, A., Brugel, S., Hedblom M, Jurdzinski K, Karlson B, Lindh M, Lycken J, Torstenson A, Andersson A.F. A comprehensive dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea. Sci Data 11, 18 (2024).</citation>
+                </bibliography>
+                <resourceLogoUrl>https://figshare.com/s/b2962b2174747c6bc869</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="07a5ec6c-e271-4d6a-865c-7f9a6b484514"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/w4yz9s</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=ukrainiangrasslanddatabase</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/eca/resource?r=ukrainiangrasslanddatabase</alternateIdentifier>
+        <alternateIdentifier>07a5ec6c-e271-4d6a-865c-7f9a6b484514</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=ukrainiangrasslanddatabase</alternateIdentifier>
+        <title>Records of vascular plants, bryophytes and lichens from Ukrainian Grassland Database</title>
+        <creator>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Kuzemko</surName>
+            </individualName>
+            <organizationName>M.G. Kholodny Institute of Botany NAS of Ukraine</organizationName>
+            <positionName>Leading Reserarcher</positionName>
+            <address>
+                <deliveryPoint>2, Tereshchenkivska str.</deliveryPoint>
+                <city>Kyiv</city>
+                <postalCode>01601</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>0979193987</phone>
+            <electronicMailAddress>anyameadow.ak@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-9425-2756</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Denys</givenName>
+                <surName>Vynokurov</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>denys.vynokurov@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-7003-6680</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Iuliia</givenName>
+                <surName>Vasheniak</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>arrhenatherum@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Vasyl</givenName>
+                <surName>Budzhak</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>budzhakv@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-7754-6437</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Illia</givenName>
+                <surName>Chorney</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>iichorney@ukr.net</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1382-9112</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Olga</givenName>
+                <surName>Chusova</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>olgachusova28@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1319-2481</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Iwona</givenName>
+                <surName>Dembicz</surName>
+            </individualName>
+            <electronicMailAddress>i.dembicz@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-6162-1519</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jürgen</givenName>
+                <surName>Dengler</surName>
+            </individualName>
+            <electronicMailAddress>dr.juergen.dengler@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-3221-660X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Yakiv</givenName>
+                <surName>Didukh</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>ya.didukh@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-7619-0283</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tetiana</givenName>
+                <surName>Dziuba</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>tdziuba2014@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-8621-0890</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Michal</givenName>
+                <surName>Hájek</surName>
+            </individualName>
+            <electronicMailAddress>hajek@sci.muni.cz</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-5201-2682</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Monika</givenName>
+                <surName>Janišová</surName>
+            </individualName>
+            <electronicMailAddress>monika.janisova@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-6445-0823</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Vitaliy</givenName>
+                <surName>Kolomiychuk</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>vkolomiychuk@ukr.net</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5767-344X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Valeria</givenName>
+                <surName>Konaykova</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>konaykova@ukr.net</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Moysiyenko</surName>
+            </individualName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>ivan.moysiyenko@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0689-6392</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jan</givenName>
+                <surName>Roleček</surName>
+            </individualName>
+            <electronicMailAddress>honza.rolecek@centrum.cz</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0023-1111</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Galina</givenName>
+                <surName>Savchenko</surName>
+            </individualName>
+            <electronicMailAddress>savchgala5@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9436-7871</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Viktor</givenName>
+                <surName>Shapoval</surName>
+            </individualName>
+            <organizationName>Falz-Fein Biosphere Reserve &quot;Askania Nova&quot;</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>shapoval_botany@ukr.net</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-0443-663X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dariia</givenName>
+                <surName>Shyriaeva</surName>
+            </individualName>
+            <electronicMailAddress>darshyr@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-7140-7201</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Iveta</givenName>
+                <surName>Škodová</surName>
+            </individualName>
+            <electronicMailAddress>iveta.skodova@savba.sk</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-7935-4930</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alla</givenName>
+                <surName>Tokariuk</surName>
+            </individualName>
+            <electronicMailAddress>a.tokaryuk@chnu.edu.ua</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Kuzemko</surName>
+            </individualName>
+            <organizationName>M.G. Kholodny Institute of Botany NAS of Ukraine</organizationName>
+            <address>
+                <deliveryPoint>2, Tereshchenkivska str.</deliveryPoint>
+                <city>Kyiv</city>
+                <postalCode>01601</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>0979193987</phone>
+            <electronicMailAddress>anyameadow.ak@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-9425-2756</userId>
+        </metadataProvider>
+        <pubDate>
+                2024-12-14
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The database includes a releves of grassland vegetation of Ukraine, carried out by 66 authors over the period from 1932 to 2019. The releves are made in almost all administrative regions of Ukraine. The size of plots ranged from 0,5 to 400 m2. The nomenclature is given in accordance the species list “Russia”, which is based on a checklist of S. Cherepanov (1995) for vascular plants, M. Ignatov &amp; O. Afonina checklist (1992)  for mosses and the Lichens Identification Guides of the USSR (1971–1978)</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Ukrainian Grassland Database registered in GIVD (https://www.givd.info/ID/EU-UA-001), and member of the European Vegetation Archive (EVA) (http://euroveg.org/eva-database-participating-databases), sPlot (https://www.idiv.de/en/sdiv/working_groups/wg_pool/splot/splot_database.html) and GrassPlot database (https://edgg.org/databases/GrassPlot)</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://edgg.org/databases/Regional-databases</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=ukrainiangrasslanddatabase</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Ukraine</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>22.061</westBoundingCoordinate>
+                    <eastBoundingCoordinate>40.166</eastBoundingCoordinate>
+                    <northBoundingCoordinate>52.536</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.402</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1932
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Vegetation classification, habitats classification</para></purpose>
+        <maintenance>
+            <description>
+                <para>The data is updated after each field season</para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Kuzemko</surName>
+            </individualName>
+            <organizationName>M.G. Kholodny Institute of Botany NAS of Ukraine</organizationName>
+            <positionName>Leading Researcher</positionName>
+            <address>
+                <deliveryPoint>2, Tereshchenkivska str.</deliveryPoint>
+                <city>Kyiv</city>
+                <postalCode>01601</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>0979193987</phone>
+            <electronicMailAddress>anyameadow.ak@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-9425-2756</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The database is stored in the Turboweg program environment, which includes standardized species lists for different countries and regions, which makes it impossible to use unverified nomenclature, and additional checks are used when exchanging data between different databases using different species lists. Moreover, the database is part of the European Vegetation Archive (EVA), where there is also a constant check of the data quality, followed by their correction if necessary.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Phytosociological database collected for the purpose of classification of vegetation and habitats. Includes more than 10.000 relevés of grassland vegetation and related open vegetation within the administrative boundaries of Ukraine</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Most of the data were collected in accordance with the methodological approaches of the Braun-Blanquet school in the vegetation plots mainly in the range of 10-25 m2 with records of the full floristic composition (shoot or root presence) and cover of each species in% or abundance scales. Some of the plots (mostly 1950-1980s) were collected using the Soviet dominant approach on 100 m2 plots.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Over the years of the database existence (created in 2008, officially registered in GIVD in 2011) there is a constant checking and polishing of data. Some of the records are confirmed by herbarium speciements and photographs. But mostly the data quality   is the responsibility of the authors of the relevés.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="nlbif2018.2019.004">
+                <title>Mobilization of biodiversity data from Ukraine to GBIF</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Svetlana</givenName>
+                    <surName>Miteva</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Mikhail</givenName>
+                    <surName>Rusin</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Dataset has been organized with the support of Project nlbif2018.2019.004 funded by NLBIF to The Habitat Foundation &quot;Mobilization of biodiversity data from Ukraine to GBIF&quot; https://www.nlbif.nl/mobilization-of-biodiversity-data-from-ukraine-to-gbif/</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:13Z</dateStamp>
+                <citation>Kuzemko A, Vynokurov D, Vasheniak I, Budzhak V, Chorney I, Chusova O, Dembicz I, Dengler J, Didukh Y, Dziuba T, Hájek M, Janišová M, Kolomiychuk V, Konaykova V, Moysiyenko I, Roleček J, Savchenko G, Shapoval V, Shyriaeva D, Škodová I, Tokariuk A (2024). Records of vascular plants, bryophytes and lichens from Ukrainian Grassland Database. Version 1.3. M.G. Kholodny Institute of Botany, National Academy of Sciences of Ukraine. Occurrence dataset https://doi.org/10.15468/w4yz9s accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="10.14471/2014.34.020">Kuzemko A.A., Becker T., Didukh Ya. P., Ardelean I.V., Becker U., Beldean M., Dolnik C., Jeschke M., Naqinezhad A., (…) &amp; Dengler J. Dry grassland vegetation of Central Podolia (Ukraine) – a preliminary overview of its syntaxonomy, ecology and biodiversity. Tuexenia, 2014, 34: 391–430.</citation>
+                <citation identifier="10.1127/phyto/2016/0083">Kuzemko A. Classification of the class Molinio-Arrhenatheretea in the forest and forest-steppe zones of Ukraine. Phytocoenologia, 2016, 46(3): 241–256.</citation>
+                <citation identifier=" https://doi.org/10.1111/avsc.12271">Peterka T., Hájek M., Jiroušek M., Jiménez-Alfaro B., Aunina L., Bergamini A., Dít? D., Felbaba-Klushyna L, Graf U., (…) &amp; Chytry M. Formalized classification of European fen vegetation at the alliance level. Applied Vegetation Science, 2017, 20: 124–142.</citation>
+                <citation identifier="10.1111/jbi.13926">Sporbert M., Keil P., Seidler G., Bruelheide H., Jandt U., A?i? S., Biurrun I., Campos J. A., ?arni A., (…) &amp; Welk E. Testing macroecological abundance patterns: The relationship between local abundance and range size, range position and climatic suitability among European vascular plants. Journal of Biogeography, 2020, 47: 2210–2222.</citation>
+                <citation identifier="10.1111/avsc.12265">Willner W., Kuzemko A., Dengler J., Chytrý M., Bauer N., Becker T., Bitta-Nicolae C., Botta-Dukat Z., Carni A., (…) &amp; Janisova M. A higher-level classification of the Pannonian and western Pontic steppe grasslands (Central and Eastern Europe). Applied Vegetation Science, 2017, 20 (1): 143–158.</citation>
+                <citation identifier="10.23855/preslia.2019.025">Willner W., Role?ek J., Korolyuk A., Dengler J., Chytrý M., Janišová M., Lengyel A., A?i? S., Becker T., (…) &amp; Yamalov S. Formalized classification of semi-dry grasslands in central and eastern Europe. Preslia, 2019, 91: 25–49.</citation>
+                <citation identifier="10.1127/phyto/2016/0104">Zajac M., Ujházy K., Škodová I., Kuzemko A., Borsukevych L., Danylyuk K., Duchoň M., Figura T., Kish R., Smatanová J., Turis P., Turisová I., Uhliarová E., Janišová M. Classification of semi-natural mesic grasslands in the Ukrainian Carpathians and adjacent area. Phytocoenologia Vol. 46 (2016), Issue 3, 257–293</citation>
+                <citation identifier="https://doi.org/10.1127/phyto/2018/0267">Dengler J., Wagner V., Dembicz I., García-Mijangos I., Naqinezhad A., Boch S., Chiarucci A., Conradi T., Filibeck G., (…) &amp; Biurrun I. GrassPlot – a database of multi-scale plant diversity in Palaearctic grasslands. Phytocoenologia Vol. 48 (2018), Issue 3, 331–347</citation>
+                <citation identifier=" https://doi.org/10.1111/jvs.12710">Bruelheide H., Dengler J., Jiménez-Alfaro B., Purschke O., Hennekens S. M., Chytrý M., Pillar V. D., Jansen F., Kattge J. (…) &amp; Zverev A. sPlot – A new tool for global vegetation analyses. Journal of Vegetation Science 2019, 30 (2): 161-186</citation>
+                <citation identifier="https://doi.org/10.1111/jbi.13697">Dengler J., Matthews T. J., Steinbauer M. J., Wolfrum S., Boch S., Chiarucci A., Conradi T., Dembicz I., Marcenò C. (...) Biurrun I.Species–area relationships in continuous vegetation: Evidence from Palaearctic grasslands. Journal of Biogeography 2020; 47 (1):72-86.</citation>
+                <citation identifier="https://doi.org/10.2478/s11756-020-00436-8">Vasheniak I., Dmytrash-Vatseba I., Markivska, L., Swacha G. &amp;  Kuzemko A. Phytosociology, ecology and conservation status of Carlina acanthifolia subsp. utzka on its northern distribution limit (Poland and Ukraine). Biologia 2020, 75: 637–651</citation>
+                <citation identifier="10.1111/jbi.13926">Sporbert M., Keil P., Seidler G., Bruelheide H., Jandt U., Aćić S., Biurrun I., Campos J. A., Čarni A., Chytrý M., (...) &amp; Welk E.Testing macroecological abundance patterns: The relationship between local abundance and range size, range position and climatic suitability among European vascular plants. Journal of Biogeography. 2020; 47: 2210–2222.</citation>
+                <citation identifier="https://doi.org/10.1111/avsc.12519.">Chytrý M., Tichý L., Hennekens S. M., Knollová I., Janssen J. A.M., Rodwell . S., Peterka T., Marcenò C., Landucci F. (...) &amp; Schaminée J. H.J. EUNIS Habitat Classification: expert system, characteristic species combinations and distribution maps of European habitats. Applied Vegetation Science 2020, 23: 648-675</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Ukrainian Grassland Databse</objectName>
+                    <characterEncoding>EU-UA-001</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Turboveg database</formatName>
+                            <formatVersion>Turboveg 2.149a</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://edgg.org/databases/Regional-databases</url>
+                        </online>
+                    </distribution>
+                </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

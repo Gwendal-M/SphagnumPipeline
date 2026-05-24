@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="6dce0193-6341-4eda-adcf-9d3ff9c857b0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/5cxsnk</alternateIdentifier>
+        <alternateIdentifier>6dce0193-6341-4eda-adcf-9d3ff9c857b0</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr3044</alternateIdentifier>
+        <alternateIdentifier>ceae357b-df7c-3fea-b94a-83986afc3089</alternateIdentifier>
+        <title>Bryophyte data for Great Britain and Ireland from the British Bryological Society held by BRC</title>
+        <creator>
+            <organizationName>British Bryological Society</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>British Bryological Society</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-21
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Bryophyte records submitted to the Biological Records Centre for England, Ireland, Scotland, Wales, the Isle of Man and the Channel Islands. The dataset comprises records collected for the Bryophyte Recording Scheme, as well as those extracted from literature and museum sources. Details of all the surveys in this dataset can be obtained by clicking the &amp;#39;Surveys&amp;#39; tab. This &amp;#39;Atlas&amp;#39; dataset contains all of the records presented in Blockeel et al. (2014) Atlas of British and Irish Bryophytes, with the exception of two datasets (one from Cofnod [North Wales Environmental Information Centre] and one from CEDaR [Centre for Environmental Data and Recording, Northern Ireland]) which the BBS were not given permission to export to the NBN. This dataset also now includes all additional data received by the BBS between 2014 and 2022.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr3044</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr3044/dr3044.zip</url>
+            </online>
+        </distribution>
+        <purpose><para>For county floras, national atlas production and inclusion in BRC database.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Oliver</givenName>
+                <surName>Pescott</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>olipes@ceh.ac.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Mainly from record cards, which were typed up at the Biological Records Centre. More recent data (since 2000) have mostly been sent electronically. This is discussed in more detail in the Atlas of Bryophytes (2014), vol. 1, pp. 2-11.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The data were validated against known vice-county distributions of the species, and (for critical species) by expert examination of specimens. Data are typically also reviewed by the Regional Recorders of the BBS.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:12Z</dateStamp>
+                <citation>British Bryological Society (2025). Bryophyte data for Great Britain and Ireland from the British Bryological Society held by BRC. Occurrence dataset https://doi.org/10.15468/5cxsnk accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BBS+Centenary+Logo+Final+Designs+Colour+%28Web%29.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

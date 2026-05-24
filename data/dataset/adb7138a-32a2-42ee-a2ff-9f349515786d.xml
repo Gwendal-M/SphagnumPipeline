@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="adb7138a-32a2-42ee-a2ff-9f349515786d"  system="http://gbif.org" scope="system"
+xml:lang="fr">
+    <dataset>
+        <alternateIdentifier>10.5886/gg2gsst5</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/ipt/resource?r=qfa-bryophyte-specimens</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=qfa-bryophyte-specimens</alternateIdentifier>
+        <alternateIdentifier>10.15468/7ol37u</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource.do?r=qfa-bryophyte-specimens</alternateIdentifier>
+        <alternateIdentifier>adb7138a-32a2-42ee-a2ff-9f349515786d</alternateIdentifier>
+        <title>Herbier Louis-Marie (QFA) - Collection de bryophytes</title>
+        <creator>
+            <individualName>
+                <givenName>Kim</givenName>
+                <surName>Damboise</surName>
+            </individualName>
+            <positionName>Technicienne en travaux d&apos;enseignement et de recherche</positionName>
+            <address>
+                <deliveryPoint>1030 rue de la Médecine</deliveryPoint>
+                <city>Québec</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>G1V0A6</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>656-2131 poste 6232</phone>
+            <electronicMailAddress>kim.damboise@herbier.ulaval.ca</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kim</givenName>
+                <surName>Damboise</surName>
+            </individualName>
+            <organizationName>Herbier Louis-Marie, Université Laval</organizationName>
+            <positionName>Technicienne en travaux d&apos;enseignement et de rechercheConservateur</positionName>
+            <address>
+                <deliveryPoint>1030 rue de la médecine</deliveryPoint>
+                <city>Québec</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>G1V0A6</postalCode>
+                <country>CANADA</country>
+            </address>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Kim</givenName>
+                <surName>Damboise</surName>
+            </individualName>
+            <organizationName>Herbier Louis-Marie, Université Laval</organizationName>
+            <positionName>Technicienne en travaux d&apos;enseignement et de rechercheConservateur</positionName>
+            <address>
+                <deliveryPoint>1030 rue de la médecine</deliveryPoint>
+                <city>Québec</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>G1V0A6</postalCode>
+                <country>CANADA</country>
+            </address>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <organizationName>Université Laval</organizationName>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2025-11-25
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            <para>The Louis-Marie Herbarium houses 750000 specimens among which 600000 are vascular plants. The collection also houses 135000 bryophytes and lichens, 13000 fungi as well as a collection of 2000 seeds. The Louis-Marie Herbarium prioritizes the collection of Arctic-alpine, subarctic and boreal species form Canada and the northern hemisphere. The digitization of the collection is a work in progress. This dataset includes more than 65000 specimens of vascular plants from the province of Quebec. / La collection de l&amp;#39;Herbier comprend au total près de 750000 spécimens dont 600000 plantes vasculaires, 135000 bryophytes et lichens, 13000 champignons ainsi qu&amp;#39;une collection de 2000 graines. L&amp;#39;Herbier accorde une priorité aux espèces arctiques-alpines, subarctiques et boréales du Canada et de l&amp;#39;hémisphère nord. Ce jeu de données comprend plus de 65000 spécimens de plantes vasculaires du Québec.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Sphaigne; sphagnum; bryophytes; hépatiques; QFA; Herbier Louis-Marie; Université Laval; Canadensys; Canada; Québec; Québec; collection; herbier; herbarium; plantes arctiques-alpines; arctic-alpine; northern hemisphere; hemisphère nord.; Occurrence; Specimen; plantes invasculaires</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.canadensys.net/ipt/archive.do?r=qfa-bryophyte-specimens</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Louis-Marie herbarium grants a priority to the Arctic-alpine, subarctic and boreal species from the province of Quebec and the northern hemisphere. This dataset is mainly populated with specimens from the province of Quebec. / L&apos;Herbier Louis-Marie accorde une priorité aux espèces arctiques-alpines, subarctiques et boréales du Québec, du Canada et de l&apos;hémisphère nord. Ce jeu présente principalement des spécimens provenant du Québec.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-82.07</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-54.34</eastBoundingCoordinate>
+                    <northBoundingCoordinate>63.64</northBoundingCoordinate>
+                    <southBoundingCoordinate>45.19</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>This dataset includes liverworts (7.5%) and mosses (92.5%).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Juan Carlos</givenName>
+                <surName>Villarreal Aguilar</surName>
+            </individualName>
+            <organizationName>Herbier Louis-Marie, Université Laval</organizationName>
+            <positionName>Conservateur</positionName>
+            <address>
+                <deliveryPoint>1030 rue de la médecine</deliveryPoint>
+                <city>Québec</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>G1V 0L6</postalCode>
+                <country>CANADA</country>
+            </address>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:51Z</dateStamp>
+                <citation identifier="http://dx.doi.org/10.5886/gg2gsst5">Damboise K (2025). Herbier Louis-Marie (QFA) - Collection de bryophytes. Version 2.8. Université Laval. Occurrence dataset https://doi.org/10.5886/gg2gsst5 accessed via GBIF.org on 2026-05-22.</citation>
+                <physical>
+                    <objectName>Canadensys explorer</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://data.canadensys.net/explorer/occurrences/search?q=data_resource_uid%3Adr55#tab_mapView</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>GBIF data portal</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.gbif.org/dataset/adb7138a-32a2-42ee-a2ff-9f349515786d</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>http://data.canadensys.net/ipt/logo.do?r=qfa-bryophyte-specimens</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>QFA</parentCollectionIdentifier>
+                    <collectionIdentifier>QFA</collectionIdentifier>
+                    <collectionName>Herbier Louis-Marie (QFA) - Collection de byophytes</collectionName>
+                </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d6994db0-3824-425d-8cb0-360be1bbc46a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ud4xhq</alternateIdentifier>
+        <alternateIdentifier>d6994db0-3824-425d-8cb0-360be1bbc46a</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=moveclim_az_terceiraisland_2012</alternateIdentifier>
+        <title>The MOVECLIM – AZORES project: Bryophytes from Terceira Island (2012)</title>
+        <creator>
+            <individualName>
+                <givenName>Rosalina</givenName>
+                <surName>Gabriel</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>rosalina.ma.gabriel@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/pt/F212-6D82-7BA9</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3550-8010</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Leila Nunes</givenName>
+                <surName>Morgado</surName>
+            </individualName>
+            <organizationName>Institute for Investigation and Technology of Agronomy and Environment, University of the Azores</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d&apos;Ávila, sn</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>lmorgado2024@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/portal/8F1A-BD80-00B5</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0561-1666</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Débora S. G.</givenName>
+                <surName>Henriques</surName>
+            </individualName>
+            <organizationName>Banco Genético Vegetal Autóctone, Empresa Municipal Cascais Ambiente</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Estrada de Vale de Cavalos</deliveryPoint>
+                <city>Cascais</city>
+                <administrativeArea>Estremadura</administrativeArea>
+                <postalCode>2645-138</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>Alcabideche</phone>
+            <electronicMailAddress>debhenriques@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.researchgate.net/profile/Debora-Henriques</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-2529-6720</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Márcia C. M.</givenName>
+                <surName>Coelho</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>marciacmcoelho@gmail.com</electronicMailAddress>
+            <onlineUrl>https://gba.uac.pt/member/maacutercia-catarina-mendes-coelho</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-5829-6073</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Raquel</givenName>
+                <surName>Hernández-Hernández</surName>
+            </individualName>
+            <organizationName>Departamento de Botánica, Ecología y Fisiología Vegetal, Plant Conservation and Biogeography Group, Universidad de La Laguna</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Avenida Astrofísico Francisco Sánchez, s/n.</deliveryPoint>
+                <city>La Laguna</city>
+                <administrativeArea>Canarias</administrativeArea>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>raquelmariahh@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0412-4831</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Fernando</givenName>
+                <surName>Pereira</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>fernando.ea.pereira@uac.pt</electronicMailAddress>
+            <onlineUrl>https://gba.uac.pt/member/fernando-pereira</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-2238-9681</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Rosalina</givenName>
+                <surName>Gabriel</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>rosalina.ma.gabriel@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/pt/F212-6D82-7BA9</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3550-8010</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Leila Nunes</givenName>
+                <surName>Morgado</surName>
+            </individualName>
+            <organizationName>Institute for Investigation and Technology of Agronomy and Environment, University of the Azores</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Rua Capitão João d&apos;Ávila, sn</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>lmorgado2024@gmail.com</electronicMailAddress>
+            <onlineUrl>https://iitaa.uac.pt/?i=leila-morgado</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-0561-1666</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Rosalina</givenName>
+                <surName>Gabriel</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>rosalina.ma.gabriel@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/pt/F212-6D82-7BA9</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3550-8010</userId>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2024-07-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            From 25 to 28 September 2012, an inventory of the bryoflora was carried out on Terceira Island (Azores) along an elevational transect, starting at the Serreta (38.76658 Latitude; -27.37539 Longitude; 40 m a.s.l), and culminating on Santa Bárbara (38.73064 Latitude; -27.32164 Longitude; 1000 m a.s.l). The primary objective was to systematically inventory the bryophytes inhabiting the preserved areas of native vegetation environments. Six sites were selected, each spaced at 200 m elevation intervals. Within each site, two 10 m x 10 m plots were established in close proximity (10-15 m). Within these plots, three 2 m x 2 m quadrats were randomly selected and sampled for bryophytes using microplots measuring 10 cm x 5 cm, which were then collected into paper bags. Six substrates were surveyed in each quadrat (rock, soil, humus, organic matter, tree bark, and leaves/fronds). Three replicates were obtained from all substrates available and colonised by bryophytes, resulting in a total of 636 records (eventID) of a maximum of 824 (3 replicates * 3 quadrats * 2 plots * 6 elevations). The events yielded a grand total of 3677 specimens (occurrenceID), with 38 families, 60 genera, 92 identified species and subspecies, including 34 mosses (Phylum Bryophyta) and 58 liverworts (Phylum Marchantiophyta). Of these 92 taxa, two were Azorean endemic species, five were Macaronesian endemic species, 11 were European endemic species, and 74 were native, non-endemic species. The altitudes with the highest species richness, and highest number of endemic species, spanned between 600-1000 m a.s.l above sea level, coinciding with the most preserved forests at the highest altitudes. This study contributed to expanding knowledge about the diversity and distribution of the Azorean Bryoflora, both on a local and regional scale.
+        </abstract>
+        <keywordSet>
+            <keyword>Terceira Island</keyword>
+            <keyword>Elevational Gradient</keyword>
+            <keyword>Natural Reserve</keyword>
+            <keyword>MOVECLIM-AZO</keyword>
+            <keyword>Azores</keyword>
+            <keyword>Samplingevent</keyword>
+            <keyword>Substrates</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keyword>Bryoflora</keyword>
+            <keyword>Mosses</keyword>
+            <keyword>Liverworts</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.pt/ipt/archive.do?r=moveclim_az_terceiraisland_2012</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The study was carried out in Terceira Island (Azores Archipelago, Portugal). The six sampling sites were distributed in the Natural Park of Terceira, municipality of Angra do Heroísmo.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>27.322</westBoundingCoordinate>
+                    <eastBoundingCoordinate>27.375</eastBoundingCoordinate>
+                    <northBoundingCoordinate>38.767</northBoundingCoordinate>
+                    <southBoundingCoordinate>38.73</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2012-09-25
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2012-09-28
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Mosses and liverworts.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                    <commonName>Plants</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                    <commonName>Mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                    <commonName>Liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                    <commonName>Mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                    <commonName>Leafy liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Marchantiopsida</taxonRankValue>
+                    <commonName>Thallose liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polytrichopsida</taxonRankValue>
+                    <commonName>Mosses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphagnopsida</taxonRankValue>
+                    <commonName>Peat mosses</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Rosalina</givenName>
+                <surName>Gabriel</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>295402200</phone>
+            <electronicMailAddress>rosalina.ma.gabriel@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/pt/F212-6D82-7BA9</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-3550-8010</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Initially, field and laboratory work were completed in order to have herbarium records fully identified (Henriques et al., 2017):
+1.	Conceptualize an adequate research design to improve the knowledge of the bryoflora of native habitats in Terceira Island (Azores, Portugal);
+2.	Select six sites along an elevational transect in Terceira Island, using areas with the highest cover of native vascular plant species; 
+3.	Select two study plots (10 m x 10 m) per site, separated by 10-15 m within a homogeneous vegetation area;
+4.	In each plot, randomly select three quadrats (2 m x 2 m) for further inspection;
+5.	In each selected quadrat, examine all available substrates, including rock, soil, humus, organic matter, bark, and leaves/fronds. Collect three samples, replicates or microplots (10 cm x 5 cm) from each substrate;
+6.	Dry the material in an airy and darkened room;
+7.	Identify the species present in each microplot;
+8.	Store samples in the Herbarium of the University of the Azores – Section Bryophytes (AZU-B).
+Secondly, data files were prepared to share information regarding Terceira Island bryophytes with GBIF and other platforms, using Darwin Core Archive (DwC-A), which is a standardized format for sharing biodiversity data as a set of one or more data tables.
+1.	Prepare a core data table (events), containing the 636 records, corresponding to each microplot of 10 cm x 5 cm;
+2.	Prepare one data table extension (occurrence), with 3686 records, corresponding to the inventory of all bryophytes found in the microplots.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>This study covers six sites, each including two plots of 100 m2 each, placed along an elevation gradient, with a 200 m elevation step, from 40 m to 1000 m a.s.l., within the limits of the Terceira Natural Park (Terceira Island, Azores, Portugal). The transect starts in Serreta (Lighthouse), at 40 m a.s.l., and ends at Santa Bárbara Mountain, at 1000 m. a.s.l., along the western side of the Island.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The inventory was conducted in September 2012, under the responsibility of Rosalina Gabriel, with the participation of Débora S.G. Henriques, Márcia C.M. Coelho, Raquel Hernández-Hernández and Fernando Pereira. 
+Bryophytes were sampled along the elevation gradient using a modified BRYOLAT standardised method in order to include taxonomic information on phorophytes and environmental data (Ah-Peng et al., 2012; Gabriel et al., 2014; Borges et al., 2018). 
+At each site, two plots of 10 m x 10 m were set 10-15 m apart. Each plot was divided into 25 quadrats (2 m x 2 m), from which three were randomly selected for further inspection. Each quadrat was carefully examined to collect three microplots of 50 cm2 (10 cm x 5 cm) for the substrates colonized by bryophytes: rock, soil, humus, organic matter, tree bark, and leaves/fronds. The microplots collected from tree bark were sampled in a stratified way, at the lowest (1-50 cm), medium (51-100 cm), and higher (101-200 cm) spots.
+Environmental data for each microplot was obtained in ordinal scales for Light, Evaporation, Humidity, and Rugosity, using the scales proposed by Gabriel &amp; Bates (2005).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>FIELD: Plots were placed within homogeneous areas of the most representative native vegetation found at each sampled elevation. Sampling was made by experienced bryologists, who ensured the samples were properly collected, while avoiding the excessive removal of material.
+
+STORAGE: After collecting the microplots for paper bags, these were left open and separated in a darkened room until complete dehydration. After identification, every sample was transferred to herbarium envelopes properly identified. All these envelopes were stored in the Herbarium of the University of the Azores (AZU), Section Bryophytes, under the name “MOVECLIM – AZORES project: Bryophytes from Terceira Island (2012)”.
+
+TAXONOMY: All efforts were made to achieve accurate identification of the specimens: (i) the most updated keys and floras were used by/under the supervision of experienced bryologists; (ii) challenging samples were sent to specialists for confirmation/identification; (iii) identification of extremely small or etiolated specimens was not pursued to the species level.
+
+Mosses were identified using the floras of Smith (2004) and Casas et al. (2006); liverworts were identified using the floras of Paton (1999) and Casas et al. (2009) and the taxonomic key of Schumacker and Váňa (2005). Visual guides (e.g. Atherton et al. 2010; Lüth, 2019) were also consulted, as well as the online pages of the British Bryological Society and the Bildatlas der Moose Deutschlands. Nomenclature follows Gabriel et al. (2010) and adaptations available on the Azorean Biodiversity Portal (2024).
+Species identification was mainly performed by Débora S.G. Henriques and Rosalina Gabriel. In 2023-2024, all the Frullania specimens were reviewed by Leila Nunes Morgado under the supervision of Rosalina Gabriel.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="MOVECLIM - AZORES">
+                <title>MOVECLIM – AZORES project: Bryophytes from Terceira Island (2012)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Rosalina</givenName>
+                    <surName>Gabriel</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-3550-8010</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Leila Nunes</givenName>
+                    <surName>Morgado</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0561-1666</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Débora S. G.</givenName>
+                    <surName>Henriques</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-2529-6720</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Márcia C. M.</givenName>
+                    <surName>Coelho</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-5829-6073</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Raquel</givenName>
+                    <surName>Hernández-Hernández</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0412-4831</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Fernando</givenName>
+                    <surName>Pereira</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-2238-9681</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Paulo A. V.</givenName>
+                    <surName>Borges</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>The MOVECLIM-AZORES project was conceived with the aim of increasing knowledge of the taxonomy of the bryophyte group in the Azores archipelago (Portugal) through inventories in different transects.  A transect was carried out on Terceira Island at six different altitudes (40 m - 200 m - 400 m - 600 m - 800 m - 1000 m [a.s.l.]) in areas of preserved vegetation included in the Terceira Island National Park. The collections were made between 25 and 28 September 2012, using the BRYOLAT protocol adapted to the conditions of the Azores and to the knowledge of vascular species. This article lists the taxonomic records and provides information on the ecology and substrate of each species.</para>
+                </abstract>
+                <funding>
+                    <para>This study was financed by ERANET BIOME MOVECLIM – ‘Montane vegetation as listening posts for climate change’ of the regional government of the Azores, grant number M2.1.2/F/04/2011/NET. M.C. was funded by the FUNDO REGIONAL PARA A CIÊNCIA E TECNOLOGIA (FRCT) of the Regional Government of the Azores, grant number M3.1.2/F/007/2012. R.G. and P.A.V.B. are currently funded by FCT-UIDB/00329/2020-2024, DOI 10.54499/UIDB/00329/2020 (Thematic Line 1–integrated ecological assessment of environmental change on biodiversity) and Azores DRCT Pluriannual Funding (M1.1.A/FUNC.UI&amp;D/010/2021-2024).</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The Azores are located in the North Atlantic Ocean (36°55’–39°43’ N and 25°00’–31°15’ W), about 1500 km from the western coast of mainland Europe and approximately 3900 km from the North American coasts. It is part of the Macaronesia region, which includes Madeira,  Cabe Verde, and the Canary Islands. The shortest distance to the European Portuguese coast is about 1400 km (Forjaz, 2004). 
+Terceira is one of the nine islands of the Azores in the Central Group, located at Latitude 38° 43′ 0″ N and Longitude 27° 12′ 0″ W. The island is approximately 29 km long and 18 km wide, with a perimeter of 90 km, with an area of approximately 402.2 km2. The highest point of the island, located in the Santa Bárbara mountain range, on the west side, is 1,021 meters above sea level (Forjaz, 2004). This island is characterized by high relative humidity and low- temperature fluctuations during the year. On the top of Serra de Santa Bárbara, the average annual rainfall exceeds 3400 mm and the mean annual temperature is 9°C (Azevedo et al., 2004).
+The vegetation along the transect showed patches of native and endemic plants. Endemic species are present at all altitudes, although the maximum peak in relative richness occurred in the highest part of the gradient, between 600 m and 1000 m, with a high number of endemic species (Henriques et al., 2017).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>The field study followed the BRYOLAT methodology (Ah-Peng et al., 2012), but incorporated some modifications according to the conditions and knowledge of the Azores flora (Gabriel et al., 2014; Borges et al., 2018). Six sites were selected for sampling, located at elevation intervals of 200 m, ranging from 10 m - 2200 m. At each site, two plots of 10 m x 10 m were placed within a homogeneous ecosystem, 10 - 15 m apart from each other. Three quadrats measuring 2 m x 2m were randomly surveyed from each plot. Three replicates (microplots) measuring 5 cm x 10 cm each, were collected from six different substrates: rock, soil, humus, organic matter, bark, and leaves/fronds, whenever available. Back in the laboratory, taxa were identified to the species/subspecies level, whenever possible, and the cover-abundance and sociability of each specimen bryophyte species from each microplot.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:30Z</dateStamp>
+                <citation>Gabriel R, Morgado L N, Henriques D S G, Coelho M C M, Hernández-Hernández R, Pereira F, Borges P A V (2024). The MOVECLIM – AZORES project: Bryophytes from Terceira Island (2012). Version 1.4. Universidade dos Açores. Sampling event dataset https://doi.org/10.15468/ud4xhq accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.1016/j.actao.2012.04.010">Ah-Peng C, Wilding N, Kluge J, Descamps-Julien B, Bardat J, Chuah-Petiot M, Strasberg D, Hedderson TAJ 2012 Bryophyte diversity and range size distribution along two altitudinal gradients: Continent vs. island. Acta Oecologica 42: 58‑65.</citation>
+                <citation identifier="ISBN 978-0-9561310-1-0">Atherton I, Bosanquet S, Lawley M (Eds.) 2010 Mosses and liverworts of Britain and Ireland: a field guide. Plymouth: British Bryological Society.</citation>
+                <citation>Azevedo E B, Rodrigues M C, Fernandes J F 2004 O Clima dos Açores. Climatologia: Introdução. In: V.H. Forjaz, ed. Atlas básico dos Açores. Ponta Delgada: Observatório Vulcanológico e Geotérmico dos Açores, pp. 25–48.</citation>
+                <citation identifier="https://azoresbioportal.uac.pt/">Azorean Biodiversity Portal. (2024, May, 14). Portal da Biodiversidade dos Açores.</citation>
+                <citation identifier="https://doi.org/10.1007/s10531-018-1553-7">Borges P A, Cardoso P, Kreft H, Whittaker R J, Fattorini S, Emerson B C, ... &amp; Gabriel R 2018 Global Island Monitoring Scheme (GIMS): a proposal for the long-term coordinated survey and monitoring of native island forest biota. Biodiversity and conservation, 27, 2567-2586.</citation>
+                <citation identifier=" ISBN 84-7283-865-X">Casas C, Brugués M, Cros R M, Sérgio C 2006 Handbook of mosses of the Iberian Peninsula and the Balearic Islands: illustrated keys to genera and species. Institut d&apos;Estudis Catalans.</citation>
+                <citation identifier=" ISBN 9788492583553">Casas C, Brugués M, Cros R M, Sérgio C, Infante M 2009 Handbook of liverworts and hornworts of the Iberian Peninsula and the Balearic Islands: illustrated keys to genera and species. Institut d&apos;estudis Catalans.</citation>
+                <citation identifier="https://doi.org/10.3390/d13040162">Coelho M C, Gabriel R, Hespanhol H, Borges P A, &amp; Ah-Peng C 2021 Bryophyte diversity along an elevational gradient on Pico Island (Azores, Portugal). Diversity, 13(4), 162.</citation>
+                <citation identifier="ISBN 9729746648">Forjaz V H 2004 Atlas básico dos Açores. OVGA, Ponta Delgada, 108 pp.</citation>
+                <citation>Gabriel R, Sjögren E, Schumacker R, Sérgio C, Aranda S C, Claro D, ... &amp; Martins B 2010. List of bryophytes (Anthocerotophyta, Marchantiophyta, Bryophyta). A list of the terrestrial and marine fungi, flora and fauna from the Azores, pp. 99-115. Princípia.</citation>
+                <citation identifier="https://repositorio.uac.pt/bitstream/10400.3/3296/1/LMSpp45-67_Gabriel_etal_N31.pdf">Gabriel R, Coelho M C M, Henriques D S G, Borges P A V, Elias R B, Kluge J, Ah-Peng C
+2014 Long-term monitoring across elevational gradients to assess ecological hypothesis: a description of standardized sampling methods in oceanic islands and first results. Arquipelago - Life and Marine Sciences (0873-4704) 45‑67.</citation>
+                <citation identifier="https://doi.org/10.1007/s11258-005-2243-6">Gabriel R,  Bates J W 2005. Bryophyte community composition and habitat specificity in the natural forests of Terceira, Azores. Plant ecology, 177, 125-144.</citation>
+                <citation>Henriques D S, Elias R B, Coelho M C M, Hernandéz R H, Pereira F, Gabriel R 2017. Long-term monitoring across elevational gradients (III): vascular plants on Terceira Island (Azores) transect. Arquipelago. Life and Marine Sciences 34: 1-20.</citation>
+                <citation identifier="ISBN 0946589607">Paton J A 1999 The liverwort flora of the British Isles. Harley Books.</citation>
+                <citation identifier="ISBN 978-3-00-062952-5">Lüth M 2019 Mosses of Europe - A Photographic Flora. Freiburg, Germany.</citation>
+                <citation identifier="ISBN 10: 8389949113">Schumacker R, Vána J 2005 Identification keys to the liverworts and hornworts of Europe and Macaronesia (2nd ed.). Station Scientifique des Hautes-Fagnes.</citation>
+                <citation identifier="https://doi.org/10.1017/CBO9780511541858">Smith A J E 2004 The moss flora of Britain and Ireland. Cambridge university press.</citation>
+                </bibliography>
+                <collection>
+                    <parentCollectionIdentifier>76349556-a70a-4ecc-88a7-cd085b6c875d</parentCollectionIdentifier>
+                    <collectionIdentifier>AZU_Section Bryophytes</collectionIdentifier>
+                    <collectionName>Herbarium of the University of Azores (AZU) – Section Bryophytes</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

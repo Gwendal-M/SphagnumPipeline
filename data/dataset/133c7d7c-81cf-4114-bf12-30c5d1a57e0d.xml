@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="133c7d7c-81cf-4114-bf12-30c5d1a57e0d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/jxusk2</alternateIdentifier>
+        <alternateIdentifier>133c7d7c-81cf-4114-bf12-30c5d1a57e0d</alternateIdentifier>
+        <alternateIdentifier>https://www.gbif.se/ipt/resource?r=nils-event</alternateIdentifier>
+        <shortName>NILS Inventory 2003–2020</shortName>
+        <title>National Inventories of Landscapes in Sweden: NILS Inventory 2003–2020</title>
+        <creator>
+            <individualName>
+                <givenName>Henrik</givenName>
+                <surName>Hedenås</surName>
+            </individualName>
+            <organizationName>National Inventories of Landscapes in Sweden, Department of Forest Resource Management, SLU</organizationName>
+            <positionName>Programme Director</positionName>
+            <positionName>Environmental Assessment Specialist</positionName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Skogsmarksgränd 17</deliveryPoint>
+                <city>Umeå</city>
+                <postalCode>901 83</postalCode>
+                <country>SWEDEN</country>
+            </address>
+            <electronicMailAddress>henrik.hedenas@slu.se</electronicMailAddress>
+            <onlineUrl>https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/NILS/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Henrik</givenName>
+                <surName>Hedenås</surName>
+            </individualName>
+            <organizationName>National Inventories of Landscapes in Sweden, Department of Forest Resource Management, SLU</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Marcus</givenName>
+                <surName>Andersson</surName>
+            </individualName>
+            <organizationName>Department of Forest Resource Management, SLU</organizationName>
+            <electronicMailAddress>marcus.andersson@slu.se</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2026-02-20
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The NILS Inventory 2003–2020 is the original NILS landscape monitoring programme, conducted from 2003 to 2020, and encompassed all terrestrial environments in Sweden, including both lowland and alpine areas (lowland until 2018; alpine until 2020). The programme was established to monitor biodiversity across the Swedish landscape and to track long-term changes in the everyday landscape. A central component was to assess changes in landscape composition and structure, and the prerequisites for biodiversity.</para><para>In years 2003–2018 data were collected nationwide, from 2019-2020 data collection continued only in alpine areas.</para><para>The true coordinates of the permanent sample plots are protected. The coordinates in this dataset are generalised, by randomly offsetting true coordinates with 200-2000 m. See also Additional Information.</para><para>The original NILS Inventory has been replaced and extended by five separate inventories specifically adapted to the different landscape types: the NILS Alpine Inventory (initiated 2021), NILS Deciduous Forest Inventory (initiated 2020), NILS Grassland Inventory (initiated 2020), NILS Wetland Inventory (initiated 2023) and the THUF Seashore Inventory (initiated 2012). Data from those inventories will be published in separate datasets and can currently be accessed only directly from the organisation.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>For the original NILS monitoring programme (2003–2020), the coordinates of sample plots have been intentionally obfuscated to protect sensitive location information. The obfuscation is performed in two steps:
+
+1.	Random spatial displacement: Each coordinate is randomly displaced by up to 2,000 meters from its true location.
+
+2.	Accuracy assignment: The coordinate uncertainty is set to 2,000 meters, ensuring that the true location of the sample plot is always contained within the stated accuracy of the published, displaced coordinate.
+
+During this process, the spatial pattern of the sample plots within each sampling tract is preserved, meaning that the relative positions of plots to one another remain intact even though their absolute locations are shifted.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/NILS/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.gbif.se/ipt/archive.do?r=nils-event</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>NILS data are collected across the whole of Sweden, including alpine, lowland, forested, grassland, and wetland landscapes. The sampling design ensures national representativeness, covering both protected and unprotected areas.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>10.371</westBoundingCoordinate>
+                    <eastBoundingCoordinate>24.609</eastBoundingCoordinate>
+                    <northBoundingCoordinate>69.535</northBoundingCoordinate>
+                    <southBoundingCoordinate>55.179</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2003-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>The purpose of the NILS programme is to describe the state, distribution, and long-term changes of terrestrial habitats in Sweden. By monitoring biodiversity, landscape composition and structure, and land-use impacts, the programme provides essential information for assessing habitat quality, following biodiversity trends, supporting conservation management, and meeting national and EU-level environmental reporting and policy needs.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Henrik</givenName>
+                <surName>Hedenås</surName>
+            </individualName>
+            <organizationName>National Inventories of Landscapes in Sweden, Department of Forest Resource Management, SLU</organizationName>
+            <positionName>Programme Director</positionName>
+            <positionName>Researcher</positionName>
+            <positionName>Environmental Assessment Specialist</positionName>
+            <address>
+                <deliveryPoint>Skogsmarksgränd 17</deliveryPoint>
+                <city>Umeå</city>
+                <postalCode>901 83</postalCode>
+                <country>SWEDEN</country>
+            </address>
+            <electronicMailAddress>henrik.hedenas@slu.se</electronicMailAddress>
+            <onlineUrl>https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/NILS/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>In Phase 1, the primary sampling units (“tracts”) are selected from a national sampling frame consisting of all 1 × 1 km grid cells containing land or freshwater within Sweden. Tracts are chosen using coordinated and balanced sampling procedures, ensuring broad spatial representation across environmental gradients. Once selected, each tract contains a systematic arrangement of circular sample plots, which form the basis for Phase 2.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Phase 2 consists of two steps. 
+
+Phase 2 - Step 1 is a remote-sensing–based classification of all sample plots within each tract. Depending on the inventory, this step may rely on manual aerial photo interpretation, automated model-based predictions, or a combination of both. The purpose of this step is to identify plots where target habitats are likely to occur and to exclude plots or entire tracts that certain lack such habitats. Plots are assigned to selection classes that determine their eligibility and priority for field surveys.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Phase 2 - Step 2 consists of conducting field surveys in the subset of plots selected from Step 1. The selection is random but stratified by the classification results, giving all potentially relevant plots a non-zero probability of inclusion. This design allows rare habitats to be sampled at higher density while keeping overall field effort feasible. Field teams collect detailed information on vegetation structure, species composition, and habitat condition, enabling refined classification and ecological assessment.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>NILS uses a stratified, sample-based national design. Inventories consist of recurring field surveys. Sampling units are systematically distributed across Sweden to ensure representative coverage of major habitat types and biogeographical regions. 
+
+The original NILS 2003–2020 programme included 641 sampling units, approximately 20% of which were surveyed each year. The design of the NILS Inventory 2003 to 2020 consisted of 641 sampling units evenly distributed across Sweden, with approximately 20% revisited annually. The programme integrated aerial photo interpretation with detailed field surveys.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The Alpine, Deciduous Forest, Grassland and Wetland Inventories apply a unified methodological framework designed to monitor landscape composition and habitat conditions across Sweden. The methodology is structured to support long-term, repeatable data collection while remaining flexible enough to include both common and rare habitat types. All NILS inventories follow a hierarchical, two-phase sampling design that links remote sensing–based classification with targeted field surveys. For more details on the hierarchical sampling structure see Step Descriptions.
+
+Throughout the program, the hierarchical sampling structure allows inventories of different density to be nested within the same national framework. Remote-sensing classifications ensure that non-relevant areas remain part of the statistical sample even when not visited in the field, supporting unbiased national estimates of habitat distribution and change.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All data collected within the NILS programme undergo multiple stages of quality control to ensure accuracy and consistency. For the original NILS programme (2003–2020), quality control procedures included cross-checking field data against distribution maps and other reference materials prior to long-term storage and analysis.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>National Inventories of Landscapes in Sweden</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Henrik</givenName>
+                    <surName>Hedenås</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>The NILS programme is to describe the state, distribution, and long-term changes of terrestrial habitats in Sweden. By monitoring biodiversity, landscape composition and structure, and land-use impacts, the programme provides essential information for assessing habitat quality, following biodiversity trends, supporting conservation management, and meeting national and EU-level environmental reporting and policy needs.</para>
+                </abstract>
+                <funding>
+                    <para>The Swedish NILS survey is founded by the Swedish Enviromental Protection Agency.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Sweden</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>See the project website (https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/NILS/) for descriptions of the individual survey schemes in Swedish.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:18Z</dateStamp>
+                <citation>Hedenås H (2026). National Inventories of Landscapes in Sweden: NILS Inventory 2003–2020. Version 1.2. National Inventories of Landscapes in Sweden, Department of Forest Resource Management, SLU. Sampling event dataset https://doi.org/10.15468/jxusk2 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.1007/s10661-010-1406-7">Ståhl, G., Allard, A., Esseen, P.-A., Glimskär, A., Ringvall, A., Svensson, J., Sundquist, S., Christensen, P., Gallegos Torell, Å., Högström, M., Lagerqvist, K., Marklund, L., Nilsson B. &amp; Inghe O. 2011. National Inventory of Landscapes in Sweden NILS-scope, design, and experiences from establishing a multiscale biodiversity monitoring system. Environmental Monitoring and Assessment, 173(1–4), 579–595</citation>
+                <citation identifier="https://publications.slu.se/?file=publ/show&amp;id=22786&amp;lang=en">Esseen, P. A., Glimskär, A., Ståhl, G., &amp; Sundquist, S. 2007. Field instruction for National Inventory of Landscapes in Sweden, NILS, year 2007 . Umeå. SLU, Department of Forest Resource Management.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

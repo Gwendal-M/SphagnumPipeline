@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b3bc98e2-9f6f-48cd-b96f-37c5ffc5dd5a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/2f34n9</alternateIdentifier>
+        <alternateIdentifier>b3bc98e2-9f6f-48cd-b96f-37c5ffc5dd5a</alternateIdentifier>
+        <alternateIdentifier>https://ipt.inbo.be/resource?r=inboveg-sbo-floodplains-bulk-event</alternateIdentifier>
+        <shortName>inboveg-sbo-floodplains-sampling-event</shortName>
+        <title>INBOVeg - Vegetation surveys carried out in 2018 and 2019 as part of the SBO &quot;Future Floodplains&quot; project in Flanders, Belgium</title>
+        <creator>
+            <individualName>
+                <givenName>Piet</givenName>
+                <surName>De Becker</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <electronicMailAddress>piet.debecker@inbo.be</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Siege</givenName>
+                <surName>Van Ballaert</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <address>
+                <city>siege.vanballaert@inbo.be</city>
+            </address>
+            <userId directory="https://orcid.org/">0000-0001-9134-0796</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dries</givenName>
+                <surName>Adriaens</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-7216-3111</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tom</givenName>
+                <surName>De Dobbelaer</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-7636-997X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Cécile</givenName>
+                <surName>Herr</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-2833-6046</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Maria-Rose</givenName>
+                <surName>Eves Down</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <address>
+                <city>Brussel</city>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>mariarose.evesdown@inbo.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0009-0000-9611-3824</userId>
+        </metadataProvider>
+        <pubDate>
+                2026-04-13
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This publication brings together three datasets from the SBO Futurefloodplains project together into one dataset. The data comes from INBOVEG, the INBO vegetation record database (also part of the &amp;#34;Global Index of Vegetation-plot databases&amp;#34; and the &amp;#34;European Vegetation Archive&amp;#34;.</para><para>The GBIF dataset is the same as the data in INBOVeg. The relevant identification codes are &amp;#39;IV2018072709165332&amp;#39;, &amp;#39;IV2019062504463183&amp;#39; and &amp;#39;IV2018062705565942&amp;#39;.</para><para>In the data, under &amp;#39;Occurrence remarks&amp;#39;, the vegetation layer is noted.</para><para>The &amp;#39;Original Londo scale&amp;#39; used for &amp;#39;organismQuantity&amp;#39; can be found here: https://protocols.inbo.be/2023.03/. The version of the protocol used in the surveys is uncertain, but the scale itself has not changed. The current version as of this publication is 2023.03.</para><para>To allow anyone to use this dataset, we have released the data to the public domain under a Creative Commons CCBY license. We would appreciate if you read and follow these norms for data use (http://www.inbo.be/en/norms-for-data-use) and provide a link to the original dataset (https://doi.org/10.15468/gouexm) whenever possible. If you use these data for a scientific paper, please cite the dataset following the applicable citation norms and/or consider us for co-authorship. We are always interested to know how you have used or visualised the data, or to provide more information, so please contact us via the contact information provided in the metadata or via opendata&amp;#64;inbo.be.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>To allow anyone to use this dataset, we have released the data to the public domain under a Creative Commons CCBY license. We would appreciate if you read and follow these norms for data use (http://www.inbo.be/en/norms-for-data-use) and provide a link to the original dataset (https://doi.org/10.15468/gouexm) whenever possible. If you use these data for a scientific paper, please cite the dataset following the applicable citation norms and/or consider us for co-authorship. We are always interested to know how you have used or visualized the data, or to provide more information, so please contact us via the contact information provided in the metadata or via opendata@inbo.be.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.futurefloodplains.be/en/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.inbo.be/archive.do?r=inboveg-sbo-floodplains-bulk-event</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Flanders, Belgium</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>4.631505</westBoundingCoordinate>
+                    <eastBoundingCoordinate>5.357607</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.106788</northBoundingCoordinate>
+                    <southBoundingCoordinate>50.801399</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-05-28
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-06-27
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements><para>'Future Floodplains' was financed by FWO (Fund for Scientific Research - Flanders) as an SBO-project. The Strategic Basic Research (SBO) program focuses on innovative research which, if scientifically successful, will create prospects for economic or societal applications. The project ran from May 1st 2017 until April 30th 2021.</para></acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Piet</givenName>
+                <surName>De Becker</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <electronicMailAddress>piet.debecker@inbo.be</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Siege</givenName>
+                <surName>Van Ballaert</surName>
+            </individualName>
+            <organizationName>INBO</organizationName>
+            <electronicMailAddress>siege.vanballaert@inbo.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9134-0796</userId>
+        </contact>
+
+            <project >
+                <title>SBO FutureFloodplains</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Piet</givenName>
+                    <surName>De Becker</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Siege</givenName>
+                    <surName>Van Ballaert</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0001-9134-0796</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>The FWO-SBO project &apos;Future Floodplains&apos; is a partnership between various scientific partners in Flanders and focuses on ecosystem services of floodplains under socio-ecological changes.
+Rivers and alluvial floodplains represent many ecosystem services (ESS) such as biodiversity, carbon storage, groundwater storage, agriculture, water buffering and recreation. Many of these ESS are, however, conflicting for involved social users and policy makers. Furthermore, these ESS may alter due to climate change, land use change, urbanization, or a change in river management.  The various stakeholders involved with rivers and floodplains currently lack the necessary tools to compare the value of the various, often conflicting, ecosystem services attributed to floodplains in order to make more balanced policy and management decisions. A sustainable management of future floodplains requires in the first place a fundamental insight into the various geomorphological, hydrological and ecological processes and their interactions, and this in a number of contrasting environmental settings. 
+
+In floodplains there is an important interplay between geomorphological, ecological and hydrological processes. In order to get a detailed understanding of the sensitivity of floodplain geoecohydrology to changing driving forces and controlling factors, and in order to study the dynamics of floodplains under changing socio-ecological conditions, an interdisciplinary approach is needed, in which this interplay of processes is studied in a holistic way.  The Future Floodplains project therefore focused on the interaction between geomorphological, ecological and hydrological processes in Flanders&apos; floodplains.
+Please see https://www.futurefloodplains.be/en/ for more details.</para>
+                </abstract>
+                <funding>
+                    <para>&apos;Future Floodplains&apos; was financed by FWO (Fund for Scientific Research - Flanders) as an SBO-project. The Strategic Basic Research (SBO) program focuses on innovative research which, if scientifically successful, will create prospects for economic or societal applications. The project ran from May 1st 2017 until April 30th 2021.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Flanders, Belgium</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Surveys were carried out according to the &apos;original Londo scale &apos;, with the category of vegetation noted in &apos;organismQuantity&apos;.  The protocol and vegetation categories can be found here: https://protocols.inbo.be/2023.03/. The version of the protocol used in the surveys is uncertain, but the scale itself has not changed. The current version as of this publication is 2023.03.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:47Z</dateStamp>
+                <citation>De Becker P, Van Ballaert S, Adriaens D, De Dobbelaer T, Herr C, Eves Down M (2026). INBOVeg - Vegetation surveys carried out in 2018 and 2019 as part of the SBO &quot;Future Floodplains&quot; project in Flanders, Belgium. Version 1.2. Research Institute for Nature and Forest (INBO). Sampling event dataset https://doi.org/10.15468/2f34n9 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

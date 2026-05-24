@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d3d30bc2-5da2-4944-9d2f-ca25ec41ae34"  system="http://gbif.org" scope="system"
+xml:lang="nb">
+    <dataset>
+        <alternateIdentifier>10.15468/ykqd5b</alternateIdentifier>
+        <alternateIdentifier>d3d30bc2-5da2-4944-9d2f-ca25ec41ae34</alternateIdentifier>
+        <alternateIdentifier>https://ipt.nina.no/resource?r=abildso_2024</alternateIdentifier>
+        <shortName>Abildso 2024</shortName>
+        <title>Abildsø - våtmark og torvmark</title>
+        <creator>
+            <individualName>
+                <givenName>Ulrika</givenName>
+                <surName>Jansson Asplund</surName>
+            </individualName>
+            <organizationName>Norsk institutt for naturforskning</organizationName>
+            <positionName>Forsker</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>ulrika.asplund@nina.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0288-6330</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Matteo</givenName>
+                <surName>De Stefano</surName>
+            </individualName>
+            <organizationName>Norwegian Institute for NAture Research (NINA)</organizationName>
+            <positionName>Data Steward</positionName>
+            <address>
+                <city>Trondheim</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>matteo.destefano@nina.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-2271-6993</userId>
+        </metadataProvider>
+        <pubDate>
+                2026-03-25
+        </pubDate>
+        <language>NORWEGIAN_BOKMAL</language>
+        <abstract>
+            <para>Artsfunn fra feltbefaring av våtmark og torvmarksskog ved Abildsø, Oslo kommune. </para><para>Multimediefilen inneholder én-til-mange-lenker til bilder for hver post i forekomstfilen (når tilgjengelig)</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Vascular plants
+Karplanter
+Invasive species
+Fremmede arter</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.nina.no/archive.do?r=abildso_2024</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Areal øst for E6, ved Abildsø.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>10.815812</westBoundingCoordinate>
+                    <eastBoundingCoordinate>10.827227</eastBoundingCoordinate>
+                    <northBoundingCoordinate>59.883307</northBoundingCoordinate>
+                    <southBoundingCoordinate>59.873261</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-09-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-09-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Karplanter og sopp. Først og fremst fremmede arter.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Pinopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cornaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphenopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sapindaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rosaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphagnopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polyporales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ranunculaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Equisetaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cyperaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Vitaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Alismatales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Apiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Oleaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Betulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Solanaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Agaricaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pinaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Araceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polygonaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ericaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Poaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Brassicaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Taxaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Juncaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fabaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Orchidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Caprifoliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Agaricomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viburnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Berberidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Vitales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Pteridophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Magnoliophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Basidiomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Equisetales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Convolvulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Primulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Agaricales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cornales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eudicots</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fomitopsidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Pinophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Asteraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphagnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Salicaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Monocots</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphagnales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose>Undersøkelse av våtmark og grøftet torvmark. Artsfunn av fremmede arter og typiske arter for området ble registrert i tillegg til torvdybdemålinger.</purpose>
+        <introduction>NINA har på oppdrag for Bymiljøetaten i Oslo kommune oppdatert kunnskapsgrunnlaget for naturmangfold, karbonlagring og restaureringsbehov for våtmarksområdet øst for E6 ved Abildsø. Det ble gjennomført feltundersøkelser i september 2024 og kartavgrensninger og beskrivelser for naturtypelokaliteter er oppdatert i kommunens database for naturinformasjon: Naturkart for Oslo - Natur og biologisk mangfold - Oslo kommune. Det ble også registrert artsmangfold av stedegne arter og kartlagt fremmede arter. I de mest intakte delene av høgmyren ble det gjort torvdybdemålinger. Våtmarksområdene ved Abildsø har forskjellig naturgrunnlag og brukshistorikk. Nord for avkjøringen mot Abildsø preges våtmarksområdet av gjengroing i tidligere kulturmark. Her finnes åpne vannspeil, sumparealer med helofyttvegetasjon, vierkratt og løv- og barskog. Området har naturverdier for fugler, amfibier og karplanter, men er sterkt påvirket av fremmede arter. Torvlaget i denne delen er generelt lite. Sør for avkjøringen dominerer myr og torvmark. Området er tidligere grøftet og preges nå av skogkledd torvmark, med furu (i et øvre sjikt), gran og bjørk. Det finnes også mindre partier med halvåpen høgmyr. Naturverdiene er knyttet til åpen myrvegetasjon, gamle trær og død ved. Fremmede arter er også her et problem, delvis på grunn av spredning fra dumping av hageavfall.</introduction>
+        <acknowledgements>Data er innsamlet på oppdrag for og finansiert av Bymiljøetaten, Oslo kommune.</acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ulrika</givenName>
+                <surName>Jansson Asplund</surName>
+            </individualName>
+            <organizationName>Norsk institutt for naturforskning</organizationName>
+            <positionName>Forsker</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>ulrika.asplund@nina.no</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0288-6330</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Species determination in field.
+Species with uncertain taxa were collected and determined indoors.
+Data collected with field tablet</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Occurrence data collected during one day field visit at Abildsø.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Occurrence data collected during one day field visit.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Species with uncertain taxa were collected and determined indoors.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="https://hdl.handle.net/11250/3198763">
+                <title>Naturmangfold, karbonlager og mulige  restaureringstiltak for våtmark ved Abildsø,  Oslo kommune.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Karin Ulrika</givenName>
+                    <surName>Jansson Asplund</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-0288-6330</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Anna</givenName>
+                    <surName>Thylén</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>NINA har på oppdrag for Bymiljøetaten i Oslo kommune oppdatert kunnskapsgrunnlaget for naturmangfold, karbonlagring og restaureringsbehov for våtmarksområdet øst for E6 ved Abildsø. Det ble gjennomført feltundersøkelser i september 2024 og kartavgrensninger og beskrivelser for naturtypelokaliteter er oppdatert i kommunens database for naturinformasjon: Naturkart for Oslo - Natur og biologisk mangfold - Oslo kommune. Det ble også registrert artsmangfold av stedegne arter og kartlagt fremmede arter. I de mest intakte delene av høgmyren ble det gjort torvdybdemålinger. Våtmarksområdene ved Abildsø har forskjellig naturgrunnlag og brukshistorikk. Nord for avkjøringen mot Abildsø preges våtmarksområdet av gjengroing i tidligere kulturmark. Her finnes åpne vannspeil, sumparealer med helofyttvegetasjon, vierkratt og løv- og barskog. Området har naturverdier for fugler, amfibier og karplanter, men er sterkt påvirket av fremmede arter. Torvlaget i denne delen er generelt lite. Sør for avkjøringen dominerer myr og torvmark. Området er tidligere grøftet og preges nå av skogkledd torvmark, med furu (i et øvre sjikt), gran og bjørk. Det finnes også mindre partier med halvåpen høgmyr. Naturverdiene er knyttet til åpen myrvegetasjon, gamle trær og død ved. Fremmede arter er også her et problem, delvis på grunn av spredning fra dumping av hageavfall. Torvdybdemålinger i den mest intakte delen av høgmyren (61 daa) viser et volum på 220 000 m3 torv, med beregnet karbonmengde på 9500 tonn karbon.Vi anbefaler restaurering av den mest intakte delen av høgmyren sør for avkjøringen til Abildsø, mens arealet lengst sør har mistet sin opprinnelige myrvegetasjon og ikke anses å være restaurerbart. I området nord for avkjøringen til Abildsø vil det viktigste restaureringstiltaket være aktiv bekjempelse av fremmede arter. Dette vil også bidra til å hindre spredning og etablering av fremmede arter i Østensjøvannet via bekkeutløpet i nord. Åpning av gjengrodde vannspeil kan vurderes. For overvåking av restaureringssuksess anbefaler vi hydrologisk overvåking med kontinuerlige vannstandsmålere og vegetasjonsovervåking etter metodikk fra Arealrepresentativ naturovervåkning - ANO.</para>
+                </abstract>
+                <funding>
+                    <para>Bymiljøetaten, Oslo kommune.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Våtmark og torvmark øst for E6, ved Abildsø, Oslo kommune.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Forekomstdata innsamlet ved befaring.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:27Z</dateStamp>
+                <citation>Jansson Asplund U, De Stefano M (2026). Abildsø - våtmark og torvmark. Version 1.2. Norwegian Institute for Nature Research. Occurrence dataset https://doi.org/10.15468/ykqd5b accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://hdl.handle.net/11250/3174706">Jansson, U., Thylén, A. og Kyrkjeeide, M.O. 2025. Naturmangfold, karbonlager og mulige restaureringstiltak for våtmark ved Abildsø, Oslo kommune. NINA Rapport 2504. Norsk institutt for naturforskning.</citation>
+                </bibliography>
+                <resourceLogoUrl>http://www.nina.no/images/logo_liten_bare_NINA.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

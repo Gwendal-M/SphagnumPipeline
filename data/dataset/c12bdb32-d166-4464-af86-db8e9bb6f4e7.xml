@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c12bdb32-d166-4464-af86-db8e9bb6f4e7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/tebspb</alternateIdentifier>
+        <alternateIdentifier>c12bdb32-d166-4464-af86-db8e9bb6f4e7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr930</alternateIdentifier>
+        <alternateIdentifier>1b7f91d6-a536-37b7-addd-312082f3da80</alternateIdentifier>
+        <title>City of Edinburgh Natural Heritage Service - Fungi Surveys</title>
+        <creator>
+            <organizationName>The Wildlife Information Centre</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>The Wildlife Information Centre</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-02-07
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Survey of fungi present in council owned sites across Edinburgh.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr930</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr930/dr930.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>City of Edinburgh</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-3.36</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-3.2</eastBoundingCoordinate>
+                    <northBoundingCoordinate>55.872</northBoundingCoordinate>
+                    <southBoundingCoordinate>55.781</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1994-07-04
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2010-10-04
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Recording the fungi population within council owned sites in Edinburgh.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>TWIC</givenName>
+                <surName>Admin</surName>
+            </individualName>
+            <electronicMailAddress>admin@wildlifeinformation.co.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Field observations</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Mixed.  Recorders range from Fungi experts, to CECNHS staff to members of the public.  Records have been checked with NBN Record Cleaner.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:03Z</dateStamp>
+                <citation>The Wildlife Information Centre (2023). City of Edinburgh Natural Heritage Service - Fungi Surveys. Occurrence dataset https://doi.org/10.15468/tebspb accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/TWIC_Logo.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

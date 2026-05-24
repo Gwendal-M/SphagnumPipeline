@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="86653843-d46c-4924-9cbe-34737366a5b3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ne9wgl</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr536</alternateIdentifier>
+        <alternateIdentifier>86653843-d46c-4924-9cbe-34737366a5b3</alternateIdentifier>
+        <alternateIdentifier>2d20248f-b867-37b5-96f7-c7eba9b5011d</alternateIdentifier>
+        <alternateIdentifier>15047</alternateIdentifier>
+        <title>South Lanarkshire peatland records 2013</title>
+        <creator>
+            <organizationName>Central Scotland Green Network Trust</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Central Scotland Green Network Trust</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2018-10-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Biological records collected as part of surveys of 17 peatland sites within South Lanarkshire during Jan - March 2013.</para>
+        </abstract>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr536</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr536/dr536.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>South Lanarkshire - only 17 sites were surveyed in 3 peatland &apos;cluster&apos; areas, so not complete coverage of the area. The data were collected using handheld GPS to get 12 figure grid references for the majority of records allowing them to be accurately mapped in GIS</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-4.154</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-3.672</eastBoundingCoordinate>
+                    <northBoundingCoordinate>55.769</northBoundingCoordinate>
+                    <southBoundingCoordinate>55.593</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2013-02-07
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2013-03-19
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Potential peatland resotration sites were surveyed for their current qauality, land management regime and resotration options provided. This is part of work done under the South Lanarkshire LBAP which has targets for lowland raised bog restoration</para></purpose>
+        <contact>
+            <individualName>
+                <surName>Emilie Wadsworth</surName>
+            </individualName>
+            <electronicMailAddress>emilie.wadsworth@csgnt.org.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Data collected by experienced peatland surveyors as part of commissioned work for assessments of the peatland for restoration. All species encountered during walk over surveys were recorded.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>This dataset was collected as part of a one-off project, by experienced peatland surveyors. Confidence it the accuracy of the dataset is high. The dataset has been checked using the NBN record cleaner, with only one record number as erroneous. This has been corrected. No other errors were picked up.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:54Z</dateStamp>
+                <citation>Central Scotland Green Network Trust (2018). South Lanarkshire peatland records 2013. Occurrence dataset https://doi.org/10.15468/ne9wgl accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/CSGN_Trust_Logo_CMYK_sml.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

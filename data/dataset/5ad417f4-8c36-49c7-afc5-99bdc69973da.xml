@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5ad417f4-8c36-49c7-afc5-99bdc69973da"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/txzbdx</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.fr/resource?r=bryophytes_mhn_clf</alternateIdentifier>
+        <alternateIdentifier>5ad417f4-8c36-49c7-afc5-99bdc69973da</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=bryophytes_mhn_clf</alternateIdentifier>
+        <title>Herbier du muséum Henri-Lecoq de Clermont-Ferrand - Bryophytes</title>
+        <creator>
+            <individualName>
+                <givenName>Franck</givenName>
+                <surName>Maddi</surName>
+            </individualName>
+            <organizationName>Muséum Henri-Lecoq</organizationName>
+            <positionName>Gestionnaire de la collection</positionName>
+            <address>
+                <deliveryPoint>15, rue Bardoux</deliveryPoint>
+                <city>Clermont-Ferrand</city>
+                <postalCode>63000</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>0443752553 / 0443752563</phone>
+            <electronicMailAddress>fmaddi@clermontmetropole.eu</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Franck</givenName>
+                <surName>Maddi</surName>
+            </individualName>
+            <organizationName>Muséum Henri-Lecoq</organizationName>
+            <positionName>Gestionnaire de la collection</positionName>
+            <address>
+                <deliveryPoint>15, rue Bardoux</deliveryPoint>
+                <city>Clermont-Ferrand</city>
+                <postalCode>63000</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>0443752553 / 0443752563</phone>
+            <electronicMailAddress>fmaddi@clermontmetropole.eu</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <onlineUrl>http://www.gbif.fr</onlineUrl>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-03-08
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Bryophytes d&amp;#39;Auvergne de l&amp;#39;herbier Pierre-Marie-Louis Brevière (1846-1912). Les collectes ont été effectuées entre 1880 et 1910. Les 1120 parts ont été révisées par Vincent Hugonnot du Conservatoire Botanique National du Massif Central en 2014-2015.  Les Hépatiques avaient préalablement été examinées et révisées par René Schumacker en 1985.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.fr/archive.do?r=bryophytes_mhn_clf</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>France, dont  86% du département du Puy-de-Dôme.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-4.9</westBoundingCoordinate>
+                    <eastBoundingCoordinate>9.91</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.36</northBoundingCoordinate>
+                    <southBoundingCoordinate>41.42</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue></taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Franck</givenName>
+                <surName>Maddi</surName>
+            </individualName>
+            <organizationName>Muséum Henri-Lecoq</organizationName>
+            <positionName>Gestionnaire de la collection</positionName>
+            <address>
+                <deliveryPoint>15, rue Bardoux</deliveryPoint>
+                <city>Clermont-Ferrand</city>
+                <postalCode>63000</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>0443752553 / 0443752563</phone>
+            <electronicMailAddress>fmaddi@clermontmetropole.eu</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:30Z</dateStamp>
+                <citation>Maddi F (2023). Herbier du muséum Henri-Lecoq de Clermont-Ferrand - Bryophytes. Version 1.3. Museum  Henri-Lecoq de Clermont-Ferrand. Occurrence dataset https://doi.org/10.15468/txzbdx accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

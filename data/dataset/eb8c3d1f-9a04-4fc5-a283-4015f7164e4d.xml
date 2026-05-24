@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="eb8c3d1f-9a04-4fc5-a283-4015f7164e4d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ju9z3p</alternateIdentifier>
+        <alternateIdentifier>eb8c3d1f-9a04-4fc5-a283-4015f7164e4d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.inbo.be/resource?r=inbo-collaborator-mosses</alternateIdentifier>
+        <alternateIdentifier>74ca7ce5-9a5b-46a6-b7d4-f60bab77900f</alternateIdentifier>
+        <shortName>inbo-collaborator-mosses</shortName>
+        <title>INBO collaborator Occurrences of mosses, lichens and protists recorded in waarnemingen.be in Flanders, Belgium</title>
+        <creator>
+            <individualName>
+                <givenName>Dimitri</givenName>
+                <surName>Brosens</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0846-9116</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Frederic</givenName>
+                <surName>Piesschaert</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>frederic.piesschaert@inbo.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-5843-646X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dirk</givenName>
+                <surName>Hennebel</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-9837-0557</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Indra</givenName>
+                <surName>Jacobs</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-8210-2649</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Myriam</givenName>
+                <surName>Kumpen</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0003-2440-8898</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Remar</givenName>
+                <surName>Erens</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-7488-4548</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Pieter</givenName>
+                <surName>Dhaluin</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-0128-3490</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Robin</givenName>
+                <surName>Guelinckx</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-6937-4479</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Frank</givenName>
+                <surName>Van Oost</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-0328-9204</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Robbe</givenName>
+                <surName>Paredis</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0009-0000-7955-7247</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Bert</givenName>
+                <surName>Van Hecke</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-1764-430X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Steven</givenName>
+                <surName>De Saeger</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-5477-3063</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ward</givenName>
+                <surName>Vercruysse</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Timon</givenName>
+                <surName>Boumon</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0009-0000-5136-9447</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Robbe</givenName>
+                <surName>Cool</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0009-0004-7560-499X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Wouter</givenName>
+                <surName>Van Gompel</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sam</givenName>
+                <surName>Provoost</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0003-2751-5269</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Johannes</givenName>
+                <surName>Jansen</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0009-0005-2436-5236</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Yolan</givenName>
+                <surName>Bosteels</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Heidi</givenName>
+                <surName>Demolder</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0003-0159-2936</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jari</givenName>
+                <surName>Vandendriessche</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0003-3845-6655</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Toon</givenName>
+                <surName>Spanhove</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0001-9194-0193</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andy</givenName>
+                <surName>Van Kerckvoorde</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0002-3749-8346</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Wouter</givenName>
+                <surName>Van Landuyt</surName>
+            </individualName>
+            <userId directory="https://orcid.org/">0000-0002-1915-4486</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Adinda</givenName>
+                <surName>De Bruyn</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-7338-0660</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Dimitri</givenName>
+                <surName>Brosens</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0846-9116</userId>
+        </metadataProvider>
+        <pubDate>
+                2025-11-14
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            This dataset comprises mosses, lichens and protists occurrence records sourced from the Waarnemingen database, with a focus on data tagged to the Research Institute for Nature and Forest (INBO). The majority of observations stem from INBO-led fieldwork, systematically recorded using waarnemingen.be and the ObsMapp mobile application. In addition, the dataset includes a selection of ad hoc observations contributed by INBO users within the platform.
+
+All records were extracted from the central Waarnemingen database, managed by Natuurpunt and part of the observation.org network. Each entry includes species identification, observation date, location details, observer information, and method of recording. This curated dataset provides valuable insights into plant biodiversity across Flanders and supports research, monitoring, and conservation initiatives.
+
+INBO tagged occurrences of non-native plants and animals are already published in https://www.gbif.org/dataset/9a0b66df-7535-4f28-9f4e-5bc11b8b096c and https://www.gbif.org/dataset/7f5e4129-0717-428e-876a-464fbd5d9a47 and are kept out of this dataset.
+
+To allow anyone to use this dataset, we have released the data to the public domain under a Creative Commons Zero waiver. We would appreciate however, if you read and follow these norms for data use and provide a link to the original dataset whenever possible.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.inbo.be/archive.do?r=inbo-collaborator-mosses</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Belgium</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>2.55017</westBoundingCoordinate>
+                    <eastBoundingCoordinate>6.35999</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.49613</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.51049</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-01-03
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose>This data is used for various INBO projects.</purpose>
+        <acknowledgements>This dataset was compiled with the support of the Research Institute for Nature and Forest (INBO). We gratefully acknowledge the efforts of INBO staff who contributed field observations and data validation.  Special thanks go to waarnemingen.be, ObsMapp, and to Natuurpunt for managing the Waarnemingen database infrastructure. Their ongoing support and collaboration are essential to the success of biodiversity data collection and sharing in Flanders.</acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Dimitri</givenName>
+                <surName>Brosens</surName>
+            </individualName>
+            <organizationName>Research Institute for Nature and Forest (INBO)</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0846-9116</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Data Collection: Observations were collected by INBO researchers, collaborators, and citizen scientists through the waarnemingen.be platform and the ObsMapp mobile application. Fieldwork was conducted across various habitats in Flanders, with a focus on plant species present in forests, wetlands, grasslands, and other ecosystems. Data were recorded in real-time, including species identification, location (GPS coordinates), and observation date.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data Entry and Upload: Field data were entered directly into the waarnemingen.be platform, which automatically synchronizes with the central Waarnemingen database. In some cases, observers manually uploaded field data collected offline to the platform.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data Validation: Once uploaded, records underwent automatic validation within waarnemingen.be, where checks for spatial and temporal consistency were performed. Additionally, records were reviewed for taxonomic accuracy by INBO experts or platform moderators. Any suspicious or ambiguous records were flagged and either corrected or excluded.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data Processing: The dataset was extracted from the Waarnemingen database and curated to ensure it included only relevant plant observations. Data were mapped and standardized to Darwin Core in SQLITE and R</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The final, validated dataset was released to the public under a Creative Commons Zero waiver, making it freely available for research, conservation, and educational purposes.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study covers mosses, lichens and protists observations across the Flanders region of Belgium. Most records originate from targeted fieldwork conducted by INBO staff starting in 2019 to recent , complemented by incidental observations contributed by INBO collaborators and verified citizen scientists. Observations span a variety of habitats including forests, grasslands, agricultural areas, wetlands, and urban green spaces. The spatial extent reflects both systematic surveys in priority areas and opportunistic records across the broader landscape, offering a representative view of plant biodiversity in Flanders.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The dataset primarily consists of opportunistic and semi-structured observations recorded during INBO fieldwork. Observers used standardized tools such as the ObsMapp mobile application and the waarnemingen.be platform to document species presence. While some data were collected through systematic surveys (e.g. vegetation mapping or monitoring transects), the majority of records reflect opportunistic sampling guided by expert knowledge of local flora. Observations include both common and rare species, with a focus on accurate geolocation and taxonomic identification. All records tagged to INBO have undergone a quality control process, including expert verification where needed.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All observations in this dataset tagged to INBO have undergone a quality control process to ensure reliability and consistency. Observations were submitted by trained INBO staff or collaborators and reviewed using validation tools integrated in the waarnemingen.be platform. Records were automatically screened for spatial, temporal, and taxonomic anomalies, and suspect records were flagged for expert review. In addition, many observations were manually verified by species experts within INBO or by moderators active on waarnemingen.be. Only records meeting INBO’s internal validation criteria were included in this dataset.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:53Z</dateStamp>
+                <citation>Brosens D, Piesschaert F, Hennebel D, Jacobs I, Kumpen M, Erens R, Dhaluin P, Guelinckx R, Van Oost F, Paredis R, Van Hecke B, De Saeger S, Vercruysse W, Boumon T, Cool R, Van Gompel W, Provoost S, Jansen J, Bosteels Y, Demolder H, Vandendriessche J, Spanhove T, Van Kerckvoorde A, Van Landuyt W, De Bruyn A (2025). INBO collaborator Occurrences of mosses, lichens and protists recorded in waarnemingen.be in Flanders, Belgium. Version 1.5. Research Institute for Nature and Forest (INBO). Occurrence dataset https://doi.org/10.15468/ju9z3p accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e6f2325a-af8d-4935-9f10-163e87f472bf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/xu5bmy</alternateIdentifier>
+        <alternateIdentifier>e6f2325a-af8d-4935-9f10-163e87f472bf</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr961</alternateIdentifier>
+        <alternateIdentifier>f8fc6e69-bb06-3e6c-bc8e-a395209e9e59</alternateIdentifier>
+        <title>Environmental Monitoring Database (EMD) Species data 1987 to 2015</title>
+        <creator>
+            <organizationName>Natural England</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Natural England</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-10-15
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset contains species data extracted from Natural England&amp;#39;s Environmental Monitoring Database (EMD) in January 2016. The EMD was developed to hold vegetation, bird and other species data gathered by a wide range of surveys. Most (but not all) of these Surveys were designed to monitor habitats and species being targeted for management by agri-environment schemes.  The data has almost all been gathered since 1987 and the main schemes involved comprise  the Environmentally Sensitive Areas, Countryside Stewardship schemes and Environmental Stewardship. The data comprise species records from a wide range of moorland, grassland, wetland and coastal habitats.  As the dataset comprises records from many surveys, designed with specific individual purposes, the distribution of sampling points are a function of those individual surveys rather than representing any systematic coverage within the dataset as a whole. There are no sensitive records in this dataset. The EMD is no longer used, and this dataset will no longer be updated.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr961</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr961/dr961.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>England - the coverage is not however even, as survey activity was focused towards areas where agri-environment schemes were in place. For example, many of the species records result from the monitoring of individual Environmentally Sensitive Areas - geographically discrete areas within England. Other projects involved samples which were drawn on a random, national basis.  All records are provided with 1km grid references and further information about the provenance of individual surveys can be found within the attribution.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-5.711</westBoundingCoordinate>
+                    <eastBoundingCoordinate>1.763</eastBoundingCoordinate>
+                    <northBoundingCoordinate>55.698</northBoundingCoordinate>
+                    <southBoundingCoordinate>50.156</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1981-07-10
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2013-06-13
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>The data were collected to enable the monitoring of agri-environment schemes from 1988 to2016.  In some cases (typically where fixed quadrats were involved)  this has entailed repeat visits to the same sampling location.</para></purpose>
+        <contact>
+            <individualName>
+                <surName>Andy Cooke</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>Andrew.I.Cooke@naturalengland.org.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The data have been extracted from Natural England&apos;s Environmental Monitoring Database. Data were only extracted for surveys where reasonably precise georeferences were available, where data were recorded at (or below) the level of the individual Rural Land Register Field Parcel. Surveys capturing data at levels above this, e.g. at the whole-agreement level, were therefore excluded. The geographic precision of records was then degraded to monad level before publication, in order to respect confidentiality agreements made with landowners at the time of survey. Where possible,  the survey data are referenced to published reports, which provide further details about the survey methods used (links to these can be found within the record attributes).  Most records were derived from agri-environment monitoring surveys and typically reflect presence of species at quadrats, stops or other sampling points within a sampling unit that is often a field parcel but may sometimes be a larger unit.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Generally high. The surveys were typically undertaken by professional ecological surveyors, who were instructed to use detailed and specific methods that were developed to provide the required degree of statistical rigour by professional ecologists and statisticians. Surveys incorporated Quality Assurance procedures such as repeat survey by different recorders, to ensure species determinations were accurate.
+UPDATE: 13/02/2017 - NBN Record Cleaner checks using Rule Sets have identified a number of records outside their known ranges; these have been removed from the dataset. Furthermore, survey results from the following surveys have been removed following  database errors arising from the export process: Upland Priority Blanket Bog, Upland Priority Calcareous Grassland, and Upland Priority Heathland.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:28Z</dateStamp>
+                <citation>Natural England (2024). Environmental Monitoring Database (EMD) Species data 1987 to 2015. Occurrence dataset https://doi.org/10.15468/xu5bmy accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatEng_logo_New-Green.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="72d3505f-70c4-4743-a872-7f8010498fb9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/bwr4xo</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=23</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org:443/portal/collections/misc/collprofiles.php?collid=23</alternateIdentifier>
+        <alternateIdentifier>http://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=23</alternateIdentifier>
+        <title>University of Colorado, Museum of Natural History Herbarium Bryophyte Collection</title>
+        <creator>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>J Ryan</givenName>
+                <surName>Allen</surName>
+            </individualName>
+            <positionName>Biodiversity Informatics Manager (Database inquiries)</positionName>
+            <electronicMailAddress>james.r.allen@Colorado.EDU</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-4240-0809</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Amber</givenName>
+                <surName>Horning</surName>
+            </individualName>
+            <positionName>Collection Manager  (Loans and other inquires)</positionName>
+            <electronicMailAddress>amber.horning@colorado.edu</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-2639-6720</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Herbarium COLO is the Botany Section of the University of Colorado Museum of Natural History on the Boulder campus. The Herbarium is available to anyone with an interest in botany. Users include faculty and students, visiting scholars, private consultants, local naturalists, and botanists from a variety of public and private agencies. This dataset contains the North American portion of COLO Bryophyte collection. Approximately 50,000 specimens from the rest of the world have not been digitized. No work has been done to georeference this collection. Any coordinates provided are from the collector&amp;#39;s label and have not been verified. Collection strengths: Colorado, Southern Rocky Mountains and Western North American vascular plants and cryptogams, worldwide arctic and alpine, Appalachia, Galapagos Lichens, Australia, New Guinea, Altai, Mexico and the Seville Flowers Bryophyte Collection.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://bryophyteportal.org/portal/content/dwca/COLO-B_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>University of Colorado, Museum of Natural History Herbarium Bryophyte Collection</organizationName>
+            <electronicMailAddress>james.r.allen@Colorado.EDU</electronicMailAddress>
+            <onlineUrl>https://www.colorado.edu/cumuseum/research-collections/botany-section-university-herbarium-colo</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4240-0809</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:05Z</dateStamp>
+                <citation>University of Colorado Museum of Natural History (2026). University of Colorado, Museum of Natural History Herbarium Bryophyte Collection. Occurrence dataset https://doi.org/10.15468/bwr4xo accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

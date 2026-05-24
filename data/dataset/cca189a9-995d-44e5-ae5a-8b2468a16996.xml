@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cca189a9-995d-44e5-ae5a-8b2468a16996"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/6m7pu5</alternateIdentifier>
+        <shortName>LFCD - Obs. opportuniste</shortName>
+        <title>Inventaires Aéro Biodiversité - LFCD - Andernos-les-Bains-Inventaires Aéro Biodiversité - LFCD - Observation opportuniste tous règnes confondus</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-08-28
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            LFCD - Observations opportunistes de la faune, de la flore ou de la fonge
+        </abstract>
+        <keywordSet>
+            <keyword>LFCD</keyword>
+            <keyword>Nouvelle-Aquitaine</keyword>
+            <keyword>Aérodrome</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observations naturalistes opportunistes</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/85c4e2cd-0807-49eb-beca-ed6a6a1f46c0</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-1.06448</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-1.06448</eastBoundingCoordinate>
+                    <northBoundingCoordinate>44.75452</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.75452</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-10-18
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-09-29
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <contact>
+            <organizationName>Aéro Biodiversité</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Inventaires Aéro Biodiversité - LFCD - Andernos-les-Bains</title>
+                <personnel>
+                    <organizationName>Aéro Biodiversité</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Aérodrome d&apos;Andernos-les-Bains - 33 Gironde</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:28Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2023). Inventaires Aéro Biodiversité - LFCD - Andernos-les-Bains-Inventaires Aéro Biodiversité - LFCD - Observation opportuniste tous règnes confondus. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/6m7pu5 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5231f12c-2057-4d86-9c86-c3cf7f326c19"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/396w2f</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=78</alternateIdentifier>
+        <alternateIdentifier>5231f12c-2057-4d86-9c86-c3cf7f326c19</alternateIdentifier>
+        <title>The Freeman Herbarium at Auburn University, Bryophyte Collection</title>
+        <creator>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Curtis Hansen, Collections Manager</surName>
+            </individualName>
+            <electronicMailAddress>hansecj@auburn.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The Freeman Herbarium (AUA) contains over 80,000 specimens of vascular and non-vascular plants including, about 1800 bryophytes, over 3000 lichens, and about 3000 specimens of fungi.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://bryophyteportal.org/portal/content/dwca/AUA_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>The Freeman Herbarium at Auburn University, Bryophyte Collection</organizationName>
+            <phone>334-844-1630</phone>
+            <electronicMailAddress>hansecj@auburn.edu</electronicMailAddress>
+            <onlineUrl>http://aumnh.org/research-collections/plants/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:17Z</dateStamp>
+                <citation>Auburn University Museum (2026). The Freeman Herbarium at Auburn University, Bryophyte Collection. Occurrence dataset https://doi.org/10.15468/396w2f accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

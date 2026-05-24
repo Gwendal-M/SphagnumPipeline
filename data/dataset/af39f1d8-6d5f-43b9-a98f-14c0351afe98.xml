@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="af39f1d8-6d5f-43b9-a98f-14c0351afe98"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/6vyudr</alternateIdentifier>
+        <alternateIdentifier>af39f1d8-6d5f-43b9-a98f-14c0351afe98</alternateIdentifier>
+        <shortName>Flore - Inventaire non protocolé</shortName>
+        <title>Projet d&apos;extension du parc éolien de Saint-Nicolas-des-Biefs - Flore - Inventaire non protocolé</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-05-12
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Liste des espèces de flore contactées au cours de l&amp;#39;étude d&amp;#39;impact du projet éolien de la société CPENR DE SAINT-NICOLAS-DES-BIEFS NORD
+        </abstract>
+        <keywordSet>
+            <keyword>Éolien</keyword>
+            <keyword>Flore</keyword>
+            <keyword>Dépôt légal de données brutes de biodiversité</keyword>
+            <keyword>DEPOBIO</keyword>
+            <keyword>CPENR DE SAINT-NICOLAS-DES-BIEFS NORD</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventaire pour étude impact</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/C20A0916-FB1A-6F53-E053-0514A8C0C81D</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>3.77598</westBoundingCoordinate>
+                    <eastBoundingCoordinate>3.9066</eastBoundingCoordinate>
+                    <northBoundingCoordinate>46.13794</northBoundingCoordinate>
+                    <southBoundingCoordinate>46.0454</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2017-08-29
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-11-19
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dicranales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hypnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oxalidales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Saxifragales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphagnales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>CORIEAULYS - CHAMBEON</surName>
+            </individualName>
+            <organizationName>CORIEAULYS - CHAMBEON</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>CORIEAULYS - CHAMBEON</surName>
+            </individualName>
+            <organizationName>CORIEAULYS - CHAMBEON</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Projet d&apos;extension du parc éolien de Saint-Nicolas-des-Biefs</title>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>ABO WIND SARL</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>ABO WIND SARL</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>CPENR DE SAINT-NICOLAS-DES-BIEFS NORD</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>CPENR DE SAINT-NICOLAS-DES-BIEFS NORD</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Le projet consiste en l&apos;extension d&apos;un parc éolien dans le département de l&apos;Allier (03), sur la commune de Saint-Nicolas-des-Biefs. Ce parc s&apos;inscrit au sein et en prolongation du parc éolien de Saint-Nicolas-des-Biefs et consiste en :
+
+- l&apos;implantation sur fondation de 3 éoliennes
+
+- un réseau de voies d&apos;exploitation et de plateformes de grutage permettant l&apos;accès aux engins de chantier et de maintenance depuis la voirie forestière
+
+- la création d&apos;un poste de livraison et d&apos;un réseau électrique souterrain inter-éolien
+
+Les éoliennes retenues sont de type Vestas V117 d&apos;une hauteur totale de 150m, d&apos;un diamètre de rotor de 117m et d&apos;une puissance unitaire de 4.2 MW.
+
+Ce projet répond à l&apos;enjeu du développement des énergies renouvelables sur le territoire dans le cadre d&apos;impacts appréhendés et maitrisés.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:27Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2021). Projet d&apos;extension du parc éolien de Saint-Nicolas-des-Biefs - Flore - Inventaire non protocolé. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/6vyudr accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0f061eff-6854-4bb3-abe2-acb184ea3ab7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3yzuuc</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=trom_bryophytes</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=trom_bryophytes</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=trom_bryophytes</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=trom_b</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=trom_b</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource.do?r=trom_b</alternateIdentifier>
+        <alternateIdentifier>0f061eff-6854-4bb3-abe2-acb184ea3ab7</alternateIdentifier>
+        <title>Bryophyte herbarium, The Arctic University Museum of Norway (TROM)</title>
+        <creator>
+            <individualName>
+                <givenName>Heini</givenName>
+                <surName>Rämä</surName>
+            </individualName>
+            <organizationName>UiT The Arctic University of Norway</organizationName>
+            <positionName>Head Engineer/Collector Manager</positionName>
+            <address>
+                <deliveryPoint>Postboks 6050</deliveryPoint>
+                <city>Tromsø</city>
+                <administrativeArea>Troms</administrativeArea>
+                <postalCode>NO-9037</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+4745068244</phone>
+            <electronicMailAddress>heini.e.rama@uit.no</electronicMailAddress>
+            <onlineUrl>https://en.uit.no/ansatte/person?p_document_id=332968</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-9462-5172</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Heini</givenName>
+                <surName>Rämä</surName>
+            </individualName>
+            <organizationName>UiT The Arctic University of Norway</organizationName>
+            <positionName>Head Engineer/Collector Manager</positionName>
+            <address>
+                <deliveryPoint>Postboks 6050</deliveryPoint>
+                <city>Tromsø</city>
+                <administrativeArea>Troms</administrativeArea>
+                <postalCode>NO-9037</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+4745068244</phone>
+            <electronicMailAddress>heini.e.rama@uit.no</electronicMailAddress>
+            <onlineUrl>https://en.uit.no/ansatte/person?p_document_id=332968</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-9462-5172</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <organizationName>GBIF Norway</organizationName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>helpdesk@gbif.no</electronicMailAddress>
+            <onlineUrl>https://www.gbif.no</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2026-05-18
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The bryophyte herbarium at TROM, The Arctic University Museum of Norway (former Tromsø Museum) contains c. 23 600 specimens.</para><para>About 80% of the material is from mainland Norway and Svalbard, remaining parts mostly from Sweden and Finland. Significant collections of the large genus Sphagnum are from the Trøndelag area, northern Norway and Svalbard. The Sphagnum material has recently been revised.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>musit-norway</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=trom_bryophytes</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>N/A</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Heini</givenName>
+                <surName>Rämä</surName>
+            </individualName>
+            <organizationName>UiT The Arctic University of Norway</organizationName>
+            <positionName>Head Engineer/Collector Manager</positionName>
+            <address>
+                <deliveryPoint>Postboks 6050</deliveryPoint>
+                <city>Tromsø</city>
+                <administrativeArea>Troms</administrativeArea>
+                <postalCode>NO-9037</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+4745068244</phone>
+            <electronicMailAddress>heini.e.rama@uit.no</electronicMailAddress>
+            <onlineUrl>https://en.uit.no/ansatte/person?p_document_id=332968</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-9462-5172</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:12Z</dateStamp>
+                <citation>Rämä H (2026). Bryophyte herbarium, The Arctic University Museum of Norway (TROM). Version 1.2291. UiT The Arctic University of Norway. Occurrence dataset https://doi.org/10.15468/3yzuuc accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>http://ipt.gbif.no/logo.do?r=trom_bryophytes</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

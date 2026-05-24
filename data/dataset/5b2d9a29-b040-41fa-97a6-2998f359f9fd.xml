@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5b2d9a29-b040-41fa-97a6-2998f359f9fd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/7yz8f2</alternateIdentifier>
+        <alternateIdentifier>5b2d9a29-b040-41fa-97a6-2998f359f9fd</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2732</alternateIdentifier>
+        <alternateIdentifier>b9f1a323-10c9-3ca5-92f0-2d715cf7b2aa</alternateIdentifier>
+        <title>Vegetation surveys on Peatland Action sites across Scotland in 2014, 2015 and 2021</title>
+        <creator>
+            <organizationName>NatureScot</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>NatureScot</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-16
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>These data were collected to assess the vegetation response to Peatland Action restoration activities across Scotland; at 16 sites during 2014-2015 and 13 (of these) sites in 2021. A total of 1,002 quadrats (mostly 2x2 m) were surveyed during 2014-2015 and 873 in 2021. Percentage cover of all living vascular and non-vascular species was estimated. The layers of vegetation were taken into account ñ such as the cover of non-vascular plants (bryophytes and lichens) and layers of vascular plants above this. This means that the percentage cover of vegetation could add up to more than 100%. Where factors such as bare ground are present, the vegetation coverage may also add up to less than 100% of the quadrat. Sample areas were either pre-restoration areas, post-restoration areas, unrestored control areas or unmodified reference areas.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr2732</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr2732/dr2732.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-08-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-10-08
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>These data were collected to assess the vegetation response to peatland restoration at Peatland Action sites across Scotland.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>McLeod</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>Colin.McLeod@nature.scot</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The general approach to the surveys, data management and processing, and statistical analysis, together with specific details of how the survey was carried out at each site including site-specific constraints, are outlined in the supporting reports (Haycock &amp; Cashon 2022; Ross &amp; Blackshaw 2022).</para>
+                </description>
+            </methodStep>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:19Z</dateStamp>
+                <citation>NatureScot (2025). Vegetation surveys on Peatland Action sites across Scotland in 2014, 2015 and 2021. Occurrence dataset https://doi.org/10.15468/7yz8f2 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatureScot+Master+colour+RGB+JPEG.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

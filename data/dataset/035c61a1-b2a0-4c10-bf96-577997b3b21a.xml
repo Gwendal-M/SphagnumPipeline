@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="035c61a1-b2a0-4c10-bf96-577997b3b21a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15470/ynlzi9</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=bcn-bryo</alternateIdentifier>
+        <alternateIdentifier>035c61a1-b2a0-4c10-bf96-577997b3b21a</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=bcn-bryo</alternateIdentifier>
+        <shortName>BCN - Bryophyta</shortName>
+        <title>Col·lecció de Briòfits de l&apos;herbari de la Universitat de Barcelona</title>
+        <creator>
+            <individualName>
+                <givenName>Roser</givenName>
+                <surName>Guàrdia</surName>
+            </individualName>
+            <organizationName>CeDocBiV Universitat de Barcelona</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>C/ Baldiri Reixac, 2</deliveryPoint>
+                <city>Barcelona</city>
+                <administrativeArea>Barcelona</administrativeArea>
+                <postalCode>08028</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>34 934037019</phone>
+            <electronicMailAddress>cedocbiv@ub.edu</electronicMailAddress>
+            <onlineUrl>http://crai.ub.edu/ca/coneix-el-crai/CeDocBiV</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-5304-968X</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Roser</givenName>
+                <surName>Guardia</surName>
+            </individualName>
+            <organizationName>CeDocBiV</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>C/ Baldiri Reixac, 2</deliveryPoint>
+                <city>Barcelona</city>
+                <administrativeArea>Barcelona</administrativeArea>
+                <postalCode>08028</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>34 934037019</phone>
+            <electronicMailAddress>cedocbiv@ub.edu</electronicMailAddress>
+            <onlineUrl>http://crai.ub.edu/en/about-crai/CeDocBiV</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-5304-968X</userId>
+        </metadataProvider>
+        <pubDate>
+                2025-10-16
+        </pubDate>
+        <language>CATALAN</language>
+        <abstract>
+            In the BCN herbarium about 64,000 bryophyte specimens are preserved, most of them from the Catalan Countries and especially from the Pyrenees.
+Part of the bryophyte herbarium comes from the old Faculty of Science (BCC) herbarium. In 2017, the bryophyte herbarium of the Autonomous University of Barcelona (BCB) was incorporated through a transfer agreement signed with this university. It contains about 60,000 specimens and is the most important bryophyte herbarium in the Iberian Peninsula. Includes the collections of Dra. Creu Casas and their scientific team. In all cases, the herbarium numbers have been preserved and are now cited as part of the BCN-Bryo collection, indicating in parentheses their original membership.
+        </abstract>
+        <keywordSet>
+            <keyword>mediterranean</keyword>
+            <keyword>bryophyta</keyword>
+            <keyword>Pyrenees</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://cedocbiv.ub.edu/herbaribcn/briofits</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.es/archive.do?r=bcn-bryo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Catalonia, mainly Pyrenees</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-0.066</westBoundingCoordinate>
+                    <eastBoundingCoordinate>3.362</eastBoundingCoordinate>
+                    <northBoundingCoordinate>43.229</northBoundingCoordinate>
+                    <southBoundingCoordinate>42.082</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1870-08-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2025-10-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Musgos y Hepàticas. Importante representación de los géneros Sphagnum, Campylium, Philonotis, Polytrichum</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sphagnum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Campylium</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Philonotis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Polytrichum</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>La colección de Briófitos del herbario BCN integra las muestras procedentes de la investigación que llevan a cabo los investigadores de las Facultades de Biología y de Farmacia y Ciencias de la Alimentación de la Universidad de Barcelona y, desde el año 2017, el herbario de briófitos de la Universidad Autónoma de Barcelona (BCB-Bryo). Los datos están organizados en dos juegos de datos independientes: BCN-Brophyta y BCB-bryo</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Roser</givenName>
+                <surName>Guardia</surName>
+            </individualName>
+            <organizationName>CeDocBiV Universitat de Barcelona</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>C/ Baldiri Reixac, 2</deliveryPoint>
+                <city>Barcelona</city>
+                <administrativeArea>Barcelona</administrativeArea>
+                <postalCode>08028</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>34 934037019</phone>
+            <electronicMailAddress>cedocbiv@ub.edu</electronicMailAddress>
+            <onlineUrl>http://www.ub.edu/cedocbiv/en/herbaribcn/briofits</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:15Z</dateStamp>
+                <citation identifier="https://doi.org/10.15470/ynlzi9">Guàrdia R, Guardia R (2025). Col·lecció de Briòfits de l&apos;herbari de la Universitat de Barcelona. Version 1.6. Herbario BCN (CeDocBiV-Univ. de Barcelona). Occurrence dataset https://doi.org/10.15470/ynlzi9 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://ipt.gbif.es/logo.do?r=bcn-bryo</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

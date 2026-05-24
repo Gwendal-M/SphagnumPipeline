@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a76f8527-23e8-4ba5-bdff-f9821bdac187"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3rvm93</alternateIdentifier>
+        <alternateIdentifier>a76f8527-23e8-4ba5-bdff-f9821bdac187</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversity.be/resource?r=bryo</alternateIdentifier>
+        <title>BIOGEOnet : Bryophytes occurrences in Wallonia</title>
+        <creator>
+            <individualName>
+                <givenName>André</givenName>
+                <surName>Sotiaux</surName>
+            </individualName>
+            <address>
+                <city>Waterloo</city>
+                <country>BELGIUM</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alain</givenName>
+                <surName>Vanderpoorten</surName>
+            </individualName>
+            <organizationName>University of Liège</organizationName>
+            <positionName>Research director, FRS-FNRS</positionName>
+            <address>
+                <postalCode>B4000</postalCode>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>a.vanderpoorten@uliege.be</electronicMailAddress>
+            <onlineUrl>https://www.uliege.be/cms/c_9054334/en/directory?uid=u195022</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Claude</givenName>
+                <surName>Dopagne</surName>
+            </individualName>
+            <organizationName>Natagriwal asbl</organizationName>
+            <positionName>Scientific officer</positionName>
+            <address>
+                <city>Liège</city>
+                <postalCode>B4000</postalCode>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>cdopagne@natagriwal.be</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Claude</givenName>
+                <surName>Dopagne</surName>
+            </individualName>
+            <organizationName>Natagriwal asbl</organizationName>
+            <positionName>Scientific officer</positionName>
+            <address>
+                <city>Liège</city>
+                <administrativeArea>Liège</administrativeArea>
+                <postalCode>4000</postalCode>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>cdopagne@natagriwal.be</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alain</givenName>
+                <surName>Vanderpoorten</surName>
+            </individualName>
+            <organizationName>University of Liège</organizationName>
+            <positionName>Research director, FRS-FNRS</positionName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>a.vanderpoorten@uliege.be</electronicMailAddress>
+            <onlineUrl>https://www.uliege.be/cms/c_9054334/en/directory?uid=u195022</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>André</givenName>
+                <surName>Sotiaux</surName>
+            </individualName>
+            <address>
+                <city>Waterloo</city>
+                <country>BELGIUM</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>&amp;#34;BIOGEOnet: Bryophytes occurrences in Wallonia&amp;#34; is a dataset that includes data on the distribution of mosses, anthoceroses and liverworts mapped in the IFBL grid system (4km x 4Km).</para><para>These data are the result of a colossal prospecting work initiated in the 1980s by André Sotiaux with the aim of establishing a precise picture of the distribution of the 720 species of bryophytes in the Walloon region.</para><para>The data are centralised in the BIOGEOnet database, which continues to be fed by new observations.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Atlas</keyword>
+            <keyword>Belgium</keyword>
+            <keyword>Wallonia</keyword>
+            <keyword>Mosses</keyword>
+            <keyword>Anthoceroses</keyword>
+            <keyword>Distribution</keyword>
+            <keyword>Liverworts</keyword>
+            <keyword>Regional Inventory</keyword>
+            <keyword>Bryophytes</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.biogeonet.ulg.ac.be/direct.php?page=206&amp;sel=53</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversity.be/archive.do?r=bryo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>An overwhelming majority of the data comes from Wallonia. However, the dataset alsoincludes data from neighbouring regions and countries (Flanders, Luxembourg, France, etc.).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>2.535</westBoundingCoordinate>
+                    <eastBoundingCoordinate>6.599</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.475</northBoundingCoordinate>
+                    <southBoundingCoordinate>49.489</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1979-10-07
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-08-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Bryophyta S.L. The dataset covers 726 taxa (695 species, 2 genera, 29 subspecies).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                    <commonName>Mosses s.s</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Hepaticophyta</taxonRankValue>
+                    <commonName>Liverworts</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                    <commonName>Hornworts</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Claude</givenName>
+                <surName>Dopagne</surName>
+            </individualName>
+            <organizationName>Natagriwal asbl</organizationName>
+            <positionName>Scientific officer</positionName>
+            <address>
+                <administrativeArea>Liège</administrativeArea>
+                <postalCode>B4000</postalCode>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>cdopagne@natagriwal.be</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Alain</givenName>
+                <surName>Vanderpoorten</surName>
+            </individualName>
+            <organizationName>University of Liège</organizationName>
+            <positionName>Research director, FRS-FNRS</positionName>
+            <address>
+                <city>Liège</city>
+                <administrativeArea>Liège</administrativeArea>
+                <postalCode>B4000</postalCode>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>a.vanderpoorten@uliege.be</electronicMailAddress>
+            <onlineUrl>https://www.uliege.be/cms/c_9054334/en/directory?uid=u195022</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Field prospection in different contexts.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aggregation into the BIOGEOnet database.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Extraction to DarwinCore.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The data were mainly collected in Wallonia, from the early 1980s to the present day. Most of the data were collected by prospecting 4kmx4km IFBL squares with the aim of establishing a detailed regional inventory. The dataset also includes opportunistic observations and other records collected in more specific contexts, included BIOGEOnet database.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>IFBL prospecting is designed to establish an exhaustive picture of the square diversity of Bryophytes. The squares are not surveyed in their entirety and efforts are concentrated on the different types of habitats that are present. Each square has been surveyed for at least one full day, and this effort is adapted according to the difficulty of access and the species richness encountered.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Samples have been systematically collected for species that are difficult to identify or rare, and are kept in the herbarium of A.Sotiaux and in the herbarium of the University of Liège.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:39Z</dateStamp>
+                <citation>Sotiaux A, Vanderpoorten A, Dopagne C (2024). BIOGEOnet : Bryophytes occurrences in Wallonia. Version 1.1. University of Liège. Occurrence dataset https://doi.org/10.15468/3rvm93 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Sotiaux, A. et Vanderpoorten, A. 2015. Atlas des Bryophytes (mousses, hépatiques, anthocérotes) de Wallonie (1980-2014). Publication du Département de l&apos;Etude du Milieu Naturel et Agricole (SPW-DGARNE), Série &lt;&lt; Faune - Flore - Habitats &gt;&gt; n°9, Gembloux, Tome I,384pp, et Tome II, 680pp.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

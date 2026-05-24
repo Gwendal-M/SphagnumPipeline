@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="646daa81-9b48-445a-9eba-56f73192f647"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/4u2652</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=podesinniafloraandfaun1</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/eca/resource?r=podesinniafloraandfaun1</alternateIdentifier>
+        <alternateIdentifier>646daa81-9b48-445a-9eba-56f73192f647</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=podesinniafloraandfaun1</alternateIdentifier>
+        <title>Species of plants, fungi and animals from separate territories of Podesinnia</title>
+        <creator>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Danko</surName>
+            </individualName>
+            <positionName>naturalist</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>annadanko978@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Petro</givenName>
+                <surName>Buzunko</surName>
+            </individualName>
+            <organizationName>T.H. Shevchenko National University &quot;Chernihiv Сollegium&quot;</organizationName>
+            <positionName>originator</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Danko</surName>
+            </individualName>
+            <positionName>naturalist</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>annadanko978@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Marushchak</surName>
+            </individualName>
+            <organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName>
+            <positionName>junior researcher</positionName>
+            <address>
+                <deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint>
+                <city>Kyiv</city>
+                <postalCode>01030</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380964882670</phone>
+            <electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-29
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The dataset includes finds of about 600 species of plants and animals within the valleys of the Desna River and its tributaries.
+        </abstract>
+        <keywordSet>
+            <keyword>Fungi</keyword>
+            <keyword>Animalia</keyword>
+            <keyword>Chernihiv region</keyword>
+            <keyword>fauna</keyword>
+            <keyword>Plantae</keyword>
+            <keyword>Desna</keyword>
+            <keyword>flora</keyword>
+            <keyword>rive valley</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Podesinnia</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=podesinniafloraandfaun1</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Geography of findings includes the valleys of the Desna River and its tributaries (Snov, Revna, Bilous, Strizhen and Rvanets rivers) within the Chernihiv region of Ukraine.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>30.487</westBoundingCoordinate>
+                    <eastBoundingCoordinate>33.486</eastBoundingCoordinate>
+                    <northBoundingCoordinate>52.389</northBoundingCoordinate>
+                    <southBoundingCoordinate>50.331</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-05-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-07-13
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The dataset includes findings of Plantae (Thachaeophyta, Marchantiophyta, Bryophyta, Lycopodiophyta, Equisetopsida, Polypodiophyta, Gymnospermae, Angiospermae etc.), Fungi and Animalia (Mollusca, Arthropoda, Chordata etc.).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mollusca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Trachaeophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Danko</surName>
+            </individualName>
+            <positionName>naturalist</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>annadanko978@gmail.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The species registrations were georeferenced using a GPS navigator.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The species were found visually and photographed if possible.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The research was conducted in May 2014 - July 2021.
+Lukash O.V. took part in determining some species. Some of the expeditions were supported by the NGO &quot;Ukrainian Nature Conservation Group&quot;.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>We used reconnaissance and detailed route methods to survey the section of the Desna river valley from the village of Sverdlovka to the village of Rozlioty of Korop district of Chernihiv region and from the village of Sokolivka to the city of Chernihiv (including inner part of the city), as well as - the valleys of its tributaries - Snov (from the village of Tymonovychi, Semenivsky district of Chernihiv region to the village of Karpovychi of the same district and from the village of Elino Snovsky district to the village, Snovsk of the same district), as well as its tributaries - Revna (from the village of Arkhypivka to the village of Orlykivka, Semenivsky district), Rvanets (from the village of Mashove to the village of Zhadove, Semenivsky district), Bilous and Stryzhnia - within the city of Chernihiv.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The authors are fully responsible for the quality of the data provided within the published dataset.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:24Z</dateStamp>
+                <citation>Danko A, Buzunko P (2022). Species of plants, fungi and animals from separate territories of Podesinnia. Version 1.6. Ukrainian Nature Conservation Group (NGO). Occurrence dataset https://doi.org/10.15468/4u2652 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

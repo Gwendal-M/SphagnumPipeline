@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c566cd39-824e-4139-8b98-55564dadca96"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/rouw0w</alternateIdentifier>
+        <alternateIdentifier>https://www.ebi.ac.uk/metagenomics/studies/MGYS00002438</alternateIdentifier>
+        <title>Abundance, diversity and distribution of Legionellales in wet environments in Sweden</title>
+        <creator>
+            <organizationName>UPPSALA UNIVERSITY</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>UPPSALA UNIVERSITY</organizationName>
+        </metadataProvider>
+        <pubDate>
+                2018-06-21
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            In this study, 57 samples from water, soil and sediments were collected in different wet environments in Uppland, Sweden. 45 of them were taken from natural reserves, and 12 from a silver mine. The main objective was to study the abundance, diversity and distribution of members of the gammaproteobacterial order Legionellales.
+        </abstract>
+        <keywordSet>
+            <keyword>Metagenomics</keyword>
+            <keyword>environmental genomics</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00002438</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://hosted-datasets.gbif.org/mgnify/MGYS00002438.zip</url>
+            </online>
+        </distribution>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <organizationName>UPPSALA UNIVERSITY</organizationName>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/4.1</para>
+                </description>
+            </methodStep>
+        </methods>
+
+            <project >
+                <title>Abundance, diversity and distribution of Legionellales in wet environments in Sweden</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:29Z</dateStamp>
+                <citation>MGnify (2018). Abundance, diversity and distribution of Legionellales in wet environments in Sweden. Sampling event dataset https://doi.org/10.15468/rouw0w accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="DOI:10.1093/femsec/fiy185">Graells T, Ishak H, Larsson M, Guy L. 2018. The all-intracellular order Legionellales is unexpectedly diverse, globally distributed and lowly abundant. FEMS Microbiol Ecol vol. 94</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

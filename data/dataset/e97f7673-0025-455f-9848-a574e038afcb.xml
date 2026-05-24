@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e97f7673-0025-455f-9848-a574e038afcb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/9wdxdf</alternateIdentifier>
+        <alternateIdentifier>e97f7673-0025-455f-9848-a574e038afcb</alternateIdentifier>
+        <shortName>Flore - Le Haillan</shortName>
+        <title>Parc d&apos;activité mixte - Flore - Le Haillan</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2020-02-27
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Données naturalistes obtenues lors des inventaires dans le cadre d&amp;#39;une étude d&amp;#39;impact. Ces données sont issues des bureaux d&amp;#39;études Biotope et ECR environnement.
+        </abstract>
+        <keywordSet>
+            <keyword>Dépôt légal de données brutes de biodiversité</keyword>
+            <keyword>DEPOBIO</keyword>
+            <keyword>le haillan</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventaire pour étude impact</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/9E5F9AD0-915D-4228-E053-2614A8C02849</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-0.80115</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-0.67053</eastBoundingCoordinate>
+                    <northBoundingCoordinate>44.90763</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.81509</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-05-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-05-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Aquifoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cetartiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Eulipotyphla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Geraniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lagomorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Saxifragales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Urodela</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>Jean-Baptiste Rousseau</surName>
+            </individualName>
+            <organizationName>ECR ENVIRONNEMENT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>BIOTOPE</surName>
+            </individualName>
+            <organizationName>BIOTOPE</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>Jean-Baptiste Rousseau</surName>
+            </individualName>
+            <organizationName>ECR ENVIRONNEMENT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Parc d&apos;activité mixte</title>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>ALESRAA LE HAILLAN</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>None</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>ALESRAA LE HAILLAN</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>None</surName>
+                    </individualName>
+                    <organizationName>None</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Le projet situé le long de la rue Toussaint Catros, prévoit l’aménagement de 59 648 m² de surface de bâtiments dont 53 544 m² d’activité et 6 104 m² m² de de bureaux.
+
+Le projet se développe sur la partie Nord Est de la parcelle, en lieu et place des anciens bâtiments et parkings historiquement « Thalès ». La moitié arrière de la Parcelle est largement boisée et le fond de parcelle comprend l’arboretum de Catros, datant de 1800 environ. Le terrain périmétrique au projet présente un écrin végétal composé d’arbres à grands développements, qui seront conservés en grande partie. 
+
+
+
+Le projet est composé de 11 bâtiments dont 7 bâtiments d’activité et 4 bâtiments à dominante de bureaux.
+
+
+
+Les bâtiments à dominante de bureaux, nommés Lots 1A, 1B, 1C, 1D, sont implantés à l’est de la parcelle, le long de la rue Toussaint Catros, et développent les surfaces suivantes :
+
+
+
+•	Lot 1A : 2499 m² SDP ;
+
+•	Lot 1B : 2342 m² SDP ;
+
+•	Lot 1C : 1474 m² SDP ;
+
+•	Lot 1D : 2024 m² SDP.
+
+
+
+Les bâtiments d’activité de petite taille sont destinés à l’artisan ou la petite entreprise, et ceux de taille moyenne adapté à l’entreprise de taille moyenne. L’ensemble des bâtiments sont modulables en termes d’aménagements intérieurs afin de s’adapter à l’éventail des demandes. Ces bâtiments développent les surfaces suivantes :
+
+Les bâtiments d’activité sont découpés de la façon suivante :
+
+•	Lot 02 : 10 199 m² SDP, implanté au sud-est du terrain du projet faisant face à la voie interne sud du parc ;
+
+•	Lot 03 : 10 779 m² SDP, implanté au sud du terrain du projet faisant face à la voie interne sud du parc ;
+
+•	Lot 04 : 5 638 m² SDP et 823 m² de mezzanine, implanté au centre du terrain du projet, au nord du lot 02 ;
+
+•	Lot 05 : 4 935 m² SDP et 610 m² de mezzanine. Il est implanté au centre du terrain du projet, au nord du lot 03 ;
+
+•	Lot 06 : 9 017 m² SDP et 1325 m² de mezzanine. Il est implanté au nord du terrain du projet, au nord du lot 04 et 05 ;
+
+•	Lot 07 : 10 027 m² SDP. Il est implanté au sud-ouest du terrain.
+
+
+
+
+
+Des bâtiments annexes complètent le programme : 
+
+-	4 locaux à vélos clos et couverts
+
+-	11 espaces déchets clos en périphérie. Chaque local sera situé en bordure d’un bâtiment auquel il sera alloué.
+
+
+
+La surface de plancher totale est de 62.406 m².
+
+
+
+A l’ouest et au nord-ouest de la parcelle se situent des zone boisées, végétales, humides, qui présentent des enjeux environnementaux importants et qui seront conservées dans le cadre du projet. A ce titre le projet fait l’objet de différentes demandes.
+
+Le projet est soumis à :
+
+•	Loi sur l’eau et les milieux aquatiques ;
+
+•	Dérogation « espèces et habitats protégés » ;
+
+•	Autorisation de défrichement ;
+
+•	Évaluation environnementale.
+
+
+
+Le permis de construire est soumis à étude d’impact, au titre de la rubrique 39.b. de l’annexe R122-2 du code de l’environnement modifié par décret n°2018-435 du 4 juin 2018 :
+
+-	Opérations dont le terrain d’assiette est supérieur ou égal à 10 hectares et l’emprise au sol supérieure ou égal à 40.000m².</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:19Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2020). Parc d&apos;activité mixte - Flore - Le Haillan. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/9wdxdf accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

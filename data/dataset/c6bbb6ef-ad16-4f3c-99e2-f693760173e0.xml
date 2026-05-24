@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c6bbb6ef-ad16-4f3c-99e2-f693760173e0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/dlblir</alternateIdentifier>
+        <alternateIdentifier>http://gbif.keskkonnainfo.ee/resource?r=Data_of_Estonian_Nature_Observations_Database</alternateIdentifier>
+        <alternateIdentifier>http://gbif.keskkonnainfo.ee/resource.do?r=Data_of_Estonian_Nature_Observations_Database</alternateIdentifier>
+        <alternateIdentifier>c6bbb6ef-ad16-4f3c-99e2-f693760173e0</alternateIdentifier>
+        <alternateIdentifier>14570</alternateIdentifier>
+        <title>Estonian Nature Observations Database</title>
+        <creator>
+            <individualName>
+                <givenName>Reigo</givenName>
+                <surName>Roasto</surName>
+            </individualName>
+            <organizationName>Estonian Environment Agency</organizationName>
+            <positionName>Specialist of Nature Conservation</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Reigo</givenName>
+                <surName>Roasto</surName>
+            </individualName>
+            <electronicMailAddress>reigo.roasto@envir.ee</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2019-12-31
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Observations database for reporting of nature observations. Main observed species groups are butterflies, birds, vascular plants and mammals. These groups include 88% of observations.
+        </abstract>
+        <keywordSet>
+            <keyword>Nature</keyword>
+            <keyword>Database</keyword>
+            <keyword>Observations</keyword>
+            <keyword>Species</keyword>
+            <keywordThesaurus>Observations</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://loodusvaatlused.eelis.ee</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://gbif.keskkonnainfo.ee/archive.do?r=Data_of_Estonian_Nature_Observations_Database</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Estonia</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>20</westBoundingCoordinate>
+                    <eastBoundingCoordinate>29</eastBoundingCoordinate>
+                    <northBoundingCoordinate>60</northBoundingCoordinate>
+                    <southBoundingCoordinate>57</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue></taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Estonian Nature Observations Database is for everybody to insert own observations of species in Estonia. Nature Observations Database helps to identify species distribution, gives additional information for nature conservation and is useful tool in nature education.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Silja</givenName>
+                <surName>Kana</surName>
+            </individualName>
+            <organizationName>Estonian Naturalists Society</organizationName>
+            <address>
+                <deliveryPoint>Struve 2</deliveryPoint>
+                <city>Tartu</city>
+            </address>
+            <electronicMailAddress>silja.kana@gmail.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Aleksander</givenName>
+                <surName>Pototski</surName>
+            </individualName>
+            <organizationName>Estonian Lepidopterologists&apos; Society</organizationName>
+            <address>
+                <deliveryPoint>Liimi 1</deliveryPoint>
+                <city>Tallinn</city>
+            </address>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Toomas</givenName>
+                <surName>Tammaru</surName>
+            </individualName>
+            <organizationName>University of Tartu</organizationName>
+            <address>
+                <deliveryPoint>Ülikooli 18</deliveryPoint>
+                <city>Tartu</city>
+            </address>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Reigo</givenName>
+                <surName>Roasto</surName>
+            </individualName>
+            <organizationName>Estonian Environment Agency</organizationName>
+            <positionName>Specialist of Nature Conservation</positionName>
+            <address>
+                <deliveryPoint>Mustamäe tee 33</deliveryPoint>
+                <city>Tallinn</city>
+                <administrativeArea>Harju</administrativeArea>
+                <country>ESTONIA</country>
+            </address>
+        </contact>
+
+            <project >
+                <title>Estonian Nature Observations Database</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Reigo</givenName>
+                    <surName>Roasto</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Estonian state budget and Estonian Environmental Invsetment Centre.</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:18Z</dateStamp>
+                <citation identifier="Estonian Nature Observations Database">Roasto R (2019). Estonian Nature Observations Database. Version 87.15. Estonian Environment Information Centre. Occurrence dataset https://doi.org/10.15468/dlblir accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>http://194.126.105.125:8080/ipt/logo.do?r=reigo_test</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

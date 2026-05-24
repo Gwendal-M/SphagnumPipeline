@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f22e5985-9268-4a4e-9038-200f4d0a1dc7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/vnths6</alternateIdentifier>
+        <alternateIdentifier>f22e5985-9268-4a4e-9038-200f4d0a1dc7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2692</alternateIdentifier>
+        <alternateIdentifier>a9240b36-aa10-3fc2-a330-5936e8a66bb0</alternateIdentifier>
+        <title>Site Condition Monitoring of river habitats, 2017: LEAFPACS aquatic plant survey</title>
+        <creator>
+            <organizationName>NatureScot</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>NatureScot</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-16
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>For the River Dee five targets passed (indicators of local distinctiveness, plant community, large woody debris, in-channel structures and siltation) and five targets failed (channel planform, habitat modification, bank vegetation naturalness, riparian zone naturalness and alien species). 
+For the River Findhorn five targets passed (indicators of local distinctiveness, plant community, channel planform, in-channel structures and siltation), four targets were a borderline pass (habitat modification, bank vegetation naturalness, riparian zone naturalness and large woody debris) and one target failed (alien species). 
+For the River Laxford eight targets passed (indicators of local distinctiveness, plant community, channel planform, bank vegetation naturalness, riparian zone naturalness, large woody debris, siltation and alien species), one target failed (habitat modification) and one target was a borderline fail (in-channel structures). 
+For the Lunan Burn three targets passed (indicators of local distinctiveness, plant community and siltation), three targets were a borderline pass (channel planform, bank vegetation naturalness and large woody debris) and four targets failed (habitat modification, riparian zone naturalness, in-channel structures and alien species). 
+For the River Spey ñ Insh Marshes nine targets passed (indicators of local distinctiveness, bank vegetation naturalness, riparian zone naturalness, in-channel structures, channel planform, habitat modification, large woody debris, siltation and alien species), and one target failed (plant community). 
+For the River Traligill, all targets for the ten attributes were met and there was very little change in the condition of the river since the first monitoring cycle in 2003.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr2692</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr2692/dr2692.zip</url>
+            </online>
+        </distribution>
+        <purpose><para>Site Condition Monitoring is a six-year rolling programme of assessment, against quality standards, of the state of notified features on designated sites. The River Spey is a designated feature of the River Spey ñ Insh Marshes Ramsar site, named as a ëtrophic range river/streamí feature of interest. The other rivers are all features of Sites of Special Scientific Interest (SSSIs), with the Lunan Burn listed as a ëmesotrophic river/streamí and the remaining four as ëoligotrophic rivers/streamsí. All six rivers were first assessed in 2003 so this project was the second time that SCM has been carried out.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>McLeod</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>Colin.McLeod@nature.scot</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The monitoring was based upon a common standard method that is used across the four UK country conservation agencies (JNCC, 2016). Field surveys, data analysis and assessments were therefore set against a standard set of attributes, targets and reporting procedures. Aquatic macrophytes were surveyed using the standard LEAFPACS2 methodology (WFD UKTAG, 2014 www.wfduk.org/resources/rivers-macrophytes).</para>
+                </description>
+            </methodStep>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:25Z</dateStamp>
+                <citation>NatureScot (2025). Site Condition Monitoring of river habitats, 2017: LEAFPACS aquatic plant survey. Occurrence dataset https://doi.org/10.15468/vnths6 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatureScot+Master+colour+RGB+JPEG.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

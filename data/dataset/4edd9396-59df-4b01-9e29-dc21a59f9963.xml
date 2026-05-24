@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="4edd9396-59df-4b01-9e29-dc21a59f9963"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.5886/5rr9fbb6</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/ipt/resource?r=ubc-bryophytes</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=ubc-bryophytes</alternateIdentifier>
+        <alternateIdentifier>10.15468/tjjnfh</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource.do?r=ubc-bryophytes</alternateIdentifier>
+        <alternateIdentifier>4edd9396-59df-4b01-9e29-dc21a59f9963</alternateIdentifier>
+        <title>University of British Columbia Herbarium (UBC) - Bryophytes Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Karen</givenName>
+                <surName>Golinski</surName>
+            </individualName>
+            <organizationName>University of British Columbia Herbarium</organizationName>
+            <positionName>Collections Curator, Bryophyte, Lichen, and Fungi Collections</positionName>
+            <address>
+                <deliveryPoint>2212 Main Mall</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>karen.golinski@ubc.ca</electronicMailAddress>
+            <onlineUrl>https://beatymuseum.ubc.ca/research-2/collections/herbarium/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4205-7481</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mark</givenName>
+                <surName>Pitblado</surName>
+            </individualName>
+            <organizationName>Beaty Biodiversity Museum</organizationName>
+            <positionName>Collections Curator, Biodiversity Informatics</positionName>
+            <address>
+                <deliveryPoint>2212 Main Mall</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>mark.pitblado@ubc.ca</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8786-5167</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mark</givenName>
+                <surName>Pitblado</surName>
+            </individualName>
+            <organizationName>Beaty Biodiversity Museum</organizationName>
+            <positionName>Collections Curator, Biodiversity Informatics</positionName>
+            <address>
+                <deliveryPoint>2212 Main Mall</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>mark.pitblado@ubc.ca</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8786-5167</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Jeannette</givenName>
+                <surName>Whitton</surName>
+            </individualName>
+            <organizationName>University of British Columbia Herbarium</organizationName>
+            <positionName>Herbarium Director</positionName>
+            <address>
+                <deliveryPoint>6270 University Boulevard</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>jeannette.whitton@botany.ubc.ca</electronicMailAddress>
+            <onlineUrl>http://www.botany.ubc.ca/people/jwhitton.html</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-1609-5203</userId>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Karen</givenName>
+                <surName>Golinski</surName>
+            </individualName>
+            <organizationName>University of British Columbia Herbarium</organizationName>
+            <positionName>Collections Curator, Bryophyte, Lichen, and Fungi Collections</positionName>
+            <address>
+                <deliveryPoint>2212 Main Mall</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>karen.golinski@ubc.ca</electronicMailAddress>
+            <onlineUrl>https://beatymuseum.ubc.ca/research-2/collections/herbarium/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4205-7481</userId>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2025-06-23
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The UBC bryophyte collection houses mosses, liverworts, and hornworts and is a tribute to the career of Dr. Wilf Schofield, who came to UBC in 1960. Professor Schofield was the first bryologist hired at a Canadian university. When he started at UBC, the collection included roughly 3,000 specimens. As a result of Dr. Schofield’s efforts and those of his students and post-doctoral researchers, the collection has grown to over 250,000 specimens, a considerable legacy. After his retirement, Dr. Schofield continued his research, up to the month before his passing in November 2008. He was such an avid collector that his specimens will continue to be processed and added to the collection for some time. - See more at: http://www.beatymuseum.ubc.ca/herbarium-bryophytes#sthash.pjK2COJK.dpuf</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Canada</keyword>
+            <keyword>Beaty Biodiversity Museum</keyword>
+            <keyword>herbarium</keyword>
+            <keyword>University of British Columbia Herbarium</keyword>
+            <keyword>UBC</keyword>
+            <keyword>British Columbia</keyword>
+            <keyword>specimens</keyword>
+            <keyword>collection</keyword>
+            <keyword>Canadensys</keyword>
+            <keyword>bryophytes</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://collections.beatymuseum.ubc.ca/dataset/4edd9396-59df-4b01-9e29-dc21a59f9963</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.canadensys.net/ipt/archive.do?r=ubc-bryophytes</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The major representation is for British Columbia and adjacent states of the United States: Alaska, Washington, Oregon, California, and Arizona, in particular. Strong representation is also true for the Atlantic provinces of Canada, largely through R.J. Belland. For Europe the collection has modest holdings; for Australia and New Zealand the collections are representative, but not extensive. The same is true for Japan, Taiwan, and the Hawaiian Islands. The lowest representation is for Africa and South America. - See more at: http://www.beatymuseum.ubc.ca/herbarium-bryophytes#sthash.pjK2COJK.dpuf</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The genera with the most comprehensive representation are: Mosses; Andreaea, Grimmia, Hygrohypnum, Hypnum, Hylocomium, Isothecium, Philonotis, Racomitrium, Rhytidiadelphus, Sanionia, Schistidium, Sphagnum, Takakia, Tetraphis, Tetrodontium and Hepatics; Anastrophyllum, Diplophyllum, Gymnomitrion, Lophozia (s.l.), Marsupella, Plagiochila, Ptilidium, Scapania.
+Type specimens : 220</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Andreaea</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Karen</givenName>
+                <surName>Golinski</surName>
+            </individualName>
+            <organizationName>University of British Columbia Herbarium</organizationName>
+            <positionName>Collections Curator, Bryophyte, Lichen, and Fungi Collections</positionName>
+            <address>
+                <deliveryPoint>2212 Main Mall</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>karen.golinski@ubc.ca</electronicMailAddress>
+            <onlineUrl>https://beatymuseum.ubc.ca/research-2/collections/herbarium/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-4205-7481</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Mark</givenName>
+                <surName>Pitblado</surName>
+            </individualName>
+            <organizationName>Beaty Biodiversity Museum</organizationName>
+            <positionName>Collections Curator, Biodiversity Informatics</positionName>
+            <address>
+                <deliveryPoint>2122 Main Mall</deliveryPoint>
+                <city>Vancouver</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V6T 1Z4</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>mark.pitblado@ubc.ca</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8786-5167</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:12Z</dateStamp>
+                <citation identifier="doi:10.5886/5rr9fbb6">Golinski K, Pitblado M (2025). University of British Columbia Herbarium (UBC) - Bryophytes Collection. Version 6.22. University of British Columbia. Occurrence dataset https://doi.org/10.5886/5rr9fbb6 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://explore.beatymuseum.ubc.ca/brand/sub/beaty-logo-sub-fungi-colour.svg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>UBC</parentCollectionIdentifier>
+                    <collectionIdentifier>UBC</collectionIdentifier>
+                    <collectionName>UBC Herbarium</collectionName>
+                </collection>
+                <formationPeriod>early 1900s - present</formationPeriod>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

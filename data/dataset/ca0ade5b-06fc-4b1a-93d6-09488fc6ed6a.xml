@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ca0ade5b-06fc-4b1a-93d6-09488fc6ed6a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/j3gndb</alternateIdentifier>
+        <alternateIdentifier>ca0ade5b-06fc-4b1a-93d6-09488fc6ed6a</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr3087</alternateIdentifier>
+        <alternateIdentifier>0276ff27-f8e4-36de-a535-17b337c43c2c</alternateIdentifier>
+        <title>Manx Biological Recording Partnership VERIFIED records loaded between 05/09/2019 and 24/01/2024</title>
+        <creator>
+            <organizationName>Manx Biological Recording Partnership</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Manx Biological Recording Partnership</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-11-05
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Records from all taxon groups and surveys, collated from MBRP partners, which have been entered into Recorder6 between 05/09/2019 and 24/01/2024. Historical data is also included. The identifications have been verified. This dataset includes verified records from MBRP partners, see https://isleofman.nbnatlas.org/about-nbn-atlas/</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr3087</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr3087/dr3087.zip</url>
+            </online>
+        </distribution>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <individualName>
+                <givenName>Jennifer</givenName>
+                <surName>Sharp</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <phone>01624844432</phone>
+            <electronicMailAddress>biologicalrecords@gov.im</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Data collected by various people, and collated by MBRP, as part of surveys, project work and casual sightings</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The records have been carefully checked and validated by MBRP staff and the identifications have been verified. Records have been output from our Recorder6 database.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:35Z</dateStamp>
+                <citation>Manx Biological Recording Partnership (2025). Manx Biological Recording Partnership VERIFIED records loaded between 05/09/2019 and 24/01/2024. Occurrence dataset https://doi.org/10.15468/j3gndb accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/ManxBiodiversitylogo.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="90c3e206-75fa-4527-9e8f-9406af78452f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/qemuyc</alternateIdentifier>
+        <alternateIdentifier>90c3e206-75fa-4527-9e8f-9406af78452f</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=gb_kostroma</alternateIdentifier>
+        <title>Forest vegetation of the northeastern part of the Kostroma region (European Russia)</title>
+        <creator>
+            <individualName>
+                <givenName>Natalya</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint>
+                <city>Pushchino</city>
+                <administrativeArea>Moscow region</administrativeArea>
+                <postalCode>142290</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Vladimir</givenName>
+                <surName>Shanin</surName>
+            </individualName>
+            <organizationName>Institute of Physicochemical and Biological Problems in Soil Science</organizationName>
+            <positionName>Senior Researcher</positionName>
+            <address>
+                <deliveryPoint>Moscow region</deliveryPoint>
+                <city>Pushchino</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Irina</givenName>
+                <surName>Grozovskaya</surName>
+            </individualName>
+            <organizationName>Institute of Physicochemical and Biological Problems in Soil Science</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <city>Pushchino</city>
+                <administrativeArea>Moscow region</administrativeArea>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Larisa</givenName>
+                <surName>Khanina</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</organizationName>
+            <positionName>Senior Researcher</positionName>
+            <address>
+                <city>Pushchino</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Natalya</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint>
+                <city>Pushchino</city>
+                <administrativeArea>Moscow region</administrativeArea>
+                <postalCode>142290</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Vladimir</givenName>
+                <surName>Shanin</surName>
+            </individualName>
+            <organizationName>Institute of Physicochemical and Biological Problems in Soil Science</organizationName>
+            <positionName>Senior Researcher</positionName>
+            <address>
+                <city>Pushchino</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Sergey</givenName>
+                <surName>Grozovsky</surName>
+            </individualName>
+            <organizationName>Pushchino state university</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <city>Pushchino</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Liliya</givenName>
+                <surName>Rocheva</surName>
+            </individualName>
+            <organizationName>Pushchino state university</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <city>Pushchino</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Koshcheeva</surName>
+            </individualName>
+            <organizationName>Moscow State University</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <city>Moscow</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Roman</givenName>
+                <surName>Bekkiev</surName>
+            </individualName>
+            <organizationName>Moscow State University</organizationName>
+            <positionName>student</positionName>
+            <address>
+                <city>Moscow</city>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Maxim</givenName>
+                <surName>Shashkov</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint>
+                <city>Pushchino</city>
+                <administrativeArea>Moscow region</administrativeArea>
+                <postalCode>142290</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>max.carabus@gmail.com</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2018-09-03
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            This data set is a part of the database “Vegetation relevés in temperate forest region of European Russia” (DOI: 10.15468/gohlb5) and includes 234 vegetation relevés sampled at temporal plots (commonly 10 × 10 m) which are located in northeast of the Kostroma Region including the Kologrivsky Les State Nature Reserve. The relevés describe hemiboreal forest communities of various stand ages and tree species composition. There are old-growth forests dominated by Picea abies, Abies sibirica and Tilia cordata as well as young and middle-aged mixed forests with Populus tremula, Betula spp. and Pinus sylvestris; after cutting areas are also presented.
+Here we provide only basic information about sample plots and associated vascular plant species occurrences because now the Darwin Core standard doesn&amp;#39;t have the terminology for storing sizes of individual trees, stand-level inventory data, and characteristics of vegetation layers. The full information is available via the European Vegetation Archive (EVA; http://euroveg.org/eva-database; EU-RU-014). Data processing was supported by a GBIF - FinBIF data mobilization grant for European Russia (Russia-02).
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://gbif.ru:8080/ipt/archive.do?r=gb_kostroma</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>northeast of Kostroma region (European Russia)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>44.033</westBoundingCoordinate>
+                    <eastBoundingCoordinate>47.549</eastBoundingCoordinate>
+                    <northBoundingCoordinate>59.545</northBoundingCoordinate>
+                    <southBoundingCoordinate>58.008</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Natalya</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>1, Vitkevicha str. Pushchino, Moscow Region</deliveryPoint>
+                <city>Pushchino</city>
+                <administrativeArea>Moscow region</administrativeArea>
+                <postalCode>142290</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+        </contact>
+
+            <project id="Russia-02">
+                <title>Supporting data mobilization activities in Russia west of Ural mountains</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Natalya</givenName>
+                    <surName>Ivanova</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:20Z</dateStamp>
+                <citation>Ivanova N, Shanin V, Grozovskaya I, Khanina L (2018). Forest vegetation of the northeastern part of the Kostroma region (European Russia). Version 1.3. Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences. Sampling event dataset https://doi.org/10.15468/qemuyc accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Grozovskaya IS, Khanina LG, Smirnov VE, Bobrovsky MV, Romanov MS, Glukhova EM (2015) Biomassa napochvennogo pokrova v elovyh lesah Kostromskoy oblasti. Lesovedenie 1: 63–76 – Biomass of the forest floor in Picea abies forests in the Kostroma region (in Russian)</citation>
+                <citation>Grozovskaya IS, Khanina LG, Smirnov VE, Bobrovsky MV, Romanov MS, Glukhova EM (2015) Biomassa napochvennogo pokrova v elovyh lesah Kostromskoy oblasti. Lesovedenie 1: 63–76 – Biomass of the forest floor in Picea abies forests in the Kostroma region (in Russian)</citation>
+                <citation identifier="DOI: 10.1134/S1062359015020041">Ivanova N.V. Factors Limiting Distribution of the Rare Lichen Species Lobaria pulmonaria (in Forests of the Kologriv Forest Nature Reserve), Biology Bulletin, 2015, Vol. 42, No. 2, pp. 145–153.</citation>
+                </bibliography>
+                <formationPeriod>2007-2013</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

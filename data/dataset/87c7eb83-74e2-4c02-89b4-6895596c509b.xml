@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="87c7eb83-74e2-4c02-89b4-6895596c509b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/e64fbk</alternateIdentifier>
+        <alternateIdentifier>87c7eb83-74e2-4c02-89b4-6895596c509b</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=lortet</alternateIdentifier>
+        <title>Clémence Lortet herbarium</title>
+        <creator>
+            <individualName>
+                <givenName>Cédric</givenName>
+                <surName>Audibert</surName>
+            </individualName>
+            <organizationName>Musée des Confluences</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>86 quai Perrache</deliveryPoint>
+                <city>Lyon</city>
+                <postalCode>69002</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33(4)28382540</phone>
+            <electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Cédric</givenName>
+                <surName>Audibert</surName>
+            </individualName>
+            <organizationName>Musée des Confluences</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>86 quai Perrache</deliveryPoint>
+                <city>Lyon</city>
+                <postalCode>69002</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33(4)28382540</phone>
+            <electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Cédric</givenName>
+                <surName>Audibert</surName>
+            </individualName>
+            <organizationName>Musée des Confluences</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>86 quai Perrache</deliveryPoint>
+                <city>Lyon</city>
+                <postalCode>69002</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33(4)28382540</phone>
+            <electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2021-07-06
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Clémence Lortet (née: Richard) (1772-1835) was a French botanist, who co-founded the Linnean Society of Lyon in 1822.
+Clémence was the grandmother of Louis Lortet who was the renown director for the Lyon Museum of Natural History, from 1870 to 1909.
+The herbarium of the Lyon area, known as &amp;#34;herbier de la région lyonnaise,&amp;#34; is stored in the Centre Louis Lortet. It contains 2,500 sheets including some exsiccata of Roffavier, such as mosses and lichenes.
+It was donated by her family in 1929, and later in 2009 her descendants would donate the manuscript catalogue of the herbarium.
+The herbarium provides valuable insight on the flora in Lyon around 1805-1825, before the urban developments.
+Part of the specimens corresponds to the data published in the Gilibert&amp;#39;s &amp;#34;Calendrier de Flore,&amp;#34; and to their &amp;#34;Promenades botaniques&amp;#34; (including 16 excursions around Lyon), re-published recently.
+Balbis has revised and annoted the Lortet&amp;#39;s herbarium and used it extensively for his &amp;#34;Flore lyonnaise&amp;#34;.
+        </abstract>
+        <keywordSet>
+            <keyword>mushrooms</keyword>
+            <keyword>mosses</keyword>
+            <keyword>ferns</keyword>
+            <keyword>plants</keyword>
+            <keyword>algae</keyword>
+            <keyword>lichenes</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Ascomycota</keyword>
+            <keyword>Rhodophyta</keyword>
+            <keyword>Lycopodiophyta</keyword>
+            <keyword>Bryophyta</keyword>
+            <keyword>Pteridophyta</keyword>
+            <keyword>Basidiomycota</keyword>
+            <keyword>Marchantiophyta</keyword>
+            <keyword>Chlorophyta</keyword>
+            <keyword>Anthocerotophyta</keyword>
+            <keyword>Charophyta</keyword>
+            <keyword>Coniferophyta</keyword>
+            <keyword>Cyanophyta</keyword>
+            <keyword>Cyanobacteria</keyword>
+            <keyword>Spermatophyta</keyword>
+            <keyword>Ochrophyta</keyword>
+            <keyword>Mycetozoa</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.fr/archive.do?r=lortet</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>France, mainly Lyon area ; Helvetia, Germany, Italy (Piemonte)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1803-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1859-06-12
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Cédric</givenName>
+                <surName>Audibert</surName>
+            </individualName>
+            <organizationName>Musée des Confluences</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>86 quai Perrache</deliveryPoint>
+                <city>Lyon</city>
+                <postalCode>69002</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33(4)28382540</phone>
+            <electronicMailAddress>cedric.audibert@museedesconfluences.fr</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>Distributeur</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:49Z</dateStamp>
+                <citation>Audibert C (2021). Clémence Lortet herbarium. Version 1.7. Musée des Confluences. Occurrence dataset https://doi.org/10.15468/e64fbk accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Balbis J.-B., 1827. Flore lyonnaise, ou Description des plantes qui croissent dans les environs de Lyon et sur le Mont-Pilat. Tome premier. Lyon, Impr. C. Coque, 1-471 (1e partie), 472-890 (2e partie), 1-30 (tableau synoptique).</citation>
+                <citation>Balbis J.-B., 1828. Flore lyonnaise, ou Description des plantes qui croissent dans les environs de Lyon et sur le Mont-Pilat. Tome second. Lyon, Impr. D.L. Ainé, 371 p.</citation>
+                <citation>Balbis J.-B., 1835. Supplément à la Flore lyonnaise publiée par le docteur J.-B. Balbis en 1827 et 1828, ou Description des plantes phanérogames et cryptogames découvertes depuis la publication de cet ouvrage. Lyon, Louis Perrin, 92 p., 1 pl.</citation>
+                <citation>Gilibert J.-E. [&amp; Lortet C.], 1809b. Le Calendrier de flore pour l&apos;année 1778 autour de Grodno et pour l&apos;année 1808, autour de Lyon. Lyon, A. Leroy, 60 p.</citation>
+                <citation>Lortet P., Audibert C., Bärschi B., Benharrech S., Chambaud F., Philippe M. et Thiébaut M., 2018. Les Promenades botaniques de Clémence Lortet, née Richard (1772-1835). Bulletin mensuel de la Société linnéenne de Lyon, 87(7-8): 199-254.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

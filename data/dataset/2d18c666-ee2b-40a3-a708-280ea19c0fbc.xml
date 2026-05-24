@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2d18c666-ee2b-40a3-a708-280ea19c0fbc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.5886/yxupar</alternateIdentifier>
+        <alternateIdentifier>2d18c666-ee2b-40a3-a708-280ea19c0fbc</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/ipt/resource?r=rbcm-botany-specimens</alternateIdentifier>
+        <title>Royal BC Museum - Herbarium (V)</title>
+        <creator>
+            <individualName>
+                <givenName>Erica</givenName>
+                <surName>Wheeler</surName>
+            </individualName>
+            <organizationName>Royal British Columbia Museum</organizationName>
+            <positionName>Head of Collections, Care and Conservation</positionName>
+            <address>
+                <deliveryPoint>675 Belleville Street</deliveryPoint>
+                <city>Victoria</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V8W 9W2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>(250) 387-2918</phone>
+            <electronicMailAddress>ewheeler@royalbcmuseum.bc.ca</electronicMailAddress>
+            <onlineUrl>https://royalbcmuseum.bc.ca/collections/natural-history/botany</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Heidi</givenName>
+                <surName>Guest</surName>
+            </individualName>
+            <organizationName>Royal British Columbia Museum</organizationName>
+            <positionName>Collections Manager Natural History  |  Collections Care and Conservation</positionName>
+            <address>
+                <deliveryPoint>675 Belleville Street</deliveryPoint>
+                <city>Victoria</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V8W 9W2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>(250) 387-2918</phone>
+            <electronicMailAddress>HGuest@royalbcmuseum.bc.ca</electronicMailAddress>
+            <onlineUrl>https://royalbcmuseum.bc.ca/collections/natural-history/botany</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Heidi</givenName>
+                <surName>Guest</surName>
+            </individualName>
+            <organizationName>Royal British Columbia Museum</organizationName>
+            <positionName>Collections Manager Natural History  |  Collections Care and Conservation</positionName>
+            <address>
+                <deliveryPoint>675 Belleville Street</deliveryPoint>
+                <city>Victoria</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V8W 9W2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>(250) 387-2918</phone>
+            <electronicMailAddress>HGuest@royalbcmuseum.bc.ca</electronicMailAddress>
+            <onlineUrl>https://royalbcmuseum.bc.ca/collections/natural-history/botany</onlineUrl>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Kendrick</givenName>
+                <surName>Marr</surName>
+            </individualName>
+            <organizationName>Royal British Columbia Museum</organizationName>
+            <positionName>Botany Curator</positionName>
+            <address>
+                <deliveryPoint>675 Belleville Street</deliveryPoint>
+                <city>Victoria</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V8W 9W2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>(250) 386-8176</phone>
+            <electronicMailAddress>kmarr@royalbcmuseum.bc.ca</electronicMailAddress>
+            <onlineUrl>http://royalbcmuseum.bc.ca/nh-collections/botany-plants/</onlineUrl>
+            <role>CURATOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-02-22
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Royal BC Museum herbarium (V) houses 218,000 vascular plants specimens, most of which (&gt;90%) were collected within the limits of the province of British Columbia. Specimens from adjacent jurisdictions such as the Yukon, Alberta, Washington and Alaska make up a smaller part of our collection (&lt;10%).  Our earliest specimens were collected in the 1890&amp;#39;s and during the first part of the 20th century by James R. Anderson and John Macoun.  A recent focus of our collections is on the flora of alpine habitats in northern BC.
+        </abstract>
+        <keywordSet>
+            <keyword>provincial repository</keyword>
+            <keyword>herbarium</keyword>
+            <keyword>vascular plants</keyword>
+            <keyword>British Columbia</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://royalbcmuseum.bc.ca/nh-collections/botany-plants/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.canadensys.net/ipt/archive.do?r=rbcm-botany-specimens</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>British Columbia, Canada</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-139.053</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-120</eastBoundingCoordinate>
+                    <northBoundingCoordinate>59.995</northBoundingCoordinate>
+                    <southBoundingCoordinate>48</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>A large majority (&gt;90%) of our specimens are of native or naturalized vascular plant taxa in British Columbia.  We also have a small collection of bryophytes and lichens.  Among vascular plants we have good collections of most angiosperm, gymnosperm and fern (and allies) taxa and extensive collections of some focal angiosperm families such as Asteraceae, Cyperaceae, Poaceae and Salicaceae.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Asteraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Cyperaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Poaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Salicaceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Heidi</givenName>
+                <surName>Guest</surName>
+            </individualName>
+            <organizationName>Royal British Columbia Museum</organizationName>
+            <positionName>Collections Manager Natural History  |  Collections Care and Conservation</positionName>
+            <address>
+                <deliveryPoint>675 Belleville Street</deliveryPoint>
+                <city>Victoria</city>
+                <administrativeArea>British Columbia</administrativeArea>
+                <postalCode>V8W 9W2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <phone>(250) 387-2918</phone>
+            <electronicMailAddress>HGuest@royalbcmuseum.bc.ca</electronicMailAddress>
+            <onlineUrl>https://royalbcmuseum.bc.ca/collections/natural-history/botany</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:20Z</dateStamp>
+                <citation identifier="https://doi.org/10.5886/yxupar">Wheeler E, Guest H (2023). Royal BC Museum - Herbarium (V). Version 2.2. Royal British Columbia Museum. Occurrence dataset https://doi.org/10.5886/yxupar accessed via GBIF.org on 2026-05-22.</citation>
+                <physical>
+                    <objectName>Canadensys Explorer</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://explorer.canadensys.net/occurrences/search?q=data_resource_uid:dr92#tab_mapView</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://data.canadensys.net/ipt/logo.do?r=rbcm-botany-specimens</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>Royal British Columbia Museum</parentCollectionIdentifier>
+                    <collectionIdentifier>https://royalbcmuseum.bc.ca/collections/natural-history/botany</collectionIdentifier>
+                    <collectionName>Royal British Columbia Museum Herbarium</collectionName>
+                </collection>
+                <formationPeriod>1890 - present</formationPeriod>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Herbarium sheets, moss packets, lichen packets, cones</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="2,000">215,000</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

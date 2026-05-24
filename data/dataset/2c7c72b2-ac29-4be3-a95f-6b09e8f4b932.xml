@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2c7c72b2-ac29-4be3-a95f-6b09e8f4b932"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/lo2tge</alternateIdentifier>
+        <alternateIdentifier>2c7c72b2-ac29-4be3-a95f-6b09e8f4b932</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1614</alternateIdentifier>
+        <alternateIdentifier>50b10f8e-3d71-37d8-b2d4-247f8ea29f69</alternateIdentifier>
+        <title>Isle of Man historical wildlife records 1995 to 1999</title>
+        <creator>
+            <organizationName>Manx Biological Recording Partnership</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Manx Biological Recording Partnership</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-10-29
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset comprises historical wildlife records, from a wide variety of sources, recorded before 1990. The records were collated separately by the three main partners: Manx National Heritage (MNH), Manx Wildlife Trust (MWT) and Department of Environment, Food and Agriculture, Isle of Man Government (DEFA). These databases were merged in 2012. There may be some duplicates.</para>
+        </abstract>
+        <additionalInfo>
+            <para>Please refer to the websites of the three main partner organistions: Manx Wildlife Trust http://www.manxwt.org.uk/; Manx National Heritage http://www.manxnationalheritage.im/; Department of Environment, Food and Agriculture https://www.gov.im/about-the-government/departments/environment-food-and-agriculture/wildlife/.  See also  http://www.manxbiodiversity.org/.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1614</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1614/dr1614.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1995-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1999-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>The purpose for the collection of this data has been to gather information for the use of the three main partners (Manx Wildlife Trust, Manx National Heritage and the Isle of Man Governement) to carry out their functions in protecting the natural environment of the Isle of Man. Avian records are managed comprehensively by Manx Birdlife http://manxbirdlife.im although this dataset does contain some bird records.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Jennifer</givenName>
+                <surName>Sharp</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>biologicalrecords@gov.im</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Data is derived from a variety of sources, herbarium specimens, publications, recording cards/paper and individual reports.  All our records are collated into a networked Recorder6 (dictionary version 3B) database.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Confidence in this data has to be described is relatively low because of the nature of the historical records. Nevertheless care has been taken to ensure accuracy wherever possible.
+
+Most MBRP records have come from expert determiners and experienced naturalists but a systematic species verification process has only carried out for some taxonomic groups.  This work is ongoing. MBRP relies on both the honesty and accuracy of recorders, but cannot rule out instances of either deliberate or accidental misidentification.
+
+Records which did not pass the validation checks in NBN Export Format Addin during export from Recorder6 have not been included. 
+
+All records in this dataset have passed the NBN Record Cleaner validation but &lt;3% of records did not pass verification.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:34Z</dateStamp>
+                <citation>Manx Biological Recording Partnership (2025). Isle of Man historical wildlife records 1995 to 1999. Occurrence dataset https://doi.org/10.15468/lo2tge accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/ManxBiodiversitylogo.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="daae5a66-7bb4-4431-ac3c-a1bf70ca3407"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/k6hvb8</alternateIdentifier>
+        <alternateIdentifier>daae5a66-7bb4-4431-ac3c-a1bf70ca3407</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1312</alternateIdentifier>
+        <alternateIdentifier>ed076ead-984f-3c5b-b3b5-6eba30266f2d</alternateIdentifier>
+        <title>Stackpole National Nature Reserve Species Inventory and Ad-hoc Sightings from Across Pembrokeshire</title>
+        <creator>
+            <organizationName>Natural Resources Wales</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Natural Resources Wales</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-15
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset is a collation of ad hoc sightings and species inventories from various locations around Pembrokeshire. It includes sightings from Special Areas of Conservation (SACs), Sites of Special Scientific Interest (SSSIs), Stackpole National Nature Reserve (NNR), and county records. This data is make up of plant, insect, mammals, lichen, mammals and bird records.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1312</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1312/dr1312.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Pembrokeshire.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-5.546</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-4.545</eastBoundingCoordinate>
+                    <northBoundingCoordinate>52.076</northBoundingCoordinate>
+                    <southBoundingCoordinate>51.613</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1800-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2011-03-06
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>The purpose of this data capture was to collate a species inventory for various sites around Pembrokeshire, south Wales.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>NRW</givenName>
+                <surName>Admin</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>opendata@cyfoethnaturiolcymru.gov.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Various methods were used to collect this data.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Varied</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:54Z</dateStamp>
+                <citation>Natural Resources Wales (2025). Stackpole National Nature Reserve Species Inventory and Ad-hoc Sightings from Across Pembrokeshire. Occurrence dataset https://doi.org/10.15468/k6hvb8 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NRW.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1a1675be-791f-4a3e-a614-94117f36ae96"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/6bzxza</alternateIdentifier>
+        <alternateIdentifier>http://tun.fi/HR.124</alternateIdentifier>
+        <title>Bryophyte Herbarium (H): Herbarium Fennoscandiae orientalis</title>
+        <pubDate>
+                2026-05-21
+        </pubDate>
+        <language>en</language>
+        <abstract>
+            <para>Bryophyte collections of the Botanical Museum, University of Helsinki (H): East Fennoscandian herbarium</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://gbif.laji.fi/archives/HR.124.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Finland, Russian Fennoscandia</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-118.3667</westBoundingCoordinate>
+                    <eastBoundingCoordinate>41.3701</eastBoundingCoordinate>
+                    <northBoundingCoordinate>70.0974</northBoundingCoordinate>
+                    <southBoundingCoordinate>54.0681</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1670-07-09
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-08-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <givenName>Xiaolan</givenName>
+                <surName>He</surName>
+            </individualName>
+            <electronicMailAddress>xiao-lan.he@helsinki.fi</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>FinBIF</surName>
+            </individualName>
+            <electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:39Z</dateStamp>
+                <citation>Finnish Museum of Natural History -  Botany and Mycology Unit (2026). Bryophyte Herbarium (H): Herbarium Fennoscandiae orientalis. Occurrence dataset https://doi.org/10.15468/6bzxza accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

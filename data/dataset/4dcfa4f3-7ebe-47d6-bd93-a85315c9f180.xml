@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="4dcfa4f3-7ebe-47d6-bd93-a85315c9f180"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/jgnjsa</alternateIdentifier>
+        <alternateIdentifier>4dcfa4f3-7ebe-47d6-bd93-a85315c9f180</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=sbp-bioblitz2017_60years-biodiversitydata</alternateIdentifier>
+        <title>Sbp-BioBlitz2017_60years-BiodiversityData</title>
+        <creator>
+            <individualName>
+                <givenName>Annegret</givenName>
+                <surName>Nicolai</surName>
+            </individualName>
+            <organizationName>UMR 6553 EcoBio, Station Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>annegret.nicolai@univ-rennes1.fr</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7099-5603</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Olivier</givenName>
+                <surName>Norvez</surName>
+            </individualName>
+            <organizationName>Station Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Outreach responsible</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>onorvez@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7696-3493</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Muriel</givenName>
+                <surName>Guernion</surName>
+            </individualName>
+            <organizationName>UMR 6553 EcoBio, Station Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Data manager</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>regis.supper@univ-rennes1.fr</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Régis</givenName>
+                <surName>Supper</surName>
+            </individualName>
+            <organizationName>Station Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Administration of SBP</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33223237441</phone>
+            <electronicMailAddress>regis.supper@univ-rennes1.fr</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Annegret</givenName>
+                <surName>Nicolai</surName>
+            </individualName>
+            <organizationName>UMR 6553 EcoBio, Station Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>annegret.nicolai@univ-rennes1.fr</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7099-5603</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Régis</givenName>
+                <surName>Supper</surName>
+            </individualName>
+            <organizationName>tation Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Administration of SBP</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>regis.supper@univ-rennes1.fr</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Joan</givenName>
+                <surName>van Baaren</surName>
+            </individualName>
+            <organizationName>UMR 6553 EcoBio, Université Rennes 1</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Campus Beaulieu</deliveryPoint>
+                <city>Rennes</city>
+                <postalCode>35000</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>joan.van-baaren@univ-rennes1.fr</electronicMailAddress>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2020-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Biological Field Station of Paimpont (Station Biologique de Paimpont, SBP), owned by the University of Rennes and located in the Brocéliande Forest of Brittany (France) has been hosting students, scientific research and field trips during the past 60 years. During the BioBlitz in July 2017, 77 experts accompanied by 120 citizens and 12 European volunteers gathered historical data and implemented an all taxon biodiversity inventory (ATBI) in different habitats of the SBP study area.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>The first version of this dataset will be accompanied by a data paper.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.fr/archive.do?r=sbp-bioblitz2017_60years-biodiversitydata</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Biological Field Station of Paimpont (Station Biologique de Paimpont, SBP, https://station-biologique-paimpont.univ-rennes1.fr/) in the Brocéliande Forest in continental Brittany, North-West France (48.00 N, -2.22 W) is surrounded by a study area of 17 ha owned by the University Rennes. The mission of the SBP is to preserve ecological integrity of the area, while providing opportunities for scientific research, student field work, and public education. Located on sedimentary rock (shale and sandstone), the climate is temperate oceanic with local specificities due to the topography (hilly landscape with the highest peak at 258 m) and mixed land-cover. The SBP study area covers a diversity of habitats including ponds and creeks, swamps, cliffs, meadows, moors, shrub thickets, and forest.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-2.236</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-2.199</eastBoundingCoordinate>
+                    <northBoundingCoordinate>48.012</northBoundingCoordinate>
+                    <southBoundingCoordinate>47.992</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1956-06-23
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2017-11-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Species listed belong to 6 kingdoms (Animalia, Plantae, Fungi, Chromista, Protozoa,and Bacteria).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Since 1956 researchers focused on some taxonomic groups, such as butterflies and birds. Most previous surveys produced species or taxa checklists for the SBP in particular habitats; some abiotic parameters are available, especially climatic data provided by the meteorological station installed in 1967. The objective of this study is (i) to increase the range of taxa observations from the last 60 years in the study area of the SBP, (ii) to provide a basis for analyzing spatio-temporal changes in biodiversity and landscape in the SBP study area as a temperate model socio-ecosystems from Brittany, (iii) to launch future transdisciplinary research perspectives in the SBP study area, and (iv) to increase awareness and valuation of biodiversity for the public.</para></purpose>
+        <maintenance>
+            <description>
+                <para>Historical data may become available over time and will be included in the dataset.</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Annegret</givenName>
+                <surName>Nicolai</surName>
+            </individualName>
+            <organizationName>UMR 6553 EcoBio, Station Biologique Paimpont, Université Rennes 1</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <city>Paimpont</city>
+                <postalCode>35380</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <electronicMailAddress>annegret.nicolai@univ-rennes1.fr</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7099-5603</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>After sampling in the field, sorting and identification was done in the lab during the following days.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The BioBlitz took place during 24h, but historical data results from field courses of up to one week. All occurrences listed were observed on the land property of the Biological Field Station Paimpont.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Standardized citizen science protocols or classical research methods were used for sampling.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All occurrence data were obtained or verified by experts.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="SBP-BioBlitz 2017">
+                <title>Transdisciplinary BioBlitz at the Biological Field Station Paimpont</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Annegret</givenName>
+                    <surName>Nicolai</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0001-7099-5603</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Muriel</givenName>
+                    <surName>Guernion</surName>
+                    </individualName>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Régis</givenName>
+                    <surName>Supper</surName>
+                    </individualName>
+                    <role>PUBLISHER</role>
+                </personnel>
+                <abstract>
+                    <para>The transdisciplinary BioBlitz in 2017 at the Biological Field Station Paimpont (SBP) aimed at increasing the range of taxa observations, observing changes in species composition and landscape, and providing a basis for interdisciplinary research perspectives.We gathered historical data, implemented all taxon biodiversity inventory (ATBI) in different habitats of the SBP study area, measured abiotic factors in the air, water and soil and started a photographical landscape observation</para>
+                </abstract>
+                <funding>
+                    <para>The BioBlitz was funded by the Biological Field Station Paimpont and the UMR 6553 EcoBio of the Université Rennes 1.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The study area of the SBP is composed of a diverse set of land parcels of different historical use in agriculture and local activity, purchased by the University of Rennes. In former times, today’s prairies were arable land, moor was grazed or regularly thinned, hedges represented firewood resource (i.e. trees were pruned), the pond served for a mill and fishing, pastoralism and hunting was practiced in woodland. Current management of the study area includes rotating horse grazing on meadows and moor, mechanical thinning of creek and pond banks as well as of hedges, and extensive mowing of grassland around the SBP buildings. A trail system across the study area is maintained through mowing, mechanical thinning and installation of board walks. Public access is restricted spatially to the trail around the pond and the area around the buildings of SBP, and temporally to public outreach events, such as the Science Festival, Open House and citizen science events, such as the BioBlitz.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Prior to the BioBlitz, in June/July 2017, the habitat zones were characterized, delimited and mapped. During the BioBlitz 2017 terrestrial sampling was performed in 42 different sites, aquatic sampling was performed in 4 different sites during 24 h. Occurrences were recorded as presence/absence data for each zone.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:53Z</dateStamp>
+                <citation>Nicolai A, Norvez O, Guernion M, Supper R (2020). Sbp-BioBlitz2017_60years-BiodiversityData. Version 1.14. Université de Rennes (UMR 6553 Ecobio). Occurrence dataset https://doi.org/10.15468/jgnjsa accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Debroise C. (1977) Recherches écologiques sur les Lépidoptères Hétérocères de la lande. Etude de la dynamique de population de Lycophotia porphyrea (Lep. Noctuidae. PhD thesis, University Rennes</citation>
+                <citation>Le Garff B. (1984) L&apos;APPAREIL MALPHIGIEN DES LÉPIDOPTÈRES: Anatomie comparée, évolution au cours de la métamorphose, ultrastructure et fonctionnement. Étude expérimentale de son développement chez Galleria mellonella L. PhD thesis, University Rennes</citation>
+                <citation>Tiberghien G. (1985) FAUNISTIQUE ET ECOLOGIE DES PRINCIPAUX GROUPES D&apos;INVERTEBRES SUR LE SITE DE BEAUVAIS-CHATENAY (STATION BIOLOGIQUE DE PAIMPONT A PLELAN LE GRAND ILLE ET VILAINE). Bull. Soc. Sc. Bretagne 57(1-2): 25-58</citation>
+                <citation>Massé L. (1962) Recherches phytosociologiques et écologiques sur les Lichens de schistes rouges cambriens des environs de Rennes. Les progrès récents dans le chimisme des Lichens. PhD thesis, University Rennes</citation>
+                <citation>Massé L. (1963) Lichens nouveaux ou intéressants pour le Massif Armoricain II. Bull. Soc. Sci. Bret., XXXVIII, 49-60</citation>
+                <citation>Touffet J. (1963) Quelques Sphaignes intéressantes pour la région de Paimpont (Ille-et-Vilaine).  Bull. Soc. Sci. Bret., XXXVIII, 61-64</citation>
+                <citation>Massé L. (1960) Lichens nouveaux ou intéressants pour le Massif Armoricain. Bull. Soc. Sci. Bret., XXXV, 259-266</citation>
+                <citation>Comité de pilotage du site Natura 2000 &apos;&apos;Forêt de Paimpont&apos;&apos;. (2006) Document d&apos;objectifs- Forêt de Paimpont - Tome 1 - rapport de synthèse sur l&apos;état des lieux</citation>
+                <citation identifier="DOI: 10.13140/RG.2.2.35667.58402">Esnault J. &amp; Monnat J-Y. (2016) Index de la collection de lichens de L-J.C. Massé REN-MAS (FRANCE).</citation>
+                <citation>Touffet J. (1969) Les Sphaignes du massif armoricain. Recherches phytogeographiques et ecologiques. Vol. II. Thèse, Faculté des Sciences de Rennes, France</citation>
+                </bibliography>
+                <resourceLogoUrl>http://ipt.gbif.fr/logo.do?r=sbp-bioblitz2017_60years-biodiversitydata</resourceLogoUrl>
+                <collection>
+                    
+                    
+                    <collectionName>REN-MAS</collectionName>
+                </collection>
+                <collection>
+                    
+                    
+                    <collectionName>Hétérocères (SBP)</collectionName>
+                </collection>
+                <specimenPreservationMethod>PINNED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

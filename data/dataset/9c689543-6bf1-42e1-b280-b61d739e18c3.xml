@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9c689543-6bf1-42e1-b280-b61d739e18c3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/p5o7ow</alternateIdentifier>
+        <alternateIdentifier>https://gbif.vm.ntnu.no/ipt/resource?r=fosen_peninsula_phytosociological_studies</alternateIdentifier>
+        <alternateIdentifier>9c689543-6bf1-42e1-b280-b61d739e18c3</alternateIdentifier>
+        <alternateIdentifier>http://gbif.vm.ntnu.no/ipt/resource?r=fosen_peninsula_phytosociological_studies</alternateIdentifier>
+        <title>Vegetation data from phytosociological studies of the forests on the Fosen peninsula</title>
+        <creator>
+            <individualName>
+                <givenName>Egil Ingvar</givenName>
+                <surName>Aune</surName>
+            </individualName>
+            <organizationName>NTNU University Museum</organizationName>
+            <positionName>Amanuensis emeritus</positionName>
+            <address>
+                <city>Trondheim</city>
+                <country>NORWAY</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ingerid</givenName>
+                <surName>Angell-Petersen</surName>
+            </individualName>
+            <organizationName>Norwegian Environmental agency</organizationName>
+            <positionName>Senior advisor</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sissel Grete</givenName>
+                <surName>Wahlstrøm</surName>
+            </individualName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Egil Ingvar</givenName>
+                <surName>Aune</surName>
+            </individualName>
+            <organizationName>NTNU University Museum</organizationName>
+            <positionName>Amanuensis emeritus</positionName>
+            <address>
+                <city>Trondheim</city>
+                <country>NORWAY</country>
+            </address>
+        </metadataProvider>
+        <pubDate>
+                2019-08-20
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Here we present vegetation data (relative frequencies of vascular plants) collected in association with several studies of the forests on the Fosen peninsula in the western part of Central Norway between 1979 and 1982.</para>
+<para>Publications:
+&amp;#34;Aune, E.I. 1982. Structure and dynamics of the forests at the western distribution limit of spruce (Picea abies) in Central Norway, p.383-399 in H.Dierschke (red.) 1981. Struktur und Dynamik von Wäldern (Rinteln 13.-16.4.1981). - J. Cramer, Vaduz.</para>
+<para>Angell-Petersen, I. 1985. Strukturanalyser i barskog, Teksdalen i Bjugn kommune, Sør-Trøndelag. Hovedfagsoppgave i spesiell botanikk. Universitetet i Trondheim&amp;#34;</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Domin scale</keyword>
+            <keyword>boreal forest</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://gbif.vm.ntnu.no/archive.do?r=fosen_peninsula_phytosociological_studies</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Fosen peninsula is north west of Trondheim in Central Norway. Bjugn municipality is located in the west of the peninsula. The peninsula consists of numerous valleys and mountains reaching about 500-600 m a.s.l., incised by several fjords. Spruce is established on most of the available sites with suitable soils in the interior region. The timberline is usually made up of conifers. Wooded areas along the northwestern coast are mostly covered by birch and other unexacting decidious trees.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>9.07</westBoundingCoordinate>
+                    <eastBoundingCoordinate>11.25</eastBoundingCoordinate>
+                    <northBoundingCoordinate>63.9</northBoundingCoordinate>
+                    <southBoundingCoordinate>63.43</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1979-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1982-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>All vascular plants and bryophytes</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Egil Ingvar</givenName>
+                <surName>Aune</surName>
+            </individualName>
+            <organizationName>NTNU University Museum</organizationName>
+            <positionName>Amanuensis emeritus</positionName>
+            <address>
+                <city>Trondheim</city>
+                <country>NORWAY</country>
+            </address>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Anders L</givenName>
+                <surName>Kolstad</surName>
+            </individualName>
+            <organizationName>NTNU University Museum</organizationName>
+            <positionName>PhD student</positionName>
+            <address>
+                <city>Trondheim</city>
+                <postalCode>7012</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>anders.kolstad@ntnu.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-9623-9491</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>See Sampling desciption, and references in general desciption.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Fosen peninusla, between 1979-82</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>All vascular plants and bryophytes were recorded using the Domin scale. The species cover were recorded in various field layers (A-H) which are denoted in the &apos;study extent&apos; column: A= trees (&gt;3 m height), B= shrubs (1-3 m), C= herb layer (woody plants), D=  herb layer (herbs), E= herb layer (graminoids), F= bottomlayer (mosses), G= bottomlayer (liverworts), H= bottomlayer (lichens).&quot;
+
+In the releve extension, &quot;Cryptogam cover&quot; is substitute for bottom layer cover, including mosses, liverworts and lichens, in lack of a more suiting Darwin Core term.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:43Z</dateStamp>
+                <citation>Aune E I, Angell-Petersen I, Wahlstrøm S G (2019). Vegetation data from phytosociological studies of the forests on the Fosen peninsula. Version 1.5. Norwegian University of Science and Technology. Sampling event dataset https://doi.org/10.15468/p5o7ow accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

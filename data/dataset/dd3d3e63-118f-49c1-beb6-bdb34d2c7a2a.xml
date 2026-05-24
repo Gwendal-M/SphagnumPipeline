@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="dd3d3e63-118f-49c1-beb6-bdb34d2c7a2a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/tmkbev</alternateIdentifier>
+        <alternateIdentifier>http://danbif.au.dk/ipt/resource?r=biodiversity-now</alternateIdentifier>
+        <title>Biodiversity Now / Nature Check (Biodiversitet Nu / NaturTjek)</title>
+        <creator>
+            <individualName>
+                <givenName>Nora</givenName>
+                <surName>Skjernaa Hansen</surName>
+            </individualName>
+            <organizationName>Danish Society for Nature Conservation / Danmarks Naturfredningsforening</organizationName>
+            <positionName>Research Coordinator</positionName>
+            <address>
+                <deliveryPoint>Masnedøgade 20</deliveryPoint>
+                <city>Copenhagen</city>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>nsh@dn.dk</electronicMailAddress>
+            <onlineUrl>http://www.biodiversitet.nu/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Nora</givenName>
+                <surName>Skjernaa Hansen</surName>
+            </individualName>
+            <organizationName>Danish Society for Nature Conservation / Danmarks Naturfredningsforening</organizationName>
+            <positionName>Research Coordinator</positionName>
+            <address>
+                <deliveryPoint>Masnedøgade 20</deliveryPoint>
+                <city>Copenhagen</city>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>nsh@dn.dk</electronicMailAddress>
+            <onlineUrl>http://www.biodiversitet.nu/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Lotte</givenName>
+                <surName>Endsleff</surName>
+            </individualName>
+            <organizationName>DanBIF - Danish Biodiversity Information Facility</organizationName>
+            <positionName>Scientific Communications Officer &amp; Web Editor</positionName>
+            <address>
+                <city>Copenhagen</city>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>lendsleff@snm.ku.dk</electronicMailAddress>
+            <onlineUrl>http://danbif.dk/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2016-02-29
+        </pubDate>
+        <language>DANISH</language>
+        <abstract>
+            The project has two important goals: to increase awareness about biodiversity amongst people in Denmark, and to gather new knowledge (data) about the presence of certain indicator species in all municipalities of Denmark, and after analysis of the data be able to show, if the level of biodiversity is rising or falling in each municipality. 
+ The scheme covers 30 specific indicators including both individual species and groups of similar species. All indicators have been through a selection process to ensure they are easy to recognize and difficult to miss. The species are quite common and easy to spot in Denmark. Indicators are also selected to respond to the main threats to the Danish environment. As a consequence, no verification is conducted of the observations. Data is collected as a list where the collector can select between 0 and 30 of the indicators observed on one trip. There is no protocol for how to conduct surveys. A dedicated mobile APP has been developed for the scheme as well as an online registration module for computers. Time and locations is recorded either through the build in services in the mobile device (APP) or through google earth (computer).
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.biodiversitet.nu/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://danbif.au.dk/ipt/archive.do?r=biodiversity-now</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Denmark</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>7.8</westBoundingCoordinate>
+                    <eastBoundingCoordinate>15.49</eastBoundingCoordinate>
+                    <northBoundingCoordinate>57.84</northBoundingCoordinate>
+                    <southBoundingCoordinate>54.43</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-04-15
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The scheme covers 30 specific indicators including both individual species and groups of similar species. All indicators have been through a selection process to ensure they are easy to recognize and difficult to miss. The species are quite common and easy to spot in Denmark.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Picidae</taxonRankValue>
+                    <commonName>Spætter</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Haematopus ostralegus</taxonRankValue>
+                    <commonName>Strandskade</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Falco tinnunculus</taxonRankValue>
+                    <commonName>Tårnfalk</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Vanellus vanellus</taxonRankValue>
+                    <commonName>Vibe</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lycaenidae</taxonRankValue>
+                    <commonName>Blåfugle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gonepteryx rhamni</taxonRankValue>
+                    <commonName>Citronsommerfugl</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Suborder</taxonRankName>
+                    <taxonRankValue>Anisoptera</taxonRankValue>
+                    <commonName>Guldsmede</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Zygaena</taxonRankValue>
+                    <commonName>Køllesværmere</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Suborder</taxonRankName>
+                    <taxonRankValue>Zygoptera</taxonRankValue>
+                    <commonName>Vandnymfer</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rana</taxonRankValue>
+                    <commonName>Brune frøer</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lacertidae</taxonRankValue>
+                    <commonName>Firben</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Vipera berus</taxonRankValue>
+                    <commonName>Hugorm</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Salamandridae</taxonRankValue>
+                    <commonName>Salamandre</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Natrix natrix</taxonRankValue>
+                    <commonName>Snog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sciurus vulgaris</taxonRankValue>
+                    <commonName>Egern</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Vespertilionidae</taxonRankValue>
+                    <commonName>Flagermus</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepus europaeus</taxonRankValue>
+                    <commonName>Hare</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Erinaceus europaeus</taxonRankValue>
+                    <commonName>Pindsvin</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Cladonia</taxonRankValue>
+                    <commonName>Rensdyrlav</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sphagnum</taxonRankValue>
+                    <commonName>Tørvemos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caltha palustris</taxonRankValue>
+                    <commonName>Eng-kabbeleje</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Orchidaceae</taxonRankValue>
+                    <commonName>Gøgeurter</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anemone ranunculoides</taxonRankValue>
+                    <commonName>Gul anemone</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Campanula rotundifolia</taxonRankValue>
+                    <commonName>Liden klokke</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Viscaria vulgaris</taxonRankValue>
+                    <commonName>Tjærenellike</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Potentilla erecta</taxonRankValue>
+                    <commonName>Tormentil</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Cantharellus</taxonRankValue>
+                    <commonName>Kantereller</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amanita muscaria</taxonRankValue>
+                    <commonName>Rød fluesvamp</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Camarophyllus spp.</taxonRankValue>
+                    <commonName>Vokshatte</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hygrophoraceae</taxonRankValue>
+                    <commonName>Vokshatte</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Agaricomycetes</taxonRankValue>
+                    <commonName>Poresvampe</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nora</givenName>
+                <surName>Skjernaa Hansen</surName>
+            </individualName>
+            <organizationName>Danish Society for Nature Conservation / Danmarks Naturfredningsforening</organizationName>
+            <positionName>Research Coordinator</positionName>
+            <address>
+                <deliveryPoint>Masnedøgade 20</deliveryPoint>
+                <city>Copenhagen</city>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>nsh@dn.dk</electronicMailAddress>
+            <onlineUrl>http://www.biodiversitet.nu/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:41Z</dateStamp>
+                <citation>Skjernaa Hansen N, Endsleff L (2016). Biodiversity Now / Nature Check (Biodiversitet Nu / NaturTjek). Danish Society for Nature Conservation / Danmarks Naturfredningsforening. Occurrence dataset https://doi.org/10.15468/tmkbev accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

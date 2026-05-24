@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="50804764-9c66-4448-8537-6767167e83c5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/q3d1hl</alternateIdentifier>
+        <alternateIdentifier>50804764-9c66-4448-8537-6767167e83c5</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1287</alternateIdentifier>
+        <alternateIdentifier>af313cd0-194a-3558-812c-0794e90c489d</alternateIdentifier>
+        <title>NRW Regional Data: all taxa (excluding sensitive species), West Wales</title>
+        <creator>
+            <organizationName>West Wales Biodiversity Information Centre</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>West Wales Biodiversity Information Centre</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-06-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>A collation of data (excluding sensitive species) derived from Natural Resources Wales (formerly Countryside Council for Wales) regional offices in West Wales</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1287</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1287/dr1287.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Records are for NRW&apos;s West region which includes Carmarthenshire, Pembrokeshire and Ceredigion.
+ &lt;br /&gt;&lt;br /&gt;
+ Many records are for designated sites and a proportion are from the wider countryside.
+ &lt;br /&gt;&lt;br /&gt;
+ The majority of records have six figure grid references, some are site centroids.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-5.27</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-3.677</eastBoundingCoordinate>
+                    <northBoundingCoordinate>52.538</northBoundingCoordinate>
+                    <southBoundingCoordinate>51.613</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1840-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2009-04-02
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>To mobilise a valuable data resource in order to provide baseline data to inform conservation work, research, site management and decision-making within NRW and externally.</para></purpose>
+        <contact>
+            <individualName>
+                <surName>Kate Jones, Species Data Officer</surName>
+            </individualName>
+            <electronicMailAddress>Kate.jones@wwbic.org.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The dataset was created from species records extracted, computerised and collated from paper records held at NRW&apos;s regional offices at Llandeilo, Aberystwyth and Pembroke Dock.
+ &lt;br /&gt;&lt;br /&gt;
+ The work was carried out under contract by WWBIC staff; Laura Burnett, Madeline Tasker and Vicky Swann from 2007 to 2010 as part of NRW&apos;s data mobilisation project.
+ &lt;br /&gt;&lt;br /&gt;
+ The material from which records were derived included the following: reports, site registers, recording cards, protected site condition assessments, other general survey work and records of casual observations.
+ &lt;br /&gt;&lt;br /&gt;
+ Numerous biological recording techniques and survey methodologies were used in the collection of these records.
+ &lt;br /&gt;&lt;br /&gt;
+ Some of the records were produced by NRW staff or by qualified contractors working on NRW&apos;s behalf whilst some records have been provided by third parties, or derived from documents, surveys or datasets produced by others, but held in NRW files. Due to the nature of the files and the lack of documentation it has not been possible to determine what proportion of the records within the dataset are NRW owned against third party data.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The majority of records were created by NRW staff, or qualified contractors, or other acknowleged experts and are generally of a good standard.
+ &lt;br /&gt;&lt;br /&gt;
+ These records have not yet been subjected to systematic verification.
+ &lt;br /&gt;&lt;br /&gt;
+ The computerisation of these records has been subject to some validation. 
+ &lt;br /&gt;&lt;br /&gt;
+ Data should be checked against original sources before use in contentious circumstance.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:27Z</dateStamp>
+                <citation>West Wales Biodiversity Information Centre (2025). NRW Regional Data: all taxa (excluding sensitive species), West Wales. Occurrence dataset https://doi.org/10.15468/q3d1hl accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

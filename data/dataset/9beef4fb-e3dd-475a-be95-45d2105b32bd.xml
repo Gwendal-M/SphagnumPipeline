@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9beef4fb-e3dd-475a-be95-45d2105b32bd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/5cpovj</alternateIdentifier>
+        <alternateIdentifier>https://danbif.au.dk/ipt/resource?r=threatened-species-occurrences-denmark1991-1995</alternateIdentifier>
+        <alternateIdentifier>9beef4fb-e3dd-475a-be95-45d2105b32bd</alternateIdentifier>
+        <alternateIdentifier>http://danbif.au.dk/ipt/resource?r=threatened-species-occurrences-denmark1991-1995</alternateIdentifier>
+        <title>Threatened species occurrences, Denmark 1991-2015</title>
+        <creator>
+            <individualName>
+                <givenName>Erik Canth</givenName>
+                <surName>Buchwald</surName>
+            </individualName>
+            <organizationName>The Danish Nature Agency</organizationName>
+            <positionName>Forest ecologist</positionName>
+            <address>
+                <deliveryPoint>Gjøddinggård, Førstballevej 2</deliveryPoint>
+                <city>Randbøl</city>
+                <postalCode>DK-7183</postalCode>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>ecb@nst.dk</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5590-6390</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Erik Canth</givenName>
+                <surName>Buchwald</surName>
+            </individualName>
+            <organizationName>The Danish Nature Agency</organizationName>
+            <positionName>Forest ecologist</positionName>
+            <address>
+                <deliveryPoint>Gjøddinggård, Førstballevej 2</deliveryPoint>
+                <city>Randbøl</city>
+                <postalCode>DK-7183</postalCode>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>ecb@nst.dk</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5590-6390</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Isabel</givenName>
+                <surName>Calabuig</surName>
+            </individualName>
+            <organizationName>Danish Biodiversity Information Facility</organizationName>
+            <positionName>Node Manager, Data Curator</positionName>
+            <address>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>icalabuig@snm.ku.dk</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-19
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>&amp;#34;Threatened species occurrences, Denmark 1991-2015&amp;#34; is the occurrence dataset developed and used during a three-year industrial PhD-project 2015-2018 &amp;#34;Analysis and prioritization of future efforts for biodiversity – with particular regard to Danish Nature Agency lands&amp;#34; (Buchwald 2018). It was used as part of the basis for the 2018 designation of more than 13 000 ha of new forest reserves in Denmark as part of the Danish governments actions to halt the decline in biodiversity in line with Aichi and EU targets for 2020. The PhD-project was conducted in cooperation with the Natural History Museum of Denmark, Center for Macroecology, Evolution and Climate (CMEC) at University of Copenhagen.</para><para>Study species (N &amp;#61; 1378) were delimited as being terrestrial or amphibious species known from Denmark, and being globally or nationally red-listed in the high threat categories (RE, CR, EN, VU), plus birds listed on Annex I of the EU Birds Directive and species listed on annexes II, IV or V of the EU Habitats Directive. Taxonomy and naming was updated to match the standard species checklist of Denmark maintained by the Danish Biodiversity Information Facility (DANBIF).</para><para>The quality-checks yielded detailed occurrence data (N&amp;#61; 267,556) for 1,378 species in 24,317 localities counted as different 100 x 100 meter grid cells. One data provider (Fugleognatur.dk) would not let details of the occurences be public, so those observations have details withheld but full details were used in the study.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://danbif.au.dk/ipt/archive.do?r=threatened-species-occurrences-denmark1991-1995</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Denmark, DK</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>8</westBoundingCoordinate>
+                    <eastBoundingCoordinate>15.601</eastBoundingCoordinate>
+                    <northBoundingCoordinate>57.821</northBoundingCoordinate>
+                    <southBoundingCoordinate>54.5</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1991-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Study species (N = 1378) were from all taxonomic groups, but delimited as being terrestrial or amphibious species known from Denmark, and being globally or nationally red-listed in the high threat categories (RE, CR, EN, VU), plus birds listed on Annex I of the EU Birds Directive and species listed on annexes II, IV or V of the EU Habitats Directive.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Annelida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Araneae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ascomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Basidiomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Branchiopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Diptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Heteroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pseudoscorpiones</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Erik Canth</givenName>
+                <surName>Buchwald</surName>
+            </individualName>
+            <organizationName>The Danish Nature Agency</organizationName>
+            <positionName>Forest ecologist</positionName>
+            <address>
+                <deliveryPoint>Gjøddinggård, Førstballevej 2</deliveryPoint>
+                <city>Randbøl</city>
+                <postalCode>DK-7183</postalCode>
+                <country>DENMARK</country>
+            </address>
+            <electronicMailAddress>ecb@nst.dk</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5590-6390</userId>
+        </contact>
+
+            <project >
+                <title>Analysis and prioritization of future efforts for biodiversity – with particular regard to Danish Nature Agency lands.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Erik Canth</givenName>
+                    <surName>Buchwald</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-5590-6390</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>Industrial PhD-project 2015-2018 conducted by Erik Buchwald.</para>
+                </abstract>
+                <funding>
+                    <para>The Danish Nature Agency &amp; Danish Innovation Foundation.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Denmark excluding marine and fully aquatic areas. Amphibious species included. The quality-checks (see below) yielded detailed occurrence data (N= 267,556) for 1,378 species in 24,317 localities counted as different 100 x 100 meter grid cells.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Species occurrence records were collected and compiled from all relevant sources available in digital formats (more than 22 million records from e.g. ministry databases, NGO citizen science databases and university &amp; museum databases) supplemented by a few detailed inventory studies on beetles, spiders or lichens which were digitized as part of the project (see Table in separate pdf file https://media.danbif.dk/media/EBuchwald_GBIF2018DataSources/S1%20Table.pdf ). Only records regarding the study species were used and only if data on at least year and detailed locality were recorded or could easily be extracted from supplementary information. In order to use as up-to-date occurrences as possible without leaving out too many overlooked extant occurrences, records from the last 25 years were used (1991-2015). For birds only certain and probable breeding records were used, delimited by the methods applied in Danish Breeding Bird Atlas I, II &amp; III regarding activity type and dates of breeding season.
+
+Locality names and coordinates were cross-checked and corrected in records with more than one type of locality information. Locality names were standardized for typing errors etc. and extended with municipality in order to separate synonymous names. Up to more than 15 different sites had the same name, e.g. Nørreskov (Northwood), which in some cases had led to wrong automatic coordinates being applied by some data providers.
+
+The data providers had varying levels of quality assurance of their data, so records were carefully and intensely scrutinized as an extra quality control with focus on regionally extinct and very rare species without proper documentation, and on uncertain or inaccurate localities. More than 1500 records for study species were thus excluded and a similar number corrected. Examples include an almost extinct lake-bottom plant noted from forest floor, and long extinct species recorded outside potential range/habitats and without having comments proving their validity or being published in other ways. Other records were marked with &quot;cf.&quot; in GBIFs &quot;identificationVerifier&quot; colomn because of suspicion that the recorded species or location might be incorrect being very rare or outside normal range and with no remarks in the original data about the record being unusual. The errors and suspicions were documented in the files with comments on unused records.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:29Z</dateStamp>
+                <citation>Buchwald E C (2026). Threatened species occurrences, Denmark 1991-2015. Version 1.5. Danish Nature Agency. Occurrence dataset https://doi.org/10.15468/5cpovj accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Buchwald, E. (2018). Analysis and prioritization of future efforts for biodiversity – with particular regard to Danish Nature Agency lands. PhD-thesis, Faculty of Science, University of Copenhagen. 388 pp. (submitted 28 February 2018).</citation>
+                <citation>Buchwald, E. and Heilmann-Clausen, J. (2018): Muligheder på Naturstyrelsens arealer for bedre opfyldelse af 2020-mål for truede arter. Center for Makroøkologi, Evolution og Klima, Københavns Universitet. 67 sider plus 47 sider bilag. http://macroecology.ku.dk/dk/andre-publikationer/</citation>
+                <citation>Manuscript A: Buchwald, E. and Heilmann-Clausen, J. (2018 in prep.)  How well do conservation sites based on annex II species of the EU Habitats Directive cover other threatened species relevant for the 2020 biodiversity targets?  In prep. for Biological Conservation.</citation>
+                <citation>Manuscript B: Buchwald, E. and Heilmann-Clausen, J. (2018 in prep.) Marxan with Zones applied to prioritize management for threatened forest species in Denmark to improve reaching 2020 biodiversity targets.  In prep. for PLOS ONE.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

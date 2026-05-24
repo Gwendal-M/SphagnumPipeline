@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="677f03d8-8229-4274-9e6f-9f1078369c0b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/j0ks2f</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=pbryomnhup</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource.do?r=pbryomnhup</alternateIdentifier>
+        <alternateIdentifier>677f03d8-8229-4274-9e6f-9f1078369c0b</alternateIdentifier>
+        <title>Bryophyte collection of Porto Herbarium (PO)</title>
+        <creator>
+            <individualName>
+                <givenName>Helena</givenName>
+                <surName>Hespanhol</surName>
+            </individualName>
+            <organizationName>CIBIO/InBIO</organizationName>
+            <positionName>Post-doc researcher</positionName>
+            <address>
+                <deliveryPoint>Museu de História Natural da Universidade do Porto, Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>helenahespanhol@cibio.up.pt</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Helena</givenName>
+                <surName>Hespanhol</surName>
+            </individualName>
+            <organizationName>CIBIO/InBIO</organizationName>
+            <positionName>Post-doc researcher</positionName>
+            <address>
+                <deliveryPoint>Museu de História Natural da Universidade do Porto, Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>helena.hespanhol@cibio.up.pt</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Cristiana</givenName>
+                <surName>Vieira</surName>
+            </individualName>
+            <organizationName>CIBIO/InBIO</organizationName>
+            <positionName>Post-doc researcher</positionName>
+            <address>
+                <deliveryPoint>Museu de História Natural da Universidade do Porto, Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>cristianavieira@cibio.up.pt</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Helena</givenName>
+                <surName>Hespanhol</surName>
+            </individualName>
+            <organizationName>CIBIO/InBIO</organizationName>
+            <positionName>Post-doc researcher</positionName>
+            <address>
+                <deliveryPoint>Museu de História Natural da Universidade do Porto, Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>helenahespanhol@cibio.up.pt</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>José</givenName>
+                <surName>Jesus</surName>
+            </individualName>
+            <organizationName>FCUP</organizationName>
+            <positionName>Bachelor student</positionName>
+            <address>
+                <city>Porto</city>
+                <country>PORTUGAL</country>
+            </address>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Tiago</givenName>
+                <surName>Cunha</surName>
+            </individualName>
+            <organizationName>FCUP</organizationName>
+            <positionName>Bachelor student</positionName>
+            <address>
+                <city>Porto</city>
+                <country>PORTUGAL</country>
+            </address>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Pedro</givenName>
+                <surName>Silva</surName>
+            </individualName>
+            <organizationName>FCUP</organizationName>
+            <positionName>Bachelor student</positionName>
+            <address>
+                <city>Porto</city>
+                <country>PORTUGAL</country>
+            </address>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2017-03-07
+        </pubDate>
+        <language>PORTUGUESE</language>
+        <abstract>
+            The Porto Herbarium (PO) contains about 22 000 herbarium specimens of bryophytes (including mosses, liverworts and hornworts), collected since 1837 by 61 different collectors, which have been actively databased in the last years. The majority of specimens were collected in Portugal, but PO Herbarium also includes a collection (General Herbarium) with specimens from many European countries and the former African colonies (Mozambique, Angola, São Tomé e Príncipe). In this dataset are represented 7621 records corresponding to three independent collections. Among the most relevant collections, we highlight the historical collection of António Machado, who published the first Portuguese Bryophyte Flora (1925-1933) and is a European reference collection with type specimens. The bryophyte collection of António Machado holds 1591 records collected all over Portugal but mainly in the northwestern part, corresponding to 3 phylum (Bryophyta,  Anthocerotophyta and Marchantiophyta), 174 different genus and 401 taxa (species, subspecies and varieties), being the main collector António Luís Machado Guimarães. The two other collections included in this dataset correspond to more recent collections done in specific habitats (watercourses and exposed rock outcrops) during floristic and ecological surveys between 2002 and 2007. The watercourses dataset corresponds to a field survey carried out by the collector Cristiana Vieira in Portuguese Northwest mainland and Sicó mountain regions, located in the transition zone between Atlantic and Mediterranean territories. This watercourse dataset is substantially composed of saxicolous aquatic and semi-aquatic taxa, with 3033 records with a predominance of mosses (119 taxa of mosses, 38 taxa of liverworts and 1 taxon of hornworts). The exposed rock outcrops dataset corresponds to a field survey carried out by the collector Helena Hespanhol in North and Central Portugal region. In this dataset are represented 2997 records corresponding to 2 phylum (Bryophyta and Marchantiophyta), 74 genera and 128 taxa (species, subspecies and varieties) found on rock surfaces, fissures and cavities.
+        </abstract>
+        <keywordSet>
+            <keyword>Bryophytes; Portugal; Herbarium specimens</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.gbif.pt/ipt/resource.do?r=po-b</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.pt/ipt/archive.do?r=pbryomnhup</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>This dataset covers the whole country of Portugal (mainland), with 99.25% of the records georeferenced.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-9.5</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-6.17</eastBoundingCoordinate>
+                    <northBoundingCoordinate>42.17</northBoundingCoordinate>
+                    <southBoundingCoordinate>36.96</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1873-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2007-04-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>All bryophytes were identified to the species, subspecies, variety or genus.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Anthocerotophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Rubim</givenName>
+                <surName>Almeida</surName>
+            </individualName>
+            <organizationName>Museu de História Natural da Universidade do Porto</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rubim.almeida@fc.up.pt</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>NA</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset includes Portuguese mainland species collected by hand. Sampling extending from 1873 to 1987 was done mainly by António Luís Machado Guimarães on northwest mainland Portugal. The two other collections were done in specific habitats (watercourses and exposed rock outcrops) during ecological surveys between 2002 and 2007 and the contributors are Cristiana Vieira and Helena Hespanhol, covering north and central Portugal.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The historical bryophyte collection of António Machado was done by António Luís Machado Guimarães and other contemporary collectors. The sampling was done from 1873 to 1987, on occasional basis and next to collector’s areas of residence and sporadic visits during vacations as was typical of those times. Most of the material corresponded to the first specimens of many bryophytes collected for the northern Portuguese territories, but as far as is known, no particular sampling design was established for the collection of specimens in the several habitats. 
+The watercourses collection was compiled under PhD work sampling design and in total, 178 river segments (defined as 100 m length of the riverbed and its margins) of 11 river basins, were studied from June 2002 to August 2005. These basins were chosen in order to survey mountain territories with different geomorphologic and climatic contexts, and subjected to different levels of human pressure. This survey was performed during the lowest water discharge levels (late Spring and Summer), to access the minimum water levels. The water depth in which populations were found corresponds, therefore, to the lowest level of submersion. Bryophytes were surveyed in all immerged or semi-immerged microhabitats found within the 100m of riverbed and margins. This study focused mostly in the rocky substrates, although we sporadically included micro-habitats that showed some deposition of silt or sand within the bryophyte patches. Bryophyte species abundance was registered as percentage cover using 0.25 m2 (0.5 m × 0.5 m) sample plots placed in all recognizable hydrologic zones: microhabitats constantly or easily immerged seasonally or several times a month with discharges related to precipitation or dam releases, and micro-habitats immerged only in extended periods of rain that might show some evidences of fine substrate.
+The exposed rock outcrops datasets was compiled under PhD work sampling design and in several mainland mountains. Fieldwork was carried out in 100 localities, distributed over 11 mountain areas from March 2005 and April 2007. Sample sites were selected according to the extent and altitudinal variation of the mountain. At each sampling site three types of microhabitats were explored (1) fissures, extending out horizontally or vertically, with a maximum width of 15 cm, with soil accumulation; (2) cavities, defined as a narrow horizontal opening with a roof and a floor, with a maximum height of 50 cm; and (3) rock surfaces, defined as continuous rocks without cracks, ranging from horizontal to almost vertical. Ten sample plots were recorded in the different microhabitat types identified at each sample site, within a maximum area of 100m2 in order to represent as well as possible the whole ecological and floristic variation within each sample site. The plots had an area of 625 cm2 and their shape was adapted for each microhabitat (25 cm × 25 cm for rock surfaces and 50 cm × 12.5 cm for fissures and cavities). In total, 201 sample plots were surveyed within cavities (granite: 180; schist: 21), 238 within fissures (granite: 165; schist: 73) and 455 on rock surfaces (granite: 360; schist: 95), at different exposures and slopes. Percentage cover was used to obtain an estimate of bryophyte species abundance on rock surfaces. Presence/absence of bryophyte taxa was registered on sample plots performed on fissures, cavities and rock pools.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Data cataloguing was originaly done using MS Access database. The insertion of most fields was done using controled vocabularies whenever possible. 
+Taxa nomenclature follows Ros et al.(2013) for mosses and Ros et al.(2007) for liverworts. 
+The historical bryophyte collection of António Machado was georreferenced using SCRIF (http://scrif.igeo.pt/)and google maps. Latitude and longitude of the other two collections (watercourses and exposed rock outcrops) were estimated using GPS.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>BrioAtlas-Portugal (Atlas and Red Data Book of Threatened Bryophytes of Portugal)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Cecília</givenName>
+                    <surName>Sérgio</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>The project was supported by &quot;EDP Biodiversity Fund&quot; of 2008.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The area of Continental Portugal is about 89 015 km2 and it&apos;s situated in the Mediterranean biogeographic region, covering 5 terrestrial ecoregions, according to the World wide Fund for Nature. The highest peak is 1,991 m (6,532 ft) above sea level in Serra da Estrela but the average altitudes are around 400 m. The north of Portugal, the most widely represented in this dataset (in terms of plant records in this collection), is the most temperate region in terms of climatic conditions when comparing to the rest of the mainland (center and south) with a stronger mediterranean influence.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Most of this dataset resource was created under the project BrioAtlas-Portugal (Atlas dos briófitos ameaçados de Portugal), a project with the financial support from the &quot;EDP Biodiversity Fund&quot;, that was developed from 2008 to 2013. Its main goal was to compile a list of bryophyte species with a conservation interest in Continental Portugal and publish a Red Data Book. The “António Machado” collection cataloguing, georreferencing and specimens revision was mostly performed under this project. The watercourses and the exposed rock outcrops colections were compiled under PhD work programs financed with grants of Foundation for Science and Technology (FCT - SFRH/BD/6969/2001; SFRH/BD/13058/2003).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:39Z</dateStamp>
+                <citation>Hespanhol H (2017). Bryophyte collection of Porto Herbarium (PO). Version 2.1. Natural History and Science Museum of the University of Porto (MHNC-UP). Occurrence dataset https://doi.org/10.15468/j0ks2f accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>CARDOSO, A. 1987. Colecção briológica (Musci) do Prof. Dr. António Machado: revisão taxonómica, distribuição e fitogeografia. Trabalho apresentado para prestação de provas de aptidão pedagógica e capacidade científica na Faculdade de Ciências do Porto.</citation>
+                <citation>HESPANHOL, H. 2010. Bryophyte communities from rock outcrops: ecological characterization and conservation. Dissertação de candidatura ao grau de Doutor em Biologia, Faculdade de Ciências da Universidade do Porto.</citation>
+                <citation>HESPANHOL, H., A. SÉNECA, and C. SÉRGIO. 2010. Bryophytes from exposed rock outcrops in the North and Centre of Portugal: distribution and conservation. Boletin Sociedad Española Briologia 34/35:19-35.</citation>
+                <citation>ROS, R. M., V. MAZIMPAKA, U. ABOU-SALAMA, M. ALEFFI, T. L. BLOCKEEL, M. BRUGUÉS, M. J. CANO, R. M. CROS, M. G. DIA, G. M. DIRKSE, W. E. SAADAWI, A. ERDA, A. GANEVA, J. M. GONZÁLEZ-MANCEBO, I. HERRNSTADT, K. KHALIL, H. KÜRSCHNER, E. LANFRANCO, A. LOSADA-LIMA, M. S. REFAI, S. RODRÍGUEZ-NUÑEZ, M. SABOVLJEVI, C. SÉRGIO, H. SHABBARA, M. SIM-SIM, and L. SÖDERSTRÖM. 2007. Hepatics and Anthocerotes of the Mediterranean, an annotated checklist. Cryptogamie, Bryologie 28:351-437.</citation>
+                <citation>ROS, R. M., V. MAZIMPAKA, U. ABOU-SALAMA, M. ALEFFI, T. L. BLOCKEEL, M. BRUGUÉS, R. M. CROS, M. DIA, G. M. DIRKSE, I. D. DRAPE, W. EL-SAADAWI, W. ERDAG, A. GANEVA, R. GABRIEL, R. M. GONZÁLEZ-MANCEBO, C. GRANGER, I. HERRNSTADT, V. HUGONNOT, K. KHALIL, H. H. KÜRSCHNER, A. LOSADA-LIMA, L. LUÍS, S. MIFSUD, M. PRIVITERA, M. PUGLISI, M. SABOVLJEVIC, C. SÉRGIO, H. M. SHABBARA, M. SIM-SIM, A. SOTIAUX , R. TACCHI, A. VANDERPOORTEN, and O. WERNER. 2013. Mosses of the Mediterranean, an annotated checklist. Cryptogamie, Bryologie 34:99-283.</citation>
+                <citation>SÉRGIO, C., C. A. GARCIA, M. SIM-SIM, C. VIEIRA, H. HESPANHOL, and S. STOW. 2013. Atlas e Livro Vermelho dos Briófitos ameaçados de Portugal (Atlas and Red Data Book of Endangered Bryophytes of Portugal). MUHNAC, Lisboa.</citation>
+                <citation>VIEIRA, C., A. SÉNECA, and C. SÉRGIO. 2012a. Floristic and ecological survey of bryophytes from Portuguese watercourses. Cryptogamie, Bryologie 33:113-134.</citation>
+                <citation>VIEIRA, C. 2008. Briófitas reófilas saxícolas dos cursos de montanha do Noroeste de Portugal Continental. Dissertação de candidatura ao grau de Doutor em Biologia. Universidade do Porto, Departamento de Botânica da Faculdade de Ciências da Universidade do Porto.</citation>
+                </bibliography>
+                <collection>
+                    <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                    <collectionIdentifier>eb6cd49b-d001-4ec6-bd3b-d14071c54e79</collectionIdentifier>
+                    <collectionName>Briófitas do Herbário da Universidade do Porto (PO)</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>specimens</jgtiUnitType>
+                    <jgtiUnits>7,621</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

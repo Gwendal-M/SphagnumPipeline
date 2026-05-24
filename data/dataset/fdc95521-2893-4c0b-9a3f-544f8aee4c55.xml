@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="fdc95521-2893-4c0b-9a3f-544f8aee4c55"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/goidos</alternateIdentifier>
+        <alternateIdentifier>fdc95521-2893-4c0b-9a3f-544f8aee4c55</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr798</alternateIdentifier>
+        <alternateIdentifier>1dad62e0-02ab-33d6-a1b3-d7fbbe9af737</alternateIdentifier>
+        <title>Non-vascular Plants and Chromists Outer Hebrides</title>
+        <creator>
+            <organizationName>Outer Hebrides Biological Recording</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Outer Hebrides Biological Recording</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2026-02-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Records of  algae, chromists and some bryophytes, excluding INNS, from the Outer Hebrides recorded up to 31 December 2023. Includes records collected directly from individual recorders and those collected by the Highland Biological Recording Group (HBRG). Records of bryophytes collated after November 2014 are submitted to the NBN by the British Bryological Society. Collation and mobilisation of this dataset has been funded by grants from NatureScot.
+OHBR maintains a regional database of records of the flora, fungi and fauna of the Outer Hebrides and the surrounding marine areas. Please refer to OHBR website (www.ohbr.org.uk).</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr798</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr798/dr798.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The vice-county of the Outer Hebrides and the surrounding marine areas (in the wider sense) and reflects observer location and activity. The majority of records are shown at six-figure grid references, but precision may vary considerably.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-8.648</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-6.207</eastBoundingCoordinate>
+                    <northBoundingCoordinate>58.504</northBoundingCoordinate>
+                    <southBoundingCoordinate>56.828</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2003-04-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-06-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Recording and distribution mapping of insects found in VC110. Mainly casual recording but includes some targeted recording of remote areas and selected taxa.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Christine</givenName>
+                <surName>Johnson</surName>
+            </individualName>
+            <electronicMailAddress>admin@ohbr.org.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Field observation and sampling of freshwater habitats for algae and chromists.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data do not have comprehensive geographic or taxonomic coverage.  OHBR aims to maintain a high standard of data quality and all records are validated and verified in accordance with OHBR policy.  Taxonomic names were up-dated to comply with the latest UKSI in January 2024.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:51Z</dateStamp>
+                <citation>Outer Hebrides Biological Recording (2026). Non-vascular Plants and Chromists Outer Hebrides. Occurrence dataset https://doi.org/10.15468/goidos accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/OHBR-logo25-small.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

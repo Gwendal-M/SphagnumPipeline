@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="23bb2c4c-b027-4eb5-b751-57e5d7ea4af6"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/f0qd41</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=magrama-ieet</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=magrama-ieet</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=magrama-ieet</alternateIdentifier>
+        <alternateIdentifier>23bb2c4c-b027-4eb5-b751-57e5d7ea4af6</alternateIdentifier>
+        <title>Inventario Español de Especies Terrestres (MAGRAMA)</title>
+        <creator>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Villares</surName>
+            </individualName>
+            <organizationName>Servicio de Vida Silvestre. Área de Acciones de Conservación. Subdirección General de Medio Natural. Dirección General de Calidad y Evaluación Ambiental y Medio Natural. Ministerio de Agricultura, Alimentación y Medio Ambiente</organizationName>
+            <address>
+                <deliveryPoint>Ministerio de Medio Ambiente y Medio Rural y Marino. C/ Rios Rosas 24, 3ª planta</deliveryPoint>
+                <city>Madrid</city>
+                <administrativeArea>Madrid</administrativeArea>
+                <postalCode>28003</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>jmvillares@magrama.es</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Villares</surName>
+            </individualName>
+            <organizationName>Servicio de Vida Silvestre. Área de Acciones de Conservación. Subdirección General de Medio Natural. Dirección General de Calidad y Evaluación Ambiental y Medio Natural. Ministerio de Agricultura, Alimentación y Medio Ambiente</organizationName>
+            <address>
+                <deliveryPoint>Ministerio de Medio Ambiente y Medio Rural y Marino. C/ Rios Rosas 24, 3ª planta</deliveryPoint>
+                <city>Madrid</city>
+                <administrativeArea>Madrid</administrativeArea>
+                <postalCode>28003</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>jmvillares@magrama.es</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Villares</surName>
+            </individualName>
+            <organizationName>Servicio de Vida Silvestre. Área de Acciones de Conservación. Subdirección General de Medio Natural. Dirección General de Calidad y Evaluación Ambiental y Medio Natural. Ministerio de Agricultura, Alimentación y Medio Ambiente</organizationName>
+            <address>
+                <deliveryPoint>Ministerio de Medio Ambiente y Medio Rural y Marino. C/ Rios Rosas 24, 3ª planta</deliveryPoint>
+                <city>Madrid</city>
+                <administrativeArea>Madrid</administrativeArea>
+                <postalCode>28003</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>jmvillares@magrama.es</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2023-07-11
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Inventario Español de Especies Terrestres recoge la distribución, abundancia y estado de conservación de la fauna y flora terrestre española. Se desarrolla como requerimiento del Real Decreto 556/2011, de 20 de abril, para el desarrollo del Inventario Español del Patrimonio Natural y la Biodiversidad.</para>
+<para>Este juego de datos se adscribe actualmente al Ministerio para la Transición Ecológica y Reto Demográfico (MITERD) pero conserva la denominación del organismo que lo publicó en origen (Ministerio de Agricultura, Alimentación y Medio Ambiente).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>La información contenida en el Inventario Español de especies Terrestres es aplicable al cumplimiento de diferentes compromisos nacionales e internacionales de España, como los derivados del informe periódico de aplicación de las directivas 2009/147/CEE y 92/43/CEE, de aves y hábitats respectivamente, los informes anuales sobre el estado del patrimonio natural y la biodiversidad (artículo 10 de la Ley 42/2007, de 13 de diciembre) y los informes de evaluación periódica del estado de conservación de las especies protegidas (artículo 9 del Real Decreto 139/2011, de 4 de febrero).
+
+En este Inventario se incluye también la información relativa al anillamiento científico de aves, tortugas marinas y murciélagos, coordinado a escala nacional por el Ministerio de Agricultura, Alimentación y Medio Ambiente a través de la Oficina de Especies Migradoras (OEM). Asimismo, también se incluyen los Censos de Aves Acuáticas Invernantes y los resultados de proyectos realizados en relación a los efectos del cambio climático sobre la biodiversidad en España.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.magrama.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-especies-terrestres/inventario-nacional-de-biodiversidad/bdn-ieet-default.aspx</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.es/archive.do?r=magrama-ieet</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Península Ibérica, Ceuta, Melilla, Islas Baleares e Islas Canarias.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El inventario recoge especies y subespecies de flora (vascular y no vascular), animales vertebrados (aves, mamíferos, reptiles y peces continentales)e invertebrados. Todos los taxones identificados, al menos, a nivel de especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Regulado mediante el Real Decreto 556/2011, de 20 de abril, para el desarrollo del Inventario Español del Patrimonio Natural y de la Biodiversidad, recoge la distribución, abundancia y estado de conservación de la fauna y flora terrestre española. Considera tanto fauna terrestre (Vertebrados e Invertebrados) como flora (vascular y no vascular).</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Villares</surName>
+            </individualName>
+            <organizationName>Servicio de Vida Silvestre. Área de Acciones de Conservación. Subdirección General de Medio Natural. Dirección General de Calidad y Evaluación Ambiental y Medio Natural. Ministerio de Agricultura, Alimentación y Medio Ambiente</organizationName>
+            <address>
+                <deliveryPoint>Ministerio de Medio Ambiente y Medio Rural y Marino. C/ Rios Rosas 24, 3ª planta</deliveryPoint>
+                <city>Madrid</city>
+                <administrativeArea>Madrid</administrativeArea>
+                <postalCode>28003</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <electronicMailAddress>jmvillares@magrama.es</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Los diferentes sistemas de seguimiento proporcionan actualizaciones periódicas de la información contenida en las bases de datos del Inventario. La información se presenta actualizada en base a estas aportaciones.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Península Ibérica, Ceuta, Melilla, Islas Baleares e Islas Canarias.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La información contenida en las Bases de Datos corresponde al Inventario Español de Especies Terrestres (IEET). Los datos son los que integran los diferentes Atlas y Libros Rojos, con actualizaciones proporcionadas por los sistemas de seguimiento.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Inventario Español de Especies Terrestres</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Juan Manuel</givenName>
+                    <surName>Villares</surName>
+                    </individualName>
+                    <role>METADATA_AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Ecosistemas terrestres de la Península Ibérica, Ceuta, Melilla, Islas Baleares e Islas Canarias.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Distribución, abundancia y estado de conservación de la fauna y flora terrestre española.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:20Z</dateStamp>
+                <citation>Villares J M (2023). Inventario Español de Especies Terrestres (MAGRAMA). Version 1.5. Spanish Ministry for Ecological Transition and Demographic Challenge. Occurrence dataset https://doi.org/10.15468/f0qd41 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>R. Garilleti &amp; B. Albertos (Coord.) 2012. Atlas y Libro Rojo de los briófitos amenazados de España. Ed.: Organismo Autónomo Parques Nacionales. Madrid, 288 pp.</citation>
+                <citation>Bañares, Á., Blanca, G., Güemes, J., Moreno, J.C. &amp; Ortiz, S. (Eds.) 2004. Atlas y Libro Rojo de la Flora Vascular Amenazada de España. Dirección General de Conservación de la Naturaleza. Madrid, 1.069 pp</citation>
+                <citation>Verdú, J.R, &amp; Galante, E. (Eds.) 2009. Atlas de los invertebrados amenazados de España (especies en peligro crítico y en peligro). Dirección General para la Biodiversidad, Ministerio de Medio Ambiente, Madrid, 340 pp.</citation>
+                <citation>Verdú, J.R., Numa, C. &amp; Galante, E. (Eds.) 2011. Atlas y Libro Rojo de los invertebrados amenazados de España (especies vulnerables). Dirección General de Medio Nautral y Política Forestal, Ministerio de Medio Ambiente, Medio Rural y Marino, Madrid, 1.318 pp.</citation>
+                <citation>Doadrio, I. (Ed.) 2002. Atlas y Libro Rojo de los peces continentales de España. Segunda edición. Consejo Superior de Investigaciones Científicas y Ministerio de Medio Ambiente, Madrid, 375 pp.</citation>
+                <citation>Pleguezuelos, J.M., Márquez, R. &amp; Lizana, M. (Eds.) 2002. Atlas y Libro Rojo de los anfibios y reptiles de España. Dirección General de Conservación de la Naturaleza-Asociación Herpetológica Española (2ª impresión), Madrid, 587 pp.</citation>
+                <citation>Madroño, A., González, A. &amp; Atienza, J.C. (Eds.) 2004. Libro Rojo de las aves de España. Dirección General para la Biodiversidad-SEO/BirdLife, Madrid, 451 pp.</citation>
+                <citation>Palomo, L.J., Gisbert, J. &amp; Blanco, J. C. 2007. Atlas y Libro Rojo de los mamíferos terrestres de España. Dirección General para la Biodiversidad-SECEM-SECEMU, Madrid, 588 pp.</citation>
+                <citation identifier="http://www.seo.org/RESULTADOS-SEGUIMIENTO-DE-AVES-/?PRO=NO">SEO/BirdLife 2013. Resultados del programa Noctua 2006-2013.SEO/BirdLife. Madrid.</citation>
+                <citation identifier="http://www.seo.org/RESULTADOS-SEGUIMIENTO-DE-AVES-/?PRO=NO">SEO/BirdLife 2013. Resultados del programa Paser de SEO/BirdLife.
+SEO/BirdLife. Madrid.</citation>
+                <citation>SEO/BirdLife 2012. Resultados del programa de seguimiento de aves comunes en primavera de SEO/BirdLife. SEO/BirdLife-Ministerio de Agricultura, Alimentación y Medio Ambiente. Madrid</citation>
+                </bibliography>
+                <resourceLogoUrl>http://www.gbif.es/ipt/logo.do?r=magrama-ieet</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                    <collectionIdentifier>magrama-ieet</collectionIdentifier>
+                    <collectionName>Inventario Español de Especies Terrestres (MAGRAMA)</collectionName>
+                </collection>
+                <specimenPreservationMethod>NO_TREATMENT</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

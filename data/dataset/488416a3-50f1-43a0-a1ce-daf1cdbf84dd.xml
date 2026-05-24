@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="488416a3-50f1-43a0-a1ce-daf1cdbf84dd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/owig1t</alternateIdentifier>
+        <alternateIdentifier>https://dudata.biology.lv/resource?r=dau</alternateIdentifier>
+        <alternateIdentifier>488416a3-50f1-43a0-a1ce-daf1cdbf84dd</alternateIdentifier>
+        <alternateIdentifier>b1053670-bfce-421a-9d29-7a401cc66790</alternateIdentifier>
+        <alternateIdentifier>https://doi.org/10.5281/zenodo.3380323</alternateIdentifier>
+        <title>Herbarium Universitatis Daugavpiliensis</title>
+        <creator>
+            <individualName>
+                <givenName>Dana</givenName>
+                <surName>Krasnopoļska</surName>
+            </individualName>
+            <organizationName>Daugavpils University</organizationName>
+            <positionName>scientific assistant</positionName>
+            <address>
+                <deliveryPoint>Parades str. 1A</deliveryPoint>
+                <city>Daugavpils</city>
+                <postalCode>LV5401</postalCode>
+                <country>LATVIA</country>
+            </address>
+            <electronicMailAddress>dana.krasnopolska@biology.lv</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Pēteris</givenName>
+                <surName>Evarts-Bunders</surName>
+            </individualName>
+            <organizationName>Daugavpils University</organizationName>
+            <positionName>senior researcher</positionName>
+            <address>
+                <deliveryPoint>Parades str. 1A</deliveryPoint>
+                <city>Daugavpils</city>
+                <postalCode>LV5401</postalCode>
+                <country>LATVIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dace</givenName>
+                <surName>Stepanova</surName>
+            </individualName>
+            <organizationName>Daugavpils University</organizationName>
+            <positionName>laboratory assistant</positionName>
+            <address>
+                <deliveryPoint>Parades str. 1A</deliveryPoint>
+                <city>Daugavpils</city>
+                <country>LATVIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Dana</givenName>
+                <surName>Krasnopoļska</surName>
+            </individualName>
+            <organizationName>Daugavpils University</organizationName>
+            <positionName>scientific assistant</positionName>
+            <address>
+                <deliveryPoint>Parades str. 1A</deliveryPoint>
+                <city>Daugavpils</city>
+                <postalCode>LV5401</postalCode>
+                <country>LATVIA</country>
+            </address>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dana</givenName>
+                <surName>Krasnopoļska</surName>
+            </individualName>
+            <electronicMailAddress>dana.krasnopolska@biology.lv</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-05-29
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The herbarium of Department of Biosystematics (Institute of Life Sciences and Technology, Daugavpils University) consists of around 120 000 vascular plant, bryophyte, lichen, algae and fungi specimens. Herbarium collections are supplemented with more than 3500 specimens every year and they are part of the Latvian National Herbarium. Most of the herbarium material is collected in Latvia (around 85 %), but specimens from other Baltic countries are also deposited: Northern Europe, Central Europe, Eastern Europe, the Mediterranean region, Far East, Africa, North America, Central America.
+Herbarium currently includes:     
+Vascular plants: Num. of Specimens – 90 000
+Bryophytes: Num. of Specimens - 3500
+Algae (Charophytes): Num. of Specimens - 640  
+Fungi/Lichens: Num. of Specimens – 24 000
+DAU herbarium has been registered in the New York Botanical Garden electronic database Index Herbariorum since 2007.
+DAU herbarium has been digitized in the PlutoF database platform since 2021.
+Taxonomic Coverage: Vascular plants of Latvia; water macrophytes (including Charophyta) of Latvia, allochtonous vascular plants of Latvia; vascular plants of Baltics and Eastern Europe.
+Geography: Latvia, Baltics, Eastern Europe
+Incorporated herbaria:
+SKR Herbarium of Latvian Research Institute of Agriculture is incorporated in DAU in 2017. Worldwide herbarium of plant diseses coollected by famous mycologist J. Smarods (20 000 specimens)
+Ķemeri National Park Herbarium (500 specimens) is included in the DAU herbarium since 2018.
+TVR Herbarium of Teiči and Krustkalni Nature reserves (4 000 specimens) is incorporated in the DAU herbarium since 2023.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://dudata.biology.lv/archive.do?r=dau</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>worldwide</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Dana</givenName>
+                <surName>Krasnopoļska</surName>
+            </individualName>
+            <organizationName>Daugavpils University</organizationName>
+            <positionName>scientific assistant</positionName>
+            <address>
+                <deliveryPoint>Parades str. 1A</deliveryPoint>
+                <city>Daugavpils</city>
+                <postalCode>LV5401</postalCode>
+                <country>LATVIA</country>
+            </address>
+            <electronicMailAddress>dana.krasnopolska@biology.lv</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:28Z</dateStamp>
+                <citation>Krasnopoļska D, Evarts-Bunders P, Stepanova D (2024). Herbarium Universitatis Daugavpiliensis. Daugavpils University. Occurrence dataset https://doi.org/10.15468/owig1t accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

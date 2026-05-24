@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5fe48e2c-a83d-43b7-952a-e1e62c49ad23"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.13148/bfe93</alternateIdentifier>
+        <alternateIdentifier>http://data.freshwaterbiodiversity.eu/ipt/resource?r=bfe_93</alternateIdentifier>
+        <alternateIdentifier>10.15468/h4euxn</alternateIdentifier>
+        <alternateIdentifier>http://data.freshwaterbiodiversity.eu/ipt/resource.do?r=bfe_93</alternateIdentifier>
+        <alternateIdentifier>5fe48e2c-a83d-43b7-952a-e1e62c49ad23</alternateIdentifier>
+        <title>Monitoring data from the federal state Saxony (Germany)</title>
+        <creator>
+            <individualName>
+                <givenName>Kerstin</givenName>
+                <surName>Jenemann</surName>
+            </individualName>
+            <organizationName>Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie</organizationName>
+            <address>
+                <deliveryPoint>Postfach 540137</deliveryPoint>
+                <city>Dresden</city>
+                <administrativeArea>Saxony</administrativeArea>
+                <postalCode>01311</postalCode>
+                <country>GERMANY</country>
+            </address>
+            <phone>(+49)35189284407</phone>
+            <electronicMailAddress>Kerstin.Jenemann@smul.sachsen.de</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Veronica</givenName>
+                <surName>Dahm</surName>
+            </individualName>
+            <organizationName>University of Duisburg-Essen</organizationName>
+            <address>
+                <deliveryPoint>Universitätsstr. 5</deliveryPoint>
+                <city>Essen</city>
+                <administrativeArea>North Rhine-Westphalia</administrativeArea>
+                <postalCode>45141</postalCode>
+                <country>GERMANY</country>
+            </address>
+            <phone>(+49)2011834724</phone>
+            <electronicMailAddress>veronica.dahm@uni-due.de</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Kerstin</givenName>
+                <surName>Jenemann</surName>
+            </individualName>
+            <organizationName>Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie</organizationName>
+            <address>
+                <deliveryPoint>Postfach 540137</deliveryPoint>
+                <city>Dresden</city>
+                <administrativeArea>Saxony</administrativeArea>
+                <postalCode>01311</postalCode>
+                <country>GERMANY</country>
+            </address>
+            <phone>(+49)35189284407</phone>
+            <electronicMailAddress>Kerstin.Jenemann@smul.sachsen.de</electronicMailAddress>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jean</givenName>
+                <surName>Signer</surName>
+            </individualName>
+            <organizationName>Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie</organizationName>
+            <address>
+                <deliveryPoint>Postfach 540137</deliveryPoint>
+                <city>Dresden</city>
+                <administrativeArea>Saxony</administrativeArea>
+                <postalCode>01311</postalCode>
+                <country>GERMANY</country>
+            </address>
+            <electronicMailAddress>Jean.Signer@smul.sachsen.de</electronicMailAddress>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2017-09-08
+        </pubDate>
+        <language>GERMAN</language>
+        <abstract>
+            <para>The dataset consists of occurrence data of the aquatic organism groups fish, macroinvertebrates and macrophytes that were sampled in the German federal state Saxony between 2007 and 2011. The sampling was conducted according to the protocols of the national monitoring programme for implementation of the Water Framework Directive.</para>
+<para>For additional metadata see: http://data.freshwaterbiodiversity.eu/metadb/bf_mdb_view.php?entryID&amp;#61;BFE_93</para>
+        </abstract>
+        <keywordSet>
+            <keyword>rivers</keyword>
+            <keyword>Monitoring data</keyword>
+            <keyword>Macrophytes</keyword>
+            <keyword>Water Framework Directive</keyword>
+            <keyword>Macroinvertebrates</keyword>
+            <keyword>Fish</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Biosphere</keyword>
+            <keywordThesaurus>http://gcmd.nasa.gov/User/difguide/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inland Waters</keyword>
+            <keyword>Biota</keyword>
+            <keywordThesaurus>http://gcmd.nasa.gov/User/difguide/iso_topics.html</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>No claim is made that the data gives a complete picture of occurrence since the sampling stations in the dataset do not cover all waterbodies. The resource creator does not guarantee for the correctness of the data</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.freshwaterbiodiversity.eu/ipt/archive.do?r=bfe_93</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Regional coverage</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>11.8</westBoundingCoordinate>
+                    <eastBoundingCoordinate>15.1</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.7</northBoundingCoordinate>
+                    <southBoundingCoordinate>50.1</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2007
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2011
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Fish</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Macro invertebrates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Macrophytes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Veronica</givenName>
+                <surName>Dahm</surName>
+            </individualName>
+            <organizationName>University of Duisburg-Essen</organizationName>
+            <address>
+                <deliveryPoint>Universitätsstr. 5</deliveryPoint>
+                <city>Essen</city>
+                <administrativeArea>North Rhine-Westphalia</administrativeArea>
+                <postalCode>45141</postalCode>
+                <country>GERMANY</country>
+            </address>
+            <phone>(+49)2011834724</phone>
+            <electronicMailAddress>veronica.dahm@uni-due.de</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Kerstin</givenName>
+                <surName>Jenemann</surName>
+            </individualName>
+            <organizationName>Sächsisches Landesamt für Umwelt, Landwirtschaft und Geologie</organizationName>
+            <address>
+                <deliveryPoint>Postfach 540137</deliveryPoint>
+                <city>Dresden</city>
+                <administrativeArea>Saxony</administrativeArea>
+                <postalCode>01311</postalCode>
+                <country>GERMANY</country>
+            </address>
+            <phone>(+49)35189284407</phone>
+            <electronicMailAddress>Kerstin.Jenemann@smul.sachsen.de</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>commonly used series of methods steps regarding fish (e.g. sampling, identification, data management)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>commonly used series of methods steps regarding macro invertebrates (e.g. sampling, identification, data management)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>commonly used series of methods steps regarding macrophytes (e.g. sampling, identification, data management)</para>
+                </description>
+            </methodStep>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:24Z</dateStamp>
+                <citation identifier="doi:10.13148/bfe93">Jenemann K, Dahm V (2017). Monitoring data from the federal state Saxony (Germany). Version 2.2. BioFresh. Occurrence dataset https://doi.org/10.13148/bfe93 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f64eb948-b705-4670-a387-81ef5b8698f6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/nz9brh</alternateIdentifier>
+        <shortName>Données Florilèges Prairies</shortName>
+        <title>Données issues du programme Florilèges Prairies</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-07-11
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Sur le terrain, les différentes étapes du protocole
+
+1. Choisir une prairie de plus de 130 m².
+
+2. Placer 2 × 5 carrés d’1 m² de part et d’autre du centre de la prairie selon une des dispositions proposées dans la Fiche « localisation et historique ». La localisation des quadrats et l’historique de la prairie sont détaillés sur cette fiche. Les 10 quadrats seront replacés au même endroit chaque année. Cette première fiche n’est à compléter que la première année du suivi.
+
+3. Relever les plantes sur le terrain une fois par an entre juin et juillet (période de floraison optimale pour les plantes), seul·e ou à plusieurs. À l’intérieur de chaque carré, compter le nombre de ligneux présents (sans chercher à les identifier) et identifier les plantes présentes parmi les 60 de la liste de la Fiche « relevé et gestion » en vous aidant de la Clé des prairies et la Clé des Poacées . Sur cette même fiche, renseigner la gestion menée sur la prairie durant l’année écoulée entre votre dernier relevé et le relevé actuel.
+
+4. La saisie des données s’effectue en ligne sur le site dédié : https://www.suivis-espaces-verts.fr/le-programme-florileges-prairies.
+
+Les 60 espèces de plantes sélectionnées dans le programme Florilèges prairies sont des espèces communes dans les prairies de la moitié Nord de la France. Elles ont été sélectionnées en fonction de leurs écologies variées et de leur facilité d’identification. Des ressources sont disponibles en ligne pour vous aider à localiser les quadrats, identifier et renseigner les espèces de plantes des prairies sont disponibles
+        </abstract>
+        <keywordSet>
+            <keyword>Flore</keyword>
+            <keyword>Prairies</keyword>
+            <keyword>Vigie-Nature</keyword>
+            <keyword>6.16 - « Milieux urbains ».</keyword>
+            <keyword>1.1 - « Science participative ».</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Surveillance communauté d&apos;espèces</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/0029148E-89C2-0599-E063-0514A8C07ACC</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-3.151</westBoundingCoordinate>
+                    <eastBoundingCoordinate>7.98721</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.05385</northBoundingCoordinate>
+                    <southBoundingCoordinate>43.39</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-05-16
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-06-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>n/a</surName>
+            </individualName>
+            <organizationName>n/a</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Florilèges Prairies</title>
+                <personnel>
+                    <individualName>
+                    <surName>Martin Jeanmougin</surName>
+                    </individualName>
+                    <organizationName>MUSEUM NATIONAL D&apos;HISTOIRE NATURELLE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>Martin Jeanmougin</surName>
+                    </individualName>
+                    <organizationName>MUSEUM NATIONAL D&apos;HISTOIRE NATURELLE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>Martin Jeanmougin</surName>
+                    </individualName>
+                    <organizationName>MUSEUM NATIONAL D&apos;HISTOIRE NATURELLE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Florilèges prairies est un suivi standardisé de la flore des prairies urbaines, co-élaboré en 2014 puis lancé en 2015 par le Muséum national d&apos;Histoire naturelle, Plante et Cité, le Conservatoire Botanique National du Bassin Parisien, le Département de Seine Saint Denis et l&apos;Agence Régionale de la Biodiversité en Ile-de-France.
+
+Il permet d’évaluer l’effet des pratiques de gestion sur la qualité écologique des prairies et d’étudier la dynamique de l’évolution de ces milieux.
+
+Le programme de sciences participatives Florilèges prairies est dédié aux gestionnaires d’espaces verts qui souhaitent s’inscrire dans une démarche scientifique à l’échelle nationale et disposer d’un outil d’aide à la décision pour adapter leurs pratiques à la biodiversité.
+
+Le protocole consiste à recenser 60 espèces dans 10 carrés d’1m² au cœur même d’une prairie. Plusieurs outils sont fournis aux gestionnaires : un livret d’accompagnement au protocole, des fiches de terrain et deux guides d’identification.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:47Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2023). Données issues du programme Florilèges Prairies. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/nz9brh accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

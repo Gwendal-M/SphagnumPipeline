@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="84f58d09-add5-469b-af6e-f3522a8dac7d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ke4kw8</alternateIdentifier>
+        <alternateIdentifier>84f58d09-add5-469b-af6e-f3522a8dac7d</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1954</alternateIdentifier>
+        <alternateIdentifier>05291f02-9d1d-3792-b010-c95fbddf2e51</alternateIdentifier>
+        <title>CEDaR Online Recording</title>
+        <creator>
+            <organizationName>Centre for Environmental Data and Recording</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Centre for Environmental Data and Recording</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2026-04-14
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>These are the records that have been collated through the CEDaR Online Recording forms. Records have been contributed by a number of individuals, for several species groups and have been verified through  a network of local and national experts using iRecord.
+Most records are recent (post-2012) additions, but there are some older datasets included that have been uploaded for verification purposes in recent years.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1954</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1954/dr1954.zip</url>
+            </online>
+        </distribution>
+        <purpose><para>CEDaR Online Recording provides the community with a mechanism through which they can collate and submit their records. Records are subsequently made available for a range of conservation purposes.</para></purpose>
+        <contact>
+            <electronicMailAddress>cedar.records@nmni.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>These have been captured using a variety of sampling techniques and no single methodology is applicable for the whole data set.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>NBN Record Cleaner rules are applied to all data held in the BRC Community Warehouse. However, these rules are not reliable for NI datasets. Dataset has been verified by network of established local/national experts.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:18Z</dateStamp>
+                <citation>Centre for Environmental Data and Recording (2026). CEDaR Online Recording. Occurrence dataset https://doi.org/10.15468/ke4kw8 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/cedar-logo-master-colour-landscape-2014.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

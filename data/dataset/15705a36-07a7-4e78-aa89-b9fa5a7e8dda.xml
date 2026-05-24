@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="15705a36-07a7-4e78-aa89-b9fa5a7e8dda"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3jvyg3</alternateIdentifier>
+        <alternateIdentifier>15705a36-07a7-4e78-aa89-b9fa5a7e8dda</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=aska_visti</alternateIdentifier>
+        <title>The occurrences of the Biosphere Reserve &quot;Askania Nova&quot; Reports</title>
+        <creator>
+            <individualName>
+                <givenName>Nadiia</givenName>
+                <surName>Skobel</surName>
+            </individualName>
+            <organizationName>Kherson State University</organizationName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>skobel2015@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4354-2881</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Nadiia</givenName>
+                <surName>Skobel</surName>
+            </individualName>
+            <organizationName>Kherson State University</organizationName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>skobel2015@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4354-2881</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Nadiia</givenName>
+                <surName>Skobel</surName>
+            </individualName>
+            <organizationName>Kherson State University</organizationName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>skobel2015@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4354-2881</userId>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2026-04-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The Biosphere Reserve &amp;#34;Askania Nova&amp;#34; Reports is a scientific, peer-reviewed journal specialized in biology and ecology. Thematic scope: the journal publishes articles on nature conservation, conservation of natural diversity, biology, ecology, protection of rare species of plants and animals in nature and artificial conditions, steppe nature management, soil science, introduction, reintroduction. Issues: protected area, bioecology; genetics, plant physiology and applied botany; hydrobiology; zoology. Periodicity: 1 time a year.
+The dataset contains an records of all species occurrences that have been published in 2-25 issues of the Biosphere Reserve &amp;#34;Askania Nova&amp;#34; Reports (2000-2024). To avoid data duplication, this dataset does not include the occurrences that are part of another dataset (https://doi.org/10.15468/4gzpkr, https://doi.org/10.15468/nhn2ae, https://doi.org/10.15468/xyt6hj) published before.
+This dataset contains 5007 taxa names recorded. The nomenclature of the dataset follows original taxa names in articles. The materials in the Biosphere Reserve &amp;#34;Askania Nova&amp;#34; Reports are especially important in light of the events of 2022, when a Russian full scale invasion. The data from these Scientific readings actually document the historical state of biodiversity before the outbreak of a full-scale invasion war in the southern Ukraine.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence; journals</keyword>
+            <keyword>southern Ukraine</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=aska_visti</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The study area is situated in Ukraine in Central Europe.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-172.969</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-3.516</eastBoundingCoordinate>
+                    <northBoundingCoordinate>75.497</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.102</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The nomenclature of the dataset follows original taxa names in articles.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nadiia</givenName>
+                <surName>Skobel</surName>
+            </individualName>
+            <organizationName>Kherson State University</organizationName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>skobel2015@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4354-2881</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Digitizing the literature sources.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data checking and cleaning.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transformation of the dataset according to the Darwin Core standards.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Taxonomic check, final quality control.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Central Europe, Ukraine</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The dataset includes botanical, zoological, and hydrological surveys using various methods, mostly on occurrences species.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Data was recorded according to the methodology used for the temporal scope, or the date of publication was used if it was not specified in the methodology of the source. We used GBIF Backbone Taxonomy (GBIF species matching tool: https://www.gbif.org/tools/species-lookup) for the taxonomic check and implemented minor corrections of species names regarding misprints and problematic taxa to avoid misinterpretation. We additionally checked and verified the header data using OpenRefine (https://openrefine.org/), and QGIS 3.38 (https://qgis.org) for quality control.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="09-12-2024">
+                <title>Preservation of Scientific Heritage of Nature Reserves and National Parks Affected by the War</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Oleksiy</givenName>
+                    <surName>Vasyliuk</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>The project is aimed at collecting, digitalization and preservation of data on biodiversity records in Ukraine. The project was implemented by the Ukrainian Nature Conservation Group with the support of the Goethe-Institut Ukraine, part of the Embassy of the Federal Republic of Germany in Ukraine</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:18Z</dateStamp>
+                <citation>Skobel N (2026). The occurrences of the Biosphere Reserve &quot;Askania Nova&quot; Reports. Version 1.10. Kherson State University. Occurrence dataset https://doi.org/10.15468/3jvyg3 accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”: Охорона та збереження рідкісних видів. Асканія-Нова, 2000. Том 2. 190 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2001. Том 3. 108 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2002. Том 4. 216 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2003. Том 5. 237 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2004. Том 6. 155 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2005. Том 7. 172 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2006. Том. 8. 205 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2007. Том 9. 164 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2008. Том 10. 246 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2009. Том 11. 208 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2010. Том 12. 192 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2011. Том 13. 231 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2012. Том 14. 613 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2013. Том 15. 299 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2014. Том 16. 146 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2015. Том 17. 126 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2016. Том 18. 253 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2017. Том 19. 113 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2018. Том 20. 145 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2019. Том 21. 462 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2020. Том 22. 84 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2021. Том 23. 122 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2022. Том 24. 174 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2023. Том 25. 206 с.</citation>
+                <citation>Вісті Біосферного заповідника “Асканія-Нова”. Асканія-Нова, 2024. Том 26. 277 с.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

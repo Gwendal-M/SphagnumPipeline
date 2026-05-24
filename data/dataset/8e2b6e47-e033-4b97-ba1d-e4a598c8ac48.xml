@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8e2b6e47-e033-4b97-ba1d-e4a598c8ac48"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/hstsjb</alternateIdentifier>
+        <alternateIdentifier>https://ipt.laji.fi/resource?r=jyu_springbryo</alternateIdentifier>
+        <alternateIdentifier>8e2b6e47-e033-4b97-ba1d-e4a598c8ac48</alternateIdentifier>
+        <title>Spring bryophyte flora of Salpausselkä (Ulvinen 1955 &amp; Juutinen 2006)</title>
+        <creator>
+            <individualName>
+                <givenName>Riikka</givenName>
+                <surName>Juutinen</surName>
+            </individualName>
+            <address>
+                <country>FINLAND</country>
+            </address>
+            <electronicMailAddress>rjuutinen@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Tanja</givenName>
+                <surName>Koskela</surName>
+            </individualName>
+            <organizationName>Jyväskylä University Museum</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <city>Jyväskylä</city>
+                <country>FINLAND</country>
+            </address>
+            <electronicMailAddress>tanja.a.e.koskela@jyu.fi</electronicMailAddress>
+            <onlineUrl>https://www.jyu.fi/erillis/museo/en/natural</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Tanja</givenName>
+                <surName>Koskela</surName>
+            </individualName>
+            <organizationName>Jyväskylä University Museum</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <city>Jyväskylä</city>
+                <country>FINLAND</country>
+            </address>
+            <electronicMailAddress>tanja.a.e.koskela@jyu.fi</electronicMailAddress>
+            <onlineUrl>https://www.jyu.fi/erillis/museo/en/natural</onlineUrl>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-03-18
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Observations made by Tauno Ulvinen in year 1953 (Ulvinen T. 1955: Lahteiden ja lahteikkojen kasvistosta ja kasvillisuudesta ulomman Salpausselan itaisessa keskiosassa. Pro gradu -tutkielma. Helsingin yliopiston kasvitieteen laitos. 308 s. In english: Spring fen vegetation of outer Salpausselka region. Pro gradu-thesis. University of Helsinki, Department of Botany. 308 p.), Riikka Juutinen in year 2006 (Juutinen R. 2006: Lahteikkojen luonnontilan ja sammallajiston muutokset Salpausselalla 1953- 2006. Pro gradu -tutkielma. Jyvaskylan yliopisto, ekologia ja ymparistonhoito. 69 s. In english: Changes of natural state and bryophyte flora in Salpausselka springs between 1953 and 2006. Pro gradu-thesis. University of Jyvaskyla, Department of Ecology and Environmental management. 69 p.) and specimens from private collection of Riikka Juutinen.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.laji.fi/archive.do?r=jyu_springbryo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Finland, Salpausselkä region</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>24.06</westBoundingCoordinate>
+                    <eastBoundingCoordinate>29.78</eastBoundingCoordinate>
+                    <northBoundingCoordinate>61.96</northBoundingCoordinate>
+                    <southBoundingCoordinate>60.27</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Riikka</givenName>
+                <surName>Juutinen</surName>
+            </individualName>
+            <address>
+                <country>FINLAND</country>
+            </address>
+            <electronicMailAddress>rjuutinen@gmail.com</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:53Z</dateStamp>
+                <citation>Juutinen R, Koskela T (2024). Spring bryophyte flora of Salpausselkä (Ulvinen 1955 &amp; Juutinen 2006). Version 1.4. Jyväskylä University Museum. Occurrence dataset https://doi.org/10.15468/hstsjb accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d09e131c-79c6-4605-b373-ce38383ea9d7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/us5dxg</alternateIdentifier>
+        <alternateIdentifier>d09e131c-79c6-4605-b373-ce38383ea9d7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1510</alternateIdentifier>
+        <alternateIdentifier>f8af5a12-1851-3ccf-967d-3dff536ccecf</alternateIdentifier>
+        <title>Natalie Harmsworth&apos;s Records (2010-2019)</title>
+        <creator>
+            <organizationName>The Wildlife Information Centre</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>The Wildlife Information Centre</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-11-28
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Records collected by Natalie Harmsworth.  The records are a combination of casual and systematic records collected from a variety of species groups within the Lothians, Borders and Upper Forth areas. There is a particalar emphasis on plants and birds and a geographical bias in recording towards Midlothian and Edinburgh areas. Many of the bird records were made with Mike Beard.
+A mixture of casual records, monad recording for the Botanical Society of Britain and Ireland (BSBI) Atlas 2020 and surveys of proposed Local Biodiversity Sites/ Local Nature Conservation Sites for The Wildlife Information Centre (TWIC).</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr1510</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr1510/dr1510.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Lothians, Borders, Upper Forth area</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-5.123</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-2.556</eastBoundingCoordinate>
+                    <northBoundingCoordinate>56.057</northBoundingCoordinate>
+                    <southBoundingCoordinate>55.514</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2011-04-24
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-03-22
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <individualName>
+                <givenName>TWIC</givenName>
+                <surName>Admin</surName>
+            </individualName>
+            <positionName>Editor</positionName>
+            <electronicMailAddress>admin@wildlifeinformation.co.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Field Observations - including a mixture of casual records and complete lists for sites or survey squares.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>High.  Natalie Harmsworth is an experienced ecologist with a specialisation in vascular plants. Data has been checked via the NBN Record Cleaner and has been submitted to verifiers</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:15Z</dateStamp>
+                <citation>The Wildlife Information Centre (2022). Natalie Harmsworth&apos;s Records (2010-2019). Occurrence dataset https://doi.org/10.15468/us5dxg accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/TWIC_Logo.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

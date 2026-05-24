@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7139041c-bc5b-49fe-bda2-601dc00c9d19"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/h5fjud</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2172</alternateIdentifier>
+        <alternateIdentifier>7139041c-bc5b-49fe-bda2-601dc00c9d19</alternateIdentifier>
+        <alternateIdentifier>5212cc52-d48e-31ce-8d79-5a06caf8c15f</alternateIdentifier>
+        <title>KiEco Freshwater Ecology: River Macrophytes</title>
+        <creator>
+            <organizationName>Natural Resources Wales</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Natural Resources Wales</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-09-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Macrophytes (water plants visible to the naked eye) can indicate the impact of pressures such as increased nutrients, flow pressures, channel alterations etc. The species present and their abundance give an indication as to the health of a river. This dataset is made up of species lists and their percentage cover value for each survey conducted across Wales by Natural Resources Wales and former Environment Agency Wales. These surveys are conducted as part of on-going monitoring of river water quality for legislative requirements and to meet business drivers.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr2172</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr2172/dr2172.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Wales</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-5.777741</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-2.608865</eastBoundingCoordinate>
+                    <northBoundingCoordinate>53.512067</northBoundingCoordinate>
+                    <southBoundingCoordinate>51.240829</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <individualName>
+                <givenName>NRW</givenName>
+                <surName>Admin</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>opendata@cyfoethnaturiolcymru.gov.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>A strict methodology is applied when sampling for freshwater macrophytes. There is a core network of sites which are monitoring on a three-year rolling programme. These sites are added to for investigative work, or on an ad hoc basis. Sampling areas are located with a larger survey area and must be representative of the overall survey area. A standard cover-class method is the most commonly used method for sampling freshwater macrophytes. Natural Resources Wales collect and analyse in excess of 100 surveys from rivers every year. Macrophyte species are identified on site and confirmed in the laboratory if necessary.</para>
+                </description>
+            </methodStep>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:08Z</dateStamp>
+                <citation>Natural Resources Wales (2025). KiEco Freshwater Ecology: River Macrophytes. Occurrence dataset https://doi.org/10.15468/h5fjud accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NRW.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5b514765-9a1b-4910-a497-3473572ef053"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/94bfqd</alternateIdentifier>
+        <alternateIdentifier>5b514765-9a1b-4910-a497-3473572ef053</alternateIdentifier>
+        <alternateIdentifier>https://plantbank.gbif.cz/resource?r=czechia_vdb</alternateIdentifier>
+        <alternateIdentifier>d90e23c2-98a1-4a16-972f-e856078504ca</alternateIdentifier>
+        <shortName>CzechVeg, CzechiaVD</shortName>
+        <title>Czech Vegetation Database</title>
+        <creator>
+            <individualName>
+                <givenName>Milan</givenName>
+                <surName>Chytrý</surName>
+            </individualName>
+            <organizationName>Masaryk University</organizationName>
+            <positionName>Head of the Vegetation Science Group</positionName>
+            <address>
+                <deliveryPoint>Kotlářská 2</deliveryPoint>
+                <city>Brno</city>
+                <administrativeArea>Czech Republic</administrativeArea>
+                <postalCode>61137</postalCode>
+                <country>CZECH_REPUBLIC</country>
+            </address>
+            <electronicMailAddress>chytry@sci.muni.cz</electronicMailAddress>
+            <onlineUrl>https://www.sci.muni.cz/botany/chytry/index.htm</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8122-3075</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ilona</givenName>
+                <surName>Knollová</surName>
+            </individualName>
+            <organizationName>Masaryk University</organizationName>
+            <address>
+                <deliveryPoint>Kotlářská 2</deliveryPoint>
+                <city>Brno</city>
+                <administrativeArea>Czech Republic</administrativeArea>
+                <postalCode>61137</postalCode>
+                <country>CZECH_REPUBLIC</country>
+            </address>
+            <electronicMailAddress>ikuzel@sci.muni.cz</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4074-789X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Martin</givenName>
+                <surName>Večeřa</surName>
+            </individualName>
+            <organizationName>Masaryk University</organizationName>
+            <address>
+                <deliveryPoint>Kotlářská 2</deliveryPoint>
+                <city>Brno</city>
+                <administrativeArea>Czech Republic</administrativeArea>
+                <postalCode>61137</postalCode>
+                <country>CZECH_REPUBLIC</country>
+            </address>
+            <electronicMailAddress>357693@mail.muni.cz</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-8507-791X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Irena</givenName>
+                <surName>Axmanová</surName>
+            </individualName>
+            <organizationName>Masaryk University</organizationName>
+            <address>
+                <deliveryPoint>Kotlářská 2</deliveryPoint>
+                <city>Brno</city>
+                <administrativeArea>Czech Republic</administrativeArea>
+                <postalCode>61137</postalCode>
+                <country>CZECH_REPUBLIC</country>
+            </address>
+            <electronicMailAddress>axmanova@sci.muni.cz</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9440-7976</userId>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <givenName>Salza</givenName>
+                <surName>Palpurina</surName>
+            </individualName>
+            <organizationName>GBIF ECA Support</organizationName>
+            <address>
+                <city>Sofia</city>
+                <postalCode>1000</postalCode>
+                <country>BULGARIA</country>
+            </address>
+            <electronicMailAddress>spalpurina@gbif.org</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-0416-5622</userId>
+            <role>REVIEWER</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-18
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para> The Czech Vegetation Database (formerly the Czech National Phytosociological Database) is an open digital archive of vegetation-plot records from the territory of the Czech Republic. It includes phytosociological relevés, i.e., records of plant species composition and cover-abundances in delimited plots within relatively homogeneous vegetation patches, as well as similar vegetation-plot data from vegetation surveys, monitoring programs, and ecological studies.</para><para>The database is registered in the Global Index of Vegetation-Plot Databases (GIVD, Dengler et al. 2011, http://www.givd.info/ID/EU-CZ-001) with the code EU-CZ-001.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>samplingEvent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://czechveg.github.io/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://plantbank.gbif.cz/archive.do?r=czechia_vdb</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Czech Republic</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>12.091667</westBoundingCoordinate>
+                    <eastBoundingCoordinate>18.858056</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.043797</northBoundingCoordinate>
+                    <southBoundingCoordinate>48.584722</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Vascular plants, bryophytes, lichens, and charophytes.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose>The Czech Vegetation Database aims to digitize all vegetation-plot records from the territory of the Czech Republic into a single database, facilitating easy access to relevant data for vegetation surveys, ecological analyses, and applications in nature conservation.</purpose>
+        <gettingStarted><para>The detailed description of the data is available at:</para><para><ulink url="https://czechveg.github.io/Data/data_availability.html"><citetitle>https://czechveg.github.io/Data/data_availability.html</citetitle></ulink></para></gettingStarted>
+        <acknowledgements><para>The list of data contributors and data managers is available on the website of the Czech Vegetation Database:</para><para><ulink url="https://czechveg.github.io/About/acknowledgements.html"><citetitle>https://czechveg.github.io/About/acknowledgements.html</citetitle></ulink></para></acknowledgements>
+        <maintenance>
+            <description>
+                <para>Ongoing correction of identified errors and inclusion of new vegetation plots.</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Milan</givenName>
+                <surName>Chytrý</surName>
+            </individualName>
+            <organizationName>Masaryk University</organizationName>
+            <positionName>Head of the Vegetation Science Group</positionName>
+            <address>
+                <deliveryPoint>Kotlářská 2</deliveryPoint>
+                <city>Brno</city>
+                <postalCode>61137</postalCode>
+                <country>CZECH_REPUBLIC</country>
+            </address>
+            <electronicMailAddress>chytry@sci.muni.cz</electronicMailAddress>
+            <onlineUrl>https://www.sci.muni.cz/botany/chytry/index.htm</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8122-3075</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The vegetation-plot records were obtained from published literature, field notebooks, and existing datasets. All records were assembled in the Turboveg 2 database management software and exported to GBIF following the procedures described at https://czechveg.github.io/DataProcessingTutorial/data_processing_tutorial.html.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>WARNING: Given that the dwc:occurrenceID is based on an attribute of the record iselft (species identification), note that re-identifications (if any) in future updates would result in new OccurrenceIDs, which would brake the link with previous identifation.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The territory of the Czech Republic.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data in this dataset were collected in vegetation plots, most of which were 1 to 1000 square meters in size. Vascular plants were recorded in each plot if they occurred there. Additionally, bryophytes, lichens, and charophytes were recorded in some plots. The cover of each species was estimated in the field as an abundance measure.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Data were checked by multiple experts in Czech flora.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>EVA-FAIR - Implementing FAIR principles in the European Vegetation Archive data</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Milan</givenName>
+                    <surName>Chytrý</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Irena</givenName>
+                    <surName>Axmanová</surName>
+                    </individualName>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Jan</givenName>
+                    <surName>Divíšek</surName>
+                    </individualName>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Klára</givenName>
+                    <surName>Friesová</surName>
+                    </individualName>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Marcela</givenName>
+                    <surName>Řezníčková</surName>
+                    </individualName>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Martin</givenName>
+                    <surName>Večeřa</surName>
+                    </individualName>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Open Science Clusters’ Action for Research and Society (OSCARS) Horizon Europe project under grant agreement No. 101129751</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Czech Republic</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:12Z</dateStamp>
+                <citation>Chytrý M, Knollová I, Večeřa M, Axmanová I (2026). Czech Vegetation Database. Version 1.11. Masaryk University, Department of Botany and Zoology. Sampling event dataset https://doi.org/10.15468/94bfqd accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Chytrý, M. &amp; Rafajová, M. (2003) Czech National Phytosociological Database: basic statistics of the available vegetation-plot data. Preslia 75: 1–15.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>CzechVeg-Open</objectName>
+                    <characterEncoding>ASCII</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Turboveg 2</formatName>
+                            <formatVersion>version 1.0</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://czechveg.github.io/Data/czech_veg_open.html</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>CzechVeg-OpenStrat</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>csv</formatName>
+                            <formatVersion>version 1.0</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://czechveg.github.io/Data/czech_veg_openstrat.html</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://plantbank.gbif.cz/logo.do?r=czechia_vdb</resourceLogoUrl>
+                <formationPeriod>1922-current</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

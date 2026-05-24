@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ad004988-7cbf-4af7-9cdb-d7500cc025f2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/cuvh8t</alternateIdentifier>
+        <alternateIdentifier>https://bryophyteportal.org/portal/collections/misc/collprofiles.php?collid=14</alternateIdentifier>
+        <title>University of Florida Herbarium - Bryophytes</title>
+        <creator>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>Bryophyte Portal</organizationName>
+            <electronicMailAddress>BryophyteConsortium@gmail.com</electronicMailAddress>
+            <onlineUrl>https://bryophyteportal.org/portal/index.php</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alan R.</givenName>
+                <surName>Franck</surName>
+            </individualName>
+            <electronicMailAddress>francka@ufl.edu</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2026-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The University of Florida Bryophyte Collection contains approximately 100,000 bryophyte specimens. The collection is worldwide in scope with an excellent representation of species from Florida and tropical areas such as Costa Rica, Venezuela and Brazil. Important collections include those of Dana G. Griffin, III (Florida, Venezuela, Costa Rica, Brazil, Colombia), Walter S. Judd, James B. McFarlin, Severin Rapp, and John K. Small. The University of Florida Herbarium is a unit of the Department of Natural History of the Florida Museum of Natural History. The herbarium is affiliated with the Institute of Food and Agricultural Sciences, Florida Agricultural Experiment Station, Florida Cooperative Extension Service, Department of Biology and the Department of Plant Pathology. The FLAS acronym is the standard international abbreviation for the University of Florida Herbarium. It is derived from the herbarium&amp;#39;s early association with the Florida Agricultural Experiment Station. Our mission focuses on plant collections acquisition and care, research based on the collections, education and public service.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://bryophyteportal.org/portal/content/dwca/FLAS_DwC-A.zip</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>University of Florida Herbarium - Bryophytes</organizationName>
+            <electronicMailAddress>francka@ufl.edu</electronicMailAddress>
+            <onlineUrl>http://www.flmnh.ufl.edu/herbarium/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:29Z</dateStamp>
+                <citation>Florida Museum of Natural History (2026). University of Florida Herbarium - Bryophytes. Occurrence dataset https://doi.org/10.15468/cuvh8t accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

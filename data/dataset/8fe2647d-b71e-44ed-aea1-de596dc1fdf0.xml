@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8fe2647d-b71e-44ed-aea1-de596dc1fdf0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/35yspn</alternateIdentifier>
+        <shortName>Données d&apos;inventaires état initial du Projet photovoltaïque TALLER</shortName>
+        <title>Données d&apos;inventaires état initial du Projet photovoltaïque TALLER</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-10-16
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Inventaires réalisés dans l&amp;#39;aire d&amp;#39;étude immédiate du projet de centrale photovoltaïque de TALLER entre 05/03/2018 et 07/02/2019 en vue d&amp;#39;en déterminer les enjeux
+        </abstract>
+        <keywordSet>
+            <keyword>Dépôt légal</keyword>
+            <keyword>Depobio</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventaire pour étude impact</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/06410CEB-5DB3-357A-E063-0514A8C0D3EA</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-1.03588</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-1.01966</eastBoundingCoordinate>
+                    <northBoundingCoordinate>43.91249</northBoundingCoordinate>
+                    <southBoundingCoordinate>43.89297</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-03-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-02-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>IDE ENVIRONNEMENT</surName>
+            </individualName>
+            <organizationName>IDE ENVIRONNEMENT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>IDE ENVIRONNEMENT</surName>
+            </individualName>
+            <organizationName>IDE ENVIRONNEMENT</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Projet photovoltaïque TALLER</title>
+                <personnel>
+                    <individualName>
+                    <surName>C.P.E.S. TALLER</surName>
+                    </individualName>
+                    <organizationName>C.P.E.S. TALLER</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>IDE ENVIRONNEMENT</surName>
+                    </individualName>
+                    <organizationName>IDE ENVIRONNEMENT</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>C.P.E.S. TALLER</surName>
+                    </individualName>
+                    <organizationName>C.P.E.S. TALLER</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>Agence Résonance</surName>
+                    </individualName>
+                    <organizationName>Agence Résonance</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Le projet de centrale photovoltaïque de TALLER est localisé dans la région Nouvelle Aquitaine,
+le département des Landes et la commune de Taller. Il est situé au nord-est de la commune de
+Taller, en limite communale avec la commune de Rion des Landes à l’est et Lesperon au nord.
+L’emprise de l’aire d’étude rapprochée représente environ 149 ha.
+Le projet est situé à environ 5,5 km de l’autoroute A63, 8 km de Castets à l’ouest, 16 km de Saint-
+Paul-lès-Dax au sud, 17 km de Tartas à l’est et 15 km de Morcenx au nord.
+Le projet se situe sur un ancien site d’exploitation forestière (pins maritimes). Celui-ci a été ravagé
+par la tempête Klaus en 2009 et n’a pas été réinvesti par la sylviculture depuis, la commune
+n’ayant pas perçu d’aide au reboisement pour ce site (courriers en Annexe 3). Les terrains du
+projet sont actuellement utilisés par deux agriculteurs comme lieu de pâturage pour leurs bêtes
+(chèvres et moutons de races rustiques).
+L’environnement proche du site du projet est constitué par des parcelles sylvicoles (coupes ou
+plantations de Pins maritimes) et par des grandes cultures. La topographie du site est plate.
+Le site est directement accessible par la route départementale RD42 puis par une route
+communale et une piste forestière.
+Le projet est situé dans un secteur peu urbanisé : le hameau SARTHOU le plus proche, est situé
+à environ 1300 m à l’Est du projet.
+La commune de Taller est comprise dans la communauté de communes Côte Lande Nature
+basée à Castets. Créée en 2003, cet Etablissement de Coopération Intercommunale (EPCI)
+regroupe 10 communes pour une population de 11 318 habitants.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:15Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2023). Données d&apos;inventaires état initial du Projet photovoltaïque TALLER. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/35yspn accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

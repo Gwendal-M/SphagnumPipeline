@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a78dcaca-c58f-4525-a0de-76b7763f7a9f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/g8g33q</alternateIdentifier>
+        <alternateIdentifier>a78dcaca-c58f-4525-a0de-76b7763f7a9f</alternateIdentifier>
+        <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=macrophytes-vologda-occurrences</alternateIdentifier>
+        <title>Data on the biodiversity of macrophyte communities and associated aquatic organisms in lakes of the Vologda Region (North-Western Russia): macrophytes</title>
+        <creator>
+            <individualName>
+                <givenName>Dmitriy A.</givenName>
+                <surName>Philippov</surName>
+            </individualName>
+            <organizationName>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences</organizationName>
+            <positionName>Leading Researcher</positionName>
+            <address>
+                <deliveryPoint>109</deliveryPoint>
+                <city>Borok</city>
+                <administrativeArea>Yaroslavl region Nekouzskiy district</administrativeArea>
+                <postalCode>152742</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+79159990308</phone>
+            <electronicMailAddress>philippov_d@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3075-1959</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Dmitriy A.</givenName>
+                <surName>Philippov</surName>
+            </individualName>
+            <organizationName>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences</organizationName>
+            <positionName>Leading Researcher</positionName>
+            <address>
+                <deliveryPoint>109</deliveryPoint>
+                <city>Borok</city>
+                <administrativeArea>Yaroslavl region Nekouzskiy district</administrativeArea>
+                <postalCode>152742</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+79159990308</phone>
+            <electronicMailAddress>philippov_d@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3075-1959</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Aleksandra S.</givenName>
+                <surName>Komarova</surName>
+            </individualName>
+            <organizationName>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences</organizationName>
+            <positionName>Junior Researcher</positionName>
+            <address>
+                <deliveryPoint>109</deliveryPoint>
+                <city>Borok</city>
+                <administrativeArea>Yaroslavl region Nekouzskiy district</administrativeArea>
+                <postalCode>152742</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>komarova.as90@yandex.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-3585-4669</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Natalya</givenName>
+                <surName>Ivanova</surName>
+            </individualName>
+            <organizationName>Institute of Mathematical Problems of Biology RAS</organizationName>
+            <positionName>Senior Researcher</positionName>
+            <address>
+                <deliveryPoint>1, Vitkevicha str.</deliveryPoint>
+                <city>Pushchino</city>
+                <postalCode>142290</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>natalya.dryomys@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-4199-5924</userId>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2021-11-03
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            This dataset provides current data on the biodiversity of boreal lakes of the Vologda Region (North-Western Russia), including macrophytes (vascular plants and macroscopic algae) and macrophyte inhabitants (invertebrates and microalgae). The data were collected in 139 lakes. The dataset contains materials on the diversity of vascular plants (Tracheophyta, 3225 occurrences; Bryophyta, 155; Marchantiophyta, 16), macro- and microalgae (Ochrophyta, 546 occurrences; Chlorophyta, 193; Charophyta, 153; Cyanobacteria, 139; Cryptophyta, 86; Myzozoa, 33; Euglenozoa, 27; Rhodophyta, 8; Bigyra, 1) and aquatic invertebrates (Arthropoda, 1408 occurrences; Annelida, 487; Mollusca, 263; Platyhelminthes, 36; Cnidaria, 11). A total of 6787 occurrences are included in the list.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://gbif.ru:8080/ipt/archive.do?r=macrophytes-vologda-occurrences</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Vologda Region is situated in the north-western part of Russia within the northern part of the East European Plain. The length of the region from the North to the South is 350 km (N 58°29&apos;, N 61°35&apos;), from West to East – 700 km (E 34°43&apos;, E 47°09&apos;). The area of the Vologda Region is 145.7 square km. The region is located on the border of the southern and middle taiga subzones. The ground surface heights vary from 33 to 304 m sea level; therefore, the morphological complexes of lowlands, medium-altitude plains, and low elevations can be found in the region (Vorobyev, 2007).
+The hydrographic network of the region is very diverse. About 20 thousand watercourses flow in the region, belonging to three basins of global flow: the White Sea (70% of basin area), the Baltic Sea (8%), and the Caspian Sea (22%) (Filenko, 1966). Several water reservoirs were built in the Vologda Region; Rybinsk Reservoir and Sheksna Reservoir are the largest and well-known (Vorobyev, 2007). The region is significantly paludified; more than 17% of the area is covered with mires of various types (Filonenko and Philippov, 2013).
+There are over five thousand lakes in the Vologda Region, most located in its western part. In the north-western districts of the region, the total area of lakes in a district ranges from 3% to 10% of the district’s area; to the east and southeast of the border of the last glaciation, the indices do not exceed 2%, and in some eastern districts of the region, it is only a fraction of a percent. The total area of lakes in the region is 4.3 thousand square km or about 3% of the region’s territory. A relatively small number of lakes (only 25) with a water surface of more than 10 square km comprise 84% of the total area of lakes. Lakes of glacial-tectonic origin (Lakes Onega, Beloe, Vozhe, and Kubenskoe) make up this group of lakes. The absolute majority of lakes are small (water surface area less than 0.1 square km). Lakes with a water surface area of 0.01 to 0.1 square km account for 5.5% of the total area of lakes in the region. The group of small lakes includes forest drainless lakes, floodplain oxbow lakes, intra-mire lakes, and karst lakes (Antipov, 1981).
+The main reason for such a distribution of lakes across the region is the time since the glaciation. The north-western areas of the region, later freed from the glacier, retained the features of young relief with numerous inter-hill and inter-ridge depressions, which were filled with glacial waters. As the glacier retreated, thaw waters formed periglacial and postglacial reservoirs in the depressions. Following a decrease in the water level and vegetation development in water bodies, some of them turned into vast paludified lowlands (for example, the Mologo-Sheksninskaya lowland). Other water bodies have significantly decreased in size but remained in the lowlands in the form of vestigial shallow lakes (Vorobyev, 1973).
+Most of the lakes in the region are shallow. Relict water bodies of glacial-lake plains have small depths (for example, the average depth of Lake Vozhe is 1.8 m, Lake Kubenskoe 2.5 m). The deepest lakes are located in moraine-hilly landscapes: Lake Sodoshnoe (40 m), Lake Ferapontovskoe (27 m), Lake Siverskoe (26 m), and Lake Svyatoe (25 m). A thermal regime with distinct direct temperature stratification in summer and reverse stratification in winter is observed only in the deepest lakes. These lakes are characterized by the highest values of the heat budget (5–7 kcal / sq cm), and the temperature of the bottom water layer is below 10 °С in summer. Lakes with unclear and unstable stratification, a bottom temperature above 10–15 °C, and a lower heat budget are much more common. The beginning of lake ice-covering usually falls in the first decade of November. As a rule, the opening occurs in the first decade of May. The lakes are covered in ice for 160–175 days on average, usually longer than rivers (Filenko, 1966; Antipov, 1981; Vorobyev, 2007).
+All the lakes in the Vologda Region are freshwater lakes with TDS values within the zonal norm, of bicarbonate-calcium composition as a rule. Mostly, lake waters are neutral or slightly alkaline (pH 6.9–7.5), favorable for aquatic organisms (Vorobyev and Korobeynikova, 1981). On the other hand, intra-mire lakes have a wide pH range, more often slightly acidic or acidic (pH 4.2–6.5) (Komov and Stepanova, 1994; Philippov and Yurchenko, 2020).
+Lakes in the Vologda Region have a different degree, character, and intensity of macrophyte covering, closely related to landscape and limnological conditions (Vorobyev, 1977; Sadokov and Philippov, 2017).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>35.346</westBoundingCoordinate>
+                    <eastBoundingCoordinate>41.858</eastBoundingCoordinate>
+                    <northBoundingCoordinate>61.494</northBoundingCoordinate>
+                    <southBoundingCoordinate>58.551</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>This dataset provides current data on vascular plants, cryptogams, microalgae, and aquatic invertebrates in lakes of the Vologda Region. The list contains records on Animalia (5 phyla, 7 classes, 22 orders, 64 families), Bacteria (1 phylum, 1 class, 4 orders, 11 families), Chromista (4 phyla, 7 classes, 28 orders, 40 families), Plantae (6 phyla, 15 classes, 48 orders, 81 families), and Protozoa (1 phylum, 1 class, 1 order, 2 families) species. Overall, the dataset comprises 837 taxa, including 711 lower-rank taxa (species, subspecies, varieties, forms).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Annelida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bigyra</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Charophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chlorophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cnidaria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cryptophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Cyanobacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Euglenozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Mollusca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Myzozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ochrophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Platyhelminthes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Rhodophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bivalvia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Charophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chlorophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chrysophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Clitellata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cryptophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cyanobacteriia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dinophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Euglenoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eustigmatophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Florideophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hydrozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Klebsormidiophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Malacostraca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Marchantiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Phaeophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphagnopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Trebouxiophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Xanthophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Zygnematophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Achnanthales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Alismatales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Amphipoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anthoathecata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Architaenioglossa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arhynchobdellida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Aulacoseirales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Bacillariales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Batrachospermales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Bryales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Celastrales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ceratophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chaetocerotales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chlamydomonadales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chlorellales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chromulinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cornales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crassiclitellata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cryptomonadales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cyanobacteriales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cymbellales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Diptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Enchytraeidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ephemeroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Equisetales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Euglenida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Eunotiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Eustigmatales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fissidentales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fossombroniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fragilariales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gonyaulacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnodiniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Haplotaxida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hemiptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hypnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Isobryales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Isoetales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Isopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Jungermanniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Klebsormidiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Leptolyngbyales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Leucodontales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Littorinimorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lumbriculida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Marchantiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Mastogloiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Megaloptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Melosirales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Mischococcales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Naviculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nymphaeales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ochromonadales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oocystales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pallaviciniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Peridiniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Phaeothamniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pseudanabaenales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pyrenomonadales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rhizosoleniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rhopalodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rhynchobdellida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Saxifragales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphaeropleales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphagnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Surirellales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Synechococcales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Synurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tabellariales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Thalassiophysales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Thalassiosirales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trebouxiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tribonematales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trichoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tricladida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trombidiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ulotrichales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Volvocales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zygnematales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Dmitriy A.</givenName>
+                <surName>Philippov</surName>
+            </individualName>
+            <organizationName>Papanin Institute for Biology of Inland Waters Russian Academy of Sciences</organizationName>
+            <positionName>Leading Researcher</positionName>
+            <address>
+                <deliveryPoint>109</deliveryPoint>
+                <city>Borok</city>
+                <administrativeArea>Yaroslavl region Nekouzskiy district</administrativeArea>
+                <postalCode>152742</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+79159990308</phone>
+            <electronicMailAddress>philippov_d@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3075-1959</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Research problem formulation.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Logistic issues resolution, including the choice of routes, water objects, time and duration of work.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Field stage: obtaining samples and other original materials on the diversity of macrophytes, aquatic algae, and invertebrates.
+(a) Macrophytes. In the field, pictures of plants and floristic lists were made, some species were collected in a herbarium; several hydrochemical parameters (water temperature, total dissolved solids, pH, and electrical conductivity) were measured using portable devices (Philippov et al., 2017).
+(b) Algae. Samples were taken with a 1-liter Patalas bathometer from three layers of the water column in macrophyte communities. For microalgae sedimentation, water samples were treated with Lugol&apos;s iodine solution for 10–14 days to obtain the final volume of 25 ml (Kuzmin, 1975).
+(c) Aquatic invertebrates. The study of invertebrates in macrophyte communities was conducted by preparing washed-off samples from plants (Mitropolskiy and Mordukhai-Boltovskoi, 1975b) and by sampling sediments in the same communities (Mitropolskiy and Mordukhai-Boltovskoi, 1975a). Sediment sampling was carried out from a boat by a three-time lifting of a GR-91 rod bottom-grab (sampling area 0.007 m2) or a one-time lifting of the Petersen dredge (sampling area 0.025 m2). At each sampling site, sediment samples were washed straight away through a sieve with a 250 μm mesh. After that, sediment samples were placed in plastic containers and preserved in 40% formaldehyde solution. Zoophytos samples collection was slightly different from one macrophyte communities to the others. Submerged aquatic plants and aquatic plants with floating leaves were removed from the water, placed in a nylon sieve, and washed out of all macroinvertebrates. In a sieve (250 µm mesh), all macroinvertebrates were separated from the plant substrate by rinsing and mechanical separation; then plants were dried from moisture and weighed. In helophytes and hygrohelophytes, a part of plants submerged in water was used for analysis. The underwater part was first placed in a nylon sieve and washed, then weighed. Semi-aquatic plants (including those from floating mats) were taken from plots of 25 × 25 cm; when sampling vascular plants, the entire overground part of a plant was cut off, when sampling mosses, the whole moss clumps were taken and placed in a sieve. After washing off, samples of invertebrates (sometimes with fragments of macrophytes) were placed in plastic containers and fixed with 40% formaldehyde solution. Aquatic mosses were placed in plastic containers without rinsing with water and fixed with 40% formaldehyde solution.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data collection: analysis of samples not identified in the field or verification of the identification data by the experts.
+(a) Macrophytes. The keys by Tsvelev (2000), Ignatov and Ignatova (2003, 2004), and Lisitsyna et al. (2009) were used in the study. Herbarium materials were transferred for processing to the Herbarium of the Mire Research Group of Papanin Institute for Biology of Inland Waters Russian Academy of Sciences (MIRE).
+(b) Algae. Sedimented phytoplankton for qualitative and quantitative analysis was examined in a Nageotte counting chamber (0.01 cm3) using a Mikmed-6 microscope (LOMO, Russia) at ×640 magnification. The biomass of microalgae was calculated using direct counts of the volumes equated to geometric figures of cells. The specific weight of algae was conditionally taken equal to one (Kuzmin, 1975). For damaged cells which were not used for the biomass count, a value of 1 was assigned. Taxonomic identification was made to the closest possible low-rang taxon using all keys and summaries available: Kiselev, 1954; Ettl, 1978; Komárek and Fott, 1983; Starmach, 1985; Krammer and Lange-Bertalot, 1986, 1988, 1991a, 1991b; Komárek and Anagnostidis, 1998, 2005; Palamar-Mordvintseva, 2003; Vetrova, 2004; Coesel and Meesters, 2007; Komárek, 2013, etc.
+(c) Aquatic invertebrates. All specimens were identified with an MBS-10 stereoscopic microscope and a Mikmed-6 microscope (LOMO, Russia) using all keys and summaries available: Kutikova and Starobogatov, 1977; Tsalolikhin, 1994, 2001, 2016; Narchuk et al., 1997; Narchuk and Tumanov, 2000, etc. Specimens of each species were dried with filter paper and weighed using Shimadzu AUX-120 scales (Japan) with 0.0001 g accuracy. Moss mats were cleared of all invertebrates, dried on filter paper and weighed. Quantity and biomass counts of sediment-associated invertebrates were made by 1 square meter (g / sq m). In washed-off samples, quantity and biomass counts were made by 1 kg of macrophyte wet weight (g / kg).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>(5) Records list compilation. The dataset fields’ names were chosen according to Darwin Core (Wieczorek et al., 2012) and include the following: «occurrenceID», «basisOfRecord», «scientificName», «acceptedNameUsage», «eventID», «eventDate», «taxonRank», «kingdom», «phylum», «class», «order», «family», «genus», «taxonomicStatus», «taxonRemarks», «habitat», «samplingProtocol», «sampleSizeValue», «sampleSizeUnit», «individualCount», «organismQuantity», «organismQuantityType», «decimalLatitude», «decimalLongitude», «geodeticDatum», «coordinateUncertaintyInMeters», «coordinatePrecision», «countryCode», «country», «stateProvince», «county», «locality», «year», «month», «day», «recordedBy», «identifiedBy», «dateIdentified», «associatedReferences», «language». Georeferencing was made using a GPS navigator or Google maps. For macrophytes, coordinates accuracy was maintained in a 30–250 m range, rarely greater; for other groups of aquatic organisms, 50 m. Coordinates were determined to the fourth digit. In all cases, the WGS-84 coordinate system was used.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>A list of records of macrophytes and macrophyte inhabitants (invertebrates and microalgae) in lakes of the Vologda Region is presented. By macrophytes, we understood macroscopic plants, regardless of their taxonomic position and ecological characteristics. Macrophytes include vascular plants, mosses, liverworts, and large multicellular algae (Papchenkov et al., 2003). We determined the flora of lakes as aquatic species and species directly related to the aquatic environment (helophytes, plants of the water’s edge, amphibious plants, hygrophytes, plants of drying sandbanks).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Field studies were carried out from June to October, mainly during the greatest development of macrophytes (July and August). The composition of the flora of lakes was established during route field studies. We studied all accessible microhabitats in the lakes and their coastal parts, including those differing in current velocity, sediments, depths, and macrophyte canopy development. When investigating small lakes, from 0.05 to 0.1 square km, a route was made by walking around a lake or going around by boat along the entire coastline. In larger lakes, floristic studies were conducted at several model sites, located mainly in highly developed macrophyte communities. For hydrobiological studies, sampling was performed at model sites only.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The data was collected and identified by scientists from the Papanin Institute for Biology of Inland Waters Russian Academy of Sciences and the Vologda Branch of the Russian Federal Research Institute of Fisheries and Oceanography. The accuracy of the determination of some samples was confirmed by systematics from the Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences, Institute of Biology of Karelian Research Centre of the Russian Academy of Sciences (Russian Federation), and University of Warmia and Mazury in Olsztyn (Poland).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="N-Eurasia-Russia2021">
+                <title>Russia 2021</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Dmitriy A.</givenName>
+                    <surName>Philippov</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-3075-1959</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:33Z</dateStamp>
+                <citation>Philippov D A, Komarova A S (2021). Data on the biodiversity of macrophyte communities and associated aquatic organisms in lakes of the Vologda Region (North-Western Russia): macrophytes. Version 1.2. Papanin Institute for Biology of Inland Waters Russian Academy of Sciences. Occurrence dataset https://doi.org/10.15468/g8g33q accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Antipov NP (1981) Lakes landscapes of the Vologda region. In: Lyapkina AA, Shevelev NN (Eds.) Lake resources of the Vologda region. Vologda State Pedagogical Institute, Vologda, 5–15 pp. [In Russian].</citation>
+                <citation identifier="https://doi.org/10.1163/9789004277922">Coesel PFM, Meesters J (2007) Desmids of the Lowlands. Mesotaeniaceae and Desmidiaceae of the European Lowlands. KNNV Publishing, Zeist, 351 pp. [In English].</citation>
+                <citation>Ettl H (1978) Xanthophyceae, 1. Teil. In: Ettl H, Gerloff J, Heynig H (Eds.) Süßwasserflora von Mitteleuropa, Band 3.VEB Gustav Fischer, Jena, 531 S. [In German].</citation>
+                <citation>Filenko RA (1966) Waters of Vologda region. Leningrad State University Publ., Leningrad, 132 pp. [In Russian].</citation>
+                <citation>Filonenko IV, Philippov DA (2013) Estimation of the area of mires in the Vologda Region. Trudy Instorfa, 7: 3–11. [In Russian with English summary].</citation>
+                <citation>Ignatov MS, Ignatova EA (2003) Moss flora of the Middle European Russia. Vol. 1: Sphagnaceae – Hedwigiaceae. Arctoa 11 (s1): 1–608. [In Russian].</citation>
+                <citation>Ignatov MS, Ignatova EA (2004) Moss flora of the Middle European Russia. Vol. 2: Fontinalaceae – Amblystegiaceae. Arctoa 11 (s2): 609–960. [In Russian].</citation>
+                <citation>Kiselev IA (1954). Identification manual of freshwater algae of USSR. Vol. 6: Pirrhophyta. Moscow: Sovetskaya Nauka Press, Moscow, 212 pp. [In Russian].</citation>
+                <citation>Komárek J (2013) Cyanoprokaryota. 3. Teil. Heterocystous genera. Süßwasserflora von Mitteleuropa. Bd. 19/3. Springer Spektrum, Heidelberg, 1130 pp. [In English].</citation>
+                <citation>Komárek J, Anagnostidis K (1998) Cyanoprocaryota. 1. Teil. Chroococcales. Süßwasserflora von Mitteleuropa, Bd. 19/1. Gustav Fischer Verlag, Jena, Stuttgart, 548 pp. [In English].</citation>
+                <citation>Komárek J, Anagnostidis K (2005) Cyanoprokaryota. 2. Teil. Oscillatoriales. Süßwasserflora von Mitteleuropa. Bd. 19/2. Elsevier / Spektrum, Heidelberg, 759 pp. [In English].</citation>
+                <citation>Komárek J, Fott B (1983) Chlorophyceae (Grünalgaen). Ordnung: Chlorococcales. Die Binnengewasser 16 (7–1): 1–1044. [In German].</citation>
+                <citation>Komov VT, Stepanova IK (1994) Hydrochemical characteristics of the lakes of the Darwinskiy Reserve. Trudy Instituta biologii vnutrennikh vod imeni Papanina RAN, 70/73: 31–42. [In Russian].</citation>
+                <citation>Krammer K, Lange-Bertalot H (1986) Bacillariophyceae. Teil 1. Naviculaceae. Süsswasserflora von Mitteleuropa. Bd.2/1. Gustav Fischer Verlag, Jena, 876 S. [In German].</citation>
+                <citation>Krammer K, Lange-Bertalot H (1988) Bacillariophyceae. Teil 2. Bacillariaceae, Ephithemiaceae, Surirellaceae. Süsswasserflora von Mitteleuropa. Bd. 2/2. Gustav Fischer Verlag, Jena, 596 S. [In German].</citation>
+                <citation>Krammer K, Lange-Bertalot H (1991a) Bacillariophyceae. Teil 3. Centrales, Fragilariaceae, Eunotiaceae. Süsswasserflora von Mitteleuropa. Bd. 2/3. Gustav Fischer Verlag, Stuttgart, Jena, 599 S. [In German].</citation>
+                <citation>Krammer K, Lange-Bertalot H (1991b) Bacillariophyceae. Teil 4. Achnanthaceae, Kritische Erganzungen Navicula (Lineolatae) and Gomphonema; Gesamtliteraturverzeichnis Teil 1–4. Süsswasserflora von Mitteleuropa. Bd. 2/4. Gustav Fischer Verlag, Stuttgart, Jena, 433 S. [In German].</citation>
+                <citation>Kutikova LA, Starobogatov YI (Eds.) (1977) Keys to freshwater invertebrates of the European part of the USSR (plankton and benthos). Gidrometeoizdat, Leningrad, 511 pp. [In Russian].</citation>
+                <citation>Kuzmin GV (1975) Phytoplankton. Species composition and abundance. In: Mordukhai-Boltovskoi PhD (Ed.) Methodology for the study of biogeocenoses of inland waters. Nauka, Moscow, 73–87 pp. [In Russian].</citation>
+                <citation>Lisitsyna LI, Papchenkov VG, Artemenko VI (2009) Flora of water bodies of the Volga river basin. Identification guide of vascular plants. KMK Scientific Press Ltd., Moscow, 219 pp. [In Russian].</citation>
+                <citation>Mitropolskiy VI, Mordukhai-Boltovskoi PhD (1975a) Makrozoobenthos. In: Mordukhai-Boltovskoi PhD (Ed.) Methodology for the study of biogeocenoses of inland waters. Nauka, Moscow, 158–170 pp. [In Russian].</citation>
+                <citation>Mitropolskiy VI, Mordukhai-Boltovskoi PhD (1975b) Biofouling, phytophilic biocenoses and planktobenthos. In: Mordukhai-Boltovskoi PhD (Ed.) Methodology for the study of biogeocenoses of inland waters. Nauka, Moscow, 171–178 pp. [In Russian].</citation>
+                <citation>Narchuk EP, Tumanov DV (Eds.) (2000) Key to freshwater invertebrates of Russia and adjacent territories. Vol. 4. Diptera. Nauka, Saint Petersburg, 997 pp. [in Russian].</citation>
+                <citation>Narchuk EP, Tumanov DV, Tsalolikhin SYa (Eds.) (1997) Key to freshwater invertebrates of Russia and adjacent territories. Vol. 3. Apterygota, Arachnida. Zoological Institute RAS, Saint Petersburg, 439 pp. [in Russian].</citation>
+                <citation>Palamar-Mordvintseva GM (2003) Algal flora of the continental water reservoirs of Ukraine: Desmidia algae. Vol. 1, part 1. Akademperiodika, Kiev, 335 pp. [In Russian].</citation>
+                <citation>Papchenkov VG, Scherbakov AV, Lapirov AG (2003) Basic hydrobotanical concepts and associated terms. Servis Press, Ryazan, 21 pp. [In Russian].</citation>
+                <citation>Philippov DA, Prokin AA, Przhiboro AA (2017) Methods and methodology of hydrobiological study of mires: tutorial. University of Tyumen Publishing, Tyumen, 207 pp. [In Russian].</citation>
+                <citation identifier="https://doi.org/10.1016/j.dib.2019.104928">Philippov DA, Yurchenko VV (2020) Data on chemical characteristics of waters in two boreal Sphagnum mires (North-Western Russia). Data in Brief 28: 104928. [In English].</citation>
+                <citation identifier="https://doi.org/10.24411/0320-3557-2017-10062">Sadokov DO, Philippov DA (2017) On overgrowing of mire lakes in Darwinskiy State Reserve. Trudy Instituta biologii vnutrennikh vod imeni Papanina RAN, 79/82: 183–188. [In Russian with English summary].</citation>
+                <citation>Starmach K (1985) Chrysophyceae und Haptophyceae. VEB Gustav Fischer Verlag, Jena, 515 S. [In German].</citation>
+                <citation>Tsalolikhin SYa (Ed.) (1994) Key to freshwater invertebrates of Russia and adjacent lands. Vol. 1. Lower invertebrates. Zoological Institute RAS, Saint Petersburg, 448 pp. [In Russian].</citation>
+                <citation>Tsalolikhin SYa (Ed.) (2001) Key to freshwater invertebrates of Russia and adjacent lands. Vol. 5. Higher insects. Nauka, Saint Petersburg, 836 pp. [In Russian].</citation>
+                <citation>Tsalolikhin SYa (Ed.) (2016) Key to zooplankton and zoobenthos of fresh water in European Russia. Vol. 2: Zoobenthos. KMK Scientific Press Ltd., Saint Petersburg, Moscow, 457 pp. [In Russian].</citation>
+                <citation>Tzvelev NN (2000) Manual of the vascular plants of North-West Russia (Leningrad, Pskov and Novgorod provinces). St.-Petersburg State Chemical-Pharmaceutical Academy Press, Saint Petersburg, 781 pp. [In Russian].</citation>
+                <citation>Vetrova ZI (2004) Flora of algae of continental water bodies of Ukraine. Euglenophytical algae, Issue 2. Lileia, Kiev, Ternopil, 272 pp. [In Russian].</citation>
+                <citation>Vorobiev GA, Korobeynikova LA (1981) Hydrological and hydrochemical characteristics of lakes. In: Lyapkina AA, Shevelev NN (Eds.) Lake resources of the Vologda region. Vologda State Pedagogical Institute, Vologda, 16–26 pp. [In Russian].</citation>
+                <citation>Vorobyev GA (1973) Landscape typology of small lakes and the possibilities of their economic use (on the example of the western part of the Vologda Region). Geographical sciences PhD thesis. Herzen Leningrad State Pedagogical Institute, Leningrad, 260 pp. [In Russian].</citation>
+                <citation>Vorobyev GA (1977) Landscape types of overgrowing of lakes in the Vologda Land O&apos;Lakes. In: Tolokonnikova TK (Ed.) Natural conditions and resources of the North of the European part of the USSR, II. Vologda State Pedagogical Institute, Vologda, 48–60 pp. [In Russian].</citation>
+                <citation>Vorobyev GA (Ed.) (2007) Nature of the Vologda Region. Izdatel’skiy Dom Vologzhanin Publ., Vologda, 434 pp. [In Russian].</citation>
+                <citation identifier="https://doi.org/10.1371/journal.pone.0029715">Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T, Vieglais D (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [In English].</citation>
+                </bibliography>
+                <formationPeriod>2005 – 2021</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

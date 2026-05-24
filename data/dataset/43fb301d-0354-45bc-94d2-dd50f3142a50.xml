@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="43fb301d-0354-45bc-94d2-dd50f3142a50"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/y8mdvg</alternateIdentifier>
+        <alternateIdentifier>https://www.gbif.se/ipt/resource?r=nrm-paleobotany</alternateIdentifier>
+        <alternateIdentifier>43fb301d-0354-45bc-94d2-dd50f3142a50</alternateIdentifier>
+        <title>Palaeobotanical Collections (PB), Swedish Museum of Natural History (NRM)</title>
+        <creator>
+            <individualName>
+                <givenName>Ove</givenName>
+                <surName>Johansson</surName>
+            </individualName>
+            <organizationName>Swedish Museum of Natural History</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <city>Stockholm</city>
+                <country>SWEDEN</country>
+            </address>
+            <electronicMailAddress>Ove.Johansson@nrm.se</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kevin</givenName>
+                <surName>Holston</surName>
+            </individualName>
+            <organizationName>Swedish Museum of Natural History</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <city>Stockholm</city>
+                <country>SWEDEN</country>
+            </address>
+            <electronicMailAddress>kevin.holston@nrm.se</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Manash</givenName>
+                <surName>Shah</surName>
+            </individualName>
+            <organizationName>Swedish Museum of Natural History</organizationName>
+            <address>
+                <city>Stockholm</city>
+                <postalCode>114 18</postalCode>
+                <country>SWEDEN</country>
+            </address>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Kevin</givenName>
+                <surName>Holston</surName>
+            </individualName>
+            <organizationName>Swedish Museum of Natural History</organizationName>
+            <address>
+                <city>Stockholm</city>
+                <country>SWEDEN</country>
+            </address>
+            <role>REVIEWER</role>
+        </associatedParty>
+        <pubDate>
+                2025-12-19
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            
+            This dataset represents the physical and digital holdings of fossil plants at the Swedish Museum of Natural History. The collections include more than 300,000 items, including over 1,000 type specimens. The Chinese Carboniferous-Permian floras are rich in horsetails (sphenopsids) and ferns including material published in 1927 in the monograph &amp;#34;Paleozoic Plants from Central Shansi&amp;#34; by Thore Halle. These collections also include relatives of ginkgos, conifers as well as early gymnosperms, such as Tingiales and Noeggerathiales, and seed ferns belonging to the orders Medullosales and Gigantopteridales. Polar regions are well-represented including 25,000 fossils from Spitsbergen, Greenland, Iceland and Björnön covering the time interval from 400 million years ago during the Devonian period to the modern floras of the Oligocene. The museum has a growing collection of fossil plants from Australia due to ongoing active research and collection from this region. The Permian Australian floras are dominated by glossopterids with collections from the Sydney and Bowen basins including three-dimensionally preserved silicified floras from Homevale in Queensland.
+        
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.gbif.se/ipt/archive.do?r=nrm-paleobotany</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>All continents and countries. All geological periods.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Vivi</givenName>
+                <surName>Vajda</surName>
+            </individualName>
+            <organizationName>Swedish Museum of Natural History</organizationName>
+            <positionName>Department Head, Researcher</positionName>
+            <address>
+                <city>Stockholm</city>
+            </address>
+            <electronicMailAddress>vivi.vajda@nrm.se</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Ove</givenName>
+                <surName>Johansson</surName>
+            </individualName>
+            <organizationName>Swedish Museum of Natural History</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <city>Stockholm</city>
+                <country>SWEDEN</country>
+            </address>
+            <electronicMailAddress>Ove.Johansson@nrm.se</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:13Z</dateStamp>
+                <citation>Johansson O, Holston K (2025). Palaeobotanical Collections (PB), Swedish Museum of Natural History (NRM). Version 1.3. Swedish Museum of Natural History. Occurrence dataset https://doi.org/10.15468/y8mdvg accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0017a0fa-9485-44e7-a2d0-d3ebe773259b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/a44q4h</alternateIdentifier>
+        <alternateIdentifier>0017a0fa-9485-44e7-a2d0-d3ebe773259b</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=plants_life_ip</alternateIdentifier>
+        <title>Flora records in the Azores: LIFE IP Azores Natura</title>
+        <creator>
+            <individualName>
+                <givenName>Sol</givenName>
+                <surName>Heber</surName>
+            </individualName>
+            <organizationName>Regional Secretariat for the Environment and Climate Change</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Av. Antero de Quental, n.º 9 C - 3º Andar</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9500-160</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>Sol.Heber@azores.gov.pt</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diana C.</givenName>
+                <surName>Pereira</surName>
+            </individualName>
+            <organizationName>Regional Secretariat for the Environment and Climate Change</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Av. Antero de Quental, n.º 9 C - 3º Andar</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9500-160</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>diana.c.pereira@azores.gov.pt</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sébastien</givenName>
+                <surName>Lhoumeau</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>seb.lhoumeau@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>João F. M.</givenName>
+                <surName>Fernandes</surName>
+            </individualName>
+            <organizationName>Regional Secretariat for the Environment and Climate Change</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Av. Antero de Quental, n.º 9 C - 3º Andar</deliveryPoint>
+                <city>Ponta Delgada</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9500-160</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Rui B.</givenName>
+                <surName>Elias</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Associated Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>rui.mp.elias@uac.pt</electronicMailAddress>
+            <onlineUrl>https://orcid.org/0000-0003-2397-2438</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-2397-243</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-03-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The data presented in this study comprises a collection of observations documented within the frame of the LIFE IP Azores Natura project (2019-2027) in the Azores archipelago. The primary goal of this project is to implement conservation measures on both land and sea, with the aim of enhancing the conservation status of species and habitats covered by the Birds and Habitats Directives. 
+For the documentation of flora occurrences in the project&amp;#39;s intervention areas, the QField application was employed. This application not only facilitated the recording of the locations where various flora species were encountered but also allowed field workers to capture additional details, including the surrounding habitat, abundance, developmental stage, phenological state, identified threats, observer identity, and the observation date.
+Through this publication, we contribute valuable information about the distribution of flora species in the Azores. As of now, a total of 1929 observations have been recorded, encompassing both exotic and native species.
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.pt/ipt/archive.do?r=plants_life_ip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Azores archipelago</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-31.328</westBoundingCoordinate>
+                    <eastBoundingCoordinate>36.879</eastBoundingCoordinate>
+                    <northBoundingCoordinate>39.826</northBoundingCoordinate>
+                    <southBoundingCoordinate>-24.949</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2012-04-19
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-08-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Vascular Plants</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plants</taxonRankValue>
+                    <commonName>Plantae</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Paulo A. V.</givenName>
+                <surName>Borges</surName>
+            </individualName>
+            <organizationName>Centre for Ecology, Evolution and Environmental Changes (cE3c)/Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute</organizationName>
+            <positionName>Aggregate Professor</positionName>
+            <address>
+                <deliveryPoint>School of Agricultural and Environmental Sciences, University of the Azores, Rua Capitão João d´Ávila, Pico da Urze</deliveryPoint>
+                <city>Angra do Heroísmo</city>
+                <administrativeArea>Azores</administrativeArea>
+                <postalCode>9700-042</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>+351968933212</phone>
+            <electronicMailAddress>paulo.av.borges@uac.pt</electronicMailAddress>
+            <onlineUrl>https://www.cienciavitae.pt/en/FA1A-C9CB-9C29</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Azorean Floras were used</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Observations were recorded on all nine islands of the Azores archipelago.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data was gathered haphazardly during field excursions</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The identifications were made by Botanical experts</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="LIFE_IP">
+                <title>Flora records in the Azores: LIFE IP Azores Natur</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Diana C.</givenName>
+                    <surName>Pereira</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Sol</givenName>
+                    <surName>Heber</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Sébastien</givenName>
+                    <surName>Lhoumeau</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>João F. M.</givenName>
+                    <surName>Fernandes</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Rui B.</givenName>
+                    <surName>Elias</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0003-2397-2438</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Paulo A.V.</givenName>
+                    <surName>Borges</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-8448-7623</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>The data presented in this study comprises a collection of observations documented within the frame of the LIFE IP Azores Natura project (2019-2027) in the Azores archipelago. The primary goal of this project is to implement conservation measures on both land and sea, with the aim of enhancing the conservation status of species and habitats covered by the Birds and Habitats Directives. 
+For the documentation of flora occurrences in the project&apos;s intervention areas, the QField application was employed. This application not only facilitated the recording of the locations where various flora species were encountered but also allowed field workers to capture additional details, including the surrounding habitat, abundance, developmental stage, phenological state, identified threats, observer identity, and the observation date.
+Through this publication, we contribute valuable information about the distribution of flora species in the Azores. As of now, a total of 1929 observations have been recorded, encompassing both exotic and native species.</para>
+                </abstract>
+                <funding>
+                    <para>The LIFE IP Azores Natura project (LIFE17 IPE/PT/000010) is co-financed by the European Union through the LIFE Programme</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The Azores, an archipelago situated in the Macaronesia region of the North Atlantic Ocean, consists of nine volcanic islands. These islands are grouped into three main clusters: Flores and Corvo to the west, Graciosa, Terceira, São Jorge, Pico, and Faial in the central region, and São Miguel and Santa Maria in the east. Stretching over 600 kilometres, the archipelago extends in a northwest-to-southeast direction. The Azores&apos; climate is influenced by its geographical distance from the continents and the influence of the Gulf Stream, resulting in consistently mild temperatures throughout the year and high precipitation, primarily during the winter.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Flora species were recorded ad hoc during field excursions by a substantial number of observers.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:22Z</dateStamp>
+                <citation>Heber S, Pereira D C, Lhoumeau S, Fernandes J F M, Elias R B, Borges P A V (2024). Flora records in the Azores: LIFE IP Azores Natura. Version 1.1. Universidade dos Açores. Sampling event dataset https://doi.org/10.15468/a44q4h accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

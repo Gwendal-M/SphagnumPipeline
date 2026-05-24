@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="84f0fec1-b254-4d5b-8c7c-3666166fc4e3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/anbw32</alternateIdentifier>
+        <alternateIdentifier>84f0fec1-b254-4d5b-8c7c-3666166fc4e3</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=nature-typemappingnorway2021</alternateIdentifier>
+        <title>Nature-type mapping in Norway (Viken and Vestfold og Telemark) 2021</title>
+        <creator>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1024-0406</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Erlend</givenName>
+                <surName>Grindrud</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>erlend.grindrud@naturrestaurering.no</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1024-0406</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1024-0406</userId>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2023-03-16
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Occurence of redlisted and invasive species found during the nature-type mapping (NiN) on behalf of Miljødirektoratet in Lillestrøm, Fetsund, Horten, Holmestrand, Seljord and Rauland 2021.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keyword>redlisted species</keyword>
+            <keyword>invasive species</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=nature-typemappingnorway2021</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Data from nature-type mapping in the two counties Viken and Vestfold and Telemark in Norway.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>8.102</westBoundingCoordinate>
+                    <eastBoundingCoordinate>11.684</eastBoundingCoordinate>
+                    <northBoundingCoordinate>60.144</northBoundingCoordinate>
+                    <southBoundingCoordinate>59.035</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-05-16
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-11-06
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Vascular plants, mosses, lichens and fungi</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Jørn Olav</givenName>
+                <surName>Løkken</surName>
+            </individualName>
+            <organizationName>NaturRestaurering AS</organizationName>
+            <positionName>Consultant</positionName>
+            <address>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>jorn.lokken@naturrestaurering.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1024-0406</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Occurance data recorded with the app &quot;Arter&quot; from Miljødirektoratet. Redlisted and invasive species found within the mapping area was registered.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Occurence data on vascular plants, mosses, lichens and fungi collected May 2021 to October 2021 in Viken and Vestfold og Telemark, Norway.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Ocurrences of interesting species.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Miljodir_naturtypekartlegging_2021 | CESP2019-004">
+                <title>Miljodir_naturtypekartlegging_2021</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Jørn Olav</givenName>
+                    <surName>Løkken</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-1024-0406</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Erlend</givenName>
+                    <surName>Grindrud</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Nature-type mapping funded by the Norwegian Environmental Agency (Miljødirektoratet).</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:07Z</dateStamp>
+                <citation>Løkken J O, Grindrud E (2023). Nature-type mapping in Norway (Viken and Vestfold og Telemark) 2021. Version 1.4. NaturRestaurering AS. Occurrence dataset https://doi.org/10.15468/anbw32 accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://ipt.gbif.no/logo.do?r=nature-typemappingnorway2021</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

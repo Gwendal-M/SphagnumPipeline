@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9192a5a8-5eba-4ec6-a336-797924214175"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/kfeugm</alternateIdentifier>
+        <alternateIdentifier>9192a5a8-5eba-4ec6-a336-797924214175</alternateIdentifier>
+        <alternateIdentifier>http://ib.komisc.ru:8088/ipt/resource?r=mosses_occurrence_yugyd_va</alternateIdentifier>
+        <title>Moss occurrences in Yugyd Va National Park, Subpolar and Northern Urals, European North-East Russia</title>
+        <creator>
+            <individualName>
+                <givenName>Galina</givenName>
+                <surName>Zheleznova</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>zheleznova@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-9081-2015</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tatyana</givenName>
+                <surName>Shubina</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>tshubina@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Svetlana</givenName>
+                <surName>Degteva</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya,28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+7821241168</phone>
+            <electronicMailAddress>degteva@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-9240-2015</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mikhail</givenName>
+                <surName>Rubtsov</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>engineer</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212216752</phone>
+            <electronicMailAddress>rubtsov.m@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Chadin</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>Deputy Director</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212240525</phone>
+            <electronicMailAddress>chadin@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-4940-2015</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Tatyana</givenName>
+                <surName>Shubina</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>tshubina@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Chadin</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>Deputy Director</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212240525</phone>
+            <electronicMailAddress>chadin@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-4940-2015</userId>
+        </metadataProvider>
+        <pubDate>
+                2020-08-05
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This study produced a dataset containing information  on moss occurrences in the territory of Yugyd Va National Park, located in the Subpolar and Northern Urals, European North-East Russia. The dataset summarizes occurrences noted by long-term bryological explorations in remote areas of the Subpolar and Northern Urals from 1943 to 2015, and from studies published since 1915.</para>
+<para>The dataset consists of 4,120 occurrence records. The occurrence data were extracted from herbarium specimen labels (3,833 records) and data from the published literature (287 records). Most of the records (4,104) are georeferenced.</para>
+<para>A total of 302 moss taxa belonging to 112 genera and 36 families are reported herein to occur in Yugyd Va National Park, although currently the diversity of bryophytes in this National Park has not yet been fully explored.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Northern Urals</keyword>
+            <keyword>regional inventory</keyword>
+            <keyword>mosses</keyword>
+            <keyword>Russian Federation</keyword>
+            <keyword>Komi Republic</keyword>
+            <keyword>Yugyd Va National Park</keyword>
+            <keyword>European North-East Russia</keyword>
+            <keyword>occurrence</keyword>
+            <keyword>Subpolar Urals</keyword>
+            <keywordThesaurus>&quot;n/a&quot;</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ib.komisc.ru:8088/ipt/archive.do?r=mosses_occurrence_yugyd_va</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The length of Yugyd Va National Park is 280 km from North to South and 120 km from West to East. It is located on the western macroslopes of the Subpolar and Northern Urals.
+
+The Subpolar Urals are part of the Ural Mountains, and run from the headwaters of the Lyapin (Khulga) River in the north (65º40′N) to Telposiz Mountain in the south (64º0′N). The mountainous area covers about 32,000 km2. There are two main watersheds of the Subpolar Urals: Narodo-Itinsky in the east, with a length of more than 100 km, and Issledovatelsky in the west, with a length of more than 150 km. The northern continuation of the Issledovatelsky Range is the Rossomakha Ridge. Traces of glaciation are manifested in the large irregularities of these ridges. The slopes of the mountains are composed of stone placers. The Subpolar Urals are characterized by ridges with high altitudes and alpine landforms. The average height of the peaks is 1300-1400 m. The highest point of the Urals is located at Narodnaya Mountain (1,896 m). The Subpolar Urals have a pronounced asymmetry in their slopes: the eastern slopes of the Subpolar Urals gradually pass into the lowland wetlands of the West Siberian Lowland region, whereas the ridges of the western slopes end abruptly at the Pechora Plain.
+
+The Northern Urals begin at the northern foothills of Telposiz Mountain (1,617 m, 63°55′N) and stretch in a southward direction to Lyalinsky Kamen Mountain (851 m, 59°15&apos;N). The Northern Urals are characterized by having a smooth topography with a maximum elevation of not more than 1,619 m above sea level (Telposiz Mountain). Along the western side of the Northern Urals there is a long strip of foothills, most of which only rise 200-300 m above sea level. 
+
+The rivers in these regions mainly flow through narrow valley in which floodplains are often poorly expressed. The bottoms of the rivers are covered by pebbles and rocks. Large rounded boulders transported by ancient glaciers are also often found in the riverbeds.
+The vertical zonation of the Subpolar and Northern Urals consists of four belts: dark coniferous taiga, thin-wood forests with a predominance of larch, mountain tundra, and a cold goltsy desert belt. The vegetation of the mountainous dark coniferous taiga is formed mainly by Picea obovata and Betula pubescens mixed with Abies sibirica and Pinus sibirica. Submontane forests differ from the plain dark coniferous taiga by there being less waterlogging, with a predominance of green moss and grass vegetation types. As the altitude increases, the mountains’ forests are thinned and gradually pass into light forests. The upper boundary of the forests is formed by Larix sibirica, Abies sibirica, Pinus sibirica, and Betula pubescens. The cold goltsy desert belt in the Subpolar Urals begins at 300–400 m (Taskaev 2006, Chibilev 2011).
+
+The climate in this part of the Urals is strongly continental. The meridional location of the ridges has a significant effect on the climate by preventing the movement of moist air masses from west to east. The Subpolar and Northern Urals are distinguished from other parts of the Urals by the relatively abundant precipitation they receive (up to 1,500 mm per year). Most of the precipitation falls in the summer months, from June to August (40-50%). In winter, about 30-40% of the annual precipitation falls. The average monthly temperature of the coldest month (January) in these mountains ranges from -18 ºC to -20 ºC, while that of the warmest month (July) is +10 ºC. The duration of the summer period is 60-75 days (Ponomarev and Pystina 2009).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>58.712</westBoundingCoordinate>
+                    <eastBoundingCoordinate>61.479</eastBoundingCoordinate>
+                    <northBoundingCoordinate>65.815</northBoundingCoordinate>
+                    <southBoundingCoordinate>63.178</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1905-07-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-07-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>All mosses were identified to species.
+The coverage of the checklist spans the phylum Bryophyta. The highest number of records are from the Bryopsida (84.5%), followed by the Sphagnopsida (8.9%), Polytrichopsida (5.3%), Andreaeopsida (1%), and Tetraphidopsida (0.3%). The top ten families in terms of the number of species included comprise about 62% of the species. The top ten families in terms of the number of occurrences recorded comprise 77% of the occurrences. Of these two groups of top ten families, 60% were included in both groups.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphagnopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polytrichopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Tetraphidopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Andreaeopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amblystegiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Andreaeaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aulacomniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bartramiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Brachytheciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bryaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Buxbaumiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Calliergonaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Climaciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dicranaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ditrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Encalyptaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fissidentaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fontinalaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Funariaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Grimmiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hedwigiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylocomiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hypnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Meesiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mielichhoferiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Plagiotheciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polytrichaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pottiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pseudoleskeaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pylaisiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pseudoleskeellaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rhabdoweisiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rhytidiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scorpidiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphagnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Splachnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tetraphidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Thuidiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Timmiaceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Tatyana</givenName>
+                <surName>Shubina</surName>
+            </individualName>
+            <organizationName>Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences</organizationName>
+            <positionName>researcher</positionName>
+            <address>
+                <deliveryPoint>Kommunisticheskaya, 28</deliveryPoint>
+                <city>Syktyvkar</city>
+                <administrativeArea>Komi Republic</administrativeArea>
+                <postalCode>167000</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <phone>+78212245202</phone>
+            <electronicMailAddress>tshubina@ib.komisc.ru</electronicMailAddress>
+            <onlineUrl>https://ib.komisc.ru/en/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>On each herbarium label, the following fields were filled out: “Scientific name”, “Locality” (with geographic coordinates), “Habitat”, “Substrate”, “Collector name”, “Determined by” (identification), “Collection date”, and “Catalogue Number”. For the data obtained from the literature, the descriptions given by the author(s) were converted into these herbarium label fields when possible. The dataset fields’ names were chosen according to Darwin Core (Wieczorek et al. 2012) and include the following: «occurrenceID», «cаtаlogNumber», «associatedReferences», «basisOfRecord», «kingdom», «phylum», «class», «family», «genus», «scientificName», «specificEpithet», «scientificNameAuthorship», «country», «countryCode», «recordedBy», «day», «month», «year», «locality», «identifiedBy», «decimalLatitude», «decimalLongitude», «coordinatePrecision», «coordinateUncertaintyInMeters», «georeferencedBy», and «geodeticDatum».
+
+References to the published literature from which data were obtained for the checklist compilation are presented in the “citations” section of the metadata. The herbarium label data were taken from the moss collection of the Herbarium (SYKO). All occurrence records were merged into one Microsoft Excel worksheet. The species names given were determined according to the “Check-list of mosses of East Europe and North Asia” (Ignatov et al. 2006). The unique values from the “Species” field were used as a preliminary Yugyd Va National Park mosses checklist. The preliminary checklist was verified on the “taxonomic name resolution service” (Boyle et al. 2013) with the help of the “taxize” package in the R environment (Chamberlain and Szocs 2013).
+
+In most cases, georeferencing was performed using paper maps of different scales. The maps were in the Kavrayskiy projection and SK-42 reference system. Maps with a 1:500000 scale were used for obtaining coordinates with 1-minute precision (3,903 occurrences). Maps with a scale of 1:100000 were used for obtaining 1-second-precision coordinates (269 occurrences). A remaining 22 occurrences were left ungeoreferenced because of the ambiguity of the locality description. All coordinates were transformed in the WGS 84 reference system with QGIS software. The coordinate uncertainty in meters for each occurrence was calculated with the Georeferencing Calculator (Wieczorek and Wieczorek 2015).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>This study was carried in the foothill and mountain landscapes of the Subpolar Urals, in the basins of four first-order tributaries of the Pechora River: the Kozhim River (in the Rosomakha, Maldynyrd, Zapadnye Saledy, Yuasnyrd, Maldyiz, and Obeiz mountain ranges), the Kosyu River (in the Vostochnye Saledy, and Kolokolenny mountain ranges), the Bolshaya Synya River (on Sablinskiy ridge), and the upper stream of the Shchugor River. The major tributaries of the Kozhim River studied were the Balbanyu River, Limbekoyu River, and Syvyu River. In the Kosyu River basin, the territories near its major tributary (the Vangyr River) and near the lakes Mezhgornye and Okunevye were studied. In the basin of the upper stream of the Bolshaya Synya River, the areas adjacent to its tributaries, including the Voyvozh-Synya River and the Lunvozh-Synya River, were studied.
+
+Mosses of the Northern Urals were collected in the basin of the Shchugor River (in the Telpos and Sumk-Ner mountain ranges, and on the mountains Telpos-iz, Yank-Kart-Tump, Vay-Khury-Tump, and Khodymalya-Tump) and two of its tributaries: the Podcherem River (Pelener Mountain) and the Telpos River.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The authors contributing to the dataset used standard methods of mosses collection. The collecting localities were arbitrarily chosen in an attempt to include the largest number of different floristic associations and landscape forms in the samples. To achieve this purpose, a net of radial routes around each field base camp was planned. Short descriptions of plant communities were made in the localities of mosses collection. Moss samples were collected once and on each type of substrate.
+
+The results of this study were documented in the Herbarium (SYKO). In addition to the authors’ collections, the dataset includes information on moss occurrences obtained from sources in the published literature (Pole 1915, Zinserling 1935, Kildyushevskiy 1956, Gorchakovskii 1958, Kuvaev 1970, Dyachenko and Fomicheva 1986, Dyachenko 1997). More than 92% of the occurrence records were based on preserved samples from the Herbarium (SYKO). Some records (412) from locations adjacent to the border of the National Park were also included in the dataset.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The data were collected and identified by bryologists from the Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences. Some moss specimens were identified by taxonomic specialists from the Komarov Botanical Institute of the Russian Academy of Sciences, the Faculty of Biology of Lomonosov Moscow State University, and the Tsitsin Main Botanical Garden of the Russian Academy of Sciences.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id=" АААА-А17-117112270073-0">
+                <title>Diversity of the main components of ecosystems at the latitude and altitude gradients of the Northern and the Subpolar Urals West macroslope</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Svetlana</givenName>
+                    <surName>Degteva</surName>
+                    </individualName>
+            <userId directory="http://www.researcherid.com/rid/">P-9240-2015</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Tatyana</givenName>
+                    <surName>Shubina</surName>
+                    </individualName>
+            <userId directory="http://www.researcherid.com/rid/">P-9248-2015</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>The aim of the project is to obtain new data about biodiversity of unexplored mountain regions of the Northern Urals and the Subpolar Urals. The obtained data will be used for soil and vegetation classification of different altitude zones of the Subpolar Urals and the Northern Urals.
+
+The rare plant species populations status will be estimated and the mechanisms of their stability will be determined. The data obtained during the project will be used for natural resources monitoring, decision supporting of protected area management. 
+New data on the structural and functional traits of terrestrial ecosystems of different altitude and latitude zones of mountain landscapes will be used for solving the problems of biogeography and the history of biota formation in the Northern Urals and the Subpolar Urals. The biological diversity changes models under different climate change scenarios will be proposed.</para>
+                </abstract>
+                <funding>
+                    <para>The Ministry of Education and Science of the Russian Federation</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>This study was carried in the foothill and mountain landscapes of the Subpolar Urals, in the basins of four first-order tributaries of the Pechora River: the Kozhim River, the Kosyu River, the Bolshaya Synya River, and the upper stream of the Shchugor River. 
+Mosses of the Northern Urals were collected in the basin of the Shchugor River and two of its tributaries: the Podcherem River and the Telpos River.
+The earliest data on the mosses of Yugyd Va National Park were published by the famous Russian botanist R. R. Pole in 1915 (Pole 1915). His investigations were carried out in 1905 and 1907 in the Shchugor River basin in the Northern Urals. Later, Y. Zinserling in 1926 and P. L. Gorchakovskii in 1954 collected mosses in the vicinity of Mount Sablya in the Subpolar Urals (Zinserling 1935, Gorchakovskii 1958). V. B. Kuvaev collected mosses on the mountain slopes in the basins of the Shchugor River in the Northern Urals and the Kozhim River in the Subpolar Urals in 1948-1949 (Kuvaev 1970). A. P. Dyachenko conducted Botanical research in 1984 on Mount Narodnaya in the Kosyu River basin in the Subpolar Urals (Dyachenko and Fomicheva 1986, Dyachenko 1997). I. D. Kildyushevskiy explored the vegetation cover of the Subpolar Urals in the Kozhym River basin in 1948-1951. These explorations were the basis for their later work describing the moss flora of the Subpolar Urals (Kildyushevskiy 1956).
+Specialists from the Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences began to conduct botanical research in this National Park in 1943.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>The study of the flora and vegetation diversity of terrestrial ecosystems in the park was performed with an integrated approach at both the community and species levels. The standard methods of plant systematics, geobotany, and phytogeography were used. Important “Plant Areas” were studied by describing plant communities along altitudinal gradients from watercourses to their watersheds. The results of this study were documented in the Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences Herbarium (SYKO).
+A dataset was prepared from data published in the scientific literature and acquired from the moss collection of the Herbarium (SYKO). The earliest collections examined came from 1943, and the most recent came from 2015. The records obtained from the Herbarium contains information on 265 species of mosses. The total number of moss species in the dataset for which information was obtained from the published literature was 146. For each species, information is given on the catalogue number, including herbarium label data from the moss collection of the Herbarium (SYKO), associated references, basis of record, geographic locality, verbatim locality, geographic coordinates, collection date, collector, and person that identified the specimen (“identified by”). 
+References to the published studies from which data were taken for the checklist compilation are presented in the “citations” section of the metadata. Every occurrence record was merged into one Microsoft Excel worksheet. The species names were given according to the “Check-list of mosses of East Europe and North Asia” (Ignatov et al. 2006). The unique values in the “Species” field were used as a preliminary Yugyd Va National Park mosses checklist (Zheleznova et al. 2018). The preliminary checklist was verified on the “taxonomic name resolution service” (Boyle et al. 2013), with the help of the “taxize” package in the R environment (Chamberlain and Szocs 2013).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:27Z</dateStamp>
+                <citation>Zheleznova G, Shubina T, Degteva S, Rubtsov M, Chadin I (2020). Moss occurrences in Yugyd Va National Park, Subpolar and Northern Urals, European North-East Russia. Version 1.6. Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences. Occurrence dataset https://doi.org/10.15468/kfeugm accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="Tsinzerling Yu. D. 1935. Ocherk rastitelnosti massiva Sabli [The vegetation of the array of the ridge Sablya] — In: Ural. Pripolyarnye rayony. Tr. Lednikovykh ekspeditsiy. Vyp.4. Leningrad. P. 75–86. (in Russ.).">Pole R.R. 1915. Materialy dlya poznaniya rastitelnosti severnoy Rossii. K flore mhov severnoy Rossii [Materials for knowledge of the vegetation of Northern Russia. To the flora of mosses of the North of Russia]  — In: Proceedings of the Imperial Botanic garden of Peter the Great. T. 33. Vol. 1. Petrograd. 148 p. (in Russ.).</citation>
+                <citation>Kildyushevskiy I. D. 1956. K flore mhov Pripolyarnogo Urala [To the moss flora of the Polar Urals] — In: Tr. Bot. in-ta im. V.L. Komarova AN SSSR. Ser 2. Sporovye rasteniya.  V. 11. P. 313–332. (in Russ.).</citation>
+                <citation>Gorchakovskiy P. L. 1958. Rastitelnost khrebta Sabli na Pripoljarnom Urale [The vegetation of the ridge Sablya, Subpolar Urals] — In: Rastitelnost Kraynego Severa SSSR i ee osvoenie. Moscow-Leningrad. Vol. 3. P. 95–127. (in Russ.).</citation>
+                <citation>Kuvaev V. B. 1970. Lishayniki i mkhi Pripolyarnogo Urala i prilegayushchikh ravnin [Lichens and mosses of the polar Urals and adjacent plains] — In:  Sporovye rasteniya Urala. Tr. In-ta ekol. rast. i zhivot. UrF AN SSSR. Vyp. 70. Sverdlovsk. P. 61–92. (in Russ.).</citation>
+                <citation>Dyachenko A. P. 1997. Flora listostebelnykh mkhov Urala. Chast 1: Istoriya izucheniya. Konspekt. Taksonomicheskiy analiz [Flora of mosses of the Urals. Part 1: History of study. Abstract. Taxonomic analysis]. Ekaterinburg.  264 p. (in Russ.).</citation>
+                <citation>Dyachenko A. P., Fomicheva L. N. 1986. K flore listostebelnykh mkhov naibolee poseshchaemykh territoriy khrebta Sablinskiy [Flora of mosses of the most visited areas of the Sablinskiy ridge] — In: Gornye ekosistemy Urala i problemy ratsionalnogo prirodopolzovaniya. Sverdlovsk.  18 p. (in Russ.).</citation>
+                <citation identifier="doi 10.15298/arctoa.15.01">Ignatov M.S., Afonina O.M., Ignatova E.A. et al. 2006. Check-list of mosses of East Europe and North Asia. Arctoa. 15: 1–130.</citation>
+                <citation identifier="https://ib.komisc.ru/add/rb/">Krasnaya kniga Respubliki Komi [Red Data Book of the Komi Republic]. 2009. Syktyvkar  791 p.</citation>
+                <citation identifier="http://f1000research.com/articles/2-191/v2">Boyle, B. et al. 2013. The taxonomic name resolution service: an online tool for automated standardization of plant names. BMC Bioinformatics 14:16.  doi:10.1186/1471-2105-14-16
+Scott Chamberlain and Eduard Szocs (2013). taxize - taxonomic search and retrieval in R. F1000Research, 2:191.</citation>
+                <citation identifier="doi:10.1371/journal.pone.0029715">Wieczorek J., Bloom D., Guralnick R., Blum S., Doring M., De Giovanni R., Robertson T., Vieglais D. 2012. Darwin Core: An Evolving Community-developed Biodiversity Data Standard. PLoS ONE. 7 (1). doi:10.1371/journal.pone.0029715.</citation>
+                <citation identifier="http://ib.komisc.ru:8088/ipt/resource?r=mosses_checkst_of_yugyd_va_national_park&amp;v=1.4">Zheleznova G, Shubina T, Chadin I (2018): Mosses checklist of Yugyd Va National Park, Subpolar and Northern Urals, European North-East Russia. v1.4. Institute of Biology of Komi Scientific Centre of the Ural Branch of the Russian Academy of Sciences. Dataset/Checklist.</citation>
+                </bibliography>
+                <collection>
+                    <parentCollectionIdentifier>http://ckp-rf.ru/usu/507466/?sphrase_id=7852290</parentCollectionIdentifier>
+                    
+                    <collectionName>Научный гербарий Института биологии Коми НЦ УрО РАН (SYKO). Коллекция мохообразных</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>specimens</jgtiUnitType>
+                    <jgtiUnits uncertaintyMeasure="2">56,000</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

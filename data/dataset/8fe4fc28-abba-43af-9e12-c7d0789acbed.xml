@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8fe4fc28-abba-43af-9e12-c7d0789acbed"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/2vyggv</alternateIdentifier>
+        <alternateIdentifier>8fe4fc28-abba-43af-9e12-c7d0789acbed</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=lwsbryophyta</alternateIdentifier>
+        <title>LWS herbarium. Non-vascular plants</title>
+        <creator>
+            <individualName>
+                <givenName>Anastasiia</givenName>
+                <surName>Savytska</surName>
+            </individualName>
+            <organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Teatralna str. 18</deliveryPoint>
+                <city>Lviv</city>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-6255-8590</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Marina</givenName>
+                <surName>Ragulina</surName>
+            </individualName>
+            <organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Teatralna str. 18</deliveryPoint>
+                <city>Lviv</city>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0001-9286-6693</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Hanna</givenName>
+                <surName>Serediuk</surName>
+            </individualName>
+            <organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Teatralna str. 18</deliveryPoint>
+                <city>Lviv</city>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-8688-5190</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Anastasiia</givenName>
+                <surName>Savytska</surName>
+            </individualName>
+            <organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Teatralna str. 18</deliveryPoint>
+                <city>Lviv</city>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-6255-8590</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Andriy</givenName>
+                <surName>Novikov</surName>
+            </individualName>
+            <organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName>
+            <positionName>senior research scientist</positionName>
+            <address>
+                <city>Lviv</city>
+                <country>UKRAINE</country>
+            </address>
+            <electronicMailAddress>novikoffav@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-0112-5070</userId>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2024-11-18
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset includes information from the labels of herbarium specimens stored in the herbarium of non-vascular plants of the State Natural History Museum of the National Academy of Sciences of Ukraine, which were collected and identified by K.O. Ulychna.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Chernivtsi region</keyword>
+            <keyword>K. Ulychna</keyword>
+            <keyword>Bryopsida</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keyword>herbarium</keyword>
+            <keyword>Ukraine</keyword>
+            <keyword>LWS</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=lwsbryophyta</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Ukraine, Chernivtsi region.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>14.9</westBoundingCoordinate>
+                    <eastBoundingCoordinate>36.58</eastBoundingCoordinate>
+                    <northBoundingCoordinate>62.258</northBoundingCoordinate>
+                    <southBoundingCoordinate>44.404</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>A list of bryophytes published in a scientific publication and dissertation research by the author of the collection.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Anastasiia</givenName>
+                <surName>Savytska</surName>
+            </individualName>
+            <organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Teatralna str. 18</deliveryPoint>
+                <city>Lviv</city>
+                <country>UKRAINE</country>
+            </address>
+            <userId directory="https://orcid.org/">0000-0002-6255-8590</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>1. Taking photos of herbarium labels; 2. Reidentification of taxa following recent taxonomy; 3. Extracting the locality, collector, date, and other relevant (e.g., identification history) information from the labels; 4. Translation of the primary label information from non-Romanian languages (i.e., Ukrainian and Russian) to English; 5. Georeferencing of localities using recent and antique maps; 6. Quality check applying OpenRefine and QGIS (for outlets and coordinates mistakes).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The collection of bryophytes herbarium specimens of the Chernivtsi region of Ukraine, collected by K.O. Ulychna in 1952-1953, which formed the basis of the author&apos;s dissertation research and was published in a scientific work in 1956.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The data are extracted from the herbarium labels.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The taxonomy, in general, corresponds to the «An annotated checklist of bryophytes of Europe, Macaronesia and Cyprus» ( N. G. Hodgetts et al. 2020). The quality of data is manually controlled and verified, and also controlled through automatic procedures (e.g., OpenRefine).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="2022.01/0013">
+                <title>Digitization of natural history collections damaged as a result of hostilities and related factors: development of protocols and implementation on the basis of the State Museum of Natural History of the National Academy of Sciences of Ukraine</title>
+                <abstract>
+                    <para>One of the challenges facing the Ukrainian scientific community as a result of Russia&apos;s military invasion remains the threat of damage and destruction of scientific collections. Scientific collections suffer both directly from hostilities and from several accompanying negative factors. Some scientific collections in Ukraine were lost or damaged as a result of looting, bombings, resulting fires, and the destruction of storage facilities. However, the rest of Ukrainian scientific collections remain vulnerable. In particular, some natural collections were and continue to be negatively affected by the war due to indirect factors that in the short term may lead to their complete or partial loss. The collections of the State Museum of Natural History of the NAS of Ukraine belong to the national heritage and are of special value to Ukrainian society and the world scientific and cultural community. The scientific funds of the museum have been formed since 1870 and today comprise over 400,000 units. The vulnerable collections kept in the museum include the funds of invertebrate animals (over 170,000 specimens), vascular plants (over 118,000 specimens) and non-vascular plants (over 26,000 specimens). Each of these collections has already been adversely affected by the movement that took place at the beginning of the war to secure them. Every day these collections continue to be adversely affected by the war due to the impossibility of maintaining storage in a conditions of regular power outages. Violation of the storage regime is accompanied by specimens&apos; damage by pests, mold and moisture, which in the near future may lead to their complete or partial loss. It will be impossible to renew or replace these collections, because most of the hosting specimens are unique. Their loss will lead to the formation of a significant and irreparable scientific gap since these collections serve to establish the history of biota formation, biogeographical, phylogenetic and taxonomic studies. Veiled factor that also negatively affects Ukrainian scientific collections is limited access to them due to being in bomb shelters and/or safety conservation measures. Most Ukrainian scientific collections remain inaccessible to foreign researchers due to the impossibility of visiting them. This has a negative impact on the integration of Ukrainian scientific collections into the global research process; foreign researchers are forced to avoid projects involving the Ukrainian collections. A solution of the problem of preservation and accessibility of scientific collections is their digitization and placement in online databases. Natural science collections are actively being digitized all over the world. Digitization, of course, does not eliminate the negative factors that lead to the destruction of collections, but it allows them to be preserved in a virtual format and more actively involved in the scientific research process. Digital specimens do not replace the originals, the value of which remains high for science, but they are a valuable addition. In parallel with the usual digitization of natural collections, scientists often resort to non-trivial ways of obtaining digital information about biological specimens. In particular, the molecular analysis of the DNA is also a kind of digitization that allows to obtain information about the structure of a separate fragment or the entire genome of a particular biological specimen. Such genetic data is often more valuable than a digital image of a specimen. Even in a case of highresolution image, it is not always possible to detect the features that are significant for the phylogeny or systematics. As part of this project, by digitizing the most vulnerable and valuable specimens stored in the State Museum of Natural History of the NAS of Ukraine, it is planned to develop protocols for digitizing vulnerable natural history collections. Digitized information is planned to be openly published in &quot;Biodiversity of Ukraine&quot;, GBIF and Zenodo databases. It is also planned to carry out molecular analysis of certain type specimens in order to assess the prospects of using this kind of digitization. The developed protocols will be published in open access in order to involve other scientific institutions and collections in the digitization process. It is also planned to digitize and make freely available the data of about 6,000 specimens of vascular plants, 3,000 specimens of nonvascular plants and 3,200 specimens of invertebrate animals that are hosted in the State Museum of Natural History of the National Academy of Sciences of Ukraine. The project was prepared in accordance with the current conditions of the competition, which includes digitization of scientific collections. The project does not contain, does not involve work with information, and also does not aim to produce information that constitutes or will constitute a state secret (according to the Law of Ukraine &quot;On State Secrets&quot;).</para>
+                </abstract>
+                <funding>
+                    <para>National Research Foundation of Ukraine, call 2022.01 &quot;Science for the Recovery of Ukraine in the War and Post-War Periods&quot;</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The project 2022.01/0013 &quot;Digitization of natural history collections damaged as a result of hostilities and related factors: development of protocols and implementation on the basis of the State Museum of Natural History of the National Academy of Sciences of Ukraine&quot; is implemented with the grant support of the National Research Foundation of Ukraine, call 2022.01 &quot;Science for the Recovery of Ukraine in the War and Post-War Periods&quot;. The contents of this dataset do not necessarily reflect the views of the National Research Foundation of Ukraine and are the sole responsibility of the State Museum of Natural History of the NAS of Ukraine.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:31Z</dateStamp>
+                <citation>Savytska A, Ragulina M, Serediuk H (2024). LWS herbarium. Non-vascular plants. Version 1.6. State Museum of Natural History of the National Academy of Sciences of Ukraine. Occurrence dataset https://doi.org/10.15468/2vyggv accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.36885/nzdpm.2023.39.19-30">Novikov, A.V., Hushtan, H.H., Hushtan, K.V., Kuzyarin, O.T., Leleka, D.Y., Nachychko, V.O., Prots, B.H., Rizun, V.B., Savytska, A.G., Susulovska, S.A., &amp; Susulovsky, A.S. 2023. Outlining the aims and format of the project “Digitisation of natural history collections damaged as a result of hostilities and related factors: development of protocols and implementation based on the State Museum of Natural History of the National Academy of Sciences of Ukraine”. Proceedings of the State Museum of Natural History of the NAS of Ukraine, 39, 19–30.</citation>
+                <citation>Улична К.О. 1956. Зведений список листяних мохів Чернівецької області УРСР. Наукові записки Природознавчого музею Львівського філіалу АН УРСР, 5, 126-144. http://dpm.pip-mollusca.org/tom/5/ulichna_t5.pdf</citation>
+                </bibliography>
+                <resourceLogoUrl>https://ukraine.ipt.gbif.no/logo.do?r=lwsbryophyta</resourceLogoUrl>
+                <livingTimePeriod>1952-1953</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

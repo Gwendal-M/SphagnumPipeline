@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2ce085b1-f05e-4bb9-8a3b-0ae583f3a58d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/g28uix</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=bryophyta</alternateIdentifier>
+        <alternateIdentifier>2ce085b1-f05e-4bb9-8a3b-0ae583f3a58d</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=bryophyta</alternateIdentifier>
+        <title>Bryophytes from a study of primary producer traits across an altitudinal gradient in alpine Finse</title>
+        <creator>
+            <individualName>
+                <givenName>Ruben Erik</givenName>
+                <surName>Roos</surName>
+            </individualName>
+            <organizationName>NMBU</organizationName>
+            <address>
+                <administrativeArea>Ås</administrativeArea>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>ruben.erik.roos@nmbu.no</electronicMailAddress>
+            <onlineUrl>http://www.nmbu.no</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-1580-6424</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Kristel</givenName>
+                <surName>van Zuijlen</surName>
+            </individualName>
+            <organizationName>NMBU</organizationName>
+            <address>
+                <city>Ås</city>
+                <administrativeArea>Ås</administrativeArea>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>kristel.van.zuijlen@nmbu.no</electronicMailAddress>
+            <onlineUrl>http://www.nmbu.no</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-6476-1982</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Johan</givenName>
+                <surName>Asplund</surName>
+            </individualName>
+            <organizationName>NMBU</organizationName>
+            <address>
+                <city>Ås</city>
+                <administrativeArea>Ås</administrativeArea>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>johanasplund@nmbu</electronicMailAddress>
+            <onlineUrl>http://www.nmbu.no</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-5610-4480</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mari</givenName>
+                <surName>Steinert</surName>
+            </individualName>
+            <organizationName>Norwegian University of Life sciences (NMBU)</organizationName>
+            <address>
+                <city>Ås</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>mari.steinert@nmbu.no</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2019-12-13
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            One of the major challenges for contemporary ecologists is to understand how ecological communities respond to environmental changes. Although classifying species to their taxonomy is useful, it has major limitations when it comes to answering ecological questions. A more functional approach, based on a species set of traits that define its performance within an ecosystem, provides much more insight. Many plant ecologists have now applied such trait-based approaches, but these studies are often limited to vascular plants and do not include other important primary producer groups such as lichens and bryophytes. However, there may be clear differences in what drives changes in community level traits across environmental gradients between producer groups in vascular plants changes in species community are often most important and intraspecific variation is often also significant, whereas recent studies suggest that in lichens intraspecific variation alone drives changes in community level traits. In this study, we will disentangle the relative importance of species turnover versus intraspecific variation as drivers of community-level traits in different primary producer groups simultaneously across the same elevational gradient in Finse, Southern Norway. The % cover was estimated visually in 50x50cm subplots with a wire frame marking out 10x10cm squares. In each of the five sites (elevations), there were five plots. The cover estimates presented in this dataset are on the plot level (averaged over the subplots).
+        </abstract>
+        <keywordSet>
+            <keyword>elevational gradient</keyword>
+            <keyword>functional traits</keyword>
+            <keyword>Samplingevent</keyword>
+            <keyword>bryophytes</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=bryophyta</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Finse</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>7.497</westBoundingCoordinate>
+                    <eastBoundingCoordinate>7.517</eastBoundingCoordinate>
+                    <northBoundingCoordinate>60.605</northBoundingCoordinate>
+                    <southBoundingCoordinate>60.596</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kristel</givenName>
+                <surName>van Zuijlen</surName>
+            </individualName>
+            <organizationName>NMBU</organizationName>
+            <address>
+                <city>Ås</city>
+                <administrativeArea>Ås</administrativeArea>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>kristel.van.zuijlen@nmbu.no</electronicMailAddress>
+            <onlineUrl>http://www.nmbu.no</onlineUrl>
+        </contact>
+
+            <project id="https://www.nmbu.no/en/faculty/mina/research/projects/funcfinse">
+                <title>FuncFinse: Primary producer traits across an altitudinal gradient</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Kristel van</givenName>
+                    <surName>Zuijlen</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>FuncFinse is a four-year project on primary producers and their effect on the tundra. In this project researcher Johan Asplund and his colleagues will examine how the plants on the tundra interact, and how they in turn affect the natural world around them.
+
+– The main objective is to increase understanding of how vascular plants, lichens and mosses together affect ecosystem processes such as decomposition, food webs and thus carbon and nutrient fluxes, says Asplund. 
+A main focus of the project will be the significance of lichens and mosses in these ecosystems. Lichens and mosses are consistently underrepresented in studies of ecosystems and community ecology. This project is planning to fill some of these gaps.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:24Z</dateStamp>
+                <citation>Roos R E, van Zuijlen K, Asplund J, Steinert M (2019). Bryophytes from a study of primary producer traits across an altitudinal gradient in alpine Finse. Version 1.5. Norwegian University of Life Sciences. Sampling event dataset https://doi.org/10.15468/g28uix accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://design.nmbu.no/sites/default/files/design_nmbu_no/vedlegg/nmbu_logo_rgb.gif</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

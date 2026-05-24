@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="16a3533d-90cf-4402-95a4-42437e2f9660"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/qmj4yt</alternateIdentifier>
+        <title>Herbarium Senckenbergianum (GLM) - Bryophyta</title>
+        <creator>
+            <individualName>
+                <surName>Dr. Volker Otte</surName>
+            </individualName>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <surName>Andreas Allspach</surName>
+            </individualName>
+            <address>
+                <deliveryPoint>Senckenberg, Senckenberganlage 25, D-60325 Frankfurt am Main, Germany</deliveryPoint>
+            </address>
+            <electronicMailAddress>info_sesam@senckenberg.de</electronicMailAddress>
+            <role>TECHNICAL_POINT_OF_CONTACT</role>
+        </associatedParty>
+        <language>en</language>
+        <abstract>
+            Herbarium Senckenbergianum Görlitz (GLM) - bryophytes
+
+Plantae
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.senckenberg.de/de/institute/senckenberg-museum-fuer-naturkunde-goerlitz/abt-botanik/sekt-lichenes-und-bryophyta/sammlung/</url>
+            </online>
+        </distribution>
+        <contact>
+            <individualName>
+                <surName>Dr. Volker Otte</surName>
+            </individualName>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:14Z</dateStamp>
+                <citation>Senckenberg. Herbarium Senckenbergianum (GLM) - Bryophyta. Occurrence dataset https://doi.org/10.15468/qmj4yt accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>http://biocase.senckenberg.de/senckenberg_logo.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="43f95959-446f-4f96-84a3-0cba21cbbc7f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/eg8rkx</alternateIdentifier>
+        <shortName>Liste des espèces floristiques observées à l&apos;échelle du site d&apos;étude</shortName>
+        <title>Projet de parc photovoltaïque au sol ENGIE PV PUY DE LA BESSADE-Liste des espèces floristiques observées à l&apos;échelle du site d&apos;étude</title>
+        <creator>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Inventaire National du Patrimoine Naturel</surName>
+            </individualName>
+            <organizationName>PatriNat</organizationName>
+            <positionName>n/a</positionName>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>GBIF France</surName>
+            </individualName>
+            <organizationName>GBIF France</organizationName>
+            <positionName>IT support</positionName>
+            <address>
+                <deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint>
+                <city>Paris</city>
+                <administrativeArea>Île-de-France</administrativeArea>
+                <postalCode>75005</postalCode>
+                <country>FRANCE</country>
+            </address>
+            <phone>+33140798065</phone>
+            <electronicMailAddress>connexion@gbif.fr</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-08-02
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Le jeu de données regroupe l&amp;#39;ensemble des espèces végétales observées à l&amp;#39;échelle du site d&amp;#39;étude.
+        </abstract>
+        <keywordSet>
+            <keyword>Dépôt légal</keyword>
+            <keyword>Depobio</keyword>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventaire pour étude impact</keyword>
+            <keywordThesaurus>Objectifs du jeu de données</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://apt-inpn.gbif.fr/dataset/01F21BDB-360C-4CCE-E063-0514A8C06781</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La boundingBox est calculée à partir des données</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>2.06999</westBoundingCoordinate>
+                    <eastBoundingCoordinate>2.08407</eastBoundingCoordinate>
+                    <northBoundingCoordinate>45.42129</northBoundingCoordinate>
+                    <southBoundingCoordinate>45.41343</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-06-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-05-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <surName>BUREAU D&apos;ETUDE INGENIEURS ECOLOGUES</surName>
+            </individualName>
+            <organizationName>BUREAU D&apos;ETUDE INGENIEURS ECOLOGUES</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>BUREAU D&apos;ETUDE INGENIEURS ECOLOGUES</surName>
+            </individualName>
+            <organizationName>BUREAU D&apos;ETUDE INGENIEURS ECOLOGUES</organizationName>
+            <positionName>n/a</positionName>
+        </contact>
+
+            <project >
+                <title>Projet de parc photovoltaïque au sol ENGIE PV PUY DE LA BESSADE</title>
+                <personnel>
+                    <individualName>
+                    <surName>ENGIE PV PUY DE LA BESSADE</surName>
+                    </individualName>
+                    <organizationName>ENGIE PV PUY DE LA BESSADE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>ENGIE PV PUY DE LA BESSADE</surName>
+                    </individualName>
+                    <organizationName>ENGIE PV PUY DE LA BESSADE</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <surName>GEREA</surName>
+                    </individualName>
+                    <organizationName>GEREA</organizationName>
+                    <positionName>n/a</positionName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Projet de parc photovoltaïque au sol, d&apos;une puissance estimée à 10,2 MWc sur une zone classée &quot;AUph&quot; dans le PLUi en vigueur. Ce projet est situé sur les communes de Darnets et d&apos;Egletons.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:25Z</dateStamp>
+                <citation>Inventaire National du Patrimoine Naturel (2023). Projet de parc photovoltaïque au sol ENGIE PV PUY DE LA BESSADE-Liste des espèces floristiques observées à l&apos;échelle du site d&apos;étude. UAR PatriNat (OFB-MNHN-CNRS-IRD), Paris. Occurrence dataset https://doi.org/10.15468/eg8rkx accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

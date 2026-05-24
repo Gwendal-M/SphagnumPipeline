@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a3c6c702-6050-4e69-b358-8934bdc97994"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/m94g82</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/eca/resource?r=clu</alternateIdentifier>
+        <title>ibbi observations</title>
+        <creator>
+            <individualName>
+                <surName>ibbi</surName>
+            </individualName>
+            <organizationName>Blåst Spel AS</organizationName>
+            <address>
+                <deliveryPoint>Jøsokvegen 129</deliveryPoint>
+                <city>Gurskøy</city>
+                <postalCode>6080</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>are@blaastfilm.no</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>ibbi</surName>
+            </individualName>
+            <organizationName>Blåst Spel AS</organizationName>
+            <address>
+                <deliveryPoint>Jøsokvegen 129</deliveryPoint>
+                <city>Gurskøy</city>
+                <postalCode>6080</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>are@blaastfilm.no</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2024-01-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>
+				Observations of species recorded by the ibbi mobile application.
+			</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://storage.googleapis.com/blaast-spel.appspot.com/gbif/dataset-dwc.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Planet Earth</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <purpose><para>
+				ibbi is a free and fun mobile game for interacting and learning about nature while contributing with biodiversity data for science and nature management
+			</para></purpose>
+        <maintenance>
+            <description>
+                <para>Automatic update of observations done by ibbi application users</para>
+            </description>
+            <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>ibbi</surName>
+            </individualName>
+            <organizationName>Blåst Spel AS</organizationName>
+            <address>
+                <deliveryPoint>Jøsokvegen 129</deliveryPoint>
+                <city>Gurskøy</city>
+                <postalCode>6080</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>are@blaastfilm.no</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Observations recorded by users. Image recognition help from AI.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>For now there are no quality control. There is a plan to add a verification processes in the future.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:41:44Z</dateStamp>
+                <citation>ibbi (2024). ibbi observations. Blåst Spel AS. Occurrence dataset https://doi.org/10.15468/m94g82 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

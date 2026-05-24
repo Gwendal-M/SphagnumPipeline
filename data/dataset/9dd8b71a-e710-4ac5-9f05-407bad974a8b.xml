@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9dd8b71a-e710-4ac5-9f05-407bad974a8b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/7sbzsf</alternateIdentifier>
+        <alternateIdentifier>9dd8b71a-e710-4ac5-9f05-407bad974a8b</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2962</alternateIdentifier>
+        <alternateIdentifier>295f2d45-6e63-3c3f-96fa-0d25990f7704</alternateIdentifier>
+        <title>Survey records for Plantlife Nature Reserves from 1980-2016 in Great Britain</title>
+        <creator>
+            <organizationName>Plantlife International</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Plantlife International</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-01-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset of 14,921 species records gives distribution and abundance data of vascular plants, non-vascular plants, fungi, lichens and moulds at 21 of Plantlife’s Nature Reserves (Munsary Peatlands, Augill Pasture, Moaney and Crawyn’s Meadows, Winskill Stones, Thompson Meadow, Deep Dale, Side Farm Meadows, Caeau Tan y Bwlch, Seaton Meadows, Stockwood Meadows, Cae Blaen-dyffryn, Davies Meadow, Lugg Meadow, Joan’s Hill Farm, Long Herdon and Grange Meadows, Ranscombe Farm, Queendown Warren, Skylark Meadows, Furnace Meadow and Brick Kiln Rough, Ryewater Farm, and Green Moor), it collates information collected at sites by Plantlife staff and contracted botanists over a 36 year period
+See: https://www.plantlife.org.uk/protecting-plants-fungi/nature-reserves/</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr2962</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr2962/dr2962.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1964-12-31
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-09-03
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>Monitoring data is essential to assess the population health and distribution of rare and threatened species, as well as integral to the decision making about management techniques etc. that should be carried out for species and at specific sites. It gives a clear indication of population trends and informs our UK conservation fieldwork.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>Marygrace</givenName>
+                <surName>Rowe</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>marygrace.rowe@plantlife.org.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>This dataset gives details of the species recorded, taxonomic group, site name, OS grid reference of the site, date of record (as detailed as possible), and abundance data. This data was collected across a long time period and multiple sites so a variety of methods were used to collect this data, including; annual monitoring activities, NVC monitoring, quadrat surveys and ad hoc observations. These records were collected by recognised botanists associated with Plantlife and so a high level of accuracy is expected for species identification records. Grid references can be indicative of site location or species population. For further information on this distinction please contact Plantlife.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data should not be regarded as having comprehensive geographic or temporal coverage due to constraints given above. Records are variable in quality. Many records are detailed, with six-figure grid references and full dates, but some are not. Experience is needed in interpretation. Although the dataset is comprised of records from surveys conducted or collated/checked by botanical experts and we are in the most instance confident that species were correctly identified and the geographic position derived properly, Plantlife recognises a margin of human error must be considered when looking at the dataset as a whole. Plantlife cannot therefore guarantee 100% accuracy of information included in the dataset.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:19Z</dateStamp>
+                <citation>Plantlife International (2024). Survey records for Plantlife Nature Reserves from 1980-2016 in Great Britain. Occurrence dataset https://doi.org/10.15468/7sbzsf accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Plantlife_Strapline_DarkGreen+%281%29.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c1d45286-a9a3-4399-acf3-1eccb8c68673"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/87k7q3</alternateIdentifier>
+        <alternateIdentifier>https://depo.msu.ru/ipt/resource?r=rybachy</alternateIdentifier>
+        <alternateIdentifier>c1d45286-a9a3-4399-acf3-1eccb8c68673</alternateIdentifier>
+        <title>Vegetation of the Rybachy Peninsula and the Sredny Peninsula, Murmansk Oblast, Russia</title>
+        <creator>
+            <individualName>
+                <givenName>Ksenia</givenName>
+                <surName>Popova</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Assistent</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>asarum@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8501-0686</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Razumovskaya</surName>
+            </individualName>
+            <organizationName>INEP KSC RAS</organizationName>
+            <positionName>Sci. Res.</positionName>
+            <address>
+                <city>Apatity</city>
+                <administrativeArea>Murmansk Oblast</administrativeArea>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>anna-lynx@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3986-2241</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ksenia</givenName>
+                <surName>Popova</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Assistent</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>asarum@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8501-0686</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexey P.</givenName>
+                <surName>Seregin</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Dr. Sci.</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>botanik.seregin@gmail.com</electronicMailAddress>
+            <onlineUrl>https://istina.msu.ru/profile/Allium/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">34fmTxcAAAAJ</userId>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2021-12-13
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Vegetation of Rybachy Peninsula and Srendny Peninsula, Murmansk Oblast, Russia
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://depo.msu.ru/ipt/archive.do?r=rybachy</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Rybachy Peninsula and Srendny Peninsula, Murmansk Oblast, Russia</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>31</westBoundingCoordinate>
+                    <eastBoundingCoordinate>33.5</eastBoundingCoordinate>
+                    <northBoundingCoordinate>70</northBoundingCoordinate>
+                    <southBoundingCoordinate>69.5</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2008-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ksenia</givenName>
+                <surName>Popova</surName>
+            </individualName>
+            <organizationName>Lomonosov Moscow State University</organizationName>
+            <positionName>Assistent</positionName>
+            <address>
+                <deliveryPoint>Leninskie Gory 1</deliveryPoint>
+                <city>Moscow</city>
+                <postalCode>119234</postalCode>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>asarum@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8501-0686</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Anna</givenName>
+                <surName>Razumovskaya</surName>
+            </individualName>
+            <organizationName>INEP KSC RAS</organizationName>
+            <positionName>Sci. Res.</positionName>
+            <address>
+                <city>Apatity</city>
+                <administrativeArea>Murmansk Oblast</administrativeArea>
+                <country>RUSSIAN_FEDERATION</country>
+            </address>
+            <electronicMailAddress>anna-lynx@mail.ru</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3986-2241</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:25Z</dateStamp>
+                <citation>Popova K, Razumovskaya A (2021). Vegetation of the Rybachy Peninsula and the Sredny Peninsula, Murmansk Oblast, Russia. Version 1.6. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/87k7q3 accessed via GBIF.org on 2026-05-22.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2c913302-43b2-4e8e-813f-2d6bb33f4c7e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/y6cy8j</alternateIdentifier>
+        <alternateIdentifier>2c913302-43b2-4e8e-813f-2d6bb33f4c7e</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr812</alternateIdentifier>
+        <alternateIdentifier>5e291990-6ab4-3a28-b829-c267c83b9728</alternateIdentifier>
+        <title>Phase 2 Woodland Survey of Wales</title>
+        <creator>
+            <organizationName>Natural Resources Wales</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Natural Resources Wales</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>NBN Atlas</organizationName>
+            <address>
+                <deliveryPoint>27 Old Gloucester St, Holborn</deliveryPoint>
+                <city>London</city>
+                <administrativeArea>London</administrativeArea>
+                <postalCode>WC1N 3AX</postalCode>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-15
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This dataset contains detailed Phase 2 survey data from over 800 woodlands of conservation interest in Wales, predominantly Sites of Special Scientific Interest (SSSls) and pSSSI woodlands. Phase 2 woodland surveys have been carried out periodically since the late 1980s but a concentrated period of survey on SSSI and pSSSI woodland occurred from 1995 and 2000.</para>
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://registry.nbnatlas.org/public/show/dr812</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://registry.nbnatlas.org/archives/dr812/dr812.zip</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>All Wales.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-4.986</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-2.651</eastBoundingCoordinate>
+                    <northBoundingCoordinate>53.353</northBoundingCoordinate>
+                    <southBoundingCoordinate>51.376</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1993-03-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2005-05-10
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose><para>The purpose of this data capture was to improve the overall knowledge of Welsh woodland communities, to provide consistent community descriptions across the woodland SSSI series as fundamental site-support information and to assess SSSI status of new sites.</para></purpose>
+        <contact>
+            <individualName>
+                <givenName>NRW</givenName>
+                <surName>Admin</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>opendata@cyfoethnaturiolcymru.gov.uk</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Standard woodland National Vegetation Classification (NVC) survey methodology was used to collect this data. Woodland communities were identified by eye and mapped, supported by sample quadrats and target notes.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data was collected by trained personnel, digitised by contractors, validated by Countryside Council for Wales&apos; (CCW) Knowledge Management Group, corrections made by contractors, validated again by CCW Knowledge Management Group, corrections made in-house in conjunction with Woodland Ecologist.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:26Z</dateStamp>
+                <citation>Natural Resources Wales (2025). Phase 2 Woodland Survey of Wales. Occurrence dataset https://doi.org/10.15468/y6cy8j accessed via GBIF.org on 2026-05-22.</citation>
+                <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NRW.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

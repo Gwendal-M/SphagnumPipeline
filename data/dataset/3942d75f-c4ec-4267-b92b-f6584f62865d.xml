@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3942d75f-c4ec-4267-b92b-f6584f62865d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/4ek3ak</alternateIdentifier>
+        <alternateIdentifier>3942d75f-c4ec-4267-b92b-f6584f62865d</alternateIdentifier>
+        <alternateIdentifier>https://ukraine.ipt.gbif.no/resource?r=staragutaplants1</alternateIdentifier>
+        <title>Plants from the vegetation relevés of the projected Desniansko-Starohutskyi National Nature Park</title>
+        <creator>
+            <individualName>
+                <givenName>Sergiy</givenName>
+                <surName>Panchenko</surName>
+            </individualName>
+            <organizationName>Getmansky National Nature Park</organizationName>
+            <positionName>doctor of philosophy</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+38(097)1923489</phone>
+            <electronicMailAddress>serhiy.m.panchenko@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.researchgate.net/profile/Sergiy-Panchenko</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Sergiy</givenName>
+                <surName>Panchenko</surName>
+            </individualName>
+            <organizationName>Getmansky National Nature Park</organizationName>
+            <positionName>doctor of philosophy</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+38(097)1923489</phone>
+            <electronicMailAddress>serhiy.m.panchenko@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.researchgate.net/profile/Sergiy-Panchenko</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Oleksii</givenName>
+                <surName>Marushchak</surName>
+            </individualName>
+            <organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName>
+            <positionName>junior researcher</positionName>
+            <address>
+                <deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint>
+                <city>Kyiv</city>
+                <postalCode>01030</postalCode>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+380964882670</phone>
+            <electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9380-5593</userId>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2024-07-30
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The database contains data on plants registered in the geobotanical descriptions of the territory of the Ulytsia River valley, which is part of the Desniansko-Starohutskyi National Nature Park (NNP). The materials were partially included in the project of creating the mentioned NNP and were used in the allocation of protected and recreational functional zones. The database contains data on the findings of 426 species of higher vascular plants and bryophytes.
+        </abstract>
+        <keywordSet>
+            <keyword>Sumy region</keyword>
+            <keyword>Desniansko-Starohutskyi National Nature Park</keyword>
+            <keyword>biodiversity</keyword>
+            <keyword>plants</keyword>
+            <keyword>Plantae</keyword>
+            <keyword>Ukraine</keyword>
+            <keyword>flora</keyword>
+            <keyword>Stara Guta</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>herbs</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ukraine.ipt.gbif.no/archive.do?r=staragutaplants1</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The dataset represents records from northern part of Sumy administrative region of Ukraine.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>32.937</westBoundingCoordinate>
+                    <eastBoundingCoordinate>35.706</eastBoundingCoordinate>
+                    <northBoundingCoordinate>52.369</northBoundingCoordinate>
+                    <southBoundingCoordinate>50.106</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1997-06-06
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1999-08-02
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The dataset consists exclusively of registrations of higher vascular plants (Tracheophyta), bryophytes (Bryophyta) and Marchantiophyta., The dataset consists exclusively of registrations of higher vascular plants (Tracheophyta), bryophytes (Bryophyta) and Marchantiophyta.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sphagnopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polytrichopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Pinopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lycopodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hypnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dicranales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Equisetales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polytrichales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sphagnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Jungermanniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Aulacomniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dipsacales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Bryales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Saxifragales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Celastrales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piperales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Liliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Geraniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Alismatales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Acorales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nymphaeales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ceratophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cornales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sergiy</givenName>
+                <surName>Panchenko</surName>
+            </individualName>
+            <organizationName>Getmansky National Nature Park</organizationName>
+            <positionName>doctor of philosophy</positionName>
+            <address>
+                <country>UKRAINE</country>
+            </address>
+            <phone>+38(097)1923489</phone>
+            <electronicMailAddress>serhiy.m.panchenko@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.researchgate.net/profile/Sergiy-Panchenko</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Conducting of field expeditions.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Samplings of plans and mosses.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Species identification.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Georeferencing.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Creating of the dataset according to Darwin Core standards.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset consists of records of plants according to geobotanical descriptions that were made prior to the creation of Desniansko-Starohutskyi National Nature Park in 1997-1999. The studied territory includes the forest massif on the right bank of the Ulytsia River to the bed of the Chern&apos; River within the borders of Ukraine and the floodplains of these rivers between the villages of Ulytsia and Stara Huta (Shostkinsky District, Sums&apos;ka Oblast&apos;, Ukraine).
+The research was carried out under the scientific supervision of Doctor of Science, Prof. T.L. Andrienko (M.H. Kholodny Institute of Botany, NASU). The author expresses his sincere gratitude to the co-authors of the laboratory headed by her: V.A. Onishchenko, O.I. Pryadko, R.I. Arap for comprehensive help and advice and to the NGO &quot;Ukrainian Nature Conservation Group&quot; for financial support.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The research was carried out by route methods using the traditional method of performing full geobotanical descriptions. In some areas of broad-leaved forests, geobotanical descriptions were carried out in the spring during the flowering of spring ephemeroids and during the main vegetation period. The set of geobotanical descriptions generally covers the main types of natural vegetation little changed by human activity, with the exception of aquatic vegetation.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>The author bears full responsibility for the quality of the data provided in the dataset.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-05-22T19:42:05Z</dateStamp>
+                <citation>Panchenko S (2024). Plants from the vegetation relevés of the projected Desniansko-Starohutskyi National Nature Park. Version 1.1. Ukrainian Nature Conservation Group (NGO). Occurrence dataset https://doi.org/10.15468/4ek3ak accessed via GBIF.org on 2026-05-22.</citation>
+                <bibliography>
+                <citation>Панченко С.М. Флора, рослинність та популяції модельних видів Старогутського лісового масиву (Сумська область) // Автореф. канд. біол. наук. –  К., Інститут ботаніки ім. М.Г. Холодного НАН України, 2000. –  20 с.</citation>
+                <citation>Панченко С.М. Рослинність Старогутського лісового масиву // Укр. ботан. журн. 2001. –  Т. 58, №6. –  С.684 – 693.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>
