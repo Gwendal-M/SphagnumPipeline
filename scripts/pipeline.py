@@ -14,7 +14,7 @@ CLEAN   = "data/occurrence_clean.csv"
 OUT_EU  = "outputs/heatmap_europe.html"
 OUT_FR  = "outputs/heatmap_france.html"
 OUT_ST  = "outputs/stats.html"
-SAMPLE  = 100_000
+SAMPLE  = 1_000_000
 # ───────────────────────────────────────────────────────────────────────────────
 
 COLS = [
@@ -36,7 +36,7 @@ def load(path: str, sample: int) -> pd.DataFrame:
         path, sep="\t",
         usecols=lambda c: c in COLS,
         dtype=str, on_bad_lines="skip",
-        chunksize=50_000, low_memory=False
+        chunksize=100_000, low_memory=False
     ):
         chunks.append(chunk)
         loaded += len(chunk)

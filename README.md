@@ -15,12 +15,6 @@ Les sphaignes sont des mousses formant les tourbières, qui sont des écosystèm
 clé dans le stockage du carbone et la régulation hydrologique. Leur distribution
 géographique est un indicateur de la santé des milieux humides.
 
-Les données françaises sont volontairement peu représentées dans cet export (~21
-occurrences sur 100 000) : le genre *Sphagnum* est difficile à identifier sans
-formation botanique spécialisée, ce qui explique la sous-déclaration en France
-comparée aux pays nordiques (Suède : ~80 000 occurrences). Cela est probablement due à
-la rareté de ces habitats en France.
-
 ---
 
 ## Stack technique
@@ -132,12 +126,11 @@ séparés du pipeline de production.
 
 ## Résultats
 
-Sur 100 000 occurrences chargées :
+Sur 939,520 occurrences chargées :
 
-- **95 714** coordonnées GPS valides (95,7 %)
-- **69** espèces identifiées au niveau spécifique
-- **4 286** lignes écartées (coordonnées manquantes ou invalides)
-- Répartition géographique dominée par la Scandinavie (SE, NO, FI)
+- **838 075** coordonnées GPS valides (89,2 %)
+- **95** espèces identifiées au niveau spécifique
+- **101 445** lignes écartées (coordonnées manquantes ou invalides)
 
 ---
 
